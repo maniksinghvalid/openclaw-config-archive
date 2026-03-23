@@ -1,0 +1,37 @@
+name: Daily Backup Sync (Mirror to remote)
+
+on:
+  schedule:
+    - cron: ["0 9 * * *", "0 10 * * *"]  # 2:00 AM PT (Pacific) with DST handling
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  daily-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Git
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Run backup validation
+        run: |
+          chmod +x backups/scripts/validate-backups.sh
+          ./backups/scripts/validate-backups.sh
+
+      - name: Detect changes and push
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "Changes detected. Committing and pushing to main..."
+            git add -A
+            git commit -m "docs/backups: daily sync from GitHub Actions" || true
+            git push origin main
+          else
+            echo "No changes to push."
+          fi
