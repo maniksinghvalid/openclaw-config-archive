@@ -1,0 +1,4 @@
+- What I did today:
+- Decisions:
+- Blockers:
+- Next steps:

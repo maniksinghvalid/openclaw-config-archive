@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "id": "t1",
+      "title": "Initialize backlog and per-session recap logging",
+      "owner": "Jarvis",
+      "created_at": "2026-03-23",
+      "due_at": null,
+      "status": "open",
+      "notes": "Create memory/tasks-backlog.md and memory/YYYY-MM-DD.md recap files; ensure every major action logs a status."
+    }
+  ]
+}

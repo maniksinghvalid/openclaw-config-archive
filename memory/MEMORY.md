@@ -1,0 +1,6 @@
+- Alex Prompter references consolidated (see References.md) — memory/alex-prompter-references-2026-03-23.md
+- Akshay Pachaar references consolidated (see References.md) — memory/akshay-references-2026-03-22.md
+- How to locate references quickly:
+  - References index: memory/References.md
+  - Alex Prompter reference: memory/alex-prompter-references-2026-03-23.md
+- Rationale: These pointers keep topic-specific references deduplicated and easily discoverable without storing full content in MEMORY.md.

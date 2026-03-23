@@ -1,0 +1,6 @@
+# Secrets - NEVER commit these
+.env
+.env.*
+!.env.placeholder
+skills/x-research/.env
+backups/env/*.env
