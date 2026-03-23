@@ -1,0 +1,27 @@
+name: Backup Validation & Secret Scan
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  validate-and-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Run Backup Validation Script
+        run: |
+          chmod +x backups/scripts/validate-backups.sh
+          ./backups/scripts/validate-backups.sh
+
+      - name: Secret Scan (simple grep)
+        run: |
+          echo "Scanning for common secret patterns..."
+          if grep -RInE "ghp_[A-Za-z0-9]{36}|github_pat_|sk-[A-Za-z0-9]+|GIT_PAT=" . --exclude-dir=.git; then
+            echo "Secret patterns detected in repository!"
+            exit 1
+          fi
