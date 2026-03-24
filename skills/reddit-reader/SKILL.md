@@ -1,7 +1,7 @@
 ---
 name: reddit-reader
-description: This skill should be used when the user wants to read Reddit, browse a subreddit, fetch posts from a subreddit, search Reddit for a topic, get Reddit discussions about a subject, or analyze Reddit content for any given topic.
-version: 1.0.0
+description: This skill should be used when the user wants to read Reddit, browse a subreddit, fetch posts from a subreddit, search Reddit for a topic, get Reddit discussions about a subject, analyze Reddit content for any given topic, fetch comments on a Reddit post, or find out what people on Reddit think about anything. Use this skill whenever Reddit is mentioned or the user wants community opinions, discussions, or posts — even if they don't say "Reddit" explicitly.
+version: 1.1.0
 ---
 
 # Reddit Reader
@@ -26,17 +26,22 @@ Identify whether the user wants:
 
 ### Step 2 — Run the fetch script
 
-Use the Bash tool to run `scripts/fetch_reddit.py` with the appropriate arguments:
+Use the Bash tool to run the script from the skill directory:
 
 ```bash
-# Browse a subreddit (hot posts, default 10)
+cd /Users/akshaydhaliwal/Documents/Claude/Projects/OpenClaw/skills/reddit-reader
+
+# Browse a subreddit (default: 25 hot posts)
 python3 scripts/fetch_reddit.py subreddit <name> [--listing hot|new|top|rising] [--limit N] [--time day|week|month|year|all]
 
 # Search Reddit for a topic
-python3 scripts/fetch_reddit.py search "<query>" [--subreddit all] [--sort relevance|top|new|comments] [--limit N] [--time month|week|year|all]
-```
+# Tip: use --subreddit to restrict to a relevant community — global search quality is poor
+python3 scripts/fetch_reddit.py search "<query>" [--subreddit <name>|all] [--sort relevance|top|new|comments] [--limit N] [--time hour|day|week|month|year|all]
 
-Run the script from the skill directory: `cd /Users/akshaydhaliwal/Documents/Claude/Projects/OpenClaw/skills/reddit-reader && python3 scripts/fetch_reddit.py ...`
+# Fetch comments on a specific post
+# Get post_id from the URL: reddit.com/r/<sub>/comments/<post_id>/...
+python3 scripts/fetch_reddit.py comments <subreddit> <post_id>
+```
 
 ### Step 3 — Present results
 
@@ -49,13 +54,15 @@ Format the output clearly:
 ### Step 4 — Offer follow-ups
 
 After presenting results, offer to:
-- Fetch comments for a specific post (provide the post ID)
+- Fetch comments for a specific post — extract the post ID from its URL (e.g. `reddit.com/r/python/comments/abc123/title/` → post_id is `abc123`)
 - Search a different time range or sort order
 - Drill into a specific subreddit found in results
+- Restrict a broad search to a relevant subreddit for better quality results
 
 ## Notes
 
 - The script uses Reddit's public JSON API — no credentials needed
+- **Search quality**: Reddit's public search API returns low-relevance results for global searches. Prefer `--subreddit <name>` to search within a specific community when possible
 - Rate limit: ~10 requests/min; add `time.sleep(1)` between calls if fetching many pages
 - Max 100 results per request; Reddit hard-caps listings at 1000 total
 - If a subreddit is private or banned, the script will report an error clearly
