@@ -1,0 +1,21 @@
+// Add this "cron" block to your ~/.openclaw/openclaw.json
+// This triggers the Reddit Investing Digest every day at 6:00 PM (local time)
+// Cron syntax: minute hour day-of-month month day-of-week
+
+{
+  // ... your existing config above this line ...
+
+  "cron": {
+    "jobs": [
+      {
+        "name": "reddit-investing-digest",
+        "schedule": "0 18 * * *",      // Every day at 6:00 PM
+        "message": "Run the Reddit Investing Digest skill: fetch top posts from r/wallstreetbets, r/options, r/investing, and r/stocks for the past 24 hours. Analyze for trending posts, most-mentioned tickers, market sentiment, notable options plays, and notable comments. Format the full digest report and send it via Telegram.",
+        "session": "main",              // Uses your main OpenClaw session
+        "thinking": "high"              // Recommended for better analysis quality
+      }
+    ]
+  }
+
+  // ... your existing config below this line ...
+}
