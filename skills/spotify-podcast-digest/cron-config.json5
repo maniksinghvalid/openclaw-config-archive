@@ -1,0 +1,22 @@
+// Add this "cron" block to your ~/.openclaw/openclaw.json
+// This triggers a podcast digest every weekday morning at 8:00 AM
+// Update the podcast name in "message" to your preferred show.
+// Cron syntax: minute hour day-of-month month day-of-week
+
+{
+  // ... your existing config above this line ...
+
+  "cron": {
+    "jobs": [
+      {
+        "name": "podcast-digest",
+        "schedule": "0 8 * * 1-5",           // Weekdays at 8:00 AM
+        "message": "Summarize the latest episode of [YOUR PODCAST NAME HERE] and send the digest to Telegram.",
+        "session": "main",                    // Uses your main OpenClaw session
+        "thinking": "high"                    // Recommended for better summary quality
+      }
+    ]
+  }
+
+  // ... your existing config below this line ...
+}
