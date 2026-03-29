@@ -1,0 +1,34 @@
+{
+  "owner": "Manik",
+  "timezone": "PST",
+  "risk_appetite": "medium",
+  "options_risk_level": "medium",
+  "last_updated": "2026-02-14",
+  "holdings": [
+    {"symbol": "SPCE", "quantity": 50, "buy_price": 16.38, "currency": "USD", "sector": "Industrials", "industry": "Aerospace & Defense", "type": "speculative"},
+    {"symbol": "CLOV", "quantity": 100, "buy_price": 15.44, "currency": "USD", "sector": "Healthcare", "industry": "Healthcare Plans", "type": "speculative"},
+    {"symbol": "MARA", "quantity": 50, "buy_price": 29.70, "currency": "USD", "sector": "Technology", "industry": "Capital Markets", "type": "speculative"},
+    {"symbol": "NIO", "quantity": 200, "buy_price": 14.61, "currency": "USD", "sector": "Consumer Cyclical", "industry": "Auto Manufacturers", "type": "speculative"},
+    {"symbol": "O", "quantity": 30, "buy_price": 77.87, "currency": "USD", "sector": "Real Estate", "industry": "REIT - Retail", "type": "dividend"},
+    {"symbol": "IBIT", "quantity": 38, "buy_price": 82.11, "currency": "USD", "sector": "Crypto", "industry": "Bitcoin ETF", "type": "crypto"},
+    {"symbol": "VDY", "quantity": 20, "buy_price": 58.24, "currency": "CAD", "sector": "Equity", "industry": "Canadian Dividend ETF", "type": "etf"},
+    {"symbol": "DIVO", "quantity": 51, "buy_price": 41.02, "currency": "USD", "sector": "Equity", "industry": "US Dividend ETF", "type": "etf"},
+    {"symbol": "XEQT.TO", "quantity": 50, "buy_price": 37.10, "currency": "CAD", "sector": "Equity", "industry": "Global Equity ETF", "type": "etf"},
+    {"symbol": "IAU", "quantity": 15, "buy_price": 78.10, "currency": "USD", "sector": "Commodities", "industry": "Gold ETF", "type": "commodity"},
+    {"symbol": "SCHF", "quantity": 30, "buy_price": 23.66, "currency": "USD", "sector": "Equity", "industry": "International ETF", "type": "etf"},
+    {"symbol": "ZAG.TO", "quantity": 40, "buy_price": 14.01, "currency": "CAD", "sector": "Fixed Income", "industry": "Bond ETF", "type": "bond"}
+  ],
+  "target_allocation": {
+    "speculative": 5,
+    "crypto": 8,
+    "dividend": 30,
+    "core_equity": 35,
+    "commodities": 12,
+    "bonds": 10
+  },
+  "watchlist": ["BTC-USD", "SPY", "QQQ", "VIX"],
+  "upcoming_events": [
+    {"symbol": "CLOV", "event": "Earnings", "date": "2026-02-26"},
+    {"symbol": "NIO", "event": "Q4 Profit Expected", "date": "2026-Q4"}
+  ]
+}
