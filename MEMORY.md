@@ -13,8 +13,6 @@
 - 2026-03-22: Sample heartbeat run revealed MEMORY.md and daily memory files were missing. Addressed by creating MEMORY.md and updating qmd index. Need to establish daily journaling.
 
 ## Active Projects
-- Daily Portfolio Morning Brief (cron job, model: flash, data source: migrating to Yahoo Finance)
-- AI-Research group on Telegram (stay on-topic, only discuss AI research content)
 
 ## Preferences & Rules
 - Manik prefers concise, actionable briefs — no fluff
