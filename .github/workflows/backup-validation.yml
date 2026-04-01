@@ -21,7 +21,7 @@ jobs:
       - name: Secret Scan (simple grep)
         run: |
           echo "Scanning for common secret patterns..."
-          if grep -RInE "ghp_[A-Za-z0-9]{36}|github_pat_|sk-[A-Za-z0-9]+|GIT_PAT=" . --exclude-dir=.git; then
+          if grep -RInE "ghp_[A-Za-z0-9]{36}|github_pat_|sk-[A-Za-z0-9]+|GIT_PAT=" . --exclude-dir=.git --exclude=backup-validation.yml --exclude=pre-commit; then
             echo "Secret patterns detected in repository!"
             exit 1
           fi
