@@ -23,7 +23,7 @@ Given a podcast name or Spotify URL, find its RSS feed, extract the target episo
 notes, generate a digest of key insights and views expressed, and deliver it via Telegram.
 
 The skill directory is at:
-`/Users/akshaydhaliwal/Documents/Claude/Projects/OpenClaw/skills/spotify-podcast-digest/`
+`/home/claw/.openclaw/workspace/skills/spotify-podcast-digest/`
 
 All data fetching is handled by `scripts/fetch_podcast.py` (Python stdlib only, no installs needed).
 Run all script commands from the skill directory.
@@ -55,7 +55,7 @@ confirm the best match with the user after searching.
 **If input is a Spotify URL:**
 
 ```bash
-cd /Users/akshaydhaliwal/Documents/Claude/Projects/OpenClaw/skills/spotify-podcast-digest
+cd /home/claw/.openclaw/workspace/skills/spotify-podcast-digest
 python3 scripts/fetch_podcast.py from-spotify "<spotify_url>"
 ```
 
