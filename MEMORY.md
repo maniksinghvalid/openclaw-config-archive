@@ -6,6 +6,7 @@
 - **Born:** 2026-02-14 (Valentine's Day, ~2am UTC)
 
 ## Lessons Learned
+- 2026-04-02: Daily Log Health & Self-Remediation Check ran successfully. No critical recurring error patterns detected (Log health is green).
 - 2026-03-20: MEMORY.md and daily memory files were never created — memory_search returned nothing. Fix: create MEMORY.md and start daily journaling.
 - 2026-03-20: Daily Portfolio Morning Brief cron job failed repeatedly (Mar 6–19) due to openrouter/auto model returning errors before producing output. Fix: pinned cron to flash (Gemini) model.
 - 2026-03-20: Brave Search API free tier hits rate limits when fetching 12+ stock prices sequentially. Fix: switching to Yahoo Finance for price data.

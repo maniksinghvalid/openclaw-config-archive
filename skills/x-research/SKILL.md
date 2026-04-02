@@ -16,7 +16,7 @@ description: >
 
 General-purpose agentic research over X/Twitter. Decompose any research question into targeted searches, iteratively refine, follow threads, deep-dive linked content, and synthesize into a sourced briefing.
 
-For X API details (endpoints, operators, response format): read `references/x-api.md`.
+For X API details (endpoints, operators, response format): see the [X API v2 docs](https://developer.x.com/en/docs/x-api).
 
 ## CLI Tool
 
@@ -168,12 +168,8 @@ skills/x-research/
 ├── SKILL.md           (this file)
 ├── x-search.ts        (CLI entry point)
 ├── lib/
-│   ├── api.ts         (X API wrapper: search, thread, profile, tweet)
-│   ├── cache.ts       (file-based cache, 15min TTL)
-│   └── format.ts      (Telegram + markdown formatters)
+│   └── api.ts         (X API wrapper: search, thread, profile, tweet)
 ├── data/
-│   ├── watchlist.json  (accounts to monitor)
-│   └── cache/          (auto-managed)
-└── references/
-    └── x-api.md        (X API endpoint reference)
+│   └── cache/          (auto-managed request cache)
+└── references/        (empty — X API docs not yet added)
 ```

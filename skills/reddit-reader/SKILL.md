@@ -29,7 +29,7 @@ Identify whether the user wants:
 Use the Bash tool to run the script from the skill directory:
 
 ```bash
-cd /Users/akshaydhaliwal/Documents/Claude/Projects/OpenClaw/skills/reddit-reader
+cd /home/claw/.openclaw/workspace/skills/reddit-reader
 
 # Browse a subreddit (default: 25 hot posts)
 python3 scripts/fetch_reddit.py subreddit <name> [--listing hot|new|top|rising] [--limit N] [--time day|week|month|year|all]
