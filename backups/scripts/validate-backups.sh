@@ -12,4 +12,5 @@ if [ $MISSING -eq 0 ]; then
     echo "✅ Backup validation passed: Core files present."
 else
     echo "⚠️  Backup validation finished with warnings."
+    exit 1
 fi
