@@ -139,6 +139,10 @@ async function apiGet(url: string, retries: number = 3): Promise<RawResponse> {
 
     if (!res.ok) {
       const body = await res.text();
+      // Don't retry on billing/auth errors — they won't resolve with time
+      if (res.status === 402 || res.status === 401 || res.status === 403) {
+        throw new Error(`X API ${res.status} (non-retryable): ${body.slice(0, 200)}`);
+      }
       if (attempt < retries) {
         console.error(`API error ${res.status} (attempt ${attempt}/${retries}). Retrying in 60s...`);
         await sleep(60_000);
