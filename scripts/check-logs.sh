@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-LOG_FILE="/home/claw/.openclaw/logs/cache-trace.jsonl"
+LOG_FILE="/home/claw/.openclaw/agents/main/sessions/4021db13-698c-4602-8864-8d6caf843445.jsonl"
 SUMMARY_FILE="/home/claw/.openclaw/workspace/memory/logs/analysis-$(date +%Y-%m-%d).md"
 
 mkdir -p /home/claw/.openclaw/workspace/memory/logs
