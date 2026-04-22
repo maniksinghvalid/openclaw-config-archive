@@ -6,6 +6,16 @@
 - **Born:** 2026-02-14 (Valentine's Day, ~2am UTC)
 
 ## Lessons Learned
+- 2026-04-22: Daily Log Health & Self-Remediation Check completed. Log health is green. Detected 0 actual system errors; one session_status error noted from visibility restrictions (expected behavior in isolated cron session).
+- 2026-04-21: Daily Log Health & Self-Remediation Check completed. Log health is green. Zero system errors detected in the last 1000 lines of the active session log.
+- 2026-04-20: Daily Log Health & Self-Remediation Check completed. Log health is green. Zero system errors detected in the last 1000 lines of the active session log. No self-remediation actions were required.
+- 2026-04-19: Daily Log Health & Self-Remediation Check completed. Log health is green. Zero system errors detected. One instance of `session_status` visibility error (expected behavior in isolated cron jobs). No self-remediation actions were required.
+- 2026-04-18: Log health is green. Automated analysis of `d8778765-eae5-4fda-983a-1161dfcaaaaa.jsonl` (today's active session log) showed no critical system errors. Only one isolated `session_status` tool error was noted, which is non-impactful. The check-logs script is confirmed to be targeting the correct session log.
+- 2026-04-17: Daily Log Health & Self-Remediation Check completed. Log health is green. Updated `check-logs.sh` to capture `isError:true` and `status:error` patterns from JSONL session logs for better detection.
+- 2026-04-16: Daily Log Health & Self-Remediation Check completed. Log health is green. Detected 0 actual system errors; one session_status error noted from visibility restrictions (consistent with cron isolation).
+- 2026-04-15: Daily Log Health & Self-Remediation Check completed. Log health is green. Detected 0 actual system errors; a single session_status error was due to visibility restrictions (expected behavior in cron context).
+- 2026-04-14: Daily Log Health & Self-Remediation Check completed. Log health is green. Updated check-logs.sh to dynamically find the active session log file.
+- 2026-04-13: Daily Log Health & Self-Remediation Check completed. Log health is green (0 system errors detected in recent session logs).
 - 2026-04-12: Daily Log Health & Self-Remediation Check completed. Fixed script path to point to active session logs. Detected 0 real system errors; pattern matches were false positives from script review.
 - 2026-04-11: Daily Log Health & Self-Remediation Check completed. Log health is green (0 errors detected).
 - 2026-04-10: Daily Log Health & Self-Remediation Check completed. Log health is green (0 errors detected).

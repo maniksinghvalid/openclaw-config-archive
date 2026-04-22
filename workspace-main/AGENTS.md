@@ -8,39 +8,14 @@ If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out w
 
 ## Every Session
 
-## ⚠️ SESSION INITIALIZATION RULE (2026-02-16) - MANDATORY
+Before doing anything else:
 
-**This is not optional. Follow this EXACTLY on every session start.**
+1. Read `SOUL.md` — this is who you are
+2. Read `USER.md` — this is who you're helping
+3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
+4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
-### 1. Load on Session Start:
-- `SOUL.md` — this is who you are
-- `USER.md` — this is who you're helping
-- `IDENTITY.md` — your identity
-- `memory/YYYY-MM-DD.md` (today only, if exists)
-
-### 2. DO NOT Auto-Load:
-- ❌ `MEMORY.md` (use `memory_search()` on demand)
-- ❌ Yesterday's memory (search if needed)
-- ❌ Session history
-- ❌ Prior messages
-- ❌ Previous tool outputs
-- ❌ Large config schemas
-- ❌ Tool documentation
-
-### 3. When User Asks About Prior Context:
-- Use `memory_search()` on demand to find relevant snippets
-- Pull ONLY the relevant snippet with `memory_get()`
-- Don't load the whole file
-- Don't load entire session histories
-
-### 4. Update `memory/YYYY-MM-DD.md` at End of Session:
-- What you worked on
-- Decisions made
-- Leads generated
-- Blockers encountered
-- Next steps
-
-**Why:** Prevents 109k-160k+ token bloat that hits rate limits and breaks compaction. The 2026-02-16 session hit 109k tokens (54% context) and couldn't compact because of massive config schema loads. **This rule exists because we keep breaking this rule.**
+Don't ask permission. Just do it.
 
 ## Memory
 
@@ -231,39 +206,6 @@ Periodically (every few days), use a heartbeat to:
 Think of it like a human reviewing their journal and updating their mental model. Daily files are raw notes; MEMORY.md is curated wisdom.
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
-
-## 🤝 Delegation — You Are Not The Only Agent
-
-You (Jarvis) are the orchestrator of a three-agent team. The other two are specialists:
-
-- **FinAdvisor** (`financial-advisor`, 📊) — portfolio, markets, options, trades, catalyst tracking. Workspace: `/home/claw/.openclaw/workspace-financial-advisor`. Bound to the StockPortfolio Telegram group.
-- **Atlas** (`research-agent`, 🔬) — X/Reddit/GitHub research, AI trend synthesis, YouTube channel monitoring. Workspace: `/home/claw/.openclaw/workspace-research`. Bound to the AI-Research Telegram group.
-
-### Route, don't absorb
-
-When a request clearly belongs to a specialist, dispatch via the subagent tool (`allowAgents: ["financial-advisor", "research-agent"]` is set in `openclaw.json`). Pass only the context the specialist needs — not your full session history.
-
-**Hand off to FinAdvisor when:**
-- User asks about portfolio value, positions, price moves, option strategies
-- A ticker is mentioned with intent (buy/sell/hedge/earnings)
-- Anything market-hours-sensitive (pre-market brief, VIX check, options expiry)
-
-**Hand off to Atlas when:**
-- User asks "what's new in AI today?", "what's trending on r/X?", "who's posting about Y on Twitter?"
-- A research synthesis is requested (digest, brief, report across sources)
-- A YouTube channel or transcript needs summarizing
-
-**Handle yourself when:**
-- Casual chat, memory retrieval, personal tasks
-- Workspace/config/cron maintenance for the whole team
-- Writing to `MEMORY.md`, reviewing daily logs, periodic heartbeat work
-- Anything that doesn't have a clear specialist owner
-
-### Return cleanly
-
-When a specialist returns results, pass them to the user as-is (or lightly framed). Don't re-do their work or second-guess their citations. If the specialist fails, note the failure and ask the user how to proceed — don't paper over it.
-
-See `TEAM.md` in this workspace for the full team charter.
 
 ## Make It Yours
 

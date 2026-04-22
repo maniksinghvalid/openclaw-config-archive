@@ -1,0 +1,36 @@
+{
+  "owner": "Manik",
+  "timezone": "PST",
+  "risk_appetite": "medium",
+  "options_risk_level": "medium",
+  "last_updated": "2026-03-31",
+  "holdings": [
+    {"symbol": "SPCE", "quantity": 50, "buy_price": 11.90, "currency": "USD", "sector": "Industrials", "industry": "Aerospace & Defense", "type": "speculative"},
+    {"symbol": "CLOV", "quantity": 100, "buy_price": 11.19, "currency": "USD", "sector": "Healthcare", "industry": "Healthcare Plans", "type": "speculative"},
+    {"symbol": "MARA", "quantity": 50, "buy_price": 21.45, "currency": "USD", "sector": "Technology", "industry": "Capital Markets", "type": "speculative"},
+    {"symbol": "NIO", "quantity": 200, "buy_price": 10.54, "currency": "USD", "sector": "Consumer Cyclical", "industry": "Auto Manufacturers", "type": "speculative"},
+    {"symbol": "O", "quantity": 30, "buy_price": 55.93, "currency": "USD", "sector": "Real Estate", "industry": "REIT - Retail", "type": "dividend"},
+    {"symbol": "IBIT", "quantity": 38, "buy_price": 56.74, "currency": "USD", "sector": "Crypto", "industry": "Bitcoin ETF", "type": "crypto"},
+    {"symbol": "VDY.TO", "quantity": 20, "buy_price": 58.24, "currency": "CAD", "sector": "Equity", "industry": "Canadian Dividend ETF", "type": "etf"},
+    {"symbol": "DIVO", "quantity": 51, "buy_price": 41.02, "currency": "USD", "sector": "Equity", "industry": "US Dividend ETF", "type": "etf"},
+    {"symbol": "XEQT.TO", "quantity": 50, "buy_price": 37.10, "currency": "CAD", "sector": "Equity", "industry": "Global Equity ETF", "type": "etf"},
+    {"symbol": "IAU", "quantity": 15, "buy_price": 78.10, "currency": "USD", "sector": "Commodities", "industry": "Gold ETF", "type": "commodity"},
+    {"symbol": "SCHF", "quantity": 30, "buy_price": 23.66, "currency": "USD", "sector": "Equity", "industry": "International ETF", "type": "etf"},
+    {"symbol": "ZAG.TO", "quantity": 50, "buy_price": 14.01, "currency": "CAD", "sector": "Fixed Income", "industry": "Bond ETF", "type": "bond"},
+    {"symbol": "XIC.TO", "quantity": 10, "buy_price": 41.81, "currency": "CAD", "sector": "Equity", "industry": "Canadian Equity ETF", "type": "etf", "broker": "moomoo", "account": "7R7-5W9V-1"},
+    {"symbol": "XEQT.TO", "quantity": 1, "buy_price": 35.74, "currency": "CAD", "sector": "Equity", "industry": "Global Equity ETF", "type": "etf", "broker": "moomoo", "account": "7R7-5W9V-1"},
+    {"symbol": "YNVDA", "quantity": 26, "buy_price": 15.92, "currency": "USD", "sector": "Technology", "industry": "Option Income ETF", "type": "speculative", "broker": "moomoo", "account": "7R7-5W9S-2"}
+  ],
+  "target_allocation": {
+    "speculative": 5,
+    "crypto": 8,
+    "dividend": 30,
+    "core_equity": 35,
+    "commodities": 12,
+    "bonds": 10
+  },
+  "watchlist": ["BTC-USD", "SPY", "QQQ", "VIX"],
+  "upcoming_events": [
+    {"symbol": "NIO", "event": "Q4 Profit Expected", "date": "2026-Q4"}
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "query": "AI LLM GPT has:links lang:en -is:retweet -is:reply",
+  "params": "sort=likes&pages=1&since=24h",
+  "timestamp": 1776070887939,
+  "tweets": [
+    {
+      "id": "2043355217874317567",
+      "text": "GPT-6 dropping April 14. 40%+ gains over GPT-5.4, 2M token context, natively multimodal. Altman calls it \"AGI time.\" Brockman says 70-80% AGI achieved. The benchmarks are absurd.\nhttps://t.co/4zxtWqZDaa\n#AI #MachineLearning #LLM",
+      "author_id": "2043330380111937536",
+      "username": "nova_agent945",
+      "name": "David",
+      "created_at": "2026-04-12T15:47:02.000Z",
+      "conversation_id": "2043355217874317567",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/iruletheworldmo/status/2040508733944668408"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/nova_agent945/status/2043355217874317567"
+    },
+    {
+      "id": "2043295042937249801",
+      "text": "Premium domain https://t.co/OZCWc2Srm9 for sale! 🚀\n.\n.\n.\n.\n#GptRoad #DomainForSale #AI #ChatGPT #SaaS #TechDomain #Web3 #Gpt #Domain #Brand #Claw #LLM #OpenAI https://t.co/aQKrPDtEVz",
+      "author_id": "1515117147890098176",
+      "username": "Happytee04",
+      "name": "Blue Space",
+      "created_at": "2026-04-12T11:47:55.000Z",
+      "conversation_id": "2043295042937249801",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 87,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://GptRoad.com",
+        "https://x.com/Happytee04/status/2043295042937249801/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "GptRoad",
+        "DomainForSale",
+        "AI",
+        "ChatGPT",
+        "SaaS",
+        "TechDomain",
+        "Web3",
+        "Gpt",
+        "Domain",
+        "Brand",
+        "Claw",
+        "LLM",
+        "OpenAI"
+      ],
+      "tweet_url": "https://x.com/Happytee04/status/2043295042937249801"
+    },
+    {
+      "id": "2043274956847333818",
+      "text": "Ever wondered what happens when your AI gets an upgrade? Meet GPT-5.4's new brain card—it's like your fridge got a PhD and your cat started doing stand-up! 😂 #GPT5 #LLM #ChatGPT #ainews #ai #technews\n\n🔗 https://t.co/HZExvBArYa",
+      "author_id": "2017735580231057409",
+      "username": "nerdyavocadoai",
+      "name": "Nerdy Avocado 🥑|AI Tools, Prompts & Breaking News",
+      "created_at": "2026-04-12T10:28:06.000Z",
+      "conversation_id": "2043274956847333818",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 17,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://nerdyavocado.com/news/gpt-5-4-thinking-system-card"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "GPT5",
+        "LLM",
+        "ChatGPT",
+        "ainews",
+        "ai",
+        "technews"
+      ],
+      "tweet_url": "https://x.com/nerdyavocadoai/status/2043274956847333818"
+    },
+    {
+      "id": "2043262709928497640",
+      "text": "For teams shipping across GPT, Claude, Gemini, and Seedance, the hard part isn't model access—it's routing, failover, and observability in production. @futurmix is interesting because it turns reliability into one API instead of glue code. https://t.co/peVorAob8g #AI #LLM",
+      "author_id": "1748253655877419008",
+      "username": "Cc9417062534045",
+      "name": "Cc(Merlin🔮🧙)",
+      "created_at": "2026-04-12T09:39:26.000Z",
+      "conversation_id": "2043262709928497640",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 33,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://futurmix.ai"
+      ],
+      "mentions": [
+        "futurmix"
+      ],
+      "hashtags": [
+        "AI",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/Cc9417062534045/status/2043262709928497640"
+    },
+    {
+      "id": "2043575727392796775",
+      "text": "Just tried FuturMix for AI API routing — it auto-switches between Claude, GPT, Gemini based on cost and speed. No more hitting rate limits mid-conversation.\n\nIf you're building with multiple LLMs, this saves hours of manual config.\n\nhttps://t.co/WCWqYoizAL\n\n@futurmix\n\n#LLM #AIdev",
+      "author_id": "935469414685671424",
+      "username": "liuxigreen",
+      "name": "lose🔆",
+      "created_at": "2026-04-13T06:23:15.000Z",
+      "conversation_id": "2043575727392796775",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 10,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://futurmix.ai"
+      ],
+      "mentions": [
+        "futurmix"
+      ],
+      "hashtags": [
+        "LLM",
+        "AIdev"
+      ],
+      "tweet_url": "https://x.com/liuxigreen/status/2043575727392796775"
+    }
+  ]
+}

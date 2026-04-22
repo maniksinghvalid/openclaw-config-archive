@@ -1,0 +1,44 @@
+{
+  "generated": "2026-04-19",
+  "lookahead_days": 90,
+  "source": "yfinance",
+  "note": "Auto-updated weekly. Agent-supplemented events may also be appended during daily reports.",
+  "events": [
+    {
+      "symbol": "O",
+      "event": "Ex-Dividend",
+      "date": "2026-04-30",
+      "source": "yfinance"
+    },
+    {
+      "symbol": "CLOV",
+      "event": "Earnings",
+      "date": "2026-05-06",
+      "source": "yfinance"
+    },
+    {
+      "symbol": "O",
+      "event": "Earnings",
+      "date": "2026-05-06",
+      "source": "yfinance"
+    },
+    {
+      "symbol": "MARA",
+      "event": "Earnings",
+      "date": "2026-05-07",
+      "source": "yfinance"
+    },
+    {
+      "symbol": "SPCE",
+      "event": "Earnings",
+      "date": "2026-05-14",
+      "source": "yfinance"
+    },
+    {
+      "symbol": "NIO",
+      "event": "Earnings",
+      "date": "2026-06-02",
+      "source": "yfinance"
+    }
+  ]
+}

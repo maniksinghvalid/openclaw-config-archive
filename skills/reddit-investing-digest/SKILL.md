@@ -143,27 +143,35 @@ Overall: {🟢 Bullish / 🔴 Bearish / 🟡 Mixed} — {1-sentence overall summ
 🎰 *NOTABLE OPTIONS PLAYS*
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• {Contract / play description} — r/{subreddit}
-• {Contract / play description} — r/{subreddit}
+• {Contract / play description} — [r/{subreddit}]({url})
+• {Contract / play description} — [r/{subreddit}]({url})
 (up to 5 plays, or "No specific options plays identified today." if none)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 💬 *NOTABLE COMMENTS*
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• *Post:* {post title}
+• *Post:* [{post title}]({url})
   💬 {Summary of top comment}
 
-• *Post:* {post title}
+• *Post:* [{post title}]({url})
   💬 {Summary of top comment}
 
-• *Post:* {post title}
+• *Post:* [{post title}]({url})
   💬 {Summary of top comment}
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 ⚠️ _This digest is for informational purposes only. Not financial advice. Always do your own research (DYOR)._
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+**CITATION RULES (mandatory — do not skip or reformat):**
+- Every post in TOP TRENDING POSTS must use `[{post title}]({url})` with the exact Reddit URL from the `permalink` field (prefixed with `https://reddit.com`). Never write a bare title.
+- Every NOTABLE COMMENT must use `[{post title}]({url})` for the Post line — same URL rule.
+- Every NOTABLE OPTIONS PLAY must link to the source post using `[r/{subreddit}]({url})`.
+- Upvote counts and comment counts must come from actual API data — do not estimate or omit.
+- Do not deviate from the section structure above. Do not replace it with freeform analysis or narrative prose. The format is fixed.
+- If a section has no qualifying content, write the section header and "Nothing notable today." — do not skip the section.
 
 ---
 
