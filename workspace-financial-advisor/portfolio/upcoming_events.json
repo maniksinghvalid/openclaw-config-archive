@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-19",
+  "generated": "2026-04-26",
   "lookahead_days": 90,
   "source": "yfinance",
   "note": "Auto-updated weekly. Agent-supplemented events may also be appended during daily reports.",
@@ -32,6 +32,12 @@
       "symbol": "SPCE",
       "event": "Earnings",
       "date": "2026-05-14",
+      "source": "yfinance"
+    },
+    {
+      "symbol": "O",
+      "event": "Dividend Pay Date",
+      "date": "2026-05-15",
       "source": "yfinance"
     },
     {
