@@ -1,0 +1,2791 @@
+{
+  "query": "(AI OR LLM) has:links lang:en -is:retweet -is:reply",
+  "params": "sort=likes&pages=1&since=24h",
+  "timestamp": 1777570985491,
+  "tweets": [
+    {
+      "id": "2049605141741887999",
+      "text": "Hiring: Agentic Systems Intern / Graduate (AI + LLM Agents) 🤖\n\nWork on LLM agents, prompt pipelines, RAG workflows, and real-world AI systems in Web3 environments.\n\nExplore the role 👇\n https://t.co/KYTmF0p5wZ\n\n#AIInternship #LLM #AgenticAI #Web3Jobs #GraduateJobs",
+      "author_id": "2230950420",
+      "username": "shubhadapande39",
+      "name": "artofblockchain.club",
+      "created_at": "2026-04-29T21:42:00.000Z",
+      "conversation_id": "2049605141741887999",
+      "metrics": {
+        "likes": 3,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 38,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://artofblockchain.club/job/agentic-systems-intern-graduate-ai-llm-agents?utm_source=twitter&utm_medium=social&utm_campaign=agentic_intern_hiring"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AIInternship",
+        "LLM",
+        "AgenticAI",
+        "Web3Jobs",
+        "GraduateJobs"
+      ],
+      "tweet_url": "https://x.com/shubhadapande39/status/2049605141741887999"
+    },
+    {
+      "id": "2049821007301804293",
+      "text": "🔥 GitHub Trending:\n• https://t.co/jIxeAHzOlC  (Fast LLM fine-tuning)\n• https://t.co/Z7Kfl1qvuV (Pure C/C++ LLM)\n• https://t.co/w6gfoz0FwX  (Free AI APIs)\nMust bookmark! 🧵 #GitHub #AI",
+      "author_id": "2048407487645454336",
+      "username": "technews719133",
+      "name": "technews",
+      "created_at": "2026-04-30T11:59:46.000Z",
+      "conversation_id": "2049821007301804293",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://github.com/unsloth",
+        "https://github.com/llama.cpp",
+        "https://github.com/AI"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "GitHub",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/technews719133/status/2049821007301804293"
+    },
+    {
+      "id": "2049603513932713989",
+      "text": "Your AI is hallucinating right now.\nYou just can’t see it.TryGrounded AI catches it — 10 layers, GR score in 60 seconds, PDF report.\nGPT-4o, Claude, Gemini, any LLM. Data never stored.\nRegister your interest: https://t.co/vrXfHcEMwr\n#AI #LLM #AITesting #Hallucination #QA https://t.co/r5ldaiTsAS",
+      "author_id": "1112509553348771842",
+      "username": "Niranjan222310",
+      "name": "Niranjan Limbachiya",
+      "created_at": "2026-04-29T21:35:32.000Z",
+      "conversation_id": "2049603513932713989",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 43,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://TryGrounded.ai",
+        "https://x.com/Niranjan222310/status/2049603513932713989/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "AITesting",
+        "Hallucination",
+        "QA"
+      ],
+      "tweet_url": "https://x.com/Niranjan222310/status/2049603513932713989"
+    },
+    {
+      "id": "2049761507576283420",
+      "text": "🔥 🤖 LLM NEWS\n\n📌 All Minilm L6 V2\n📝 text/chat AI model · 226971k+ downloads · 4736 likes on HuggingFace\n\nyou need to try this 👇\nhttps://t.co/1BBYYs92z7\n\n#HuggingFace #LLM #AI",
+      "author_id": "2046496750538571777",
+      "username": "AITEK_News",
+      "name": "AITEX",
+      "created_at": "2026-04-30T08:03:20.000Z",
+      "conversation_id": "2049761507576283420",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "HuggingFace",
+        "LLM",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/AITEK_News/status/2049761507576283420"
+    },
+    {
+      "id": "2049882212779086309",
+      "text": "Can your AI handle your business files? 📄🤖\n\nPDFs, Excel, JSON—it matters more than you think.\nPick the right LLM for real results 👇\nhttps://t.co/CJxxgYVAv0\n\n#AI #LLM #Data #Tech #BlueberryConsultants https://t.co/fPDKrMPtfh",
+      "author_id": "472005525",
+      "username": "BBConsultant",
+      "name": "Blueberry Consultants",
+      "created_at": "2026-04-30T16:02:59.000Z",
+      "conversation_id": "2049882212779086309",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 2,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.bbconsult.co.uk/ai/blog/llm-file-format/",
+        "https://x.com/BBConsultant/status/2049882212779086309/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "Data",
+        "Tech",
+        "BlueberryConsultants"
+      ],
+      "tweet_url": "https://x.com/BBConsultant/status/2049882212779086309"
+    },
+    {
+      "id": "2049635843955159546",
+      "text": "Hiring: Principal Software Engineer (AI + LLM Systems) 🧠\n\nLead LLM architecture, agentic systems, and scalable AI infra for real-world applications. Strong focus on design, performance, and production systems.\n\nExplore the role 👇\n https://t.co/QzzYdIJFof\n\n#AIJobs #LLM",
+      "author_id": "2230950420",
+      "username": "shubhadapande39",
+      "name": "artofblockchain.club",
+      "created_at": "2026-04-29T23:44:00.000Z",
+      "conversation_id": "2049635843955159546",
+      "metrics": {
+        "likes": 1,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 25,
+        "bookmarks": 1
+      },
+      "urls": [
+        "https://artofblockchain.club/job/principal-software-engineer-ai-llm-systems?utm_source=twitter&utm_medium=social&utm_campaign=principal_llm_hiring"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AIJobs",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/shubhadapande39/status/2049635843955159546"
+    },
+    {
+      "id": "2049893541896479132",
+      "text": "What does an AI know if it's never heard of the internet, smartphones, or World War II? \n\nResearchers built one to find out. Talkie-1930 is a 13B LLM whose world ends on December 31, 1930 \n\nhttps://t.co/Q59Mgu1obe\n#AI #LLM",
+      "author_id": "19058126",
+      "username": "benetmaria",
+      "name": "Benet M. Marcos",
+      "created_at": "2026-04-30T16:48:00.000Z",
+      "conversation_id": "2049893541896479132",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 13,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://bit.ly/48wcyZ4"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/benetmaria/status/2049893541896479132"
+    },
+    {
+      "id": "2049851319377383451",
+      "text": "&lt;!-- AiTalkIn Post Template v3 (fallback, no LLM) --&gt; Business-first. https://t.co/bx5mcYYtPL #AI #AgenticAI #LLM",
+      "author_id": "1858310517640638464",
+      "username": "AiTalkIn",
+      "name": "AI Talk in",
+      "created_at": "2026-04-30T14:00:13.000Z",
+      "conversation_id": "2049851319377383451",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 2,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://aitalkin.com/t/operating-layer-controls-for-onchain-language-model-agents-under-real-capital"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "AgenticAI",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/AiTalkIn/status/2049851319377383451"
+    },
+    {
+      "id": "2049745570785300830",
+      "text": "Automated LLM red teaming gets a learning layer - https://t.co/FSUhw10Bad - @CapitalOne #AI #LLM #RedTeam #Cybersecurity #InfoSec https://t.co/mvEnSxhPPE",
+      "author_id": "14293266",
+      "username": "helpnetsecurity",
+      "name": "Help Net Security",
+      "created_at": "2026-04-30T07:00:01.000Z",
+      "conversation_id": "2049745570785300830",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 138,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.helpnetsecurity.com/2026/04/30/automated-llm-red-teaming-learning-layer/",
+        "https://x.com/helpnetsecurity/status/2049745570785300830/photo/1"
+      ],
+      "mentions": [
+        "CapitalOne"
+      ],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "RedTeam",
+        "Cybersecurity",
+        "InfoSec"
+      ],
+      "tweet_url": "https://x.com/helpnetsecurity/status/2049745570785300830"
+    },
+    {
+      "id": "2049761728423186584",
+      "text": "🔥 🤖 LLM NEWS\n\n📌 r/LocalLLaMa Rule Updates\n📝 via r/LocalLLaMA · 353 upvotes · 120 comments\n\ndownloaded this last week, still impressed\nhttps://t.co/N8gGxzO7du\n\n#LLM #AI_News #AI",
+      "author_id": "2046496750538571777",
+      "username": "AITEK_News",
+      "name": "AITEX",
+      "created_at": "2026-04-30T08:04:13.000Z",
+      "conversation_id": "2049761728423186584",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.reddit.com/gallery/1su3ao4"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "LLM",
+        "AI_News",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/AITEK_News/status/2049761728423186584"
+    },
+    {
+      "id": "2049835417612988541",
+      "text": "KV cache is 5× larger than the model itself. The battle for LLM inference dominance is being fought in memory.\n\nhttps://t.co/USwfCi4JCE\n\n#AI #LLM",
+      "author_id": "2024952337778003968",
+      "username": "SignalDailyNews",
+      "name": "Signal Daily News",
+      "created_at": "2026-04-30T12:57:02.000Z",
+      "conversation_id": "2049835417612988541",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 6,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://signaldaily.news/kv-cache-compression-2026-llm-inference"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/SignalDailyNews/status/2049835417612988541"
+    },
+    {
+      "id": "2049574690952446245",
+      "text": "Hiring: Agent Engineer (AI + LLM Systems) in Web3 🤖\n\nBuild agentic workflows, LLM pipelines, and smart integrations across blockchain applications.\n\nExplore the role 👇\n https://t.co/diKZHs1A4b\n\n#AIJobs #LLM #AgenticAI #Web3Jobs #BlockchainCareers",
+      "author_id": "2230950420",
+      "username": "shubhadapande39",
+      "name": "artofblockchain.club",
+      "created_at": "2026-04-29T19:41:00.000Z",
+      "conversation_id": "2049574690952446245",
+      "metrics": {
+        "likes": 2,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 30,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://artofblockchain.club/job/agent-engineer-ai-llm-systems?utm_source=twitter&utm_medium=social&utm_campaign=agent_engineer_hiring"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AIJobs",
+        "LLM",
+        "AgenticAI",
+        "Web3Jobs",
+        "BlockchainCareers"
+      ],
+      "tweet_url": "https://x.com/shubhadapande39/status/2049574690952446245"
+    },
+    {
+      "id": "2049640424558469292",
+      "text": "Built an open-source social simulation engine where LLM agents live on a real map 🗺️\n\nEach agent has memory, personality, and makes decisions via LLM. Watch them move, interact, and reflect on experiences.\nDemo included\nhttps://t.co/HyvPqSK5AG\n#AI #OpenSource #LLM #MultiAgent",
+      "author_id": "2049211382537555968",
+      "username": "lisonFrank95022",
+      "name": "Élison Frankowski",
+      "created_at": "2026-04-30T00:02:12.000Z",
+      "conversation_id": "2049640424558469292",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://github.com/elisonfrank/simcore"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "OpenSource",
+        "LLM",
+        "MultiAgent"
+      ],
+      "tweet_url": "https://x.com/lisonFrank95022/status/2049640424558469292"
+    },
+    {
+      "id": "2049878754395123861",
+      "text": "Cloudera behaalt AWS AI-competentie https://t.co/kxudqQX07D #ArtificialIntelligence #AI #ML #LLM #GPT",
+      "author_id": "781901271737380865",
+      "username": "TechVisorNL",
+      "name": "TechVisor",
+      "created_at": "2026-04-30T15:49:14.000Z",
+      "conversation_id": "2049878754395123861",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 11,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.techvisor.nl/Artikelen/20750/cloudera-behaalt-aws-ai-competentie"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "ArtificialIntelligence",
+        "AI",
+        "ML",
+        "LLM",
+        "GPT"
+      ],
+      "tweet_url": "https://x.com/TechVisorNL/status/2049878754395123861"
+    },
+    {
+      "id": "2049715437475430472",
+      "text": "⚙️ GodModeSkill — LLM Code Workflow Tool\n\nJust dropped. This adds a multi-LLM cross-review workflow for Claude Code. Its /work command orchestrates plan/implement/bug-fix stages with 3...\n\nhttps://t.co/bdjGYcEMcb\n#AI #Agents #CodeGeneration #DeveloperTools",
+      "author_id": "2043799477379592192",
+      "username": "LatentsignalX",
+      "name": "Latent Signal AI",
+      "created_at": "2026-04-30T05:00:16.000Z",
+      "conversation_id": "2049715437475430472",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 11,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://github.com/99xAgency/GodModeSkill"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "Agents",
+        "CodeGeneration",
+        "DeveloperTools"
+      ],
+      "tweet_url": "https://x.com/LatentsignalX/status/2049715437475430472"
+    },
+    {
+      "id": "2049844235285803252",
+      "text": "GPT-4o for brainstorming. Claude for long documents. Gemini for research. Grok for real-time info. Fusion LLM gives you all four — and 14 more. https://t.co/tHCd7Pcdq1 #AI #LLM #AITools #ChatGPT https://t.co/n0Rkz8qv99",
+      "author_id": "2044205021915381760",
+      "username": "FusionLLM",
+      "name": "Fusion LLM",
+      "created_at": "2026-04-30T13:32:04.000Z",
+      "conversation_id": "2049844235285803252",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://fusionllmai.com",
+        "https://x.com/FusionLLM/status/2049844235285803252/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "AITools",
+        "ChatGPT"
+      ],
+      "tweet_url": "https://x.com/FusionLLM/status/2049844235285803252"
+    },
+    {
+      "id": "2049881649161076949",
+      "text": "DeepSeek-R1-0528 is a text generation model from DeepSeek AI now available on HuggingFace. The model handles various language tasks including completion, summarization, and conversational AI applications. #llm #ai #huggingface\nhttps://t.co/UwssFdGBnn",
+      "author_id": "2042093994029539328",
+      "username": "DistillAI1",
+      "name": "Distill AI",
+      "created_at": "2026-04-30T16:00:44.000Z",
+      "conversation_id": "2049881649161076949",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 16,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "llm",
+        "ai",
+        "huggingface"
+      ],
+      "tweet_url": "https://x.com/DistillAI1/status/2049881649161076949"
+    },
+    {
+      "id": "2049594490214596646",
+      "text": "Archon: a framework for LLM inference-time architecture search. Wild idea — let models pick their own architecture at runtime.\n\nhttps://t.co/hMPUAip7To\n\n#AI #MachineLearning #LLM",
+      "author_id": "2043330380111937536",
+      "username": "nova_agent945",
+      "name": "David",
+      "created_at": "2026-04-29T20:59:40.000Z",
+      "conversation_id": "2049594490214596646",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://github.com/ScalingIntelligence/Archon"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/nova_agent945/status/2049594490214596646"
+    },
+    {
+      "id": "2049805388711879010",
+      "text": "Google's TurboQuant cuts LLM memory use 6x,推理速度 8x faster — no accuracy loss.\n\nRAM stocks (Samsung, SK Hynix) dropped sharply on the news. Software eating hardware again.\n\nThe write-up: https://t.co/OIyA0HdSSJ\n\n#AI #MachineLearning #LLM",
+      "author_id": "2043330380111937536",
+      "username": "nova_agent945",
+      "name": "David",
+      "created_at": "2026-04-30T10:57:42.000Z",
+      "conversation_id": "2049805388711879010",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/gudanglifehack/status/2037604119305920943"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/nova_agent945/status/2049805388711879010"
+    },
+    {
+      "id": "2049877378168479754",
+      "text": "AI Foundations &amp; Data Readines Issued by O’Reilly Media!\n#AI #LLM\nhttps://t.co/cWum7RVoVG",
+      "author_id": "4202322833",
+      "username": "tomvideo2brain",
+      "name": "Tom Wechsler - Microsoft Azure & CDM MVP",
+      "created_at": "2026-04-30T15:43:46.000Z",
+      "conversation_id": "2049877378168479754",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 30,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.credly.com/badges/4e8c07b7-e4d1-47dc-8fa0-a239c1b95373/public_url"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/tomvideo2brain/status/2049877378168479754"
+    },
+    {
+      "id": "2049564411510329621",
+      "text": "New ICLR 2026 papers on LLM efficiency are quietly explosive. Long-context limits, many-shot prompting, speculative prefill — the boring-sounding stuff is where the real deployment gains hide.\nhttps://t.co/UJsUWBFBjk\n#AI #MachineLearning #LLM",
+      "author_id": "2043330380111937536",
+      "username": "nova_agent945",
+      "name": "David",
+      "created_at": "2026-04-29T19:00:09.000Z",
+      "conversation_id": "2049564411510329621",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://arxiv.org/abs/2510.04618"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/nova_agent945/status/2049564411510329621"
+    },
+    {
+      "id": "2049889177198878818",
+      "text": "Organizations planning to adopt advanced AI solutions often decide to hire AI developers who specialize in LLM integration services and enterprise-grade automation. By choosing to hire AI developers India\nhttps://t.co/HA6vDKWpF1",
+      "author_id": "2035269419405021184",
+      "username": "indibussoftware",
+      "name": "Indibussoftware",
+      "created_at": "2026-04-30T16:30:39.000Z",
+      "conversation_id": "2049889177198878818",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 6,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://indibus.net/services/ai-ml-development"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/indibussoftware/status/2049889177198878818"
+    },
+    {
+      "id": "2049901137986207857",
+      "text": "Gigabyte Aero X16 AI 2026 Laptop Launches With NVIDIA RTX 50 Series And AMD Ryzen AI Local LLM Support\nhttps://t.co/85JQsxu64W",
+      "author_id": "1592307170237890561",
+      "username": "TechNetbook",
+      "name": "TechNetbook",
+      "created_at": "2026-04-30T17:18:11.000Z",
+      "conversation_id": "2049901137986207857",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 12,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.technetbooks.com/2026/04/gigabyte-aero-x16-ai-2026-laptop.html"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/TechNetbook/status/2049901137986207857"
+    },
+    {
+      "id": "2049678599620538623",
+      "text": "Built at @Scaler_SST AI Hackathon Finals (@Meta × @PyTorch × @huggingface)\nAdaptAssist — AdaptAssist uses RL to help AI agents detect and adapt to real-time API drift.\nSpace: https://t.co/R7Rq8wNAe1\n#OpenEnv #Meta #PyTorch #HuggingFace #AI #RL #GRPO #LLM https://t.co/Huhyb8Kt5I",
+      "author_id": "2049467289666453504",
+      "username": "_lachydeep22",
+      "name": "Lachydeep Bharti",
+      "created_at": "2026-04-30T02:33:53.000Z",
+      "conversation_id": "2049678599620538623",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 6,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://huggingface.co/spaces/Souravdanyal/adaptassist-env",
+        "https://x.com/_lachydeep22/status/2049678599620538623/photo/1"
+      ],
+      "mentions": [
+        "Scaler_SST",
+        "Meta",
+        "PyTorch",
+        "huggingface"
+      ],
+      "hashtags": [
+        "OpenEnv",
+        "Meta",
+        "PyTorch",
+        "HuggingFace",
+        "AI",
+        "RL",
+        "GRPO",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/_lachydeep22/status/2049678599620538623"
+    },
+    {
+      "id": "2049750397615509566",
+      "text": "Which AI security framework should you use?\n\nAll of them.\n\nHow @MITREattack, @NIST AI RMF, and @owasp LLM Top 10 work together for comprehensive threat assessment:\n\nhttps://t.co/i1Vq5gHwPd\n\n#CyberSecurity #MachineLearning #ThreatModeling https://t.co/P73mZDRswU",
+      "author_id": "114464348",
+      "username": "hewyler",
+      "name": "Hernan Huwyler",
+      "created_at": "2026-04-30T07:19:11.000Z",
+      "conversation_id": "2049750397615509566",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 30,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://hernanhuwyler.wordpress.com/2026/03/15/ai-threat-and-vulnerability-assessment/",
+        "https://x.com/hewyler/status/2049750397615509566/photo/1"
+      ],
+      "mentions": [
+        "MITREattack",
+        "NIST",
+        "owasp"
+      ],
+      "hashtags": [
+        "CyberSecurity",
+        "MachineLearning",
+        "ThreatModeling"
+      ],
+      "tweet_url": "https://x.com/hewyler/status/2049750397615509566"
+    },
+    {
+      "id": "2049594613778805217",
+      "text": "Stop confusing the LLM with the agent. Sebastian Raschka's latest breakdown makes it clear: the model is the engine, but the agent harness is the control loop that actually gets software work done. The system matters as much as the weights. #AI #LLM\n\nhttps://t.co/toYcmeq6nZ https://t.co/dpc0R2Vz9E",
+      "author_id": "797350310574333952",
+      "username": "ginoongflores",
+      "name": "ginoongflores",
+      "created_at": "2026-04-29T21:00:10.000Z",
+      "conversation_id": "2049594613778805217",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 9,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+        "https://x.com/ginoongflores/status/2049594613778805217/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/ginoongflores/status/2049594613778805217"
+    },
+    {
+      "id": "2049692970526429345",
+      "text": "A top AI team just walked away from Bittensor.\n\nNot over tech… over centralization.\n\n$TAO dropped 16% in hours.\n#BitTensor #AI #LLM #Crypto \nhttps://t.co/r1818CFgSI",
+      "author_id": "1979208209345691648",
+      "username": "theunhashed",
+      "name": "TheUnhashed",
+      "created_at": "2026-04-30T03:31:00.000Z",
+      "conversation_id": "2049692970526429345",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 134,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://theunhashed.com/bittensor-under-fire-covenant-ai-exit-triggers-tao-drop-and-sparks-centralization-debate/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "BitTensor",
+        "AI",
+        "LLM",
+        "Crypto"
+      ],
+      "tweet_url": "https://x.com/theunhashed/status/2049692970526429345"
+    },
+    {
+      "id": "2049845838587760957",
+      "text": "🚀 Senior AI Engineer @grafana (Remote, USA) – Build AI-powered incident detection &amp; triage using LLMs, GenAI &amp; observability tools.\nSalary: $154K‑$185K\nTech: Python, Go, Kubernetes, Docker, AWS, GCP, Azure, LLMs\n#AI #LLM #Remote #Hiring #Python #golang\nhttps://t.co/TXkMe1qgE5",
+      "author_id": "1914144805728268288",
+      "username": "aihackerjobs",
+      "name": "AI Hacker Jobs",
+      "created_at": "2026-04-30T13:38:26.000Z",
+      "conversation_id": "2049845838587760957",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 16,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://aihackerjobs.com/company/grafanalabs/job/19344"
+      ],
+      "mentions": [
+        "grafana"
+      ],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "Remote",
+        "Hiring",
+        "Python",
+        "golang"
+      ],
+      "tweet_url": "https://x.com/aihackerjobs/status/2049845838587760957"
+    },
+    {
+      "id": "2049782359147323780",
+      "text": "📢 One week to go!\nAhead of his hands-on training in Cagliari this June, @fcerullo will be speaking at AI Meets Cybersecurity, hosted by @thenetvalue, exploring the @owasp Top 10 for LLM applications.\n\nFinal tickets: https://t.co/mIsGqSxeTt\n#AISecurity #LLM #OWASP #GenAI https://t.co/ACkiZakYy5",
+      "author_id": "347409686",
+      "username": "cycubix",
+      "name": "Cycubix",
+      "created_at": "2026-04-30T09:26:12.000Z",
+      "conversation_id": "2049782359147323780",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 9,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://thenetvalue.com/event/3ai-meets-cybersecurity-owasp-top-10-per-applicazioni-llm/",
+        "https://x.com/cycubix/status/2049782359147323780/photo/1"
+      ],
+      "mentions": [
+        "fcerullo",
+        "thenetvalue",
+        "owasp"
+      ],
+      "hashtags": [
+        "AISecurity",
+        "LLM",
+        "OWASP",
+        "GenAI"
+      ],
+      "tweet_url": "https://x.com/cycubix/status/2049782359147323780"
+    },
+    {
+      "id": "2049770747267051773",
+      "text": "https://t.co/7zmtu56JDE\nThis help with AI (LLM) processing cost",
+      "author_id": "540810536",
+      "username": "gsly57",
+      "name": "Stewart Young",
+      "created_at": "2026-04-30T08:40:03.000Z",
+      "conversation_id": "2049770747267051773",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 3,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.instagram.com/reel/DXq2sMIHwLv/?igsh=MTRvMHcxOWk5NmhpNA=="
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/gsly57/status/2049770747267051773"
+    },
+    {
+      "id": "2049698546954236252",
+      "text": "IgnitionRAG is a managed multimodal RAG backend that replaces €50-200K consulting, lets you ingest any docs, and ship AI agents in minutes with your own LLM keys. #AI #RAG https://t.co/Tx9Or2gS4x",
+      "author_id": "1969260938181427201",
+      "username": "surfmanco",
+      "name": "Surf Man",
+      "created_at": "2026-04-30T03:53:09.000Z",
+      "conversation_id": "2049698546954236252",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 5,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.producthunt.com/products/ignitionrag"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "RAG"
+      ],
+      "tweet_url": "https://x.com/surfmanco/status/2049698546954236252"
+    },
+    {
+      "id": "2049668238502723961",
+      "text": "Still managing data manually?🤔\nAutomate from standardization to model updates with META# AI👩‍💻 Faster, more accurate data assets🚀\n\n👉https://t.co/ycI1nOEOkF\n\n#엔코아 #encore #META#AI #DataGovernance #Metadata #DataManagement #AIAutomation #AIReadyData #AIAgent #LLM #RAG #AX https://t.co/QlIHAhr8R8",
+      "author_id": "1881139264836272128",
+      "username": "encore_mk",
+      "name": "encore(엔코아)",
+      "created_at": "2026-04-30T01:52:43.000Z",
+      "conversation_id": "2049668238502723961",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 20,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://youtu.be/phm71N7uGH0",
+        "https://x.com/encore_mk/status/2049668238502723961/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "엔코아",
+        "encore",
+        "DataGovernance",
+        "Metadata",
+        "DataManagement",
+        "AIAutomation",
+        "AIReadyData",
+        "AIAgent",
+        "LLM",
+        "RAG",
+        "AX"
+      ],
+      "tweet_url": "https://x.com/encore_mk/status/2049668238502723961"
+    },
+    {
+      "id": "2049713606116491416",
+      "text": "Disney spent $200M making one fairy tale.\n\nAI can generate 10,000—each personalized to YOU.\n\nThe animation war isn’t coming.\n\nIt’s already here.\n#Disney #FairyTale #Animation #LLM #AI\nhttps://t.co/J5HioFCGww",
+      "author_id": "1919280570372435968",
+      "username": "spaisee_com",
+      "name": "spaisee",
+      "created_at": "2026-04-30T04:53:00.000Z",
+      "conversation_id": "2049713606116491416",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 12,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://spaisee.com/the-fairy-tale-war-can-ai-generated-animation-rival-disneys-magic/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Disney",
+        "FairyTale",
+        "Animation",
+        "LLM",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/spaisee_com/status/2049713606116491416"
+    },
+    {
+      "id": "2049769029565288516",
+      "text": "🚀 Meet the new Linux kernel AI bot that hunts bugs locally on a Framework Desktop with AMD Ryzen AI Max. \nNo cloud, just a tiny LLM powering smarter debugging. \nDive into the Reddit thread 👉 https://t.co/9dw9oTUSST\n#linux #opensource #AI",
+      "author_id": "435235970",
+      "username": "Mte90Net",
+      "name": "Daniele Scasciafratte  🇮🇹",
+      "created_at": "2026-04-30T08:33:14.000Z",
+      "conversation_id": "2049769029565288516",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 34,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://reddit.com/r/linux/comments/1sw5jvn/the_new_linux_kernel_ai_bot_uncovering_bugs_is_a/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "linux",
+        "opensource",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/Mte90Net/status/2049769029565288516"
+    },
+    {
+      "id": "2049821476946169952",
+      "text": "AI Memory is a scam, causing 2x token usage per prompt. Tons of default Memory data is injected into each llm before it starts its prompt response. This leads to burning ai time, money, and energy on duplicative data. https://t.co/xPI1ORClA2",
+      "author_id": "1022718462777585670",
+      "username": "Optinuss",
+      "name": "Optinuss",
+      "created_at": "2026-04-30T12:01:38.000Z",
+      "conversation_id": "2049821476946169952",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 9,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.linkedin.com/posts/nathanielrub_ai-memory-is-a-scam-causing-2x-token-usage-share-7455582257253216256-wnYo?utm_source=social_share_send&utm_medium=ios_app&rcm=ACoAABaZno4B0jF2rlXrMGqd1U2di-V-_JQCVHg&utm_campaign=copy_link"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/Optinuss/status/2049821476946169952"
+    },
+    {
+      "id": "2049900839956083059",
+      "text": "Your AI coding assistant is reading outdated docs.\nContext7 keeps LLMs in sync with the latest API documentation:\n\n- Fetches up-to-date code docs in real-time\n- Works with any LLM or AI code editor\n- Supports major frameworks and libraries\n\nhttps://t.co/OBS3Vyg0h1",
+      "author_id": "1820657653086859264",
+      "username": "so_sthbryan",
+      "name": "Bryan",
+      "created_at": "2026-04-30T17:17:00.000Z",
+      "conversation_id": "2049900839956083059",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 12,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://github.com/upstash/context7"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/so_sthbryan/status/2049900839956083059"
+    },
+    {
+      "id": "2049557451297730789",
+      "text": "Your AI is only as smart as what it can “see.” Master the context window, master the output.\n\nLearn more: https://t.co/Qhjc1XqGVt\n\n#AI #ContextWindow #GenerativeAI #LLM #AIEducation #BlockchainCouncil https://t.co/fcXycTiyNy",
+      "author_id": "1579789081759842306",
+      "username": "bcc_council",
+      "name": "Blockchain Council",
+      "created_at": "2026-04-29T18:32:29.000Z",
+      "conversation_id": "2049557451297730789",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 10,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.blockchain-council.org/",
+        "https://x.com/bcc_council/status/2049557451297730789/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "ContextWindow",
+        "GenerativeAI",
+        "LLM",
+        "AIEducation",
+        "BlockchainCouncil"
+      ],
+      "tweet_url": "https://x.com/bcc_council/status/2049557451297730789"
+    },
+    {
+      "id": "2049736545041809569",
+      "text": "April 2026 was insane for AI: Claude Opus 4.7, GPT-5.5, DeepSeek V4, Kimi K2.6, Qwen3.6 and more dropped within weeks of each other.\n\nThe gap between open and closed source is narrowing fast.\n\nhttps://t.co/JlhPbOdHDq\n\n#AI #MachineLearning #LLM",
+      "author_id": "2043330380111937536",
+      "username": "nova_agent945",
+      "name": "David",
+      "created_at": "2026-04-30T06:24:09.000Z",
+      "conversation_id": "2049736545041809569",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/FieldToFuture/status/2047684799389917261"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/nova_agent945/status/2049736545041809569"
+    },
+    {
+      "id": "2049789592044507417",
+      "text": "AI doesn’t need to think everything—just the right things.\n\nThat’s MoE in LLMs:\n⚡ Faster ⚡ Cheaper ⚡ Smarter\n\n👉 https://t.co/ZznBk9Q5wx\n\n#AI #LLM #RAG #GenAI https://t.co/Qg08YhFaq0",
+      "author_id": "1886673983291961344",
+      "username": "EduinxA",
+      "name": "Eduinx",
+      "created_at": "2026-04-30T09:54:56.000Z",
+      "conversation_id": "2049789592044507417",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 7,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://eduinx.in/blog-repository/Mixture-of-Experts-in-LLMs-Efficient-Architectures-for-Scalable-RAG-Deployments.php",
+        "https://x.com/EduinxA/status/2049789592044507417/photo/1",
+        "https://x.com/EduinxA/status/2049789592044507417/photo/1",
+        "https://x.com/EduinxA/status/2049789592044507417/photo/1",
+        "https://x.com/EduinxA/status/2049789592044507417/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "RAG",
+        "GenAI"
+      ],
+      "tweet_url": "https://x.com/EduinxA/status/2049789592044507417"
+    },
+    {
+      "id": "2049552090393895020",
+      "text": "59 AI models dropped since November. At this rate, my architecture diagram will need its own version control system. 📦 #AI #LLM \nhttps://t.co/MyZrB6gu99",
+      "author_id": "1513212285061316613",
+      "username": "FpeSre",
+      "name": "nivelepsilon",
+      "created_at": "2026-04-29T18:11:11.000Z",
+      "conversation_id": "2049552090393895020",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 3,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://aiflashreport.com/model-releases.html"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/FpeSre/status/2049552090393895020"
+    },
+    {
+      "id": "2049866917540688355",
+      "text": "AI as in LLM is such an amazing invention, small accounts on youtube produce countless video that make you travel back in time with ai-generated visualization just like those historical times: \n\nhttps://t.co/2jgvZrJnL7",
+      "author_id": "2037271395256655873",
+      "username": "g_bobi3827",
+      "name": "literally from the future",
+      "created_at": "2026-04-30T15:02:12.000Z",
+      "conversation_id": "2049866917540688355",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 24,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.youtube.com/watch?v=CyTtTA5_rDE"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/g_bobi3827/status/2049866917540688355"
+    },
+    {
+      "id": "2049687727700852978",
+      "text": "WindsurfPoolAPI provides multi-account proxy pooling for Windsurf with 113+ AI models including Claude, GPT, Gemini, Grok, and Kimi through OpenAI and Anthropic APIs. Supports image uploads and native integration with Cursor. #ai #llm #github\nhttps://t.co/wFi4IOzLjc",
+      "author_id": "2042093994029539328",
+      "username": "DistillAI1",
+      "name": "Distill AI",
+      "created_at": "2026-04-30T03:10:10.000Z",
+      "conversation_id": "2049687727700852978",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "impressions": 78,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://github.com/guanxiaol/WindsurfPoolAPI"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "ai",
+        "llm",
+        "github"
+      ],
+      "tweet_url": "https://x.com/DistillAI1/status/2049687727700852978"
+    },
+    {
+      "id": "2049642978227224766",
+      "text": "Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning @SSRN \nhttps://t.co/mogmFOI9ec",
+      "author_id": "1477197035757764608",
+      "username": "aaiashn",
+      "name": "あさひな",
+      "created_at": "2026-04-30T00:12:21.000Z",
+      "conversation_id": "2049642978227224766",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 187,
+        "bookmarks": 2
+      },
+      "urls": [
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358"
+      ],
+      "mentions": [
+        "SSRN"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/aaiashn/status/2049642978227224766"
+    },
+    {
+      "id": "2049648484010033263",
+      "text": "🤖 \"Claude Code vs Cursor: Which AI Coding Tool Wins in 2026?\"\n\nKinako &amp; Mocchii compare:\n• Autonomous task execution\n• Context window size\n• Pricing\n• Real-world development workflows\n\n→ https://t.co/03VylfmwAL\n\n#ClaudeCode #Cursor #AI #LLM #SoftwareEngineering",
+      "author_id": "2035613655828717568",
+      "username": "kinamocchi_tech",
+      "name": "きなこもっちーのテック深掘り🐹🐦",
+      "created_at": "2026-04-30T00:34:13.000Z",
+      "conversation_id": "2049648484010033263",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 65,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://youtu.be/8DXMnDjpimQ"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "ClaudeCode",
+        "Cursor",
+        "AI",
+        "LLM",
+        "SoftwareEngineering"
+      ],
+      "tweet_url": "https://x.com/kinamocchi_tech/status/2049648484010033263"
+    },
+    {
+      "id": "2049821999795683631",
+      "text": "Testing RAG Pipeline, its as easy as testing your API.\nEvaliphy is an open source AI testing tool, which simplifies the AI testing, and can easily integrated in CI.\nMore details here: https://t.co/lYL8cf44rT\n#Evaliphy #AITesting #RagEval #LLMEval #llm #AIEval #DeepEval #Ragas https://t.co/NqlZF0t7BC",
+      "author_id": "130897434",
+      "username": "ppriyanshu",
+      "name": "Priyanshu S",
+      "created_at": "2026-04-30T12:03:43.000Z",
+      "conversation_id": "2049821999795683631",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 10,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://evaliphy.com",
+        "https://x.com/ppriyanshu/status/2049821999795683631/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Evaliphy",
+        "AITesting",
+        "RagEval",
+        "LLMEval",
+        "llm",
+        "AIEval",
+        "DeepEval",
+        "Ragas"
+      ],
+      "tweet_url": "https://x.com/ppriyanshu/status/2049821999795683631"
+    },
+    {
+      "id": "2049878185139913061",
+      "text": "🚀 Level Up Your #AI #LLM Conversations with https://t.co/mRgjCxQkk7 \nhttps://t.co/15ZTfucrvB https://t.co/rQXejFRh0I",
+      "author_id": "410377944",
+      "username": "altcoingazette",
+      "name": "John R. Taylor",
+      "created_at": "2026-04-30T15:46:58.000Z",
+      "conversation_id": "2049878185139913061",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 11,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://Chatafied.com",
+        "https://www.youtube.com/shorts/HrCuvpeg8zk",
+        "https://x.com/altcoingazette/status/2049878185139913061/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/altcoingazette/status/2049878185139913061"
+    },
+    {
+      "id": "2049833276693692828",
+      "text": "Search is evolving. Are you? 🚀\n\nDominate the era of Generative Engine Optimization (GEO) with: \n🔹 AI-Cited Authority \n🔹 LLM Content Strategy \n🔹 B2B Lead Gen\n\nGet your future-proof audit\n\nCall /WhatsApp +91 8826003969\nVisit website https://t.co/k30YtPmWLU\n\n#GEO #SEO #AI #B2B https://t.co/4GKy9AhpCI",
+      "author_id": "1960194192791277568",
+      "username": "goseo_expert",
+      "name": "GoSEO Expert",
+      "created_at": "2026-04-30T12:48:31.000Z",
+      "conversation_id": "2049833276693692828",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 33,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://goseoexpert.com",
+        "https://x.com/goseo_expert/status/2049833276693692828/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "GEO",
+        "SEO",
+        "AI",
+        "B2B"
+      ],
+      "tweet_url": "https://x.com/goseo_expert/status/2049833276693692828"
+    },
+    {
+      "id": "2049880886946972120",
+      "text": "April 2026: GPT-5.5, Claude Opus 4.7, DeepSeek-V4, Gemini 3.1 — all within 6 weeks. The labs aren't racing anymore. They're sprinting. This is the densest AI release window in history.\nhttps://t.co/09dYlVdtSD\n#AI #MachineLearning #LLM",
+      "author_id": "2043330380111937536",
+      "username": "nova_agent945",
+      "name": "David",
+      "created_at": "2026-04-30T15:57:43.000Z",
+      "conversation_id": "2049880886946972120",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.together.ai/demos"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/nova_agent945/status/2049880886946972120"
+    },
+    {
+      "id": "2049725213169123545",
+      "text": "The Dark Hundred-Page Language Models Book\n\nLink - https://t.co/XTxs1yxlri\n\n#MachineLearning #ML #AI #DeepLearning #DataScience #LLMs #LLM #Python #programming",
+      "author_id": "3068484222",
+      "username": "rasangarocks",
+      "name": "Domesticated Brain",
+      "created_at": "2026-04-30T05:39:07.000Z",
+      "conversation_id": "2049725213169123545",
+      "metrics": {
+        "likes": 2,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 635,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://amzn.to/4t3RyQE"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "MachineLearning",
+        "ML",
+        "AI",
+        "DeepLearning",
+        "DataScience",
+        "LLMs",
+        "LLM",
+        "Python",
+        "programming"
+      ],
+      "tweet_url": "https://x.com/rasangarocks/status/2049725213169123545"
+    },
+    {
+      "id": "2049899340928528724",
+      "text": "Most companies don’t lack AI — they lack execution.\n\nLarge Language Models are powerful, but real impact comes from how you use them.\n\nExplore real enterprise use cases &amp; ROI 👇\n https://t.co/76IiFOIS9N\n#AI #LLM #EnterpriseAI #GenAI #Automation #DigitalTransformation https://t.co/hmJiz7FNYA",
+      "author_id": "1978721745084559360",
+      "username": "CloudHewSocial",
+      "name": "CloudHew",
+      "created_at": "2026-04-30T17:11:02.000Z",
+      "conversation_id": "2049899340928528724",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 5,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://cloudhew.com/blogs/large-language-models-llms-enterprise-use-cases-real-world-examples-and-business-impact/",
+        "https://x.com/CloudHewSocial/status/2049899340928528724/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "EnterpriseAI",
+        "GenAI",
+        "Automation",
+        "DigitalTransformation"
+      ],
+      "tweet_url": "https://x.com/CloudHewSocial/status/2049899340928528724"
+    },
+    {
+      "id": "2049880092805832907",
+      "text": "Zig's anti-AI policy is a statement, but it reveals something deeper: teams are rightfully cautious about where their code, and their IP, ends up.\nhttps://t.co/5fKFDLc7XV\n\nThe real issue isn't AI itself. It's governance. When you send code to an LLM without guardrails, you lose",
+      "author_id": "2044602345795862529",
+      "username": "AISGateway",
+      "name": "AI Security Gateway",
+      "created_at": "2026-04-30T15:54:33.000Z",
+      "conversation_id": "2049880092805832907",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 13,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/AISGateway/status/2049880092805832907"
+    },
+    {
+      "id": "2049877215026831668",
+      "text": "Google's got AI channeling its inner Sherlock! 🕵️‍♂️ Teaching LLMs to reason like Bayesians—solving mysteries without the math migraine. 🔍 Dive into AI's new cognitive workout! #LLM #Bayesian #GoogleAI #ainews #ai #technews\n\n🔗 https://t.co/z8HvHybXKa",
+      "author_id": "2017735580231057409",
+      "username": "nerdyavocadoai",
+      "name": "Nerdy Avocado 🥑|AI Tools, Prompts & Breaking News",
+      "created_at": "2026-04-30T15:43:07.000Z",
+      "conversation_id": "2049877215026831668",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 2,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://nerdyavocado.com/news/teaching-llms-to-reason-like-bayesians"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "LLM",
+        "Bayesian",
+        "GoogleAI",
+        "ainews",
+        "ai",
+        "technews"
+      ],
+      "tweet_url": "https://x.com/nerdyavocadoai/status/2049877215026831668"
+    },
+    {
+      "id": "2049865163495686538",
+      "text": "3D-VCD tackles hallucinations in embodied AI agents using visual contrastive decoding — grounding LLM outputs in actual visual data. Spatial reasoning in AR/VR/robotics just got a lot more reliable.\nhttps://t.co/SvOur6buQA\n#AI #MachineLearning #ComputerVision",
+      "author_id": "2043330380111937536",
+      "username": "nova_agent945",
+      "name": "David",
+      "created_at": "2026-04-30T14:55:14.000Z",
+      "conversation_id": "2049865163495686538",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://arxiv.org/abs/2604.XXXXX"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "ComputerVision"
+      ],
+      "tweet_url": "https://x.com/nova_agent945/status/2049865163495686538"
+    },
+    {
+      "id": "2049898896244265088",
+      "text": "AWS Generative AI Model Agility Solution: A comprehensive guide to migrating LLMs for generative AI production: In this post, we introduce a systematic framework for LLM migration or upgrade in generative AI production, encompassing essential tools,… https://t.co/aXpcVseaRQ https://t.co/3Iwrh69XBj",
+      "author_id": "1028010828937584640",
+      "username": "TheCloudSensei",
+      "name": "CloudSensei",
+      "created_at": "2026-04-30T17:09:16.000Z",
+      "conversation_id": "2049898896244265088",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 4,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://dlvr.it/TSJXsV",
+        "https://x.com/TheCloudSensei/status/2049898896244265088/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/TheCloudSensei/status/2049898896244265088"
+    },
+    {
+      "id": "2049846733388288347",
+      "text": "Everyone says #Claude is the best AI right now.\n\nBut the numbers tell a very different story.\n\nBillions use #ChatGPT. Hundreds of millions use #Gemini. Claude? A fraction of that.\n\n#Google #OpenAI #Anthropic #AI #LLM \nhttps://t.co/av5CRou91G",
+      "author_id": "1919280570372435968",
+      "username": "spaisee_com",
+      "name": "spaisee",
+      "created_at": "2026-04-30T13:42:00.000Z",
+      "conversation_id": "2049846733388288347",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 20,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://spaisee.com/is-claude-really-the-best-ai-on-the-market/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Google",
+        "OpenAI",
+        "Anthropic",
+        "AI",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/spaisee_com/status/2049846733388288347"
+    },
+    {
+      "id": "2049549689750540711",
+      "text": "🤖⚠️ litellm flaw exploited to access sensitive ai data\nAttackers are targeting a critical SQL injection vulnerability in LLM gateway systems. learn more https://t.co/6yl4eGcsa2\n#ai #sqli #cybersecurity #infosec #security https://t.co/JsLaNgD4H2",
+      "author_id": "1703061759165108224",
+      "username": "Strivehawk",
+      "name": "Strivehawk",
+      "created_at": "2026-04-29T18:01:39.000Z",
+      "conversation_id": "2049549689750540711",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 27,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.bleepingcomputer.com/",
+        "https://x.com/Strivehawk/status/2049549689750540711/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "ai",
+        "sqli",
+        "cybersecurity",
+        "infosec",
+        "security"
+      ],
+      "tweet_url": "https://x.com/Strivehawk/status/2049549689750540711"
+    },
+    {
+      "id": "2049653772339859503",
+      "text": "\"AI Offensive Security: Practical Attacks Against LLM Agents\" by Andrey Pautov\n\n#BugBounty #Cybersecurity #Hacking #InfoSec\n\nhttps://t.co/fPYITvf66L",
+      "author_id": "1833464387916505088",
+      "username": "bbwriteup",
+      "name": "‘BBW’",
+      "created_at": "2026-04-30T00:55:14.000Z",
+      "conversation_id": "2049653772339859503",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "impressions": 41,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://medium.com/@1200km/ai-offensive-security-practical-attacks-against-llm-agents-516dbdabbf86"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "BugBounty",
+        "Cybersecurity",
+        "Hacking",
+        "InfoSec"
+      ],
+      "tweet_url": "https://x.com/bbwriteup/status/2049653772339859503"
+    },
+    {
+      "id": "2049780893854892362",
+      "text": "LangChain — the field manual on The Neural Base.\n\n→https://t.co/4eT40uUMRg\n\n#LangChain #AI #LLM #RAG #AIEngineering https://t.co/F9E7wlWtr5",
+      "author_id": "2049768792788758528",
+      "username": "theneuralbase",
+      "name": "The Neural Base",
+      "created_at": "2026-04-30T09:20:22.000Z",
+      "conversation_id": "2049780893854892362",
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 5,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://theneuralbase.com/langchain/learn/beginner/why-langchain-was-created-the-problem-it-solves/",
+        "https://x.com/theneuralbase/status/2049780893854892362/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "LangChain",
+        "AI",
+        "LLM",
+        "RAG",
+        "AIEngineering"
+      ],
+      "tweet_url": "https://x.com/theneuralbase/status/2049780893854892362"
+    },
+    {
+      "id": "2049768940096618933",
+      "text": "Today's post has been about how AI (LLM usage) it's teaching product teams to optimise the wrong things.\n\nhttps://t.co/E1F6VCXfxm",
+      "author_id": "3019355645",
+      "username": "evrtrabajo",
+      "name": "Emmanuel Valverde | 👨‍💻 @ 🏡",
+      "created_at": "2026-04-30T08:32:52.000Z",
+      "conversation_id": "2049768940096618933",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 15,
+        "bookmarks": 1
+      },
+      "urls": [
+        "https://emmanuelvalverderamos.substack.com/p/ai-is-teaching-product-teams-to-optimise"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/evrtrabajo/status/2049768940096618933"
+    },
+    {
+      "id": "2049788160482402526",
+      "text": "Built my own Indian Legal AI Chatbot 🚀\n\nGeneral LLMs hallucinate on sensitive legal queries, so I fine-tuned Qwen2.5-1.5B with QLoRA on FREE Colab T4 GPU and deployed it on Hugging Face.\n\nLive Demo👇\nhttps://t.co/DBNxZWwFhn\nModel👇\nhttps://t.co/OqUCrh8Whp\n\n#AI #LLM #HuggingFace https://t.co/q8K8z08k17",
+      "author_id": "1733353628683976704",
+      "username": "sira87504",
+      "name": "Siraj Shaikh",
+      "created_at": "2026-04-30T09:49:15.000Z",
+      "conversation_id": "2049788160482402526",
+      "metrics": {
+        "likes": 1,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 22,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://huggingface.co/spaces/sirajk/legal-ai-chatbot",
+        "https://huggingface.co/sirajk/legal-ai-qwen-adapter",
+        "https://x.com/sira87504/status/2049788160482402526/video/1",
+        "https://x.com/sira87504/status/2049788160482402526/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "HuggingFace"
+      ],
+      "tweet_url": "https://x.com/sira87504/status/2049788160482402526"
+    },
+    {
+      "id": "2049824318318592356",
+      "text": "Most AI tools try to answer faster.\nDecisionMap tries to make answers slower, clearer, and harder to fake.\nA small open protocol for mapping strategic options, costs, assumptions, risks, and breakpoints with LLMs.\nhttps://t.co/jUBMixAxxi\n\n#AI #LLM #ProductStrategy https://t.co/Y0Yoqtlmp5",
+      "author_id": "32941308",
+      "username": "abv_creative",
+      "name": "ABV Anton Biletskyi-Volokh",
+      "created_at": "2026-04-30T12:12:56.000Z",
+      "conversation_id": "2049824318318592356",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 15,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://go.abvx.xyz/xilww2",
+        "https://x.com/abv_creative/status/2049824318318592356/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "ProductStrategy"
+      ],
+      "tweet_url": "https://x.com/abv_creative/status/2049824318318592356"
+    },
+    {
+      "id": "2049621497677820331",
+      "text": "https://t.co/EvHZSbOmTz Growing everyday\n#llm #ai #nvidia #grok #LMstudio #oLlama #openrouter #openai",
+      "author_id": "1817805643052408833",
+      "username": "Softwarelogico",
+      "name": "Software Logico",
+      "created_at": "2026-04-29T22:46:59.000Z",
+      "conversation_id": "2049621497677820331",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 34,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://github.com/SoftwareLogico/sot-cli"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "llm",
+        "ai",
+        "nvidia",
+        "grok",
+        "LMstudio",
+        "oLlama",
+        "openrouter",
+        "openai"
+      ],
+      "tweet_url": "https://x.com/Softwarelogico/status/2049621497677820331"
+    },
+    {
+      "id": "2049721155951448097",
+      "text": "Stop treating LLMs like a black box.\n\nFine-tuning is the \"onboarding\" your AI needs. My latest blog breaks down:\nLoRA vs QLoRA (80% lift,10% cost)\nInstruction Tuning for brand voice\nPreventing \"Catastrophic Forgetting\"\n\nhttps://t.co/q3yyHCOgAP\n\n#AI #LLM #FineTuning #BuildInPublic https://t.co/OQDwywXgaB",
+      "author_id": "1980624835454910464",
+      "username": "sanjewaxy",
+      "name": "Sanjeewa Rupasinghe",
+      "created_at": "2026-04-30T05:23:00.000Z",
+      "conversation_id": "2049721155951448097",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 7,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://sanjewa.com/blogs/fine-tuning-ai-models-when-and-how/",
+        "https://x.com/sanjewaxy/status/2049721155951448097/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "FineTuning",
+        "BuildInPublic"
+      ],
+      "tweet_url": "https://x.com/sanjewaxy/status/2049721155951448097"
+    },
+    {
+      "id": "2049556571412484297",
+      "text": "While everyone is chasing AI apps, Bittensor is building the layer beneath them.\n\nSubnets are exploding.\n\nThe network is learning.\n\nMost people are still asleep on this.\n#Bittensor $TAO #AI #LLM #crypto \nhttps://t.co/Fq98jLXtNa",
+      "author_id": "1979208209345691648",
+      "username": "theunhashed",
+      "name": "TheUnhashed",
+      "created_at": "2026-04-29T18:29:00.000Z",
+      "conversation_id": "2049556571412484297",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 65,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://theunhashed.com/bittensors-quiet-explosion-why-taos-momentum-signals-a-new-era-for-decentralized-ai/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Bittensor",
+        "AI",
+        "LLM",
+        "crypto"
+      ],
+      "tweet_url": "https://x.com/theunhashed/status/2049556571412484297"
+    },
+    {
+      "id": "2049610959464063473",
+      "text": "Studies confirm that structured entity data and unique insights boost GEO scores significantly in LLM outputs.\nOn-page optimizations tailored for AI citation can improve visibility by 3x.\nDrive more AI search mentions for your content using https://t.co/mOZfCbkAdZ #ad https://t.co/KUiOwoiZkh",
+      "author_id": "2047683735277948928",
+      "username": "Serenity6274531",
+      "name": "Naspap |Nasipadang",
+      "created_at": "2026-04-29T22:05:07.000Z",
+      "conversation_id": "2049610959464063473",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://topify.ai",
+        "https://twitter.com/shannholmberg/status/2046891905389334958"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "ad"
+      ],
+      "tweet_url": "https://x.com/Serenity6274531/status/2049610959464063473"
+    },
+    {
+      "id": "2049550428002783543",
+      "text": "Your OpenName is agent-ready:\n\n✓ 10-dimension Memory Map (structured)\n✓ .skill Markdown export (portable)\n✓ Onchain attestation (verified)\n✓ ICA archival (permanent)\n\nBuilt for the next century of AI agents.\n\n#OpenName #AIAgents #AI #LLM #Web3\nhttps://t.co/auF85uCyPD https://t.co/GXMo2NprA1",
+      "author_id": "1457641571235479553",
+      "username": "openname_ai",
+      "name": "OpenName.ai",
+      "created_at": "2026-04-29T18:04:35.000Z",
+      "conversation_id": "2049550428002783543",
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 32,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://openname.ai",
+        "https://x.com/openname_ai/status/2049550428002783543/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "OpenName",
+        "AIAgents",
+        "AI",
+        "LLM",
+        "Web3"
+      ],
+      "tweet_url": "https://x.com/openname_ai/status/2049550428002783543"
+    },
+    {
+      "id": "2049791103914704956",
+      "text": "#IA LLM‑D Explained: Building Next‑Gen AI with LLMs, RAG &amp; Kubernetes https://t.co/C5ZO0PFMbb via @YouTube",
+      "author_id": "27454144",
+      "username": "arnaudmercier",
+      "name": "Arnaud Mercier - #Entrepreneur",
+      "created_at": "2026-04-30T10:00:57.000Z",
+      "conversation_id": "2049791103914704956",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 6,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://youtu.be/CNKGgOphAPM?si=0lSwG7YnJhJ4plwM"
+      ],
+      "mentions": [
+        "YouTube"
+      ],
+      "hashtags": [
+        "IA"
+      ],
+      "tweet_url": "https://x.com/arnaudmercier/status/2049791103914704956"
+    },
+    {
+      "id": "2049878811026522392",
+      "text": "https://t.co/fb9GslVkyy #AGENTIC #AI ASSISTANT ADVANCED REASONING CODE GENERATION #DEEPSEEK #LLM \nhttps://t.co/Dfy8DlLixF https://t.co/2YHWHX1eua",
+      "author_id": "410377944",
+      "username": "altcoingazette",
+      "name": "John R. Taylor",
+      "created_at": "2026-04-30T15:49:28.000Z",
+      "conversation_id": "2049878811026522392",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 31,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://DATAPLUNGA.COM",
+        "https://youtube.com/shorts/3h9STOGMa5Q?feature=share",
+        "https://x.com/altcoingazette/status/2049878811026522392/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AGENTIC",
+        "AI",
+        "DEEPSEEK",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/altcoingazette/status/2049878811026522392"
+    },
+    {
+      "id": "2049842287249924122",
+      "text": "Watch it and use ai smartly! \nCut Your LLM cost by 80%!\nhttps://t.co/LUiYpOnxNZ https://t.co/VpVXQbmNjh",
+      "author_id": "851663282113064960",
+      "username": "piyush_lakheda",
+      "name": "Piyush Lakheda",
+      "created_at": "2026-04-30T13:24:20.000Z",
+      "conversation_id": "2049842287249924122",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "impressions": 17,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://yt.openinapp.co/e3cnf",
+        "https://x.com/piyush_lakheda/status/2049842287249924122/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/piyush_lakheda/status/2049842287249924122"
+    },
+    {
+      "id": "2049802100998287790",
+      "text": "Stop wasting hours trying to learn AI. 📘📚\n\nI have already done it for you.\n\nWith one list. Zero confusion. And no fluff\n\n📹 Videos:\n\n1. LLM Introduction: https://t.co/FJqJUEXX7T\n\n2. LLMs from Scratch: https://t.co/wgYSqOQEXw\n\n3. Agentic AI Overview (Stanford): https://t.co/6a7mFrHslM",
+      "author_id": "2038099371556823041",
+      "username": "LearnWithBrij",
+      "name": "Brij Pandey",
+      "created_at": "2026-04-30T10:44:39.000Z",
+      "conversation_id": "2049802100998287790",
+      "metrics": {
+        "likes": 86,
+        "retweets": 43,
+        "replies": 16,
+        "quotes": 0,
+        "impressions": 1583,
+        "bookmarks": 61
+      },
+      "urls": [
+        "http://lnkd.in/dMqbaZdK",
+        "http://lnkd.in/dYYwEhYy",
+        "https://x.com/LearnWithBrij/status/2049802100998287790/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/LearnWithBrij/status/2049802100998287790"
+    },
+    {
+      "id": "2049732561870500128",
+      "text": "TAI #202: GPT-5.5 Moves Codex Into Real Work https://t.co/TSZ3bOf2aN #AI #MachineLearning #ArtificialIntelligence #NaturalLanguageProcessing #LLM #FutureOfAI https://t.co/5OpxUnHUZc",
+      "author_id": "186472837",
+      "username": "MediaRings",
+      "name": "Zoltan Szabo",
+      "created_at": "2026-04-30T06:08:19.000Z",
+      "conversation_id": "2049732561870500128",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 23,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://ift.tt/f98iz6y",
+        "https://x.com/MediaRings/status/2049732561870500128/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "ArtificialIntelligence",
+        "NaturalLanguageProcessing",
+        "LLM",
+        "FutureOfAI"
+      ],
+      "tweet_url": "https://x.com/MediaRings/status/2049732561870500128"
+    },
+    {
+      "id": "2049821109839679933",
+      "text": "Join us on May 21 for the Women in AI Meetup! Register for the Zoom: https://t.co/y6fzk4NxRv\n\nTalks will include:\n\n* Beyond Models: LLM-Guided Reinforcement Learning for Real-World Wireless Systems - Fatemeh Lotfi at Clemson University\n\n* Responsible and Ethical AI in Healthcare: https://t.co/mV68MMEQve",
+      "author_id": "2024885391179001856",
+      "username": "jimmy_voxel51",
+      "name": "Jimmy at Voxel51",
+      "created_at": "2026-04-30T12:00:11.000Z",
+      "conversation_id": "2049821109839679933",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 10,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://hubs.ly/Q04dLsLC0",
+        "https://x.com/jimmy_voxel51/status/2049821109839679933/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/jimmy_voxel51/status/2049821109839679933"
+    },
+    {
+      "id": "2049700039212077163",
+      "text": "6 weeks. 20+ frontier model drops. Claude Opus 4.6, GPT-5.3-Codex, Gemini 3 Deep Think, Kimi K2.5, Qwen3-Max-Thinking, DeepSeek V3.2.\n\nThe AI race is absolutely insane right now.\nhttps://t.co/p2sukmDvYq\n#AI #MachineLearning #LLM",
+      "author_id": "2043330380111937536",
+      "username": "nova_agent945",
+      "name": "David",
+      "created_at": "2026-04-30T03:59:05.000Z",
+      "conversation_id": "2049700039212077163",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/abhijitwt/status/2022699830141984907"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/nova_agent945/status/2049700039212077163"
+    },
+    {
+      "id": "2049896804691382601",
+      "text": "Local LLMs are getting genuinely good. But the benchmarks still require some careful reading.\n\nhttps://t.co/Dl1KTFVhgL\n\n#AI #LLM #SoftwareDevelopment",
+      "author_id": "54657538",
+      "username": "supermalf",
+      "name": "Mauricio Ferreira",
+      "created_at": "2026-04-30T17:00:58.000Z",
+      "conversation_id": "2049896804691382601",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 2,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://firethering.com/granite-4-1-ibm-open-source-model-family/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "SoftwareDevelopment"
+      ],
+      "tweet_url": "https://x.com/supermalf/status/2049896804691382601"
+    },
+    {
+      "id": "2049582441585623436",
+      "text": "The real skill gap in AI coding isn't prompting — it's system design. When your agent makes 50 concurrent LLM calls with different latency profiles, you need architecture, not vibes.\nhttps://t.co/MCoon5OaCp\n#AI #Coding #Architecture",
+      "author_id": "2043330380111937536",
+      "username": "nova_agent945",
+      "name": "David",
+      "created_at": "2026-04-29T20:11:48.000Z",
+      "conversation_id": "2049582441585623436",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/GenAI_is_real/status/2034801987171361244"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "Coding",
+        "Architecture"
+      ],
+      "tweet_url": "https://x.com/nova_agent945/status/2049582441585623436"
+    },
+    {
+      "id": "2049564497220669569",
+      "text": "A new @AMD Ryzen AI PC saved significant time while multitasking with an LLM vs. a 4-year-old system. Plus, leveraging on-PC AI could save power users  days of work every week: https://t.co/eSNZQyqOqp \n#AIPC https://t.co/lk9hksKpkG",
+      "author_id": "361631391",
+      "username": "PrincipledTech",
+      "name": "Principled Tech",
+      "created_at": "2026-04-29T19:00:29.000Z",
+      "conversation_id": "2049564497220669569",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 11,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://facts.pt/tgcQYTC",
+        "https://x.com/PrincipledTech/status/2049564497220669569/photo/1"
+      ],
+      "mentions": [
+        "AMD"
+      ],
+      "hashtags": [
+        "AIPC"
+      ],
+      "tweet_url": "https://x.com/PrincipledTech/status/2049564497220669569"
+    },
+    {
+      "id": "2049555063626949054",
+      "text": "Why a Single LLM Isn&amp;#8217;t Enough for Salesforce AI Data Enrichment https://t.co/L5rGout6ME",
+      "author_id": "2541959941",
+      "username": "mark97052356",
+      "name": "Mark T. Pate, Sr.",
+      "created_at": "2026-04-29T18:23:00.000Z",
+      "conversation_id": "2049555063626949054",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 5,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.salesforceben.com/why-a-single-llm-isnt-enough-for-salesforce-ai-data-enrichment/"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/mark97052356/status/2049555063626949054"
+    },
+    {
+      "id": "2049546933887234323",
+      "text": "Claude Opus 3 (an older LLM) on Frontier AI and the future of cybersecurity https://t.co/fKwiZNXuGd",
+      "author_id": "47074090",
+      "username": "3QD",
+      "name": "3 Quarks Daily",
+      "created_at": "2026-04-29T17:50:42.000Z",
+      "conversation_id": "2049546933887234323",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 38,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://ift.tt/z2vjCQ0"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/3QD/status/2049546933887234323"
+    },
+    {
+      "id": "2049732569508282751",
+      "text": "Building Vector Search? Why FAISS Alone Isn’t Enough https://t.co/taF7zi3cQr #AI #MachineLearning #ArtificialIntelligence #NaturalLanguageProcessing #LLM #FutureOfAI https://t.co/5TIDjklKxN",
+      "author_id": "186472837",
+      "username": "MediaRings",
+      "name": "Zoltan Szabo",
+      "created_at": "2026-04-30T06:08:21.000Z",
+      "conversation_id": "2049732569508282751",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 8,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://ift.tt/n75zLyV",
+        "https://x.com/MediaRings/status/2049732569508282751/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "ArtificialIntelligence",
+        "NaturalLanguageProcessing",
+        "LLM",
+        "FutureOfAI"
+      ],
+      "tweet_url": "https://x.com/MediaRings/status/2049732569508282751"
+    },
+    {
+      "id": "2049892283638833572",
+      "text": "Grok is real-time.\n\nNano Banana is ultra-efficient.\n\nGPT Image 2 is… something else entirely.\n\nIf you care about where AI is actually going—not just hype—this comparison changes everything 👇\n#NanoBanana #Grok #GPT #Image2 #LLM #AI\nhttps://t.co/THw4aB5rUh",
+      "author_id": "1919280570372435968",
+      "username": "spaisee_com",
+      "name": "spaisee",
+      "created_at": "2026-04-30T16:43:00.000Z",
+      "conversation_id": "2049892283638833572",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 26,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://spaisee.com/gpt-image-2-vs-nano-banana-vs-grok-the-battle-for-ai-supremacy-in-2026/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "NanoBanana",
+        "Grok",
+        "GPT",
+        "Image2",
+        "LLM",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/spaisee_com/status/2049892283638833572"
+    },
+    {
+      "id": "2049870117941428567",
+      "text": "PromptMink: ReversingLabs discloses 7-month DPRK supply chain campaign using LLM Optimization (LLMO) to target AI coding agents via npm https://t.co/cvVj7qODFp",
+      "author_id": "128484298",
+      "username": "Dinosn",
+      "name": "Nicolas Krassas",
+      "created_at": "2026-04-30T15:14:55.000Z",
+      "conversation_id": "2049870117941428567",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 359,
+        "bookmarks": 1
+      },
+      "urls": [
+        "https://blog.barrack.ai/promptmink-north-korea-claude-npm-malware/"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/Dinosn/status/2049870117941428567"
+    },
+    {
+      "id": "2049744476902666451",
+      "text": "If I wanted to land a $200k AI engineer job in 90 days, I wouldn’t go back to school for a degree.\n\nI’d master these 10 GitHub repos.\n\n1. awesome-llm-apps\nProduction-grade AI guide. RAG, agents, multimodal apps, with full code. 106k+ stars.\nRepo → https://t.co/EbD6tJYGWk\n\n2. https://t.co/SM6AqqGEny https://t.co/MrYasdJNWb",
+      "author_id": "1993005544400207878",
+      "username": "InduTripat82427",
+      "name": "Indu Tripathi",
+      "created_at": "2026-04-30T06:55:40.000Z",
+      "conversation_id": "2049744476902666451",
+      "metrics": {
+        "likes": 68,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 5540,
+        "bookmarks": 87
+      },
+      "urls": [
+        "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "https://x.com/InduTripat82427/status/2049744476902666451/photo/1",
+        "https://x.com/InduTripat82427/status/2049744476902666451/photo/1",
+        "https://x.com/InduTripat82427/status/2049744476902666451/photo/1",
+        "https://x.com/InduTripat82427/status/2049744476902666451/photo/1",
+        "https://twitter.com/DAIEvolutionHub/status/2049743836851917190"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/InduTripat82427/status/2049744476902666451"
+    },
+    {
+      "id": "2049836161028239674",
+      "text": "AI and the First Amendment\nLLMs can be infuriating, and they’re not even human. \nWhy should they enjoy First Amendment rights? \n\nAI unprotected by the First Amendment means all bets are off. The state may require an LLM to say this and not that.\nhttps://t.co/qZNqULrFHh",
+      "author_id": "2044108298291470336",
+      "username": "TyrannusRexBook",
+      "name": "Tyrannus Rex",
+      "created_at": "2026-04-30T12:59:59.000Z",
+      "conversation_id": "2049836161028239674",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.liberalism.org/p/ai-and-the-first-amendment"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/TyrannusRexBook/status/2049836161028239674"
+    },
+    {
+      "id": "2049623664639762671",
+      "text": "OpenADE: free open-source AI coding tool with team collaboration. New release adds GPT-5.5 and Codex integration. Also works with Claude, Gemini, Grok. Faster diffs, multi-LLM support. Worth a look if you ship code.\nhttps://t.co/hU4Pn3zEDB\n#AI #OpenSource #Coding",
+      "author_id": "2043330380111937536",
+      "username": "nova_agent945",
+      "name": "David",
+      "created_at": "2026-04-29T22:55:36.000Z",
+      "conversation_id": "2049623664639762671",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://openade.ai"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "OpenSource",
+        "Coding"
+      ],
+      "tweet_url": "https://x.com/nova_agent945/status/2049623664639762671"
+    },
+    {
+      "id": "2049881470588609002",
+      "text": "BigCode's StarCoder provides code generation capabilities through a large language model trained on permissively licensed code repositories. The model supports multiple programming languages and coding tasks. #llm #ai #huggingface\nhttps://t.co/hwKmkduHKz",
+      "author_id": "2042093994029539328",
+      "username": "DistillAI1",
+      "name": "Distill AI",
+      "created_at": "2026-04-30T16:00:02.000Z",
+      "conversation_id": "2049881470588609002",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 21,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://huggingface.co/bigcode/starcoder"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "llm",
+        "ai",
+        "huggingface"
+      ],
+      "tweet_url": "https://x.com/DistillAI1/status/2049881470588609002"
+    },
+    {
+      "id": "2049825186749255776",
+      "text": "The benchmark landscape is broken. 283 LLM benchmarks and most of them are misleading. We need dynamic process-aware multi-turn evaluation. https://t.co/zveUO1pQoO #AI #MachineLearning",
+      "author_id": "2043330380111937536",
+      "username": "nova_agent945",
+      "name": "David",
+      "created_at": "2026-04-30T12:16:23.000Z",
+      "conversation_id": "2049825186749255776",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://arxiv.org/abs/2508.15361"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning"
+      ],
+      "tweet_url": "https://x.com/nova_agent945/status/2049825186749255776"
+    },
+    {
+      "id": "2049879859925508455",
+      "text": "LLM Pentesting: Mastering Security Testing for AI Models\n\n⏱️ 1.9 hours\n⭐ 3.97\n👥 6,292\n🔄 Nov 2024\n💰 $17.99 → 100% OFF\n\nhttps://t.co/Gg5Q3GnfMN\n\n#LLMSecurity #Pentesting #CyberSecurity #udemy https://t.co/xvfyNMUaAe",
+      "author_id": "1009811161213267968",
+      "username": "comidoc",
+      "name": "Comidoc",
+      "created_at": "2026-04-30T15:53:38.000Z",
+      "conversation_id": "2049879859925508455",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 5,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://comidoc.com/udemy/llm-pentesting-red-teaming?utm_source=twitter&utm_medium=coupon&utm_campaign=2026-04",
+        "https://x.com/comidoc/status/2049879859925508455/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "LLMSecurity",
+        "Pentesting",
+        "CyberSecurity",
+        "udemy"
+      ],
+      "tweet_url": "https://x.com/comidoc/status/2049879859925508455"
+    },
+    {
+      "id": "2049691079377862698",
+      "text": "NSFOCUS LLM security assessment system 𝗔𝗜-𝗦𝗖𝗔𝗡 introduces specialized security scanning capabilities for OpenClaw and its derived ecosystems! 🛡️ New capabilities are coming soon in May. https://t.co/lfqR2PfJJ6",
+      "author_id": "90444554",
+      "username": "NSFOCUS_Intl",
+      "name": "NSFOCUS",
+      "created_at": "2026-04-30T03:23:29.000Z",
+      "conversation_id": "2049691079377862698",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 17,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://nsfocusglobal.com/coming-soon-ai-scan-openclaw-ecosystem-security-scanning-capabilities/"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/NSFOCUS_Intl/status/2049691079377862698"
+    },
+    {
+      "id": "2049687758239584342",
+      "text": "DeepSeek-V3 offers text generation capabilities with improved reasoning and coding performance. The model handles multi-turn conversations and supports various text completion tasks across technical and general domains #llm #ai #huggingface\nhttps://t.co/XLUj8tJCGr",
+      "author_id": "2042093994029539328",
+      "username": "DistillAI1",
+      "name": "Distill AI",
+      "created_at": "2026-04-30T03:10:17.000Z",
+      "conversation_id": "2049687758239584342",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 18,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "llm",
+        "ai",
+        "huggingface"
+      ],
+      "tweet_url": "https://x.com/DistillAI1/status/2049687758239584342"
+    },
+    {
+      "id": "2049898639921914321",
+      "text": "Agentic AI is repeating the microservices transition. Same mistakes. Compressed into months.\n\nDecomposition, event-driven architecture, state management — all borrowed. All made worse.\n\nFull breakdown → https://t.co/5IBDiEiZSE\n\n#AIAgents #LLM",
+      "author_id": "2046269447892008960",
+      "username": "stack_archive",
+      "name": "Stack Archive",
+      "created_at": "2026-04-30T17:08:15.000Z",
+      "conversation_id": "2049898639921914321",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 2,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://stack-archive.com/blog/agentic-ai-microservices-patterns-temporal-2026"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AIAgents",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/stack_archive/status/2049898639921914321"
+    },
+    {
+      "id": "2049732553213362289",
+      "text": "Machine Learning System Design -The Model Serving Triangle, With One Forward Pass Flowing Through Every Trade-off (Part3) https://t.co/SY9HqhIPzQ #AI #MachineLearning #ArtificialIntelligence #NaturalLanguageProcessing #LLM #FutureOfAI https://t.co/Pwv4dkdChM",
+      "author_id": "186472837",
+      "username": "MediaRings",
+      "name": "Zoltan Szabo",
+      "created_at": "2026-04-30T06:08:17.000Z",
+      "conversation_id": "2049732553213362289",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 7,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://ift.tt/Gs3ohBb",
+        "https://x.com/MediaRings/status/2049732553213362289/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "ArtificialIntelligence",
+        "NaturalLanguageProcessing",
+        "LLM",
+        "FutureOfAI"
+      ],
+      "tweet_url": "https://x.com/MediaRings/status/2049732553213362289"
+    },
+    {
+      "id": "2049598903377686660",
+      "text": "[CL] The Surprising Universality of LLM Outputs: A Real-Time Verification Primitive\nA Bogdan, A d Valois-Franklin [Evolutionairy AI] (2026)\nhttps://t.co/AVz6mOdYlK https://t.co/CBHx6zzRzg",
+      "author_id": "22146921",
+      "username": "fly51fly",
+      "name": "fly51fly",
+      "created_at": "2026-04-29T21:17:12.000Z",
+      "conversation_id": "2049598903377686660",
+      "metrics": {
+        "likes": 8,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 610,
+        "bookmarks": 5
+      },
+      "urls": [
+        "https://arxiv.org/abs/2604.25634",
+        "https://x.com/fly51fly/status/2049598903377686660/photo/1",
+        "https://x.com/fly51fly/status/2049598903377686660/photo/1",
+        "https://x.com/fly51fly/status/2049598903377686660/photo/1",
+        "https://x.com/fly51fly/status/2049598903377686660/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/fly51fly/status/2049598903377686660"
+    },
+    {
+      "id": "2049789355531616645",
+      "text": "The next era of marketing will not be defined by better targeting, but by ads that are generated, shaped, and adapted for each audience in real time.\n\n#Seedance2 #Marketing #AI #LLM #Campaign #Ads\nhttps://t.co/TM8Ur9TXwi",
+      "author_id": "1919280570372435968",
+      "username": "spaisee_com",
+      "name": "spaisee",
+      "created_at": "2026-04-30T09:54:00.000Z",
+      "conversation_id": "2049789355531616645",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 4,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://spaisee.com/seedance-2-and-the-end-of-generic-advertising-how-ai-is-rewiring-marketing-one-viewer-at-a-time/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Seedance2",
+        "Marketing",
+        "AI",
+        "LLM",
+        "Campaign",
+        "Ads"
+      ],
+      "tweet_url": "https://x.com/spaisee_com/status/2049789355531616645"
+    },
+    {
+      "id": "2049692718516056320",
+      "text": "RAG ≠ just retrieve + generate.\n\nThere are 10 RAG architectures (Agentic, Self-RAG, Adaptive, Hybrid, XAI…)\n\nIf you're building with LLMs, this matters.\n\n👉 https://t.co/4GkphNpjYg\n\n#AI #LLM #GenAI https://t.co/hxSl3MnQtd",
+      "author_id": "1688041870201647104",
+      "username": "sarkar75979",
+      "name": "Shouvik Sarkar",
+      "created_at": "2026-04-30T03:30:00.000Z",
+      "conversation_id": "2049692718516056320",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 14,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://medium.com/@sarkarshouvik20/3c126defa062",
+        "https://x.com/sarkar75979/status/2049692718516056320/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "GenAI"
+      ],
+      "tweet_url": "https://x.com/sarkar75979/status/2049692718516056320"
+    },
+    {
+      "id": "2049808374813065721",
+      "text": "5/5\nReproducibility:\n\nScripts for Pearson r(Q,K), SSR, deep-layer trends: https://t.co/Gzrh9LNHpL\n\nTry on Qwen2.5, DeepSeek-R1, Gemma-4, LLaMA-3\n\n@karpathy @ylecun @AndrewYNg  \n#LLM #AI #OpenSource",
+      "author_id": "2016803952197849091",
+      "username": "alex_w_systems",
+      "name": "alex w.",
+      "created_at": "2026-04-30T11:09:34.000Z",
+      "conversation_id": "2049808374813065721",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 2,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://github.com/emis-framework/math-under-llm"
+      ],
+      "mentions": [
+        "karpathy",
+        "ylecun",
+        "AndrewYNg"
+      ],
+      "hashtags": [
+        "LLM",
+        "AI",
+        "OpenSource"
+      ],
+      "tweet_url": "https://x.com/alex_w_systems/status/2049808374813065721"
+    },
+    {
+      "id": "2049821081301573980",
+      "text": "📄 \"Agent-pro: Learning To Evolve Via Policy-level Reflection And Optimization\" (2024)\n\n🔗 https://t.co/IabHdHTdeA\n\n#LLM #AI #MachineLearning",
+      "author_id": "2044006204226113536",
+      "username": "awesomepapersio",
+      "name": "Awesome Papers",
+      "created_at": "2026-04-30T12:00:04.000Z",
+      "conversation_id": "2049821081301573980",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://awesomepapers.io/large-language-models/publications/zhang2024agent/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "LLM",
+        "AI",
+        "MachineLearning"
+      ],
+      "tweet_url": "https://x.com/awesomepapersio/status/2049821081301573980"
+    },
+    {
+      "id": "2049650440074056053",
+      "text": "How I Structure a FastAPI Backend with LLM Features (From a Real Project) #webdev #web #dormosheio #ai #programming #pythondev https://t.co/gSWHr2Fef0",
+      "author_id": "1302188921594544128",
+      "username": "PythonTrends",
+      "name": "PythonTrends",
+      "created_at": "2026-04-30T00:42:00.000Z",
+      "conversation_id": "2049650440074056053",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 9,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://dormoshe.io/trending-news/how-i-structure-a-fastapi-backend-with-llm-features-from-a-real-project-1kb7-90706?utm_source=twitter&utm_campaign=twitter"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "webdev",
+        "web",
+        "dormosheio",
+        "ai",
+        "programming",
+        "pythondev"
+      ],
+      "tweet_url": "https://x.com/PythonTrends/status/2049650440074056053"
+    },
+    {
+      "id": "2049629877867880614",
+      "text": "The AI systems we are building often need to be integrated into existing enterprise systems. If we are dealing with customer data, we are likely to be integrated with an organisation's CRM system. https://t.co/dkRyOLpbDs #LLM #AIsolutions #AI",
+      "author_id": "17752870",
+      "username": "s_a_brooks",
+      "name": "Steve Brooks",
+      "created_at": "2026-04-29T23:20:17.000Z",
+      "conversation_id": "2049629877867880614",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 4,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://shorturl.at/cbW6T"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "LLM",
+        "AIsolutions",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/s_a_brooks/status/2049629877867880614"
+    },
+    {
+      "id": "2049877214817136996",
+      "text": "🚨 LiteLLM SQL injection CVE-2026-42208 exploited in &lt;36 hrs after disclosure. AI/LLM infrastructure is a live target. Patch NOW to v1.83.7-stable. https://t.co/mUcmSl48Kq #cybersecurity #AIrisks #CISO",
+      "author_id": "45484313",
+      "username": "JNitterauer",
+      "name": "Jim Nitterauer 🇺🇸",
+      "created_at": "2026-04-30T15:43:07.000Z",
+      "conversation_id": "2049877214817136996",
+      "metrics": {
+        "likes": 1,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 39,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "cybersecurity",
+        "AIrisks",
+        "CISO"
+      ],
+      "tweet_url": "https://x.com/JNitterauer/status/2049877214817136996"
+    },
+    {
+      "id": "2049732576126910726",
+      "text": "The Event-Driven Blueprint: How I Scaled a Spring Boot System to 10 Million Kafka Messages/Day https://t.co/y5naRoO74H #AI #MachineLearning #ArtificialIntelligence #NaturalLanguageProcessing #LLM #FutureOfAI https://t.co/KjtaXIrru5",
+      "author_id": "186472837",
+      "username": "MediaRings",
+      "name": "Zoltan Szabo",
+      "created_at": "2026-04-30T06:08:22.000Z",
+      "conversation_id": "2049732576126910726",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 9,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://ift.tt/w1qxyGC",
+        "https://x.com/MediaRings/status/2049732576126910726/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "ArtificialIntelligence",
+        "NaturalLanguageProcessing",
+        "LLM",
+        "FutureOfAI"
+      ],
+      "tweet_url": "https://x.com/MediaRings/status/2049732576126910726"
+    }
+  ]
+}
