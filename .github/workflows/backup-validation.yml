@@ -22,7 +22,7 @@ jobs:
         run: |
           echo "Scanning for common secret patterns..."
           # Exclude the workflow file itself and .env files to prevent false positives
-          if grep -RInE "ghp_[A-Za-z0-9]{36}|github_pat_|sk-[A-Za-z0-9]+|GIT_PAT=" . --exclude-dir=.git --exclude=".env*" --exclude="backup-validation.yml"; then
+          if grep -RInE "ghp_[A-Za-z0-9]{36,}|github_pat_[A-Za-z0-9_]+|sk-ant-[A-Za-z0-9_-]+|sk-[A-Za-z0-9]{32,}|AIza[A-Za-z0-9_-]{35}|GIT_PAT=" . --exclude-dir=.git --exclude=".env*" --exclude="backup-validation.yml"; then
             echo "Secret patterns detected in repository!"
             exit 1
           fi

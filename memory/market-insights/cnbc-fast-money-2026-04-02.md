@@ -1,0 +1,5 @@
+• *Fading the Bounce:* Despite the market rally ahead of the Iran address, top macro investors are skeptical, advising a "cash buffer" due to persistent geopolitical uncertainty.
+• *Nike's Struggles:* Nike shares have hit 10+ year lows following its latest earnings report, highlighting significant headwinds for the footwear giant.
+• *SpaceX IPO Momentum:* SpaceX has reportedly made a confidential filing for an IPO, which analysts believe could set the stage for a record-breaking public offering.
+• *Housing Market Pressures:* The "spring housing bummer" continues as rising mortgage rates dampen expectations for a seasonal recovery in the real estate sector.
+• *Geopolitical Volatility:* Market participants remain on edge as they brace for a major address regarding Iran, emphasizing that the current bounce lacks a solid fundamental base.

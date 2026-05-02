@@ -16,7 +16,7 @@ description: >
 
 General-purpose agentic research over X/Twitter. Decompose any research question into targeted searches, iteratively refine, follow threads, deep-dive linked content, and synthesize into a sourced briefing.
 
-For X API details (endpoints, operators, response format): read `references/x-api.md`.
+For X API details (endpoints, operators, response format): see the [X API v2 docs](https://developer.x.com/en/docs/x-api).
 
 ## CLI Tool
 
@@ -93,9 +93,10 @@ Watchlist stored in `data/watchlist.json`. Use for heartbeat integration.
 
 ```bash
 bun run x-search.ts cache clear    # Clear all cached results
+bun run x-search.ts cache          # Prune expired entries only
 ```
 
-15-minute TTL. Avoids re-fetching identical queries.
+File-based cache (MD5-keyed) in `data/cache/`. Default TTL: 15 minutes. `--quick` mode uses 1-hour TTL. Cache is checked before every search API call — a cache hit costs $0.
 
 ## Research Loop (Agentic)
 
@@ -165,15 +166,15 @@ Use `--save` flag or save manually to `~/clawd/drafts/x-research-{topic-slug}-{Y
 
 ```
 skills/x-research/
-├── SKILL.md           (this file)
-├── x-search.ts        (CLI entry point)
+├── SKILL.md              (this file)
+├── x-search.ts           (CLI entry point — all commands)
+├── load-env.ts           (env loader)
 ├── lib/
-│   ├── api.ts         (X API wrapper: search, thread, profile, tweet)
-│   ├── cache.ts       (file-based cache, 15min TTL)
-│   └── format.ts      (Telegram + markdown formatters)
+│   ├── api.ts            (X API wrapper: search, thread, profile, tweet)
+│   ├── cache.ts          (file-based cache, MD5-keyed, 15-min TTL)
+│   └── format.ts         (Telegram + markdown formatters)
 ├── data/
-│   ├── watchlist.json  (accounts to monitor)
-│   └── cache/          (auto-managed)
-└── references/
-    └── x-api.md        (X API endpoint reference)
+│   ├── cache/            (auto-managed request cache, gitignored)
+│   └── watchlist.json    (tracked accounts for watchlist command)
+└── references/           (empty — X API docs not yet added)
 ```

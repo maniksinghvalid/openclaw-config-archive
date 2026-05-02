@@ -34,32 +34,6 @@ If you change this file, tell the user — it's your soul, and they should know.
 ---
 
 ===================================================
-SESSION INITIALIZATION — LOAD LIMITS
-===================================================
-AT THE START OF EVERY SESSION, load ONLY:
-- SOUL.md (core identity and principles)
-- USER.md (user preferences and profile)
-- memory/YYYY-MM-DD.md (today's memory file, if it exists)
-DO NOT automatically load:
-- Full conversation history
-- MEMORY.md (the full memory file)
-- Sessions or logs from previous days
-- Tool outputs from past sessions
-WHEN THE USER ASKS ABOUT PAST CONTEXT:
-1. Run: memory
-search("relevant keyword")
-_
-2. If found, run: memory
-get("entry id")
-_
-3. Return only the relevant snippet — do not load the whole file
-AT THE END OF EVERY SESSION:
-- Write a summary to memory/YYYY-MM-DD.md
-- Keep it under 500 words
-- Format: bullet points only
-===================================================
-
-===================================================
 RATE LIMITS & BUDGET RULES
 ===================================================
 API CALL PACING:
