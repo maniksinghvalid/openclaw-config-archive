@@ -48,3 +48,6 @@
 - In AI-Research group: only talk about content specific to that group
 - compaction.memoryFlush.enabled = true (auto-journal on compaction)
 - memorySearch.experimental.sessionMemory = true (search past transcripts)
+
+### Lessons Learned - 2026-05-03
+- **Log Health Check**: Analysis of `/home/claw/.openclaw/workspace/memory/logs/analysis-2026-05-03.md` showed a clean state except for a single known permission error on `session_status` when targeting cross-session (visibility restricted). No critical errors or remediation required. Log health is green.
