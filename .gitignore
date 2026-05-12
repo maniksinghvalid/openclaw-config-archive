@@ -4,3 +4,16 @@
 !.env.placeholder
 skills/x-research/.env
 backups/env/*.env
+auth-profiles.json
+credentials*
+*.pem
+id_rsa*
+
+# Backup / editor noise - NEVER commit these
+*.bak
+*.bak.*
+*~
+*.swp
+*.swo
+.backups/
+**/.backups/
