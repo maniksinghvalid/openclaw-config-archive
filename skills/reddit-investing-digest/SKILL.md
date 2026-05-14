@@ -26,37 +26,34 @@ When this skill is triggered, follow these steps **in order**:
 
 ### Step 1 — Fetch Reddit Posts
 
-Use `mcp__MCP_DOCKER__browser_navigate` to retrieve the top posts from each subreddit using Reddit's public JSON API (no authentication required). Fetch **top posts from the past 24 hours** (`t=day`), up to 25 posts each.
+Use the `reddit-reader` skill's `fetch_reddit.py` script. The `www.reddit.com` JSON endpoint is blocked from this host (returns 403/HTML); the script uses `old.reddit.com` Atom feeds and is the only sanctioned path.
 
-Fetch these four URLs:
+Run these four commands and parse the output:
 
+```bash
+python3 /home/claw/.openclaw/workspace/skills/reddit-reader/scripts/fetch_reddit.py subreddit wallstreetbets --listing top --time day --limit 25
+python3 /home/claw/.openclaw/workspace/skills/reddit-reader/scripts/fetch_reddit.py subreddit options --listing top --time day --limit 25
+python3 /home/claw/.openclaw/workspace/skills/reddit-reader/scripts/fetch_reddit.py subreddit investing --listing top --time day --limit 25
+python3 /home/claw/.openclaw/workspace/skills/reddit-reader/scripts/fetch_reddit.py subreddit stocks --listing top --time day --limit 25
 ```
-https://www.reddit.com/r/wallstreetbets/top.json?t=day&limit=25
-https://www.reddit.com/r/options/top.json?t=day&limit=25
-https://www.reddit.com/r/investing/top.json?t=day&limit=25
-https://www.reddit.com/r/stocks/top.json?t=day&limit=25
-```
 
-For each post, extract:
+For each post, extract from the script output:
 - `title`
-- `score` (upvotes)
-- `num_comments`
-- `url` (the permalink, prefixed with `https://reddit.com`)
-- `selftext` (body text, first 300 characters)
+- `author`
+- `url` (the reddit.com permalink the script prints)
 - `subreddit`
-- `permalink` (for constructing comment URLs in Step 1b)
 
-If a fetch returns a 429 rate-limit error, wait 3 seconds and retry once. If a subreddit is unavailable, skip it and note it in the report.
+Note: the Atom-feed source does **not** expose `score` or `num_comments` — do not invent these. Rank posts by feed order (subreddit-sorted top-of-day) and cite engagement only when available downstream. If a subreddit returns no entries, skip it and note it in the report.
 
 #### Step 1b — Fetch Top Comments for Top 3 Posts
 
-After collecting all posts, identify the 3 highest-scoring posts overall. For each of those 3 posts, fetch the comments thread:
+After collecting all posts, identify 3 posts you want to dig deeper on (highest interest by title/topic). For each, extract the `post_id` from the URL (e.g. `reddit.com/r/wallstreetbets/comments/abc123/...` → `abc123`) and run:
 
-```
-https://www.reddit.com/r{permalink}.json?limit=5&sort=top
+```bash
+python3 /home/claw/.openclaw/workspace/skills/reddit-reader/scripts/fetch_reddit.py comments <subreddit> <post_id>
 ```
 
-Extract the top comment (highest score) from the response: its `body` text and `score`. You'll use this in Step 2E. If comment fetching fails for any post, skip gracefully.
+Extract the top comment from the response. If comment fetching fails for any post, skip gracefully.
 
 ---
 

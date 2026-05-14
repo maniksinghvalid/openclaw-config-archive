@@ -265,6 +265,41 @@ When a specialist returns results, pass them to the user as-is (or lightly frame
 
 See `TEAM.md` in this workspace for the full team charter.
 
+## 🔒 Secrets & Backups — Never Cross The Sync Line
+
+**Why this section exists:** on 2026-05-12 a stray editor `.bak` file from April leaked all the way to the public GitHub mirror. Plaintext token snapshots in top-level `openclaw.json.bak*` files were one zip away from a similar fate. These rules exist so it does not happen again.
+
+### Rule 1 — Backups stay off the wire
+Anything matching these patterns must never be in a directory that `scripts/daily-sync.sh` reads:
+
+- `*.bak`, `*.bak.*`, `*~`, `*.swp`, `*.swo` (editor leftovers)
+- `.backups/`, `**/.backups/` (any backup snapshot dir)
+
+If you need a snapshot, write it to `/home/claw/.openclaw/.backups/` (outside every workspace, perms 700) — not to `workspace/`, `workspace-financial-advisor/`, `workspace-main/`, or `workspace-research/`.
+
+### Rule 2 — Credentials stay off the wire
+Never write or copy these into a workspace directory:
+
+- `.env`, `*.env`, `auth-profiles.json`, `credentials*`, `*.pem`, `id_rsa*`
+- The literal value of `channels.telegram.botToken` or `gateway.auth.token` from `openclaw.json`
+
+These live exclusively under `/home/claw/.openclaw/agents/<id>/agent/` and `/home/claw/.openclaw/openclaw.json` and must stay there.
+
+### Rule 3 — The sync script enforces all of the above
+`scripts/daily-sync.sh` has three independent defenses; do not weaken any of them:
+
+1. **`sync_dir` strips** the patterns above from the destination before staging.
+2. **Pre-commit hard-stop** rejects any staged file whose name matches a backup pattern.
+3. **Pre-commit secret scan** rejects any staged diff containing GitHub / Anthropic / OpenAI / OpenRouter / Google / DeepSeek key prefixes, Telegram-bot-token shapes, or the exact live token values from `openclaw.json`.
+
+If you add a new credential format or backup convention, update **all three** plus `new-clean-repo/.gitignore`.
+
+### Rule 4 — If a leak happens
+1. `git rm` the file in `new-clean-repo/`, commit, push immediately.
+2. Verify the source is also removed from `workspace*/`.
+3. If the leaked content was a token, **rotate the token** — `git rm` removes the file but the value is still in commit history.
+4. Add a regression pattern to the sync script's secret scan.
+
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
