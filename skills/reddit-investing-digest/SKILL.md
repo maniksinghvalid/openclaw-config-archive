@@ -62,11 +62,11 @@ Extract the top comment from the response. If comment fetching fails for any pos
 Process all posts across all four subreddits and identify:
 
 **A. Trending Posts**
-- Top 5 highest-scored posts overall (any subreddit)
-- Rank them by `score`
+- Top 5 most notable posts overall (any subreddit)
+- The Atom feed does not expose `score` or `num_comments` — rank by feed order (each subreddit is fetched `top`/`day`, so earlier entries rank higher) combined with topical relevance
 
 **B. Most-Mentioned Tickers**
-- Scan all titles and body text for stock ticker symbols
+- Scan all post titles for stock ticker symbols (post body text is not available from the Atom feed — titles only)
 - Match: `$TICKER` format, or standalone ALL-CAPS words 2–5 letters that look like tickers (e.g. AAPL, NVDA, SPY, QQQ, TSLA)
 - Exclude common non-ticker words: I, A, AI (context-dependent), DD, WSB, OTM, ITM, ATM, CEO, IPO, ETF, NYSE, NASDAQ, GDP, CPI, FED, IMO, TBH, EOD, YTD
 - List the top 10 most-mentioned tickers with mention count
@@ -102,19 +102,10 @@ Format the final report exactly as shown below. Use Telegram-compatible markdown
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 
 1. [{post title}]({url}) — r/{subreddit}
-   ⬆️ {score} upvotes | 💬 {comments} comments
-
 2. [{post title}]({url}) — r/{subreddit}
-   ⬆️ {score} upvotes | 💬 {comments} comments
-
 3. [{post title}]({url}) — r/{subreddit}
-   ⬆️ {score} upvotes | 💬 {comments} comments
-
 4. [{post title}]({url}) — r/{subreddit}
-   ⬆️ {score} upvotes | 💬 {comments} comments
-
 5. [{post title}]({url}) — r/{subreddit}
-   ⬆️ {score} upvotes | 💬 {comments} comments
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 📈 *MOST-MENTIONED TICKERS*
@@ -163,10 +154,10 @@ Overall: {🟢 Bullish / 🔴 Bearish / 🟡 Mixed} — {1-sentence overall summ
 ```
 
 **CITATION RULES (mandatory — do not skip or reformat):**
-- Every post in TOP TRENDING POSTS must use `[{post title}]({url})` with the exact Reddit URL from the `permalink` field (prefixed with `https://reddit.com`). Never write a bare title.
+- Every post in TOP TRENDING POSTS must use `[{post title}]({url})` with the exact Reddit URL the script prints for that post. Never write a bare title.
 - Every NOTABLE COMMENT must use `[{post title}]({url})` for the Post line — same URL rule.
 - Every NOTABLE OPTIONS PLAY must link to the source post using `[r/{subreddit}]({url})`.
-- Upvote counts and comment counts must come from actual API data — do not estimate or omit.
+- The Atom feed provides no upvote or comment counts — never invent, estimate, or display these numbers.
 - Do not deviate from the section structure above. Do not replace it with freeform analysis or narrative prose. The format is fixed.
 - If a section has no qualifying content, write the section header and "Nothing notable today." — do not skip the section.
 
@@ -232,8 +223,8 @@ Report parts sent: {1 or 2}
 
 ## Notes
 
-- Reddit's public JSON API does not require authentication for `top` posts
-- Always use `t=day` to get posts from the last 24 hours
+- The skill reads `old.reddit.com` Atom feeds via `fetch_reddit.py` — no authentication required. `www.reddit.com` JSON/RSS is firewalled from this host (returns 403/HTML)
+- Always use `--time day` to get posts from the last 24 hours
 - Do not store or log individual Reddit usernames in any persistent memory
 - Telegram Markdown: use `*bold*`, `_italic_`, `` `code` `` — avoid unsupported tags like `**` or `###`
 - Always include the disclaimer footer on every report
