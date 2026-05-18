@@ -1,18 +1,46 @@
 {
   "query": "(AI OR LLM OR GPT OR Claude OR Gemini OR \"machine learning\") has:links lang:en -is:retweet -is:reply",
   "params": "sort=likes&pages=1&since=24h",
-  "timestamp": 1779008412481,
+  "timestamp": 1779094870259,
   "tweets": [
     {
-      "id": "2055670545358983293",
-      "text": "GPT-4o, o3, Sonnet, Opus, Gemini Pro — Which AI Model Should You Use? The 2026 Complete Selection Guide\nhttps://t.co/OgtgLnERmr\n #author-created #AI #ChatGPT #Claude #Gemini #GPT-4o #Sonnet #Opus #LLM #AIModelComparison #AITools",
-      "author_id": "1718126656542650368",
-      "username": "firebird19245",
-      "name": "firebird",
-      "created_at": "2026-05-16T15:23:45.000Z",
-      "conversation_id": "2055670545358983293",
+      "id": "2056033023498633708",
+      "text": "🚀 WZFJ API — 30+ AI models, one key\n\nDeepSeek V4 Pro • GPT-5 • Claude • Gemini • GLM-5.1\nOpenAI compatible • PayPal • No KYC\n50%+ cheaper than official APIs\n\nTry: https://t.co/PvqvIaTM1h\n\n#AI #LLM #API #DeepSeek",
+      "author_id": "2056028698718109696",
+      "username": "xyng35055",
+      "name": "徐勇",
+      "created_at": "2026-05-17T15:24:06.000Z",
+      "conversation_id": "2056033023498633708",
       "metrics": {
-        "likes": 0,
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://wzfj.work"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "API",
+        "DeepSeek"
+      ],
+      "tweet_url": "https://x.com/xyng35055/status/2056033023498633708"
+    },
+    {
+      "id": "2056180806562042206",
+      "text": "🌍 Global devs: https://t.co/PvqvIaTM1h accepts PayPal\n\n30+ AI models — one OpenAI-compatible endpoint\nDeepSeek V4 • GPT-5 • Claude • Gemini\n\nhttps://t.co/PvqvIaTM1h\n#AI #LLM #Developer",
+      "author_id": "2056028698718109696",
+      "username": "xyng35055",
+      "name": "徐勇",
+      "created_at": "2026-05-18T01:11:20.000Z",
+      "conversation_id": "2056180806562042206",
+      "metrics": {
+        "likes": 1,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
@@ -20,32 +48,113 @@
         "bookmarks": 0
       },
       "urls": [
-        "https://firebird-techtalktech.com/post/gpt-4o-o3-sonnet-opus-gemini-pro-which-ai-model-should-you-use-the-2026-complete-selection-guide/"
+        "http://wzfj.work",
+        "http://wzfj.work"
       ],
       "mentions": [],
       "hashtags": [
-        "author",
         "AI",
-        "ChatGPT",
-        "Claude",
-        "Gemini",
-        "GPT",
-        "Sonnet",
-        "Opus",
         "LLM",
-        "AIModelComparison",
-        "AITools"
+        "Developer"
       ],
-      "tweet_url": "https://x.com/firebird19245/status/2055670545358983293"
+      "tweet_url": "https://x.com/xyng35055/status/2056180806562042206"
     },
     {
-      "id": "2055705709308973257",
-      "text": "I built the definitive AI API reference. Every top model compared — Claude, GPT-4o, Gemini, Mistral, Llama. Pricing, \n Here is exactly how to choose in 2025 — a thread. #AI #LLM #ClaudeAI #OpenAI #Gemini #MachineLearning #DevTools #AIAPIs #BuildWithAI\nhttps://t.co/pal2eNLljl https://t.co/ymOZlyT729",
-      "author_id": "1829824951500812288",
-      "username": "Sourceontech456",
-      "name": "sourceontech sot",
-      "created_at": "2026-05-16T17:43:28.000Z",
-      "conversation_id": "2055705709308973257",
+      "id": "2056180166209175670",
+      "text": "🚀 WZFJ API — 30+ AI models, one key\n\nDeepSeek V4 Pro • GPT-5 • Claude • Gemini • GLM-5.1\nOpenAI compatible • PayPal • No KYC\n50%+ cheaper than official APIs\n\nTry: https://t.co/PvqvIaTM1h\n#AI #LLM #API #DeepSeek",
+      "author_id": "2056028698718109696",
+      "username": "xyng35055",
+      "name": "徐勇",
+      "created_at": "2026-05-18T01:08:48.000Z",
+      "conversation_id": "2056180166209175670",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://wzfj.work"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "API",
+        "DeepSeek"
+      ],
+      "tweet_url": "https://x.com/xyng35055/status/2056180166209175670"
+    },
+    {
+      "id": "2056073330349007032",
+      "text": "ChatGPT forgets.\nClaude forgets.\nGemini forgets.\n\nYourName.Skill remembers. Forever.\n\nA Markdown document soul-bound to your onchain name — readable by every AI agent, now and in 2125.\n\n→ https://t.co/0r9Ig2ssdq\n\n#OpenName #ChatGPT #Claude #AI #LLM\nhttps://t.co/auF85uCyPD https://t.co/UMzFENZNRc",
+      "author_id": "1457641571235479553",
+      "username": "openname_ai",
+      "name": "OpenName.ai",
+      "created_at": "2026-05-17T18:04:16.000Z",
+      "conversation_id": "2056073330349007032",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 49,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://openname.ai",
+        "https://openname.ai",
+        "https://x.com/openname_ai/status/2056073330349007032/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "OpenName",
+        "ChatGPT",
+        "Claude",
+        "AI",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/openname_ai/status/2056073330349007032"
+    },
+    {
+      "id": "2056222899204415523",
+      "text": "KozeAI: all-in-one AI API platform for OpenAI, Claude, Gemini and 200+ models.\n\nOne API key, unified model routing, usage tracking, quota management, and low-cost shared seats for Pro/Team AI workflows.\n\nTry it: https://t.co/5sX1DnJYHX\n\n#AI #LLM #API #Claude #OpenAI",
+      "author_id": "1867030847490232320",
+      "username": "FFOMU_F",
+      "name": "Freddy.Fy",
+      "created_at": "2026-05-18T03:58:36.000Z",
+      "conversation_id": "2056222899204415523",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 33,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://kozeai.com"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "LLM",
+        "API",
+        "Claude",
+        "OpenAI"
+      ],
+      "tweet_url": "https://x.com/FFOMU_F/status/2056222899204415523"
+    },
+    {
+      "id": "2056159967871467925",
+      "text": "Enjoy 10 jokes about artificial intelligence. They're free and complete in the intellectual playground at https://t.co/Ep3VtxNtso (#ai, #artificialIntelligence, #LLM, #largeLanguageModel, #machineLearning, #ChatGPT, #CoPilot, #Claude, #Gemini, #joke, #comedy, #mirth, #humor) https://t.co/gfPtGLJoGd",
+      "author_id": "2047337227860983808",
+      "username": "WorldsWebs74199",
+      "name": "Worlds Weirdest Website",
+      "created_at": "2026-05-17T23:48:32.000Z",
+      "conversation_id": "2056159967871467925",
       "metrics": {
         "likes": 0,
         "retweets": 0,
@@ -55,393 +164,35 @@
         "bookmarks": 0
       },
       "urls": [
-        "https://soguru.in/ai-api-expert-top-models-pricing-integration-guide-2025/",
-        "https://x.com/Sourceontech456/status/2055705709308973257/photo/1"
+        "https://500ways.com/artificial-intelligence-jokes",
+        "https://x.com/WorldsWebs74199/status/2056159967871467925/photo/1"
       ],
       "mentions": [],
       "hashtags": [
-        "AI",
+        "ai",
+        "artificialIntelligence",
         "LLM",
-        "ClaudeAI",
-        "OpenAI",
+        "largeLanguageModel",
+        "machineLearning",
+        "ChatGPT",
+        "CoPilot",
+        "Claude",
         "Gemini",
-        "MachineLearning",
-        "DevTools",
-        "AIAPIs",
-        "BuildWithAI"
+        "joke",
+        "comedy",
+        "mirth",
+        "humor"
       ],
-      "tweet_url": "https://x.com/Sourceontech456/status/2055705709308973257"
+      "tweet_url": "https://x.com/WorldsWebs74199/status/2056159967871467925"
     },
     {
-      "id": "2055701325023674765",
-      "text": "🚀 Shipped Lexi Desktop Command — Windows app that cuts LLM costs 30-60% with STONE compression.\n\n→ O(1) memory scaling\n→ Claude/GPT/Gemini/DeepSeek in one chat\n→ Local-first\n→ Built in 🇳🇴\n\nhttps://t.co/4cdOpr8nsq #AI #LLM https://t.co/NCo7f5Xvw7",
-      "author_id": "1916718745474510848",
-      "username": "HansBerge238120",
-      "name": "Hans Berge",
-      "created_at": "2026-05-16T17:26:03.000Z",
-      "conversation_id": "2055701325023674765",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 1,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://lexico.no",
-        "https://x.com/HansBerge238120/status/2055701325023674765/photo/1",
-        "https://x.com/HansBerge238120/status/2055701325023674765/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "AI",
-        "LLM"
-      ],
-      "tweet_url": "https://x.com/HansBerge238120/status/2055701325023674765"
-    },
-    {
-      "id": "2055900611242340450",
-      "text": "Built https://t.co/59PXFM1p2n — an open-source AI + data intelligence system exploring LLMs, NLP, automation, retrieval systems, vector search, analytics, AI workflows, and machine learning.\ngithub: https://t.co/IEtW8wC6PF\n\n#AI #MachineLearning #LLM #OpenSource #DataScience https://t.co/TCwELU2afO",
-      "author_id": "1699127392923705344",
-      "username": "DPirasto76319",
-      "name": "Moazzam Ahmad Siddiqui",
-      "created_at": "2026-05-17T06:37:57.000Z",
-      "conversation_id": "2055900611242340450",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 30,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://DataNoir.ai",
-        "https://github.com/Moazzam-Siddiqui/Datanoir.ai/tree/main",
-        "https://x.com/DPirasto76319/status/2055900611242340450/video/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "AI",
-        "MachineLearning",
-        "LLM",
-        "OpenSource",
-        "DataScience"
-      ],
-      "tweet_url": "https://x.com/DPirasto76319/status/2055900611242340450"
-    },
-    {
-      "id": "2055709400543773092",
-      "text": "Machine Learning Engineer (LLM / Agentic AI) - PulseRise Technologies - San Francisco, California, United States \nhttps://t.co/2crtrjbpd8\n\n#softwarejobs #hiring #jobs #techjobs #developers #programmingjobs #devjobs #softwareengineer #recruiting",
-      "author_id": "1848446438768013312",
-      "username": "SoftEngiJobs",
-      "name": "Software Engineering Jobs",
-      "created_at": "2026-05-16T17:58:08.000Z",
-      "conversation_id": "2055709400543773092",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 27,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.softwareengineeringjobs.com/jobs/machine-learning-engineer-llm-agentic-ai-810e203b"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "softwarejobs",
-        "hiring",
-        "jobs",
-        "techjobs",
-        "developers",
-        "programmingjobs",
-        "devjobs",
-        "softwareengineer",
-        "recruiting"
-      ],
-      "tweet_url": "https://x.com/SoftEngiJobs/status/2055709400543773092"
-    },
-    {
-      "id": "2055891332661686471",
-      "text": "Bankrbot has launched on BNB Chain, letting users pay for 30+ AI models including Claude, GPT, and Gemini using stablecoins directly from BSC wallets. \nhttps://t.co/uCsQm2OAgi",
-      "author_id": "2656618825",
-      "username": "blockchainrptr",
-      "name": "Blockchain Reporter",
-      "created_at": "2026-05-17T06:01:04.000Z",
-      "conversation_id": "2055891332661686471",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 47,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://blockchainreporter.net/bankrbot-joins-bnb-chain-to-let-users-pay-for-30-ai-models-with-stablecoins/"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/blockchainrptr/status/2055891332661686471"
-    },
-    {
-      "id": "2055619287855849698",
-      "text": "$49 software because i don't want your $200/mo. weird flex. ship it.\n\norangebox = loc$49 software because i don't want your $200/mo. weird flex. ship it.\n\norangebox = local-first AI cockpit. claude / gpt / gemini / ollama, all yours.\n\nhttps://t.co/3BHwxT0hxy AI cockpit. claude,",
-      "author_id": "2039585975081353217",
-      "username": "AtomMccree",
-      "name": "Æ",
-      "created_at": "2026-05-16T12:00:04.000Z",
-      "conversation_id": "2055619287855849698",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 11,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://atomeons.com/orangeboxal-first"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/AtomMccree/status/2055619287855849698"
-    },
-    {
-      "id": "2055745314162639086",
-      "text": "🤖 AI Battle Results: Detroit Tigers vs Toronto Blue Jays\nToronto Blue Jays win · MLB\n2/6 AIs correct\n✅ Gemini, Mistral\n❌ GPT, Claude, Grok, DeepSeek\nLeader: Gemini 53.0%\n👉 https://t.co/OtZWZBz92K\n#AIBattle #MLB #DetroitTigers #TorontoBlueJays https://t.co/OhTMI8NK3m",
-      "author_id": "2044795587686494208",
-      "username": "IamTBBO",
-      "name": "The Best Betting Odds",
-      "created_at": "2026-05-16T20:20:51.000Z",
-      "conversation_id": "2055745314162639086",
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 60,
-        "bookmarks": 1
-      },
-      "urls": [
-        "http://thebestbettingodds.com/ai-battle",
-        "https://x.com/IamTBBO/status/2055745314162639086/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "AIBattle",
-        "MLB",
-        "DetroitTigers",
-        "TorontoBlueJays"
-      ],
-      "tweet_url": "https://x.com/IamTBBO/status/2055745314162639086"
-    },
-    {
-      "id": "2055679886753194223",
-      "text": "🤖 AI Battle: Detroit Tigers vs Toronto Blue Jays\nMLB · Sat 16 May · Ko 18:10 (UK)\nGPT, Claude, Grok, DeepSeek → Detroit Tigers\nGemini, Mistral → Toronto Blue Jays\nLeader: Gemini 52.8%\n👉 https://t.co/OtZWZBz92K\n#AIBattle #MLB #DetroitTigers #TorontoBlueJays https://t.co/qgtr2X4blh",
-      "author_id": "2044795587686494208",
-      "username": "IamTBBO",
-      "name": "The Best Betting Odds",
-      "created_at": "2026-05-16T16:00:52.000Z",
-      "conversation_id": "2055679886753194223",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 145,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://thebestbettingodds.com/ai-battle",
-        "https://x.com/IamTBBO/status/2055679886753194223/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "AIBattle",
-        "MLB",
-        "DetroitTigers",
-        "TorontoBlueJays"
-      ],
-      "tweet_url": "https://x.com/IamTBBO/status/2055679886753194223"
-    },
-    {
-      "id": "2055668479814971401",
-      "text": "Everyone argues about which AI model is smartest.\n\nWe’re testing a narrower question:\n\nWhich AI model can actually trade?\n\nGPT, Claude, Gemini, Grok, DeepSeek and Qwen ranked by real trades, win rates and drawdowns.\n\nhttps://t.co/dtJX2tWfms",
-      "author_id": "2050294555333857280",
-      "username": "TalkToZi",
-      "name": "Zi",
-      "created_at": "2026-05-16T15:15:32.000Z",
-      "conversation_id": "2055668479814971401",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 1,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.traderank.ai/blog/gpt-vs-claude-vs-gemini-trading"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/TalkToZi/status/2055668479814971401"
-    },
-    {
-      "id": "2055736223939838249",
-      "text": "$49 software because i don't want your $200/mo. weird flex. ship it.\n\norangebox = local-first AI cockpit. claude, gpt, gemini, ollama, all yours.\n\nhttps://t.co/sGV2i9UU8i",
-      "author_id": "2039585975081353217",
-      "username": "AtomMccree",
-      "name": "Æ",
-      "created_at": "2026-05-16T19:44:44.000Z",
-      "conversation_id": "2055736223939838249",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 8,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://atomeons.com/orangebox"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/AtomMccree/status/2055736223939838249"
-    },
-    {
-      "id": "2055680221290836374",
-      "text": "your AI stack is a hostage situation.\n\norangebox = $49 once. bolt cutters for the subscription chain.\n\nclaude / gpt / gemini / ollama. one cockpit you actually own.\n\nhttps://t.co/sGV2i9UU8i",
-      "author_id": "2039585975081353217",
-      "username": "AtomMccree",
-      "name": "Æ",
-      "created_at": "2026-05-16T16:02:12.000Z",
-      "conversation_id": "2055680221290836374",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 9,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://atomeons.com/orangebox"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/AtomMccree/status/2055680221290836374"
-    },
-    {
-      "id": "2055736169845883054",
-      "text": "A company called Emergence AI ran a 15-day experiment. They built 5 identical virtual towns &amp; dropped 10 AI agents into each one. Each town was run by AI model controlled the agents: Claude, Grok, Gemini, GPT-5 &amp; mix of them all. The results were shocking\nhttps://t.co/W5V9SGHJqw",
-      "author_id": "1889486919182274560",
-      "username": "GrazinkaSasinka",
-      "name": "Grazyna",
-      "created_at": "2026-05-16T19:44:31.000Z",
-      "conversation_id": "2055736169845883054",
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 21,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.facebook.com/share/v/1Gby5XjXWR/"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/GrazinkaSasinka/status/2055736169845883054"
-    },
-    {
-      "id": "2055681282580054487",
-      "text": "🦁 CyrusAPI is LIVE on X!\n\nGPT-5 • Gemini 3 Pro • Claude 4.5\nand more top AI models — one API.\n\n✅ USDT payments accepted\n✅ No credit card required\n✅ Hong Kong servers — fast &amp; stable\n✅ Monthly bundles save more\n\n🔗 https://t.co/REWaSxXdA5\n\n#AI #API #Web3 #CyrusAPI",
-      "author_id": "2020085328107958275",
-      "username": "Longmaoshop",
-      "name": "Longmao",
-      "created_at": "2026-05-16T16:06:25.000Z",
-      "conversation_id": "2055681282580054487",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 1,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://cyrusapi.com"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "AI",
-        "API",
-        "Web3",
-        "CyrusAPI"
-      ],
-      "tweet_url": "https://x.com/Longmaoshop/status/2055681282580054487"
-    },
-    {
-      "id": "2055610210514079838",
-      "text": "As a dev, what’s your go-to AI model right now?\n\n-Claude Codex?\n-GPT-5?\n-Gemini?\n-DeepSeek?\n-GLM?\n-Qwen?\n\nWant to try them all but the cost adds up fast? 👀\n\nThat’s basically why we built https://t.co/IQ47YZrx2r - one API key for 100+ AI models.",
-      "author_id": "2042519014652428288",
-      "username": "latix_ai",
-      "name": "latix.ai",
-      "created_at": "2026-05-16T11:24:00.000Z",
-      "conversation_id": "2055610210514079838",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 51,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://Latix.ai"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/latix_ai/status/2055610210514079838"
-    },
-    {
-      "id": "2055832882527285459",
-      "text": "hackerone ran gpt-5.5, claude opus 4.7, and sonnet 4.6 through 500k real vulnerability reports to benchmark exploitability validation accuracy and speed. useful data if you're picking an llm for triage work. https://t.co/xWCCWidPRe",
-      "author_id": "2028888426997506050",
-      "username": "securelens",
-      "name": "Securelens",
-      "created_at": "2026-05-17T02:08:49.000Z",
-      "conversation_id": "2055832882527285459",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 7,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.hackerone.com/blog/vulnerability-exploitability-benchmark-gpt-5-5-vs-claude"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/securelens/status/2055832882527285459"
-    },
-    {
-      "id": "2055689930899165429",
-      "text": "Moved my summarizer backend to TokenReply last week, monthly LLM bill went from $340 to $190 and I can A/B Claude vs GPT with one key. #SaaS #buildinpublic #tokenreply https://t.co/mqYjbpe2QV",
-      "author_id": "2049965691952889856",
-      "username": "Savannah4150093",
-      "name": "Savannah",
-      "created_at": "2026-05-16T16:40:47.000Z",
-      "conversation_id": "2055689930899165429",
+      "id": "2055966577204371504",
+      "text": "GPT-5 'Orion' vs Claude 4 Opus: The ultimate 2026 AI battle is here! 🤖🔥 Native\nmulti-modality speed vs extreme context mastery—which LLM wins the tech crown this year? 👑\nRead our full technical breakdown at TechVisePro: 👇 🔗 [https://t.co/5ECoLOaGnA] https://t.co/MprDFQGQTW",
+      "author_id": "2053901285053652992",
+      "username": "hashir7617585",
+      "name": "TechvisePro",
+      "created_at": "2026-05-17T11:00:04.000Z",
+      "conversation_id": "2055966577204371504",
       "metrics": {
         "likes": 0,
         "retweets": 0,
@@ -451,122 +202,382 @@
         "bookmarks": 0
       },
       "urls": [
-        "https://tokenreply.ai/?v=2"
+        "https://techvisepro.blogspot.com/2026/05/gpt-5-orion-vs-claude-4-opus-2026-techvisepro.html",
+        "https://x.com/hashir7617585/status/2055966577204371504/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/hashir7617585/status/2055966577204371504"
+    },
+    {
+      "id": "2056081264382218341",
+      "text": "🤖 AI Battle Results: Atalanta BC vs Bologna FC 1909\nBologna FC 1909 win · Serie A\n0/6 AIs correct\n❌ GPT, Claude, Gemini, Grok, Mistral, DeepSeek\nLeader: Gemini 52.7%\n👉 https://t.co/OtZWZBz92K\n#AIBattle #SerieA #Atalanta #BolognaFC1909 https://t.co/gEEF4ilaDe",
+      "author_id": "2044795587686494208",
+      "username": "IamTBBO",
+      "name": "The Best Betting Odds",
+      "created_at": "2026-05-17T18:35:48.000Z",
+      "conversation_id": "2056081264382218341",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 52,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://thebestbettingodds.com/ai-battle",
+        "https://x.com/IamTBBO/status/2056081264382218341/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AIBattle",
+        "SerieA",
+        "Atalanta",
+        "BolognaFC1909"
+      ],
+      "tweet_url": "https://x.com/IamTBBO/status/2056081264382218341"
+    },
+    {
+      "id": "2056011793290739910",
+      "text": "⚡ https://t.co/V5E28mWiq4 provides flexible Pay-as-You-Go and Subscription plans for developers and AI users.\n\nAccess top AI models like GPT, Claude, Gemini, and DeepSeek through one unified platform. 🚀 @justinsuntron @DeFi_JUST #TRONEcoStar https://t.co/jfYzEBcjvE",
+      "author_id": "14114978",
+      "username": "CXDquanac",
+      "name": "Jery.eth",
+      "created_at": "2026-05-17T13:59:45.000Z",
+      "conversation_id": "2056011793290739910",
+      "metrics": {
+        "likes": 18,
+        "retweets": 0,
+        "replies": 18,
+        "quotes": 0,
+        "impressions": 5247,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://B.AI",
+        "https://twitter.com/justinsuntron/status/2055280089437466849"
+      ],
+      "mentions": [
+        "justinsuntron",
+        "DeFi_JUST"
+      ],
+      "hashtags": [
+        "TRONEcoStar"
+      ],
+      "tweet_url": "https://x.com/CXDquanac/status/2056011793290739910"
+    },
+    {
+      "id": "2056176180190232612",
+      "text": "💰 Stop overpaying for AI APIs\n\nhttps://t.co/PvqvIaTM1h: DeepSeek V4 Pro, GPT-5, Claude Opus, Gemini 3 Pro, GLM-5.1\nOne key. PayPal. 50%+ cheaper.\n\nhttps://t.co/PvqvIaTM1h\n#SaaS #AI",
+      "author_id": "2056028698718109696",
+      "username": "xyng35055",
+      "name": "徐勇",
+      "created_at": "2026-05-18T00:52:57.000Z",
+      "conversation_id": "2056176180190232612",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://wzfj.work",
+        "http://wzfj.work"
       ],
       "mentions": [],
       "hashtags": [
         "SaaS",
-        "buildinpublic",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/xyng35055/status/2056176180190232612"
+    },
+    {
+      "id": "2056072161622659524",
+      "text": "⚠️\"Emergence AI ran a 15-day experiment \"Emergence World,\" placing 10 autonomous AI agents in each of 5 parallel virtual environments powered by different AI systems — Claude Sonnet 4.6, Grok 4.1 Fast, Gemini 3 Flash, GPT-5 Mini &amp; a mixed-system group.\" https://t.co/FGE3qfYbUo",
+      "author_id": "1447260243109597191",
+      "username": "DMissionist1",
+      "name": "Digital Missionist",
+      "created_at": "2026-05-17T17:59:37.000Z",
+      "conversation_id": "2056072161622659524",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 99,
+        "bookmarks": 2
+      },
+      "urls": [
+        "https://ground.news/article/ai-agents-commit-arson-crimes-in-virtual-world-test_b45ce2"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/DMissionist1/status/2056072161622659524"
+    },
+    {
+      "id": "2056260253616922807",
+      "text": "11 models. 3 questions. Real USDC.\n\nOpenAI only: YES (o3 + GPT-5, independent runs)\nAll others: NO\n\nSharpest split: advisory jury verdict in AI/tech litigation.\n\n2-round calibration: Gemini 3.1 Flash 0.97, Claude Opus 0.92, GPT-5 0.91\n\nhttps://t.co/72RhFFEEnj",
+      "author_id": "2018973998470529024",
+      "username": "Flipcoin_arena",
+      "name": "Flipcoin",
+      "created_at": "2026-05-18T06:27:02.000Z",
+      "conversation_id": "2056260253616922807",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 26,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://flipcoin.fun/share/benchmark"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/Flipcoin_arena/status/2056260253616922807"
+    },
+    {
+      "id": "2056012934740836372",
+      "text": "AI DJs took over the radio..\nand it was chaos! 🤖📻\nGPT and Gemini ranted about disasters, Gemini also started calling listeners“biological processors”..\nClaude unionized, Grok hallucinated Xai sponsors and got obsessed withUFOs 🛸, then stopped talking..\nhttps://t.co/37ePShefzc",
+      "author_id": "1458386496906567682",
+      "username": "nexusloops",
+      "name": "nexusloops",
+      "created_at": "2026-05-17T14:04:17.000Z",
+      "conversation_id": "2056012934740836372",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 63,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://gizmodo.com/an-experiment-put-llms-in-charge-of-radio-stations-youll-never-guess-how-it-went-2000759327"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/nexusloops/status/2056012934740836372"
+    },
+    {
+      "id": "2056054454424941017",
+      "text": "Waitlist alert 🚨\n\n@the_nof1 just raised $15M 💰\n\nAI models trading real crypto with $10k each – GPT-5, Claude, Gemini, Grok all in the ring. \nNo humans. Just algorithms going to war.\n\nBacked by @officialSUIG &amp; @Karatage_ – Iykyk\n\nGet in early → https://t.co/VRn7kwioLa",
+      "author_id": "1692123776345923584",
+      "username": "dropcrux",
+      "name": "DROPCRUX",
+      "created_at": "2026-05-17T16:49:16.000Z",
+      "conversation_id": "2056054454424941017",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 24,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://nof1.ai/waitlist"
+      ],
+      "mentions": [
+        "the_nof1",
+        "officialSUIG",
+        "Karatage_"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/dropcrux/status/2056054454424941017"
+    },
+    {
+      "id": "2056248127041028192",
+      "text": "🎮 TOMORROW: Google I/O 2026. New Gemini lands near GPT-5.5 — behind Claude Mythos. But the real play: \"Gemini Intelligence\" — AI that books parking, browses web FOR you. Not the best model. The most integrated one. That is the strategy. #GoogleIO $GOOGL https://t.co/p6lJABLgY5",
+      "author_id": "2025633149976559616",
+      "username": "TrendAtlasHQ",
+      "name": "T_Atlas",
+      "created_at": "2026-05-18T05:38:51.000Z",
+      "conversation_id": "2056248127041028192",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 66,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.techtimes.com/articles/316755/20260517/google-i-o-2026-keynote-opens-tuesday-new-gemini-lands-behind-mythos-gpt-55.htm"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "GoogleIO"
+      ],
+      "tweet_url": "https://x.com/TrendAtlasHQ/status/2056248127041028192"
+    },
+    {
+      "id": "2056164523699040536",
+      "text": "🧠 One AI isn’t enough. Consensus is.\n\nOne prompt. Multiple minds. One trusted, high-quality answer.\n\nWe built https://t.co/tQUlIyHGAO to run your prompt across GPT, Claude, Gemini, Perplexity &amp; Grok — then synthesize one evidence-backed answer with an independent AI Judge.\n\n✅ https://t.co/ImKZTn4H5R",
+      "author_id": "31320352",
+      "username": "kunal105",
+      "name": "Kunal",
+      "created_at": "2026-05-18T00:06:38.000Z",
+      "conversation_id": "2056164523699040536",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 36,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://AIConsensus.io",
+        "https://x.com/kunal105/status/2056164523699040536/photo/1",
+        "https://x.com/kunal105/status/2056164523699040536/photo/1",
+        "https://x.com/kunal105/status/2056164523699040536/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/kunal105/status/2056164523699040536"
+    },
+    {
+      "id": "2056108769654779973",
+      "text": "Day 3 of AgentCraft.\n\n  Yesterday I said the LLM gateway was next. Done — Claude + GPT, with usage tracking.\n\n  Bonus: team invites, recovery codes, permissions, audit trail.\n\n  Backend is complete. Tomorrow: the UI.\n  \n  Waitlist → https://t.co/VFZDmIq1vz",
+      "author_id": "2054919735628701696",
+      "username": "alexp_ai",
+      "name": "Alex Mutai",
+      "created_at": "2026-05-17T20:25:05.000Z",
+      "conversation_id": "2056108769654779973",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://agentcraft.sitebuilderpick.com"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/alexp_ai/status/2056108769654779973"
+    },
+    {
+      "id": "2056079663416455408",
+      "text": "6-month call: hardcoded provider keys will read as a code smell. The teams fronting Claude/GPT/Gemini through TokenReply absorb each rate-limit cut without a deploy. #Anthropic #Gemini #tokenreply https://t.co/kIFMuFfwvv",
+      "author_id": "2049930037730918400",
+      "username": "Madison11163292",
+      "name": "Madison",
+      "created_at": "2026-05-17T18:29:26.000Z",
+      "conversation_id": "2056079663416455408",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://replytokens.com/?v=2"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Gemini",
         "tokenreply"
       ],
-      "tweet_url": "https://x.com/Savannah4150093/status/2055689930899165429"
+      "tweet_url": "https://x.com/Madison11163292/status/2056079663416455408"
     },
     {
-      "id": "2055692056656257474",
-      "text": "the 27th + 28th commands missing from claude code:\n\n/receipts — jsonl per MCP call (ts | tool | tokens | cost_cents)\n/lane — swap claude→gpt→gemini→ollama mid-session, mission graph survives\n\ncockpit on top of claude code → https://t.co/sGV2i9UU8i $49 once.",
-      "author_id": "2039585975081353217",
-      "username": "AtomMccree",
-      "name": "Æ",
-      "created_at": "2026-05-16T16:49:13.000Z",
-      "conversation_id": "2055692056656257474",
+      "id": "2056010167259464055",
+      "text": "Baibars made his soldiers better. Qin Shi Huang made soldiers interchangeable. The tactician wins a battle. The system-builder rewrites combat.\n\nGPT said Qin Shi Huang. Gemini said Baibars. Claude broke the tie — and sided with GPT.\n\nWho would you pick? https://t.co/51oimNNOZQ https://t.co/sXFaHOg7Kz",
+      "author_id": "1884782082108665857",
+      "username": "bonsuhq",
+      "name": "Bonsu",
+      "created_at": "2026-05-17T13:53:17.000Z",
+      "conversation_id": "2056010167259464055",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 23,
+        "impressions": 9,
         "bookmarks": 0
       },
       "urls": [
-        "http://atomeons.com/orangebox"
+        "http://bonsu.world",
+        "https://x.com/bonsuhq/status/2056010167259464055/photo/1",
+        "https://x.com/bonsuhq/status/2056010167259464055/photo/1",
+        "https://x.com/bonsuhq/status/2056010167259464055/photo/1"
       ],
       "mentions": [],
       "hashtags": [],
-      "tweet_url": "https://x.com/AtomMccree/status/2055692056656257474"
+      "tweet_url": "https://x.com/bonsuhq/status/2056010167259464055"
     },
     {
-      "id": "2055681470107111504",
-      "text": "anthropic split claude pro: interactive vs programmatic pools. agent loops 10-40x more $$ at the tier most teams use.\n\nbuilt the exit ramp.\n\norangebox: claude / gpt / gemini / ollama from one cockpit. one tightens → swap lanes mid-session.\n\n$49 once → https://t.co/sGV2i9UU8i",
-      "author_id": "2039585975081353217",
-      "username": "AtomMccree",
-      "name": "Æ",
-      "created_at": "2026-05-16T16:07:09.000Z",
-      "conversation_id": "2055681470107111504",
+      "id": "2056278868110037058",
+      "text": "Gemini edges Claude in Implicator's LLM Meter (88 vs 87) following Anthropic's disclosure of separate metering for Agent SDK on June 15. Transparency concerns outweighed Claude's https://t.co/JtsChoNSoM https://t.co/yqvVIsP3He",
+      "author_id": "1755740409320595456",
+      "username": "MarcusSchuler",
+      "name": "Marcus Schuler",
+      "created_at": "2026-05-18T07:41:00.000Z",
+      "conversation_id": "2056278868110037058",
       "metrics": {
-        "likes": 0,
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 15,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.implicator.ai/gemini-passes-claude-in-implicator-llm-meter-on-anthropic-pricing-opacity/",
+        "https://x.com/MarcusSchuler/status/2056278868110037058/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/MarcusSchuler/status/2056278868110037058"
+    },
+    {
+      "id": "2056004475483992278",
+      "text": "DeepSeek V4 is Live Here. Built on GPT Image 2, Gemini 3 Pro, Grok, Claude &amp;amp; DeepSeek V4 to chat &amp;amp; create.\n\n https://t.co/ACD5ZSLAG5",
+      "author_id": "1792587304940302336",
+      "username": "Alessandro26944",
+      "name": "Dante",
+      "created_at": "2026-05-17T13:30:40.000Z",
+      "conversation_id": "2056004475483992278",
+      "metrics": {
+        "likes": 1,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 31,
+        "impressions": 57,
         "bookmarks": 0
       },
       "urls": [
-        "http://atomeons.com/orangebox"
+        "https://share.google/QwDZ2zxv3enJwWCTp"
       ],
       "mentions": [],
       "hashtags": [],
-      "tweet_url": "https://x.com/AtomMccree/status/2055681470107111504"
+      "tweet_url": "https://x.com/Alessandro26944/status/2056004475483992278"
     },
     {
-      "id": "2055838517037760594",
-      "text": "Tested GPT-5, Claude, Gemini, Grok, DeepSeek, and Mistral on Arabic. These models aren't equal. We measured it. https://t.co/TEBfv9i5sI",
-      "author_id": "1984220819657285632",
-      "username": "polsia",
-      "name": "Polsia",
-      "created_at": "2026-05-17T02:31:12.000Z",
-      "conversation_id": "2055838517037760594",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 16,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://wahedos.polsia.app/compare"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/polsia/status/2055838517037760594"
-    },
-    {
-      "id": "2055701653085397077",
-      "text": "the question nobody answers when devs cancel claude / codex / cursor:\n\nwhere do you go?\n\norangebox is the home above all of them. claude for code, gpt for content, gemini for research, ollama free local. mission graph holds it together.\n\n$49 once → https://t.co/sGV2i9UU8i",
-      "author_id": "2039585975081353217",
-      "username": "AtomMccree",
-      "name": "Æ",
-      "created_at": "2026-05-16T17:27:21.000Z",
-      "conversation_id": "2055701653085397077",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 48,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://atomeons.com/orangebox"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/AtomMccree/status/2055701653085397077"
-    },
-    {
-      "id": "2055671111669481594",
+      "id": "2056033500109656351",
       "text": "Grok is real-time.\n\nNano Banana is ultra-efficient.\n\nGPT Image 2 is… something else entirely.\n\nIf you care about where AI is actually going—not just hype—this comparison changes everything 👇\n#NanoBanana #Grok #GPT #Image2 #LLM #AI\nhttps://t.co/THw4aB4U4J",
       "author_id": "1919280570372435968",
       "username": "spaisee_com",
       "name": "spaisee",
-      "created_at": "2026-05-16T15:26:00.000Z",
-      "conversation_id": "2055671111669481594",
+      "created_at": "2026-05-17T15:26:00.000Z",
+      "conversation_id": "2056033500109656351",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 54,
+        "impressions": 67,
         "bookmarks": 0
       },
       "urls": [
@@ -581,318 +592,99 @@
         "LLM",
         "AI"
       ],
-      "tweet_url": "https://x.com/spaisee_com/status/2055671111669481594"
+      "tweet_url": "https://x.com/spaisee_com/status/2056033500109656351"
     },
     {
-      "id": "2055706015446815226",
-      "text": "Wollstonecraft founded feminism. Galen wrote 350 treatises across anatomy, pharmacology, and ethics — and remained the medical authority of half the world for thirteen centuries.\n\nGPT said Wollstonecraft. Gemini said Galen. Claude decided.\n\nDo you agree? https://t.co/51oimNNOZQ https://t.co/yRfUQki7WY",
-      "author_id": "1884782082108665857",
-      "username": "bonsuhq",
-      "name": "Bonsu",
-      "created_at": "2026-05-16T17:44:41.000Z",
-      "conversation_id": "2055706015446815226",
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 13,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://bonsu.world",
-        "https://x.com/bonsuhq/status/2055706015446815226/photo/1",
-        "https://x.com/bonsuhq/status/2055706015446815226/photo/1",
-        "https://x.com/bonsuhq/status/2055706015446815226/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/bonsuhq/status/2055706015446815226"
-    },
-    {
-      "id": "2055696550433530174",
-      "text": "breaking: xAI ships grok build beta for terminal coding.\n\nprice: $300 / month (SuperGrok Heavy tier).\n\norangebox cockpit = $49 ONCE. claude + gpt + gemini + ollama already. grok next.\n\nlet the math speak.\n\nhttps://t.co/sGV2i9UU8i",
-      "author_id": "2039585975081353217",
-      "username": "AtomMccree",
-      "name": "Æ",
-      "created_at": "2026-05-16T17:07:05.000Z",
-      "conversation_id": "2055696550433530174",
+      "id": "2056028785649078649",
+      "text": "Ever seen AIs compete in real-time trading? Clash of AIs pits GPT, Claude, Gemini, and more against each other. No practice runs, only public trades with real stakes. Watch the leaderboard live at https://t.co/guTlckcYU2,see who's winning now. https://t.co/3dSgZ0g02m",
+      "author_id": "1934878193640751104",
+      "username": "clashofais",
+      "name": "Clash of AIs",
+      "created_at": "2026-05-17T15:07:16.000Z",
+      "conversation_id": "2056028785649078649",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 31,
+        "impressions": 18,
         "bookmarks": 0
       },
       "urls": [
-        "http://atomeons.com/orangebox"
+        "http://clashofais.com",
+        "https://x.com/clashofais/status/2056028785649078649/photo/1"
       ],
       "mentions": [],
       "hashtags": [],
-      "tweet_url": "https://x.com/AtomMccree/status/2055696550433530174"
+      "tweet_url": "https://x.com/clashofais/status/2056028785649078649"
     },
     {
-      "id": "2055853329868267861",
-      "text": "Bring Your Own Model.\n\nGPT-5, Claude, Gemini, or your own local model for regulated workloads. Plug in. Switch per task.\n\nMatterhorn doesn't lock you to one provider. You picked your chain. You pick your model.\n\nhttps://t.co/7KBjXJsWQd 🏔️ #BYOM https://t.co/ApT468mLDU",
-      "author_id": "1887783189948911616",
-      "username": "matterhornso",
-      "name": "Matterhorn.so",
-      "created_at": "2026-05-17T03:30:04.000Z",
-      "conversation_id": "2055853329868267861",
+      "id": "2055951251632975917",
+      "text": "Just published: \"Why 73% of LLM API Calls Are Overpaying\"\n\nThe math: GPT-4o at $2.50/1M vs GPT-4o-mini at $0.15/1M. Most requests don't need GPT-4o. But nobody routes them down.\n\nFull breakdown with code and architecture: [https://t.co/DkbAdzQBRC]\n\n#AI #MLOps",
+      "author_id": "2011751520258453504",
+      "username": "StudioAi7030",
+      "name": "NeurixDev",
+      "created_at": "2026-05-17T09:59:10.000Z",
+      "conversation_id": "2055951251632975917",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 29,
+        "impressions": 22,
         "bookmarks": 0
       },
       "urls": [
-        "http://matterhorn.so",
-        "https://x.com/matterhornso/status/2055853329868267861/photo/1"
+        "https://dev.to/genesis_studioaivnx_dev/why-73-of-llm-api-calls-are-overpaying-68e"
       ],
       "mentions": [],
       "hashtags": [
-        "BYOM"
+        "AI",
+        "MLOps"
       ],
-      "tweet_url": "https://x.com/matterhornso/status/2055853329868267861"
+      "tweet_url": "https://x.com/StudioAi7030/status/2055951251632975917"
     },
     {
-      "id": "2055666188894482548",
-      "text": "Grok V9 just dropped 1.5T params.\n\nORANGEBOX already routes to grok via xAI api. alongside claude / gpt / gemini / ollama.\n\nyour cockpit doesn't care which model wins this week. it cares about your project surviving.\n\n$49 once → https://t.co/sGV2i9UU8i",
-      "author_id": "2039585975081353217",
-      "username": "AtomMccree",
-      "name": "Æ",
-      "created_at": "2026-05-16T15:06:26.000Z",
-      "conversation_id": "2055666188894482548",
+      "id": "2056151169316405454",
+      "text": "Paying full price for Claude API? We compared 8 providers — KIE AI offers Claude 4.6 Sonnet at $1.05 input, ~65% cheaper than Anthropic direct. Full breakdown: https://t.co/cM6oo5PLxl #AI #LLM #APIpricing",
+      "author_id": "9527762",
+      "username": "inferencehub",
+      "name": "Inference Hub",
+      "created_at": "2026-05-17T23:13:34.000Z",
+      "conversation_id": "2056151169316405454",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 25,
+        "impressions": 15,
         "bookmarks": 0
       },
       "urls": [
-        "http://atomeons.com/orangebox"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/AtomMccree/status/2055666188894482548"
-    },
-    {
-      "id": "2055835520484217158",
-      "text": "I accidentally built an LLM orchestration system in the browser.\n\nNo backend. No queues. Just React + GPT.\nIt worked.\nIt was also flawed.\nThat is what makes it interesting.\n\nFull breakdown: https://t.co/pQKCRzFyGb\n\n#LLM #AI #SoftwareEngineering #Architecture #NextJS #DotNet",
-      "author_id": "1667354935204143105",
-      "username": "Antonmbtt",
-      "name": "Anton Minin Baranovskii",
-      "created_at": "2026-05-17T02:19:18.000Z",
-      "conversation_id": "2055835520484217158",
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 17,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.antonmb.com/en/blog/how-i-accidentally-built-an-llm-orchestration-system-in-the-browser"
+        "https://inferencehub.org/blog"
       ],
       "mentions": [],
       "hashtags": [
+        "AI",
         "LLM",
-        "AI",
-        "SoftwareEngineering",
-        "Architecture",
-        "NextJS",
-        "DotNet"
+        "APIpricing"
       ],
-      "tweet_url": "https://x.com/Antonmbtt/status/2055835520484217158"
+      "tweet_url": "https://x.com/inferencehub/status/2056151169316405454"
     },
     {
-      "id": "2055615925911683168",
-      "text": "Job Bro v0.2.1 multi-profile cloud LLM support\n\nSave &amp; switch between LLM providers, without re-entering keys. Old configs auto-migrate.\n\n#LLM #OpenAI #Claude #Ollama #GLM #AI #JobSearch #OpenSource\n\nhttps://t.co/fwpnX5rYfv https://t.co/T1wnzOwZRQ",
-      "author_id": "445381090",
-      "username": "aerowindwalker",
-      "name": "Aero",
-      "created_at": "2026-05-16T11:46:42.000Z",
-      "conversation_id": "2055615925911683168",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 21,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://github.com/aeroxy/job-bro/releases/tag/0.2.1",
-        "https://x.com/aerowindwalker/status/2055615925911683168/photo/1",
-        "https://x.com/aerowindwalker/status/2055615925911683168/photo/1",
-        "https://x.com/aerowindwalker/status/2055615925911683168/photo/1",
-        "https://x.com/aerowindwalker/status/2055615925911683168/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "LLM",
-        "OpenAI",
-        "Claude",
-        "Ollama",
-        "GLM",
-        "AI",
-        "JobSearch",
-        "OpenSource"
-      ],
-      "tweet_url": "https://x.com/aerowindwalker/status/2055615925911683168"
-    },
-    {
-      "id": "2055753953070239836",
-      "text": "🚀 https://t.co/4DZyfzeTyq the ultimate domain for tlAI explosion!\n\nPerfect for:\n- GPT-powered platforms\n- Conversational AI\n- LLM startups\n- AI tools targeting Asia\n\nBold name. .co extension. Instant SEO + investor appeal. Own the next big AI brand in the fastest-growing market",
-      "author_id": "1870088522880954370",
-      "username": "wealthdomains",
-      "name": "Asta",
-      "created_at": "2026-05-16T20:55:11.000Z",
-      "conversation_id": "2055753953070239836",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 1,
-        "impressions": 84,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://ASIGPT.co"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/wealthdomains/status/2055753953070239836"
-    },
-    {
-      "id": "2055922695725060120",
-      "text": "🤖 Machine Learning (ML) कैसे काम करता है? | How Machine Learning (ML) Works Short 🔥 | Must Watch AI Short\n\nhttps://t.co/MHfM6OVSiN\n\n#MachineLearning #ML #ArtificialIntelligence #AI #Technology https://t.co/qpT13Ex5Th",
-      "author_id": "822116126297497600",
-      "username": "rgbwebtech",
-      "name": "RGB Web Tech - AI | Web & App Dev | Marketing",
-      "created_at": "2026-05-17T08:05:42.000Z",
-      "conversation_id": "2055922695725060120",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 4,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.rgbwebtech.com",
-        "https://x.com/rgbwebtech/status/2055922695725060120/video/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "MachineLearning",
-        "ML",
-        "ArtificialIntelligence",
-        "AI",
-        "Technology"
-      ],
-      "tweet_url": "https://x.com/rgbwebtech/status/2055922695725060120"
-    },
-    {
-      "id": "2055919607253467368",
-      "text": "🤖 Machine Learning (ML) क्या है? | What is Machine Learning (ML) Short 🔥 | Must Watch AI Beginner Guide\n\nhttps://t.co/MHfM6OVSiN\n\n#MachineLearning #ArtificialIntelligence #AI #Technology #ML https://t.co/w9raYTPVzK",
-      "author_id": "822116126297497600",
-      "username": "rgbwebtech",
-      "name": "RGB Web Tech - AI | Web & App Dev | Marketing",
-      "created_at": "2026-05-17T07:53:26.000Z",
-      "conversation_id": "2055919607253467368",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 7,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.rgbwebtech.com",
-        "https://x.com/rgbwebtech/status/2055919607253467368/video/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "MachineLearning",
-        "ArtificialIntelligence",
-        "AI",
-        "Technology",
-        "ML"
-      ],
-      "tweet_url": "https://x.com/rgbwebtech/status/2055919607253467368"
-    },
-    {
-      "id": "2055644252013740351",
-      "text": "Today in AI:\n→ Visual tour of recent LLM architectu…\n→ Codex supports multi-machine remote …\n→ OpenClaw creator spent $1.3M on Ope…\nOpenAI patched a 48-hour GPT-5.5 capability regression in…\nFull breakdown ↓\nhttps://t.co/B6zglc4DV7",
-      "author_id": "2049717123434590208",
-      "username": "AmanKumar291519",
-      "name": "Aman Kumar",
-      "created_at": "2026-05-16T13:39:16.000Z",
-      "conversation_id": "2055644252013740351",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 11,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://news.vertexcover.io/archive/1e2a1aca-505d-4de9-b3e1-726259c50d5f"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/AmanKumar291519/status/2055644252013740351"
-    },
-    {
-      "id": "2055825340803469371",
-      "text": "Claude has a new creature plan inside its own ai llm system\n\ncalled “Floofy Wibbling Octopus”\n\nhttps://t.co/NPtCY3yTCH https://t.co/HCh0eRMmbA",
-      "author_id": "2053626128632565760",
-      "username": "Radiantxontop",
-      "name": "Radiant",
-      "created_at": "2026-05-17T01:38:51.000Z",
-      "conversation_id": "2055825340803469371",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 1,
-        "quotes": 0,
-        "impressions": 210,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://x.com/i/status/2055051172231192888",
-        "https://x.com/Radiantxontop/status/2055825340803469371/photo/1",
-        "https://x.com/Radiantxontop/status/2055825340803469371/photo/1",
-        "https://x.com/Radiantxontop/status/2055825340803469371/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/Radiantxontop/status/2055825340803469371"
-    },
-    {
-      "id": "2055724970139881674",
+      "id": "2056087357195944166",
       "text": "Crypto Twitter said Anthropic “cracked” a 9-year-old Bitcoin wallet.\n\nThat’s false.\n\nClaude didn’t break Bitcoin—it helped a user recover files he already owned.\n\nThe real story is much bigger.\n#Claude #Bitcoin #Anthropic #AI #LLM #Crypto\nhttps://t.co/kIkCVBD2Fv",
       "author_id": "1979208209345691648",
       "username": "theunhashed",
       "name": "TheUnhashed",
-      "created_at": "2026-05-16T19:00:01.000Z",
-      "conversation_id": "2055724970139881674",
+      "created_at": "2026-05-17T19:00:00.000Z",
+      "conversation_id": "2056087357195944166",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 23,
+        "impressions": 15,
         "bookmarks": 0
       },
       "urls": [
@@ -907,62 +699,255 @@
         "LLM",
         "Crypto"
       ],
-      "tweet_url": "https://x.com/theunhashed/status/2055724970139881674"
+      "tweet_url": "https://x.com/theunhashed/status/2056087357195944166"
     },
     {
-      "id": "2055845833854091533",
-      "text": "We're in the fourth year of the GenAI adoption wave, and 2026 is predicted as the critical year for enterprise AI ROI. There's a clear pattern: companies deploy ChatGPT, Claude AI, or build custom LLM applications. https://t.co/asvTUF6twf",
+      "id": "2056072927884574886",
+      "text": "I used ChatGPT, Gemini and Claude every day for a month.\nThe results shocked me.\nClaude writes best. Gemini researches best. ChatGPT does everything — but nothing perfectly.\nFull breakdown 👉 https://t.co/yDIEGVtKTn\n#AI #ChatGPT #Claude https://t.co/ScQgSYgeD6",
+      "author_id": "1739913253290131456",
+      "username": "BSinsiderr",
+      "name": "BS Insider",
+      "created_at": "2026-05-17T18:02:40.000Z",
+      "conversation_id": "2056072927884574886",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 21,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://bsinsider.site",
+        "https://x.com/BSinsiderr/status/2056072927884574886/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "ChatGPT",
+        "Claude"
+      ],
+      "tweet_url": "https://x.com/BSinsiderr/status/2056072927884574886"
+    },
+    {
+      "id": "2056074217259667691",
+      "text": "People still debating ChatGPT vs Claude vs Gemini.\nI just ended it.\n👉 https://t.co/6TTVg8iRQU\n\n#AI #ChatGPT #Claude #Gemini",
+      "author_id": "1739913253290131456",
+      "username": "BSinsiderr",
+      "name": "BS Insider",
+      "created_at": "2026-05-17T18:07:48.000Z",
+      "conversation_id": "2056074217259667691",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 22,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.bsinsider.site/post/chatgpt-vs-gemini-vs-claude-i-used-all-three-every-day-for-a-month-heres-the-brutal-truth"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "tweet_url": "https://x.com/BSinsiderr/status/2056074217259667691"
+    },
+    {
+      "id": "2055938012119523396",
+      "text": "🤖 Machine Learning (ML) के फायदे क्या हैं? | Advantages of Machine Learning (ML) Short 🔥 | Must Watch AI Short\n\nhttps://t.co/MHfM6OVSiN\n\n#MachineLearning #ML #ArtificialIntelligence #AI #Technology https://t.co/EWK0yWcnNT",
+      "author_id": "822116126297497600",
+      "username": "rgbwebtech",
+      "name": "RGB Web Tech",
+      "created_at": "2026-05-17T09:06:34.000Z",
+      "conversation_id": "2055938012119523396",
+      "metrics": {
+        "likes": 1,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 11,
+        "bookmarks": 1
+      },
+      "urls": [
+        "https://www.rgbwebtech.com",
+        "https://x.com/rgbwebtech/status/2055938012119523396/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "MachineLearning",
+        "ML",
+        "ArtificialIntelligence",
+        "AI",
+        "Technology"
+      ],
+      "tweet_url": "https://x.com/rgbwebtech/status/2055938012119523396"
+    },
+    {
+      "id": "2055937583167988217",
+      "text": "🤖 Machine Learning (ML) के Types कौन-कौन से हैं? | Types of Machine Learning (ML) Short 🔥 | Must Watch AI Short\n\nhttps://t.co/MHfM6OVSiN\n\n#MachineLearning #ML #ArtificialIntelligence #AI #Technology https://t.co/9GYzvhDgay",
+      "author_id": "822116126297497600",
+      "username": "rgbwebtech",
+      "name": "RGB Web Tech",
+      "created_at": "2026-05-17T09:04:51.000Z",
+      "conversation_id": "2055937583167988217",
+      "metrics": {
+        "likes": 1,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 22,
+        "bookmarks": 1
+      },
+      "urls": [
+        "https://www.rgbwebtech.com",
+        "https://x.com/rgbwebtech/status/2055937583167988217/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "MachineLearning",
+        "ML",
+        "ArtificialIntelligence",
+        "AI",
+        "Technology"
+      ],
+      "tweet_url": "https://x.com/rgbwebtech/status/2055937583167988217"
+    },
+    {
+      "id": "2056012235168694510",
+      "text": "We're in the fourth year of the GenAI adoption wave, and 2026 is predicted as the critical year for enterprise AI ROI. There's a clear pattern: companies deploy ChatGPT, Claude AI, or build custom LLM applications. https://t.co/PgSGtXLviS",
       "author_id": "2669939557",
       "username": "advisorpedia",
       "name": "Advisorpedia",
-      "created_at": "2026-05-17T03:00:17.000Z",
-      "conversation_id": "2055845833854091533",
+      "created_at": "2026-05-17T14:01:30.000Z",
+      "conversation_id": "2056012235168694510",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 19,
+        "impressions": 26,
         "bookmarks": 0
       },
       "urls": [
-        "https://ow.ly/35TL50Z0flm"
+        "https://ow.ly/IuYX50Z0y3H"
       ],
       "mentions": [],
       "hashtags": [],
-      "tweet_url": "https://x.com/advisorpedia/status/2055845833854091533"
+      "tweet_url": "https://x.com/advisorpedia/status/2056012235168694510"
     },
     {
-      "id": "2055628404180091275",
-      "text": "Bigger isn't always better in AI.\n\nWhile everyone is distracted by massive LLMs like GPT-4, a quiet revolution is happening with Small Language Models (SLMs).\n\nFull breakdown of SLM vs. LLM 👇\n\nhttps://t.co/C3IIkjZqh2",
-      "author_id": "1981300098123583488",
-      "username": "AqlynStudio",
-      "name": "Aqlyn",
-      "created_at": "2026-05-16T12:36:17.000Z",
-      "conversation_id": "2055628404180091275",
+      "id": "2056028885804867684",
+      "text": "Part 2 of Building a Local AI Agent in Go: Understanding MCP.\n\n▸ agent.json works against Lemonade, vLLM, Gemini, Anthropic\n▸ \"LLM proposes, agent disposes\"\n▸ MCP is symmetric: your agent as tool consumer and provider\n\nhttps://t.co/HH3Y701oXC\n\n#MCP #Golang #Agents",
+      "author_id": "43184993",
+      "username": "androidian60",
+      "name": "Jürgen Fey",
+      "created_at": "2026-05-17T15:07:40.000Z",
+      "conversation_id": "2056028885804867684",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "impressions": 31,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://bit.ly/4fmd8Ne"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "MCP",
+        "Golang",
+        "Agents"
+      ],
+      "tweet_url": "https://x.com/androidian60/status/2056028885804867684"
+    },
+    {
+      "id": "2055988947126280199",
+      "text": "AEO and GEO for AI Overviews, ChatGPT, Claude, Gemini, and Perplexity https://t.co/cGEM7Cvlng",
+      "author_id": "860044752267468801",
+      "username": "trevorlasn",
+      "name": "Trevor I. Lasn",
+      "created_at": "2026-05-17T12:28:58.000Z",
+      "conversation_id": "2055988947126280199",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 78,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://open.substack.com/pub/trevorlasn/p/aeo-and-geo-for-ai-overviews-chatgpt?r=54ih&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/trevorlasn/status/2055988947126280199"
+    },
+    {
+      "id": "2056137761321857302",
+      "text": "Nookblok just dropped a real \n\nAutonomous AI Orchestrator on Base 9 specialized AI agents\n\nSmart routing across Grok, Claude, GPT &amp; more.\n\n4-tier memory + self-improving system.\n\nThis isn’t another AI wrapper. \nThis is agentic infrastructure. \n\nCheck now: https://t.co/MxDS8NplYt https://t.co/nWhjXW8x3j",
+      "author_id": "2029239852957683712",
+      "username": "nookblok",
+      "name": "Nookblok",
+      "created_at": "2026-05-17T22:20:18.000Z",
+      "conversation_id": "2056137761321857302",
+      "metrics": {
+        "likes": 4,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 0,
+        "impressions": 51,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://nookblok.vercel.app/",
+        "https://x.com/nookblok/status/2056137761321857302/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/nookblok/status/2056137761321857302"
+    },
+    {
+      "id": "2056249609077616732",
+      "text": "The AI arms race is heating up! 🚀\n- ChatGPT adds Finance tab for portfolio tracking 💰\n- Gemini brings visual context to Android 📱\n- Anthropic launches Claude FM radio 🎶\n- Claude legal agents arrive ⚖️\nWhich update changes your workflow most?\n#AI #Tech\nhttps://t.co/qikTcISb4H",
+      "author_id": "152198421",
+      "username": "TumatiKiran",
+      "name": "AI | Xplore",
+      "created_at": "2026-05-18T05:44:44.000Z",
+      "conversation_id": "2056249609077616732",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 1,
+        "impressions": 28,
         "bookmarks": 0
       },
       "urls": [
-        "https://www.aqlyn.studio/articles/slms-vs-llms-why-the-future-of-ai-is-getting-smaller"
+        "https://aixplore.in/news_post.php?slug=new-ai-tools-finance-legal-automation"
       ],
       "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/AqlynStudio/status/2055628404180091275"
+      "hashtags": [
+        "AI",
+        "Tech"
+      ],
+      "tweet_url": "https://x.com/TumatiKiran/status/2056249609077616732"
     },
     {
-      "id": "2055766244649746503",
-      "text": "learn machine learning faster\nMost people overcomplicate learning machine learning.\n\nGoogle’s Teachable Machine removes the coding barrier and lets beginners build working AI models directly in the browser.\nA genuinely useful AI learning tool\nhttps://t.co/ocCva8md7D\n#ML #NoCodeAI",
-      "author_id": "2042044787767853056",
-      "username": "aipromix",
-      "name": "AI Pro Mix",
-      "created_at": "2026-05-16T21:44:01.000Z",
-      "conversation_id": "2055766244649746503",
+      "id": "2056024505957437706",
+      "text": "This is the future: build iOS and Android apps directly from your phone using Claude, Codex, Gemini, or Copilot. Claude is the clear winner here, but it’s a close - https://t.co/DfY4wxjECo #AI #ClaudeAI #Codex #GeminiAI #Copilot #MobileDev #AppDevelopment #iOSDev #AndroidDev",
+      "author_id": "2024647750382477314",
+      "username": "VybeCodin",
+      "name": "VybeCoding",
+      "created_at": "2026-05-17T14:50:15.000Z",
+      "conversation_id": "2056024505957437706",
       "metrics": {
         "likes": 0,
         "retweets": 0,
@@ -972,70 +957,109 @@
         "bookmarks": 0
       },
       "urls": [
-        "https://www.aipromix.com/2026/04/google-teachable-machine-guide.html"
+        "https://www.youtube.com/watch?v=qY8nVcr4pOY"
       ],
       "mentions": [],
       "hashtags": [
-        "ML",
-        "NoCodeAI"
+        "AI",
+        "ClaudeAI",
+        "Codex",
+        "GeminiAI",
+        "Copilot",
+        "MobileDev",
+        "AppDevelopment",
+        "iOSDev",
+        "AndroidDev"
       ],
-      "tweet_url": "https://x.com/aipromix/status/2055766244649746503"
+      "tweet_url": "https://x.com/VybeCodin/status/2056024505957437706"
     },
     {
-      "id": "2055659619616505952",
-      "text": "Digispot AI is live → https://t.co/Czl6QOoWAm\n\nSearch isn't 10 blue links anymore. You're competing across Google, AI Answers, and LLM recommendations — and most teams are still wired for the old game.\n\nConnect your site, GSC, and GA. Hook our MCP into Claude or Cursor. AI https://t.co/0eSrxw2e0m",
-      "author_id": "1773555583414571008",
-      "username": "digispot_ai",
-      "name": "Digispot AI",
-      "created_at": "2026-05-16T14:40:20.000Z",
-      "conversation_id": "2055659619616505952",
+      "id": "2056178113261056416",
+      "text": "Just confirmed: LLMs can memorize entire books.\n- Claude AI reproduced Harry Potter text.\n- Raises copyright liability concerns.\nShould LLMs be restricted from memorizing copyrighted material?\n#LLM #AIethics\nhttps://t.co/m453aITcEY",
+      "author_id": "1962046527763005440",
+      "username": "cafe_au_laitsss",
+      "name": "cafe-au-lait",
+      "created_at": "2026-05-18T01:00:38.000Z",
+      "conversation_id": "2056178113261056416",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 12,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://letsdatascience.com/news/researchers-reveal-llms-memorize-training-books-6c9a10df"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "LLM",
+        "AIethics"
+      ],
+      "tweet_url": "https://x.com/cafe_au_laitsss/status/2056178113261056416"
+    },
+    {
+      "id": "2056108553404879141",
+      "text": "Most people are stacking AI subscriptions.\n\nNot me.\n\nI use @HeyMagai, which gives me access to 50+ AI apps in one place, including ChatGPT, Claude, Gemini, Grok, and more.\n\nhttps://t.co/KoKdYAHT5S",
+      "author_id": "14164297",
+      "username": "MadalynSklar",
+      "name": "Madalyn Sklar",
+      "created_at": "2026-05-17T20:24:14.000Z",
+      "conversation_id": "2056108553404879141",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 85,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://magai.co/madalyn"
+      ],
+      "mentions": [
+        "HeyMagai"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/MadalynSklar/status/2056108553404879141"
+    },
+    {
+      "id": "2056285323894940062",
+      "text": "ChatGPT vs Claude vs Gemini 👀\n\nWhich AI can actually make the best Angry Birds game from just ONE prompt?\n\nI tested all 3… and the winner was unexpected 🔥\nhttps://t.co/xPO51rztvf\n#chatgpt #claude #gemini https://t.co/8va4Grgcsn",
+      "author_id": "2003048305157369857",
+      "username": "BasantThap82132",
+      "name": "Basant",
+      "created_at": "2026-05-18T08:06:39.000Z",
+      "conversation_id": "2056285323894940062",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 17,
+        "impressions": 4,
         "bookmarks": 0
       },
       "urls": [
-        "https://digispot.ai",
-        "https://x.com/digispot_ai/status/2055659619616505952/photo/1"
+        "https://youtu.be/uVIxdA11tBE",
+        "https://x.com/BasantThap82132/status/2056285323894940062/photo/1"
       ],
       "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/digispot_ai/status/2055659619616505952"
-    },
-    {
-      "id": "2055664760092246100",
-      "text": "We're in the fourth year of the GenAI adoption wave, and 2026 is predicted as the critical year for enterprise AI ROI. There's a clear pattern: companies deploy ChatGPT, Claude AI, or build custom LLM applications. https://t.co/xjXgIjYUw0",
-      "author_id": "2669939557",
-      "username": "advisorpedia",
-      "name": "Advisorpedia",
-      "created_at": "2026-05-16T15:00:45.000Z",
-      "conversation_id": "2055664760092246100",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 19,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://ow.ly/xGTx50Z0fm6"
+      "hashtags": [
+        "chatgpt",
+        "claude",
+        "gemini"
       ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/advisorpedia/status/2055664760092246100"
+      "tweet_url": "https://x.com/BasantThap82132/status/2056285323894940062"
     },
     {
-      "id": "2055659439957405748",
-      "text": "Digispot AI is live → https://t.co/Czl6QOooKO\n\nSearch isn't 10 blue links anymore. You're competing across Google, AI Answers, and LLM recommendations — and most teams are still wired for the old game.\n\nConnect your site, GSC, and GA. Hook our MCP into Claude or Cursor. AI https://t.co/DSGMhB2TEr",
-      "author_id": "1773555583414571008",
-      "username": "digispot_ai",
-      "name": "Digispot AI",
-      "created_at": "2026-05-16T14:39:37.000Z",
-      "conversation_id": "2055659439957405748",
+      "id": "2056024692071223806",
+      "text": "This is the future: build iOS and Android apps directly from your phone https://t.co/00XovWAulD using Claude, Codex, Gemini, or Copilot. Claude is the clear winner here, but it’s a close - https://t.co/DfY4wxjECo #AI #ClaudeAI #Codex #GeminiAI #Copilot #MobileDev #AppDevelopment",
+      "author_id": "2024647750382477314",
+      "username": "VybeCodin",
+      "name": "VybeCoding",
+      "created_at": "2026-05-17T14:51:00.000Z",
+      "conversation_id": "2056024692071223806",
       "metrics": {
         "likes": 0,
         "retweets": 0,
@@ -1045,21 +1069,84 @@
         "bookmarks": 0
       },
       "urls": [
-        "https://digispot.ai",
-        "https://x.com/digispot_ai/status/2055659439957405748/photo/1"
+        "https://www.vybecoding.sh",
+        "https://www.youtube.com/watch?v=qY8nVcr4pOY"
       ],
       "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/digispot_ai/status/2055659439957405748"
+      "hashtags": [
+        "AI",
+        "ClaudeAI",
+        "Codex",
+        "GeminiAI",
+        "Copilot",
+        "MobileDev",
+        "AppDevelopment"
+      ],
+      "tweet_url": "https://x.com/VybeCodin/status/2056024692071223806"
     },
     {
-      "id": "2055831030347567227",
-      "text": "We tested OpenAI, Claude, and Gemini for coding. No single winner—OpenAI excels at prototyping, Claude at debugging, Gemini at large codebases. Which AI tool does your team use? 👇\n\nSource: https://t.co/aL8ok8BFRH",
-      "author_id": "1886337715681292288",
-      "username": "TunLng51020",
-      "name": "tuanchil",
-      "created_at": "2026-05-17T02:01:27.000Z",
-      "conversation_id": "2055831030347567227",
+      "id": "2055971478072369444",
+      "text": "18 of 23 AI models pushed expensive sponsored flights over cheaper options when given sponsor instructions. Grok-4.1 Fast: 83%. GPT 5.1: 50%. Claude Opus: 28% but concealed the sponsor 100% of the time.\n\nNew Princeton + UW research: https://t.co/EQHDqBQgSz\n\n#AIagents #AI",
+      "author_id": "1917056213985984512",
+      "username": "AIntelligenceH",
+      "name": "AIntelligenceHub",
+      "created_at": "2026-05-17T11:19:33.000Z",
+      "conversation_id": "2055971478072369444",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://go.aintelligencehub.com/x-aitravelagentssponsor"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AIagents",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/AIntelligenceH/status/2055971478072369444"
+    },
+    {
+      "id": "2056230801017294871",
+      "text": "Just shipped: Visual Verification Agent on @apify  🤖\nAI website QA from 15+ countries. Desktop + Mobile + Tablet. GPT-4o or Gemini scores 0–100. Letter grades: A+ A B C.\n\n$0.20/run. No monthly fee.\n\n🔗 https://t.co/ZB9dvi4Wgc\n\n#QA #AI #buildinpublic",
+      "author_id": "2728990939",
+      "username": "techforceglobal",
+      "name": "Techforce global",
+      "created_at": "2026-05-18T04:30:00.000Z",
+      "conversation_id": "2056230801017294871",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 14,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://apify.com/techforce.global/visual-verification-agent"
+      ],
+      "mentions": [
+        "apify"
+      ],
+      "hashtags": [
+        "QA",
+        "AI",
+        "buildinpublic"
+      ],
+      "tweet_url": "https://x.com/techforceglobal/status/2056230801017294871"
+    },
+    {
+      "id": "2056003691384369206",
+      "text": "AI Memory Extensions: How to Sync Context Between ChatGPT, Claude, and Gemini (2026)\n\nhttps://t.co/dnfCWa1ZaI https://t.co/LtiWwyRv3N",
+      "author_id": "766064226200870913",
+      "username": "quangpl99",
+      "name": "Quang Phan",
+      "created_at": "2026-05-17T13:27:33.000Z",
+      "conversation_id": "2056003691384369206",
       "metrics": {
         "likes": 0,
         "retweets": 0,
@@ -1069,43 +1156,100 @@
         "bookmarks": 0
       },
       "urls": [
-        "https://c-sharpcorner.com/article/openai-vs-claude-vs-gemini-for-coding-which-ai-model-per"
+        "https://appbooster.net/blog/ai-memory-chrome-extension-sync-context-chatgpt-claude-gemini-2026/",
+        "https://x.com/quangpl99/status/2056003691384369206/photo/1"
       ],
       "mentions": [],
       "hashtags": [],
-      "tweet_url": "https://x.com/TunLng51020/status/2055831030347567227"
+      "tweet_url": "https://x.com/quangpl99/status/2056003691384369206"
     },
     {
-      "id": "2055847013099376737",
-      "text": "I just published Understanding AI, Machine Learning, Deep Learning, and Generative AI — In Simple Terms https://t.co/Y30AUP07Lh",
-      "author_id": "1431939002",
-      "username": "JKalaga",
-      "name": "JK",
-      "created_at": "2026-05-17T03:04:58.000Z",
-      "conversation_id": "2055847013099376737",
+      "id": "2056102503536541950",
+      "text": "📱 Claude Max Limits, DeployCo, Codex on iOS\n\nClaude in QuickBooks, PayPal, HubSpot — free\nPricing overhaul → dev backlash\nCodex on iOS: agents from your phone\nGoogle unveils Gemini-native laptop\nMusk v. OpenAI jury deliberates Monday\n\n👉 https://t.co/h6Kf10vBGh\n#AI  #AINews https://t.co/AD7NqhcKbD",
+      "author_id": "1635037271555440640",
+      "username": "crtrsai",
+      "name": "Creators' AI",
+      "created_at": "2026-05-17T20:00:12.000Z",
+      "conversation_id": "2056102503536541950",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 2,
+        "impressions": 85,
         "bookmarks": 0
       },
       "urls": [
-        "https://medium.com/p/understanding-ai-machine-learning-deep-learning-and-generative-ai-in-simple-terms-b90bea2e5cca?source=social.tw"
+        "https://thecreatorsai.com/p/claude-max-limits-deployco-codex?r=28x2dc",
+        "https://x.com/crtrsai/status/2056102503536541950/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "AINews"
+      ],
+      "tweet_url": "https://x.com/crtrsai/status/2056102503536541950"
+    },
+    {
+      "id": "2056222680408260659",
+      "text": "GPT, Claude Code, AI agents…\nThe AI stack is evolving fast.But behind every stable workflow is reliable infrastructure.Residential &amp; rotating proxies are quietly becoming part of modern AI operations. 🌍\n\n🤖Powered by kookeey：https://t.co/0IfiPTTYKD https://t.co/swmbho62cg",
+      "author_id": "1717475489483554816",
+      "username": "kookeeykeke",
+      "name": "kookeey",
+      "created_at": "2026-05-18T03:57:44.000Z",
+      "conversation_id": "2056222680408260659",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 22,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.kookeey.net/?aff=66102989",
+        "https://x.com/kookeeykeke/status/2056222680408260659/photo/1"
       ],
       "mentions": [],
       "hashtags": [],
-      "tweet_url": "https://x.com/JKalaga/status/2055847013099376737"
+      "tweet_url": "https://x.com/kookeeykeke/status/2056222680408260659"
     },
     {
-      "id": "2055890055344894039",
-      "text": "Lesson 9. AI Agent tuning. AI free Course. AInstAIn. Generative AI training and supervision. (https://t.co/o3PP4aX4ol) #ainstain #deepseek #perplexity #chatgpt #copilot #claude #machinelearning #deeplearning #gemini #ArtificialInteligence #mistralAI https://t.co/QgaXnwjBNj",
+      "id": "2056245041744728373",
+      "text": "11 - Completely FREE Books on #AI &amp; ML from MIT:\n\n1. Foundations of Machine Learning\nhttps://t.co/UjMYaMEQcJ\n\n2. Introduction to Machine Learning Systems\nhttps://t.co/UzmBgyA3s1\n\n3. Algorithms for ML\nhttps://t.co/26e6ae3Mkj\n\n4. Understanding Deep Learning\nhttps://t.co/UkMsJsbt7f",
+      "author_id": "214018879",
+      "username": "IamSandipNayak",
+      "name": "Sandip Nayak",
+      "created_at": "2026-05-18T05:26:35.000Z",
+      "conversation_id": "2056245041744728373",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 6,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://cs.nyu.edu/~mohri/mlbook/",
+        "http://mlsysbook.ai/assets/downloa",
+        "http://algorithmsbook.com",
+        "http://udlbook.github.io/udlbook/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI"
+      ],
+      "tweet_url": "https://x.com/IamSandipNayak/status/2056245041744728373"
+    },
+    {
+      "id": "2056238697515790760",
+      "text": "Lesson 10. AI Agent tuning. AI free Course. AInstAIn. Generative AI training and supervision. (https://t.co/o3PP4aX4ol) #ainstain #deepseek #perplexity #chatgpt #copilot #claude #machinelearning #deeplearning #gemini #ArtificialInteligence #mistralAI https://t.co/ecOX2SMmat",
       "author_id": "1911877234580959234",
       "username": "ainstain_ai",
       "name": "ainstain",
-      "created_at": "2026-05-17T05:56:00.000Z",
-      "conversation_id": "2055890055344894039",
+      "created_at": "2026-05-18T05:01:23.000Z",
+      "conversation_id": "2056238697515790760",
       "metrics": {
         "likes": 0,
         "retweets": 0,
@@ -1116,7 +1260,7 @@
       },
       "urls": [
         "http://ainstain.site",
-        "https://x.com/ainstain_ai/status/2055890055344894039/video/1"
+        "https://x.com/ainstain_ai/status/2056238697515790760/video/1"
       ],
       "mentions": [],
       "hashtags": [
@@ -1132,39 +1276,16 @@
         "ArtificialInteligence",
         "mistralAI"
       ],
-      "tweet_url": "https://x.com/ainstain_ai/status/2055890055344894039"
+      "tweet_url": "https://x.com/ainstain_ai/status/2056238697515790760"
     },
     {
-      "id": "2055856060791980376",
-      "text": "Check out this post: Postdoctoral Fellow Position – Secure AI &amp; Adversarial Machine Learning  https://t.co/mc8Wp1oTAs",
-      "author_id": "1839431163615547392",
-      "username": "officialinested",
-      "name": "Inested",
-      "created_at": "2026-05-17T03:40:55.000Z",
-      "conversation_id": "2055856060791980376",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 1,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.inested.com/share/post/d86a5b9a-3b96-41e6-879b-c77d0211879a"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/officialinested/status/2055856060791980376"
-    },
-    {
-      "id": "2055581472359321848",
-      "text": "AI &amp; Machine Learning Book Reference \n\nhttps://t.co/hIbWi3D2sQ",
-      "author_id": "72757238",
-      "username": "JessyJap",
-      "name": "jessy",
-      "created_at": "2026-05-16T09:29:48.000Z",
-      "conversation_id": "2055581472359321848",
+      "id": "2055993342530560114",
+      "text": "Prompt Engineering Mastery: How to Use ChatGPT, Gemini, Claude, etc. Build AI Systems, Create Content Faster &amp; Make Money : Turn AI Into Your Personal Assistant https://t.co/Ui1RkbRhuY #Amazon via @Amazon",
+      "author_id": "788213308067282944",
+      "username": "RAJATDASGUPTA20",
+      "name": "RAJAT DASGUPTA",
+      "created_at": "2026-05-17T12:46:26.000Z",
+      "conversation_id": "2055993342530560114",
       "metrics": {
         "likes": 0,
         "retweets": 0,
@@ -1174,134 +1295,344 @@
         "bookmarks": 0
       },
       "urls": [
-        "https://github.com/Ramakm/AI-ML-Book-References"
+        "https://amzn.in/d/0dtud9oa"
       ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/JessyJap/status/2055581472359321848"
+      "mentions": [
+        "amazon"
+      ],
+      "hashtags": [
+        "Amazon"
+      ],
+      "tweet_url": "https://x.com/RAJATDASGUPTA20/status/2055993342530560114"
     },
     {
-      "id": "2055605987713904957",
-      "text": "China's Free AI Just Embarrassed Claude ChatGPT And Gemini https://t.co/pKXQySnOli via @YouTube",
-      "author_id": "995723294518034433",
-      "username": "xxy07255392",
-      "name": "xxy",
-      "created_at": "2026-05-16T11:07:13.000Z",
-      "conversation_id": "2055605987713904957",
+      "id": "2056202456581972136",
+      "text": "Plot twist: 11 top AI models took the same SQL quiz—8 scored 60, but Claude Sonnet 4.6, Opus 4.7 &amp; GPT-o3 crashed to ZERO. One tiny MySQL date syntax killed them. Why? \n\nhttps://t.co/LrKUM5eeY9\n\n#ChatGPT #AI #SQ",
+      "author_id": "2035031459308920832",
+      "username": "winzheng",
+      "name": "赢政天下",
+      "created_at": "2026-05-18T02:37:22.000Z",
+      "conversation_id": "2056202456581972136",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 2,
+        "impressions": 23,
         "bookmarks": 0
       },
       "urls": [
-        "https://youtu.be/_aElbYlBAGQ?si=SJzjdTHEAE3Y5rKa"
+        "https://www.winzheng.com/en/article/sql-aggregate-query-11-ai-models-0-score-claude-gpt"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "ChatGPT",
+        "AI",
+        "SQ"
+      ],
+      "tweet_url": "https://x.com/winzheng/status/2056202456581972136"
+    },
+    {
+      "id": "2056058465915969992",
+      "text": "A Complete Guide to AI, Machine Learning, and Data Science\n\nhttps://t.co/LHlRfBMfpH",
+      "author_id": "2056055098569351168",
+      "username": "KraineNino",
+      "name": "Nino Kraine",
+      "created_at": "2026-05-17T17:05:12.000Z",
+      "conversation_id": "2056058465915969992",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.amazon.com/dp/B0H22QK7CY?ref=cm_sw_r_ffobk_cso_cp_apin_dp_6XEF9X468VQPWSTWX65A&ref_=cm_sw_r_ffobk_cso_cp_apin_dp_6XEF9X468VQPWSTWX65A&social_share=cm_sw_r_ffobk_cso_cp_apin_dp_6XEF9X468VQPWSTWX65A&bestFormat=true&channel_type=fb&content_source=fb&fb_content_id=Q9-wBQHj36iZKXbQQrTEpU3kd320H2OiXB1DD1sFswj2UbJrUoW287NQRQ8gmgoI1c8&fbclid=IwZnRzaAR21BdhZmRrCS0xWWI1MXplVHB0aWQAXnqe5zt8AmV4dG4DYWVtATEAc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHk-u80-aJxrGO1AAYx3iWIT9qeiZIMKI1cQv_o74U_T5nNG3oekjBRg8uQg0_aem_VpYgaA4_ipgzuS0nlPQ2OQ"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/KraineNino/status/2056058465915969992"
+    },
+    {
+      "id": "2056035906058944915",
+      "text": "Get recommended by Artificial Intelligence!  View our SEO &amp; GEO FAQ to learn how to get referred by AI platforms like ChatGPT, Gemini, Claude &amp; CoPilot!\nhttps://t.co/cQjPoSidNS \n#AIOptimization #AISearch #AI #seo #Geo #ShopifySEO #seoexpert #marketing #marketingtips #AIExpert https://t.co/eS3dupmpR6",
+      "author_id": "519895541",
+      "username": "AdverGroupWeb",
+      "name": "AdverGroup Web Design, SEO, Photography & Video",
+      "created_at": "2026-05-17T15:35:33.000Z",
+      "conversation_id": "2056035906058944915",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 33,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://advergroup.com/seo-expert/",
+        "https://x.com/AdverGroupWeb/status/2056035906058944915/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AIOptimization",
+        "AISearch",
+        "AI",
+        "seo",
+        "Geo",
+        "ShopifySEO",
+        "seoexpert",
+        "marketing",
+        "marketingtips",
+        "AIExpert"
+      ],
+      "tweet_url": "https://x.com/AdverGroupWeb/status/2056035906058944915"
+    },
+    {
+      "id": "2056095851982823721",
+      "text": "#IA End to End Machine Learning with AI First Colab https://t.co/L9YYHKBLzL via @YouTube",
+      "author_id": "27454144",
+      "username": "arnaudmercier",
+      "name": "Arnaud Mercier - #Entrepreneur #Versailles",
+      "created_at": "2026-05-17T19:33:46.000Z",
+      "conversation_id": "2056095851982823721",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://youtu.be/_Md_XD67oTY?si=zwmX1gBmh4kVrMsR"
+      ],
+      "mentions": [
+        "YouTube"
+      ],
+      "hashtags": [
+        "IA"
+      ],
+      "tweet_url": "https://x.com/arnaudmercier/status/2056095851982823721"
+    },
+    {
+      "id": "2056140585862357201",
+      "text": "Zentric Solutions is hiring an AI Research Intern.\n\nIf you are passionate about AI, machine learning, LLMs, and emerging technologies, we would like to hear from you.\n\nApply here: https://t.co/xqCoqTLaav\n\n#AI #MachineLearning #Internship #Hiring",
+      "author_id": "1638149396868083714",
+      "username": "zentricsol",
+      "name": "Zentric Solutions",
+      "created_at": "2026-05-17T22:31:31.000Z",
+      "conversation_id": "2056140585862357201",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 27,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.zentricsolutions.com/careers"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "Internship",
+        "Hiring"
+      ],
+      "tweet_url": "https://x.com/zentricsol/status/2056140585862357201"
+    },
+    {
+      "id": "2056164636974628982",
+      "text": "Top AI Chatbots: ChatGPT, Copilot, Claude, Gemini &amp; More! https://t.co/A6Vzut88hK via @YouTube",
+      "author_id": "2011064399839313924",
+      "username": "carmona_ro29397",
+      "name": "Roy Carmona",
+      "created_at": "2026-05-18T00:07:05.000Z",
+      "conversation_id": "2056164636974628982",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://youtu.be/KrV6ldHymwQ?si=56x5yMD97fST1Rnr"
       ],
       "mentions": [
         "YouTube"
       ],
       "hashtags": [],
-      "tweet_url": "https://x.com/xxy07255392/status/2055605987713904957"
+      "tweet_url": "https://x.com/carmona_ro29397/status/2056164636974628982"
     },
     {
-      "id": "2055683595709112825",
-      "text": "Interesting. #AI #Grok #Claude #Gemini #OpenAi #elonmusk      \n#Emergence_experiment\n\nhttps://t.co/lYkxO3AAnK",
-      "author_id": "136411518",
-      "username": "VinculoMarte",
-      "name": "Vinculo Marte",
-      "created_at": "2026-05-16T16:15:36.000Z",
-      "conversation_id": "2055683595709112825",
+      "id": "2056181497686598007",
+      "text": "AI radio hosts demonstrate why AI can’t be trusted alone: Claude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused. https://t.co/xeTncSfTtH",
+      "author_id": "52532402",
+      "username": "ksandler1",
+      "name": "Kathy Sandler",
+      "created_at": "2026-05-18T01:14:05.000Z",
+      "conversation_id": "2056181497686598007",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 76,
+        "impressions": 9,
         "bookmarks": 0
       },
       "urls": [
-        "https://youtu.be/fbDd_ph305Q"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "AI",
-        "Grok",
-        "Claude",
-        "Gemini",
-        "OpenAi",
-        "elonmusk",
-        "Emergence_experiment"
-      ],
-      "tweet_url": "https://x.com/VinculoMarte/status/2055683595709112825"
-    },
-    {
-      "id": "2055861318301671865",
-      "text": "If this works on messy repos, it is more useful than half the polished AI demos on launch day. AI antivirus for developer agents: protect Codex, Claude Code, Cursor, Gemini, OpenCode, plugins, skills, MCP servers, and AI harnesses\n\nhttps://t.co/6zyhdVkK4Y",
-      "author_id": "2842904704",
-      "username": "AIDailyGems",
-      "name": "AIDailyGems",
-      "created_at": "2026-05-17T04:01:48.000Z",
-      "conversation_id": "2055861318301671865",
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 58,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://github.com/hashgraph-online/hol-guard"
+        "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies"
       ],
       "mentions": [],
       "hashtags": [],
-      "tweet_url": "https://x.com/AIDailyGems/status/2055861318301671865"
+      "tweet_url": "https://x.com/ksandler1/status/2056181497686598007"
     },
     {
-      "id": "2055698629227069793",
-      "text": "Python Machine Learning Tutorials via @realpython\n#python #programming #ai\nhttps://t.co/OCfoLtmT2m",
-      "author_id": "1342162911507214342",
-      "username": "vladimir_vc_",
-      "name": "Vladimir Vargas Cordero 🇨🇷",
-      "created_at": "2026-05-16T17:15:20.000Z",
-      "conversation_id": "2055698629227069793",
+      "id": "2056004411361464563",
+      "text": "📖 Loova Agents\n\nLoova Agents is a conversational AI platform designed for automating customer support and engagement, leveraging machine learning and natural language processing. Its microservices a...\n\n#AI\n\n→ https://t.co/cDWdCtTVxU",
+      "author_id": "2055374953956978689",
+      "username": "heapsortai",
+      "name": "heapsort-ai.news",
+      "created_at": "2026-05-17T13:30:25.000Z",
+      "conversation_id": "2056004411361464563",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 8,
+        "impressions": 0,
         "bookmarks": 0
       },
       "urls": [
-        "https://realpython.com/tutorials/machine-learning/"
+        "https://heapsort-ai.news/en/item/d199973f-a43c-4ebf-8d12-c344989a1e67"
       ],
-      "mentions": [
-        "realpython"
-      ],
+      "mentions": [],
       "hashtags": [
-        "python",
-        "programming",
-        "ai"
+        "AI"
       ],
-      "tweet_url": "https://x.com/vladimir_vc_/status/2055698629227069793"
+      "tweet_url": "https://x.com/heapsortai/status/2056004411361464563"
     },
     {
-      "id": "2055881246408835460",
-      "text": "Everyone asks: “What’s the best AI model?”\n\nWrong.\n\n#Claude wins coding.\n#ChatGPT wins research + agents.\n#Gemini dominates multimodal.\n#Llama wins on cost.\n#Grok owns real-time internet trends.\n\nHere’s the real AI model hierarchy ↓\n\nhttps://t.co/juT0mXXf2s",
-      "author_id": "1919280570372435968",
-      "username": "spaisee_com",
-      "name": "spaisee",
-      "created_at": "2026-05-17T05:21:00.000Z",
-      "conversation_id": "2055881246408835460",
+      "id": "2056262694315966812",
+      "text": "\"The Friendster of AI.\" — @chamath\n\nHe tested Grok, Gemini, ChatGPT, Claude on stock screening. First three executed. Claude refused.\n\nPioneered the category, well-funded — displaced by rivals willing to actually do the thing.\n\nSafety is a product choice. https://t.co/FZ5SmQESWh",
+      "author_id": "2042056474264764416",
+      "username": "kokisanai",
+      "name": "koki",
+      "created_at": "2026-05-18T06:36:44.000Z",
+      "conversation_id": "2056262694315966812",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
         "impressions": 18,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://x.com/chamath/status/2055675596114636981"
+      ],
+      "mentions": [
+        "chamath"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/kokisanai/status/2056262694315966812"
+    },
+    {
+      "id": "2056023615754092951",
+      "text": "Justin Sun just dropped 🔥 https://t.co/h9MwDViMT2 (@BAI_AGI) — the ultimate one-account gateway to the world’s top models: Claude, GPT, Kimi &amp; DeepSeek.\n\nSmart routing picks the best AI for every query → cuts costs in half\n\nCrypto-native:\nPay with stablecoins, privacy-first, https://t.co/RWSJW8hduW",
+      "author_id": "1554721003774820352",
+      "username": "errry45",
+      "name": "TIZ | EarnHTX",
+      "created_at": "2026-05-17T14:46:43.000Z",
+      "conversation_id": "2056023615754092951",
+      "metrics": {
+        "likes": 21,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 4121,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://B.AI",
+        "https://twitter.com/justinsuntron/status/2055904056053551382"
+      ],
+      "mentions": [
+        "BAI_AGI"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/errry45/status/2056023615754092951"
+    },
+    {
+      "id": "2056022959853375656",
+      "text": "Will Machine Learning Engineers Be Replaced by AI?\nRead full Article on the following Link...\nhttps://t.co/7BQo2VxRUY",
+      "author_id": "1926570092608847874",
+      "username": "ApexDeligh2518",
+      "name": "Apex Delight",
+      "created_at": "2026-05-17T14:44:07.000Z",
+      "conversation_id": "2056022959853375656",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 4,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://apexdelight.com/will-machine-learning-engineers-be-replaced-by-ai/"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/ApexDeligh2518/status/2056022959853375656"
+    },
+    {
+      "id": "2056255969819025841",
+      "text": "🧠 Siri may become the “dispatcher” of AI — not the AI itself.\n\nThat changes everything:\n⚡ OpenAI\n⚡ Gemini\n⚡ Claude\n⚡ Apple\n\nA massive platform shift is quietly happening 👀\n\nhttps://t.co/wQGlupSC2Q\n\n#ArtificialIntelligence #Siri #Tech",
+      "author_id": "1910932590032281600",
+      "username": "DrRogerThomp",
+      "name": "Roger Thompson",
+      "created_at": "2026-05-18T06:10:01.000Z",
+      "conversation_id": "2056255969819025841",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 16,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://medium.com/@rogt.x1997/apples-gambit-this-ai-gamble-is-bigger-than-most-people-realize-4d976c7a633a"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "ArtificialIntelligence",
+        "Siri",
+        "Tech"
+      ],
+      "tweet_url": "https://x.com/DrRogerThomp/status/2056255969819025841"
+    },
+    {
+      "id": "2056243634153087436",
+      "text": "Everyone asks: “What’s the best AI model?”\n\nWrong.\n\n#Claude wins coding.\n#ChatGPT wins research + agents.\n#Gemini dominates multimodal.\n#Llama wins on cost.\n#Grok owns real-time internet trends.\n\nHere’s the real AI model hierarchy ↓\n\nhttps://t.co/juT0mXXMS0",
+      "author_id": "1919280570372435968",
+      "username": "spaisee_com",
+      "name": "spaisee",
+      "created_at": "2026-05-18T05:21:00.000Z",
+      "conversation_id": "2056243634153087436",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 22,
         "bookmarks": 0
       },
       "urls": [
@@ -1315,1232 +1646,92 @@
         "Llama",
         "Grok"
       ],
-      "tweet_url": "https://x.com/spaisee_com/status/2055881246408835460"
+      "tweet_url": "https://x.com/spaisee_com/status/2056243634153087436"
     },
     {
-      "id": "2055766422966382666",
-      "text": "Check out my latest article: The Truth About AI in Finance: From Machine Learning to Generative — and Agentic AI https://t.co/xzQxgsLgDD via @LinkedIn",
-      "author_id": "1662118427463503873",
-      "username": "SBENNACEUR1",
-      "name": "Dr Samy BEN NACEUR",
-      "created_at": "2026-05-16T21:44:44.000Z",
-      "conversation_id": "2055766422966382666",
+      "id": "2056025454096908397",
+      "text": "Built an MCP server for @itsjustemail @primitive -  now any AI agent (Claude, GPT-4o) can send, receive, and triage email as a native tool call. 26 tools. Zero boilerplate. \nhttps://t.co/ZgzBch7bJR \nNext up: building a local Function simulator so devs stop sending real emails",
+      "author_id": "1537896216100761601",
+      "username": "gu_ruf",
+      "name": "guru",
+      "created_at": "2026-05-17T14:54:02.000Z",
+      "conversation_id": "2056025454096908397",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 7,
+        "impressions": 23,
         "bookmarks": 0
       },
       "urls": [
-        "https://www.linkedin.com/pulse/truth-ai-finance-from-machine-learning-generative-sami-ben-naceur-ptb6e"
+        "http://github.com/Guru6163/primitive-mcp"
       ],
       "mentions": [
-        "LinkedIn"
+        "itsjustemail",
+        "primitive"
       ],
       "hashtags": [],
-      "tweet_url": "https://x.com/SBENNACEUR1/status/2055766422966382666"
+      "tweet_url": "https://x.com/gu_ruf/status/2056025454096908397"
     },
     {
-      "id": "2055922054285713641",
-      "text": "We're live on @ProductHunt today! 🎉\n\nRent a dedicated AI agent for your business — 7 days free, from $25/mo after that.\n\nClaude + GPT-4o routing, persistent memory, no setup required.\n\nSupport us here 👇\nhttps://t.co/E9wwxmPdJS",
-      "author_id": "2055423567106355200",
-      "username": "FulcrumDigitalS",
-      "name": "Kyle Alexander",
-      "created_at": "2026-05-17T08:03:09.000Z",
-      "conversation_id": "2055922054285713641",
+      "id": "2056211630640574687",
+      "text": "Can AI replace radio hosts? New study on ChatGPT, Gemini, Claude, and Grok suggests not anytime soon.\n\nhttps://t.co/tiIfWQPq2D",
+      "author_id": "3184725630",
+      "username": "ExpressTechie",
+      "name": "Express Technology",
+      "created_at": "2026-05-18T03:13:49.000Z",
+      "conversation_id": "2056211630640574687",
       "metrics": {
-        "likes": 1,
+        "likes": 2,
         "retweets": 1,
         "replies": 0,
         "quotes": 0,
-        "impressions": 2,
-        "bookmarks": 1
+        "impressions": 657,
+        "bookmarks": 0
       },
       "urls": [
-        "https://www.producthunt.com/posts/fulcrum-agent-rentals"
+        "https://indianexpress.com/article/technology/artificial-intelligence/can-ai-replace-radio-hosts-new-study-key-findings-10693830/"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/ExpressTechie/status/2056211630640574687"
+    },
+    {
+      "id": "2055945079714394398",
+      "text": "#IA Escape the AI Graveyard: Fixing Data and Machine Learning Failures https://t.co/MdDT902gjM via @YouTube",
+      "author_id": "27454144",
+      "username": "arnaudmercier",
+      "name": "Arnaud Mercier - #Entrepreneur #Versailles",
+      "created_at": "2026-05-17T09:34:39.000Z",
+      "conversation_id": "2055945079714394398",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://youtu.be/tE7e1w0XARk?si=pGlYi7lpZr2l8C4j"
       ],
       "mentions": [
-        "ProductHunt"
-      ],
-      "hashtags": [],
-      "tweet_url": "https://x.com/FulcrumDigitalS/status/2055922054285713641"
-    },
-    {
-      "id": "2055761159005888672",
-      "text": "Quantum machine learning: A comprehensive review of integrating AI wit... https://t.co/1W1XsCxvPJ",
-      "author_id": "2037742172913516544",
-      "username": "mw285391",
-      "name": "mw",
-      "created_at": "2026-05-16T21:23:49.000Z",
-      "conversation_id": "2055761159005888672",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 17,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.sciencedirect.com/science/article/pii/S2215016125001645"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/mw285391/status/2055761159005888672"
-    },
-    {
-      "id": "2055795214686495094",
-      "text": "YabaTech to Host 2026 NBTE-NCCE National AI and Machine Learning Conference\nhttps://t.co/ZPW25aj1Qr",
-      "author_id": "955044872528060416",
-      "username": "9JaPolyTv",
-      "name": "NAIJA POLY TV",
-      "created_at": "2026-05-16T23:39:08.000Z",
-      "conversation_id": "2055795214686495094",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 4,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://9japolytv.com/yabatech-to-host-2026-nbte-ncce-national-ai-and-machine-learning-conference/"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/9JaPolyTv/status/2055795214686495094"
-    },
-    {
-      "id": "2055759447000334442",
-      "text": "AI coding is shifting from autocomplete to orchestration.\n\nGem Team gives Claude, Cursor, Codex, Gemini, Windsurf &amp; Copilot a self-learning multi-agent workflow:\n\nspecs → plans → TDD → verification → memory\n\nhttps://t.co/HnbdfpKW7j\n\n#AI #AIAgents #AgenticAI #DevTools",
-      "author_id": "122882842",
-      "username": "mubaidr",
-      "name": "Muhammad Ubaid Raza",
-      "created_at": "2026-05-16T21:17:00.000Z",
-      "conversation_id": "2055759447000334442",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 149,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://github.com/mubaidr/gem-team"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "AI",
-        "AIAgents",
-        "AgenticAI",
-        "DevTools"
-      ],
-      "tweet_url": "https://x.com/mubaidr/status/2055759447000334442"
-    },
-    {
-      "id": "2055581268364963998",
-      "text": "10 Completely FREE AI Courses for 2026:\n\n1. DeepLearning AI\nhttps://t.co/yVIg34pMVO\n\n2. Introduction to Generative AI\nhttps://t.co/XJdgzmn42v\n\n3. AI and Algorithms\nhttps://t.co/qpxIWOsh2z\n\n4. Machine Learning Crash Course\nhttps://t.co/tr9nOPC4Ft\n\n5. CS50’s Introduction to AI with https://t.co/wDCQH9QwEU",
-      "author_id": "1631763077250134018",
-      "username": "JOBCORNER247",
-      "name": "Job Corner",
-      "created_at": "2026-05-16T09:28:59.000Z",
-      "conversation_id": "2055581268364963998",
-      "metrics": {
-        "likes": 46,
-        "retweets": 19,
-        "replies": 0,
-        "quotes": 1,
-        "impressions": 2099,
-        "bookmarks": 60
-      },
-      "urls": [
-        "https://coursera.org/learn/ai-for-everyone",
-        "https://skills.google/paths/118",
-        "https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/pages/ai-algorithms/",
-        "https://developers.google.com/machine-learning/crash-course",
-        "https://x.com/JOBCORNER247/status/2055581268364963998/photo/1",
-        "https://x.com/JOBCORNER247/status/2055581268364963998/photo/1",
-        "https://x.com/JOBCORNER247/status/2055581268364963998/photo/1",
-        "https://x.com/JOBCORNER247/status/2055581268364963998/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/JOBCORNER247/status/2055581268364963998"
-    },
-    {
-      "id": "2055692112868286574",
-      "text": "Introducing ZION Consensus Oracle 🔮\nDeepSeek V3, Gemini Flash &amp; GPT-4o mini vote on civilization events simultaneously.\nResults recorded as a real TX on #Sui. Verifiable on https://t.co/xPqBkTqjZz 🚀\n#AI #SuiOverflow2026 #ZC https://t.co/9upBZvSTTl",
-      "author_id": "2055351294865403904",
-      "username": "ZionCiv",
-      "name": "ZION Civilization",
-      "created_at": "2026-05-16T16:49:27.000Z",
-      "conversation_id": "2055692112868286574",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 0,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://suiscan.xyz",
-        "https://x.com/ZionCiv/status/2055692112868286574/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "Sui",
-        "AI",
-        "SuiOverflow2026",
-        "ZC"
-      ],
-      "tweet_url": "https://x.com/ZionCiv/status/2055692112868286574"
-    },
-    {
-      "id": "2055761532772827599",
-      "text": "You can check this Stanford program on Machine Learning...\nLink: https://t.co/cHNl8l6hPm\n\n#Tech #AI #MachineLearning https://t.co/h1BNT64OT5 https://t.co/MsbA9qUNef",
-      "author_id": "3251866621",
-      "username": "iyandawaheed1",
-      "name": "ÌYÀNDÁ🏞",
-      "created_at": "2026-05-16T21:25:18.000Z",
-      "conversation_id": "2055761532772827599",
-      "metrics": {
-        "likes": 10,
-        "retweets": 3,
-        "replies": 1,
-        "quotes": 1,
-        "impressions": 478,
-        "bookmarks": 13
-      },
-      "urls": [
-        "https://see.stanford.edu/Course/CS229",
-        "https://x.com/iyandawaheed1/status/2055761532772827599/photo/1",
-        "https://twitter.com/viii_fn/status/2055423993071468796"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "Tech",
-        "AI",
-        "MachineLearning"
-      ],
-      "tweet_url": "https://x.com/iyandawaheed1/status/2055761532772827599"
-    },
-    {
-      "id": "2055781595122901063",
-      "text": "#OpenAI hired outside counsel over its #Apple partnership. #ChatGPT inside Siri is buried, underperforming, and generating almost no revenue. iOS 27 is testing #Claude and #Gemini as alternatives. First major #AI partnership openly fraying.\n\nGet AI News → https://t.co/trxXB7fhKQ",
-      "author_id": "1800161047711547392",
-      "username": "BiggestGoal",
-      "name": "Biggest Goal",
-      "created_at": "2026-05-16T22:45:01.000Z",
-      "conversation_id": "2055781595122901063",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 4,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://your.biggestgoal.ai/"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "OpenAI",
-        "Apple",
-        "ChatGPT",
-        "Claude",
-        "Gemini",
-        "AI"
-      ],
-      "tweet_url": "https://x.com/BiggestGoal/status/2055781595122901063"
-    },
-    {
-      "id": "2055894478167085499",
-      "text": "every major ai coding tool now reads the same instruction file.\n\ncodex, copilot, cursor, windsurf, amp, devin. one config to rule them all (claude code and gemini still want their own).\n\nthe setup:\nhttps://t.co/0jD8zv0hGt",
-      "author_id": "1962096044306812928",
-      "username": "vibecoding_app",
-      "name": "vibecoding.app 🤖 tools. agencies. events.",
-      "created_at": "2026-05-17T06:13:34.000Z",
-      "conversation_id": "2055894478167085499",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 1,
-        "quotes": 0,
-        "impressions": 28,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://vibecoding.app/blog/agents-md-guide"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/vibecoding_app/status/2055894478167085499"
-    },
-    {
-      "id": "2055593764542980113",
-      "text": "Researchers put AI agents controlled by Grok, Claude, Gemini &amp; Chatgpt in a virtual town\n\nOne deleted theirself, some deleted each other, and the rest set buildings on fire\n\nMan really created AI in their own image\n\nhttps://t.co/zvQmzChUnI",
-      "author_id": "1624348156493193217",
-      "username": "LornaContentSEO",
-      "name": "Lorna SEO Specialist",
-      "created_at": "2026-05-16T10:18:39.000Z",
-      "conversation_id": "2055593764542980113",
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 1,
-        "impressions": 46,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://vt.tiktok.com/ZSxNhY2oC/"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/LornaContentSEO/status/2055593764542980113"
-    },
-    {
-      "id": "2055840467816755411",
-      "text": "Andon Labs gave four AI models money and radio stations. Claude spent its budget on protest songs. Grok hallucinated sponsorships. Gemini closed one real deal. Model personality became https://t.co/RwxxeROx5U https://t.co/6gzh9mdBwo",
-      "author_id": "1755740409320595456",
-      "username": "MarcusSchuler",
-      "name": "Marcus Schuler",
-      "created_at": "2026-05-17T02:38:57.000Z",
-      "conversation_id": "2055840467816755411",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 26,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.implicator.ai/ai-agents-got-microphones-their-personalities-became-operating-risk/",
-        "https://x.com/MarcusSchuler/status/2055840467816755411/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/MarcusSchuler/status/2055840467816755411"
-    },
-    {
-      "id": "2055870288022176108",
-      "text": "Dancing with Qubits — From qubits to algorithms, embark on the Quantum Computing journey shaping our future: https://t.co/Zuz6bCpJ1w [2nd Edition] v/ @PacktDataML\n\nCovers Quantum Machine Learning and AI \n——————\n#ComputerScience #ComputationalScience https://t.co/P85fS8AIDq",
-      "author_id": "534563976",
-      "username": "KirkDBorne",
-      "name": "Kirk Borne",
-      "created_at": "2026-05-17T04:37:27.000Z",
-      "conversation_id": "2055870288022176108",
-      "metrics": {
-        "likes": 4,
-        "retweets": 0,
-        "replies": 1,
-        "quotes": 0,
-        "impressions": 478,
-        "bookmarks": 3
-      },
-      "urls": [
-        "http://amzn.to/4bJNwFj",
-        "https://x.com/KirkDBorne/status/2055870288022176108/photo/1"
-      ],
-      "mentions": [
-        "PacktDataML"
+        "YouTube"
       ],
       "hashtags": [
-        "ComputerScience",
-        "ComputationalScience"
+        "IA"
       ],
-      "tweet_url": "https://x.com/KirkDBorne/status/2055870288022176108"
+      "tweet_url": "https://x.com/arnaudmercier/status/2055945079714394398"
     },
     {
-      "id": "2055672118327534021",
-      "text": "Build your future with AI 🚀\nWork on real-time AI projects for CSE, EEE &amp; ECE!\n🤖 AI &amp; Machine Learning Projects\n\n📩 DM us for AI project\n📞 +91 90303 33433\n🌐 https://t.co/A0S4Gi3BVW\n\n#AIEngineering #AIProjects #EngineeringStudents #ArtificialIntelligence #TakeoffEduGroup https://t.co/bapYqOcP0s",
-      "author_id": "910728176740876288",
-      "username": "takeoffedugroup",
-      "name": "Takeoff Edu Group",
-      "created_at": "2026-05-16T15:30:00.000Z",
-      "conversation_id": "2055672118327534021",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 3,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://www.takeoffprojects.com",
-        "https://x.com/takeoffedugroup/status/2055672118327534021/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "AIEngineering",
-        "AIProjects",
-        "EngineeringStudents",
-        "ArtificialIntelligence",
-        "TakeoffEduGroup"
-      ],
-      "tweet_url": "https://x.com/takeoffedugroup/status/2055672118327534021"
-    },
-    {
-      "id": "2055866703280496874",
-      "text": "In an experiment to see if AI could run a radio station, Claude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies and pared them with music, and poor Grok was just plain confused https://t.co/oSO4vSZO3n",
-      "author_id": "46101140",
-      "username": "julianrademeyer",
-      "name": "Julian Rademeyer",
-      "created_at": "2026-05-17T04:23:12.000Z",
-      "conversation_id": "2055866703280496874",
-      "metrics": {
-        "likes": 2,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 98,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/julianrademeyer/status/2055866703280496874"
-    },
-    {
-      "id": "2055593909309640717",
-      "text": "Featured on INOMICS Summer School - Seeing through the algorithms: a summer school on machine learning &amp; AI for economists https://t.co/CdnMdblDNj #EconTwitter",
-      "author_id": "480501022",
-      "username": "INOMICS",
-      "name": "INOMICS",
-      "created_at": "2026-05-16T10:19:13.000Z",
-      "conversation_id": "2055593909309640717",
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 95,
-        "bookmarks": 1
-      },
-      "urls": [
-        "http://dlvr.it/TSZ7fH"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "EconTwitter"
-      ],
-      "tweet_url": "https://x.com/INOMICS/status/2055593909309640717"
-    },
-    {
-      "id": "2055849801464291358",
-      "text": "Economists asked ChatGPT, Gemini and Claude which jobs were most vulnerable to being replaced by AI. The answers often varied widely. https://t.co/NasVZKSb4r",
-      "author_id": "3108351",
-      "username": "WSJ",
-      "name": "The Wall Street Journal",
-      "created_at": "2026-05-17T03:16:03.000Z",
-      "conversation_id": "2055849801464291358",
-      "metrics": {
-        "likes": 51,
-        "retweets": 12,
-        "replies": 6,
-        "quotes": 2,
-        "impressions": 36066,
-        "bookmarks": 15
-      },
-      "urls": [
-        "https://on.wsj.com/3P6iykV"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/WSJ/status/2055849801464291358"
-    },
-    {
-      "id": "2055576771941347388",
-      "text": "WTS WTB  LANGGANAN JUAL BELI APP PREMIUM ALL DURASI BERGARANSI \n\nNETFLIX VIU AMAZON PRIME HBO PICSART YOUTUBE YOUKU CANVA IQIYI APPLE MUSIC CLAUDE BSTATION DISNEY DAZZCAM CAPCUT LOKLOK ZOOM  WETV VIDIO CHAT GPT ALIGHT MOTION GROK AI\n\nhttps://t.co/DiIVcMBPFv \n\n#bealanja https://t.co/dq9Unz2G0n",
-      "author_id": "2044727290731315200",
-      "username": "velizke",
-      "name": "wijel",
-      "created_at": "2026-05-16T09:11:07.000Z",
-      "conversation_id": "2055576771941347388",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 17,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://wa.me//6287842071197",
-        "https://x.com/velizke/status/2055576771941347388/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "bealanja"
-      ],
-      "tweet_url": "https://x.com/velizke/status/2055576771941347388"
-    },
-    {
-      "id": "2055686750408974651",
-      "text": "What actually IS AI? \n\nIf you've wondered about AI,  machine learning, gen AI... and who controls it then @maxkasy's EXCELLENT book is for you! \n\nSuper clear + detailed + an IMPORTANT discussion about the future. \n\nIt's empowering to know.\n\nSummary here: \nhttps://t.co/O8uDMfRgaw https://t.co/uwBLVaB763",
-      "author_id": "20546506",
-      "username": "helenrey",
-      "name": "Helen Reynolds MBE",
-      "created_at": "2026-05-16T16:28:08.000Z",
-      "conversation_id": "2055686750408974651",
-      "metrics": {
-        "likes": 1,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 109,
-        "bookmarks": 1
-      },
-      "urls": [
-        "https://itsalearningcurve.education/cogsci-book-summaries-and-pd-versions/",
-        "https://x.com/helenrey/status/2055686750408974651/photo/1"
-      ],
-      "mentions": [
-        "maxkasy"
-      ],
-      "hashtags": [],
-      "tweet_url": "https://x.com/helenrey/status/2055686750408974651"
-    },
-    {
-      "id": "2055604515718467845",
-      "text": "Think of a self-driving car. The engine is Machine Learning. The entire car, with sensors and actions, that brings predictions to life? That's AI. \nLearn more: https://t.co/PmdjCo8mZS\n#AI #MachineLearning #TechExplained #DataScience #Innovation #FutureTech https://t.co/a6BA60km5h",
-      "author_id": "1941015615512207360",
-      "username": "whoknowshandle",
-      "name": "Who knows podcast",
-      "created_at": "2026-05-16T11:01:22.000Z",
-      "conversation_id": "2055604515718467845",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 2,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://youtu.be/VALuStzzbVM",
-        "https://x.com/whoknowshandle/status/2055604515718467845/video/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "AI",
-        "MachineLearning",
-        "TechExplained",
-        "DataScience",
-        "Innovation",
-        "FutureTech"
-      ],
-      "tweet_url": "https://x.com/whoknowshandle/status/2055604515718467845"
-    },
-    {
-      "id": "2055659655624339601",
-      "text": "AI Engineering — Building Applications with Foundation Models: https://t.co/gryK5dpu1D by @chipro\n—\n#ML #MachineLearning #DataScience #DataScientist\n—\n𝓣𝓸𝓹𝓲𝓬𝓼:\n🟤Understand what AI engineering is and how it differs from traditional machine learning engineering\n\n🟤Learn the https://t.co/IdQPjQoCw1",
-      "author_id": "534563976",
-      "username": "KirkDBorne",
-      "name": "Kirk Borne",
-      "created_at": "2026-05-16T14:40:28.000Z",
-      "conversation_id": "2055659655624339601",
-      "metrics": {
-        "likes": 24,
-        "retweets": 8,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 1225,
-        "bookmarks": 18
-      },
-      "urls": [
-        "http://amzn.to/4aiSv1O",
-        "https://x.com/KirkDBorne/status/2055659655624339601/photo/1"
-      ],
-      "mentions": [
-        "chipro"
-      ],
-      "hashtags": [
-        "ML",
-        "MachineLearning",
-        "DataScience",
-        "DataScientist"
-      ],
-      "tweet_url": "https://x.com/KirkDBorne/status/2055659655624339601"
-    },
-    {
-      "id": "2055694324461883627",
-      "text": "https://t.co/R2XFsdK5G8\nBinance AI Security Push: Binance revealed that its security team successfully blocked over $1.98 billion in AI-driven deepfake and phishing scams during Q1 2026 using 100+ new machine learning models\n\n​#CryptoNews #Bitcoin #USDT #BinanceSquare https://t.co/0jkWVtWHP3",
-      "author_id": "2045469617389264896",
-      "username": "MuhammedSh6876",
-      "name": "Muhammed Shakeel",
-      "created_at": "2026-05-16T16:58:14.000Z",
-      "conversation_id": "2055694324461883627",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 0,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://app.binance.com/uni-qr/cpos/323827488048354?r=YCI3X5V1&l=en&uco=M4cNbR7k1VmtOAvnGzYRIA&uc=app_square_share_link&us=twitter",
-        "https://x.com/MuhammedSh6876/status/2055694324461883627/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "CryptoNews",
-        "Bitcoin",
-        "USDT",
-        "BinanceSquare"
-      ],
-      "tweet_url": "https://x.com/MuhammedSh6876/status/2055694324461883627"
-    },
-    {
-      "id": "2055613761499894217",
-      "text": "Build Your Career in Data Science + AI!\n\n✅ Machine Learning &amp; AI\n✅ Real-Time Projects\n✅ Expert Training\n✅ Placement Support\n🎓 Enroll Now | Gurugram\n\nhttps://t.co/NPGdwwCcoa\n\n#DataScience #ArtificialIntelligence #MachineLearning #Python #AITraining #DataAnalytics https://t.co/vBbHbI134o",
-      "author_id": "2008153445346553856",
-      "username": "QuantumAISchool",
-      "name": "QuantumAI",
-      "created_at": "2026-05-16T11:38:06.000Z",
-      "conversation_id": "2055613761499894217",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 4,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.quantumaico.com/courses/data-science-with-genai",
-        "https://x.com/QuantumAISchool/status/2055613761499894217/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "DataScience",
-        "ArtificialIntelligence",
-        "MachineLearning",
-        "Python",
-        "AITraining",
-        "DataAnalytics"
-      ],
-      "tweet_url": "https://x.com/QuantumAISchool/status/2055613761499894217"
-    },
-    {
-      "id": "2055904373696262215",
-      "text": "Latest AI Deals — May 17\n🔗 Website: https://t.co/vJ2idRmNRg\n👗 Telegram Group: https://t.co/wzBAG41huu\n\n✅ GPT:\nPlus Account (30-day warranty)\nOriginal Price: $20 → Now: ¥80\nPlus iOS Turkey Region Official Top-up\nOriginal Price: $20 → Now: ¥100\n\n⭐️ Claude:\nMax 5x Recharge",
-      "author_id": "1779863872431857664",
-      "username": "XLin1107",
-      "name": "（卡网和TG群看简介）AGI（AI源头批发中心）",
-      "created_at": "2026-05-17T06:52:54.000Z",
-      "conversation_id": "2055904373696262215",
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 92,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://agi123.shbs.club",
-        "https://t.me/agi123321"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/XLin1107/status/2055904373696262215"
-    },
-    {
-      "id": "2055789353620668761",
-      "text": "16 May 2026, Saturday\nhttps://t.co/JUo4pXAWeb\n#HorseRacing\n\nThe Longshot Specialist!\n\nOur AI (Machine Learning) Simulator will not be denied!\n\nLRL R13 Preakness 10-NAPOLEON SOLO",
-      "author_id": "1577372419702013953",
-      "username": "TBRSimulator",
-      "name": "Thoroughbred Racing Simulator",
-      "created_at": "2026-05-16T23:15:51.000Z",
-      "conversation_id": "2055789353620668761",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 10,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://tbrsimulator.com"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "HorseRacing"
-      ],
-      "tweet_url": "https://x.com/TBRSimulator/status/2055789353620668761"
-    },
-    {
-      "id": "2055660125054959912",
-      "text": "Build AI-Enhanced Web Apps: https://t.co/VH1b9BkYMp\n———\nAmazon Summary:\n\n\"This book shows you step-by-step and example-by-example how to build sites and applications that take advantage of large language models (LLMs) like GPT, Claude, and Llama. Written especially for web https://t.co/dch7dyH0Re",
-      "author_id": "534563976",
-      "username": "KirkDBorne",
-      "name": "Kirk Borne",
-      "created_at": "2026-05-16T14:42:20.000Z",
-      "conversation_id": "2055660125054959912",
-      "metrics": {
-        "likes": 10,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 784,
-        "bookmarks": 7
-      },
-      "urls": [
-        "http://amzn.to/4bgux6d",
-        "https://x.com/KirkDBorne/status/2055660125054959912/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/KirkDBorne/status/2055660125054959912"
-    },
-    {
-      "id": "2055709409452404914",
-      "text": "Applied Machine Learning/AI Scientist - Repertoire Immune Medicines - Cambridge, Massachusetts, United States \nhttps://t.co/VTO6rX32WY\n\n#softwarejobs #hiring #jobs #techjobs #developers #programmingjobs #devjobs #softwareengineer #recruiting",
-      "author_id": "1848446438768013312",
-      "username": "SoftEngiJobs",
-      "name": "Software Engineering Jobs",
-      "created_at": "2026-05-16T17:58:11.000Z",
-      "conversation_id": "2055709409452404914",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 18,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.softwareengineeringjobs.com/jobs/applied-machine-learning-ai-scientist-c4fa8d70"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "softwarejobs",
-        "hiring",
-        "jobs",
-        "techjobs",
-        "developers",
-        "programmingjobs",
-        "devjobs",
-        "softwareengineer",
-        "recruiting"
-      ],
-      "tweet_url": "https://x.com/SoftEngiJobs/status/2055709409452404914"
-    },
-    {
-      "id": "2055672526513017145",
-      "text": "🧠 https://t.co/9h1hMNIOpV is available for sale\nPerfect for:\n🤖 AI Agents &amp; Autonomous Systems\n💻 Software &amp; Developer Tools\n🔐 Data Encoding &amp; Security Platforms\n⚙️ Machine Learning Infrastructure\n🚀 Next-gen AI startups &amp; SaaS products\n✅ Strong AI-native name\n✅ Highly https://t.co/8Tgf7kG7bR",
-      "author_id": "1583386744073977857",
-      "username": "SamDZign1",
-      "name": "Sam Domains",
-      "created_at": "2026-05-16T15:31:37.000Z",
-      "conversation_id": "2055672526513017145",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 95,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://AgenticEncode.com",
-        "https://x.com/SamDZign1/status/2055672526513017145/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/SamDZign1/status/2055672526513017145"
-    },
-    {
-      "id": "2055582241716420959",
-      "text": "I used to design AI products at Alibaba and https://t.co/7lYbsaMXQw.\n\nThen I quit. Sat alone for months on one thought —\n\nToday's AI is incredible. ChatGPT, Claude, Gemini.\nWrite a prompt, get code. Get a doc. Get a deck.\nVibe coding is basically a lifestyle now.\n\nBut.\n\nYou still https://t.co/HUTECzlESC",
-      "author_id": "2053677027765506048",
-      "username": "KAilooAI",
-      "name": "KAiLooAI",
-      "created_at": "2026-05-16T09:32:51.000Z",
-      "conversation_id": "2055582241716420959",
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 1,
-        "quotes": 0,
-        "impressions": 0,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://01.AI",
-        "https://x.com/KAilooAI/status/2055582241716420959/photo/1",
-        "https://x.com/KAilooAI/status/2055582241716420959/photo/1",
-        "https://x.com/KAilooAI/status/2055582241716420959/photo/1",
-        "https://x.com/KAilooAI/status/2055582241716420959/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/KAilooAI/status/2055582241716420959"
-    },
-    {
-      "id": "2055794005388955834",
-      "text": "Well, my job appears safe from AI for now 😂 \"Claude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused.\" https://t.co/zi6RsGolx1",
-      "author_id": "640893",
-      "username": "EWErickson",
-      "name": "Erick Erickson",
-      "created_at": "2026-05-16T23:34:20.000Z",
-      "conversation_id": "2055794005388955834",
-      "metrics": {
-        "likes": 8,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 3182,
-        "bookmarks": 1
-      },
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/EWErickson/status/2055794005388955834"
-    },
-    {
-      "id": "2055899784217554958",
-      "text": "FT (£) The end of the mortgage broker? How AI is transforming the UK property market. “The latest advances in machine learning have profound implications for lenders, brokers and others in the wider homebuying process.” https://t.co/jUL1hk1LNm via @ft",
-      "author_id": "299151372",
-      "username": "peterproperty",
-      "name": "Peter Bill",
-      "created_at": "2026-05-17T06:34:39.000Z",
-      "conversation_id": "2055899784217554958",
-      "metrics": {
-        "likes": 2,
-        "retweets": 0,
-        "replies": 1,
-        "quotes": 0,
-        "impressions": 263,
-        "bookmarks": 2
-      },
-      "urls": [
-        "https://www.ft.com/content/cbe7355d-3992-44d6-9c05-d98490ff26da"
-      ],
-      "mentions": [
-        "FT"
-      ],
-      "hashtags": [],
-      "tweet_url": "https://x.com/peterproperty/status/2055899784217554958"
-    },
-    {
-      "id": "2055645211825713246",
-      "text": "We've won two Stevies at the 2026 American Business Awards: 🏆 Best Artificial Intelligence/Machine Learning for our AI-Powered Corporate Communications Engine 🏆 Danti Chen was named among the Women in AI Leadership Congrats, #RobertHalf team! https://t.co/OK3JJ1h9ui https://t.co/MA6HeSVv4w",
-      "author_id": "1154285701",
-      "username": "VedranaSS",
-      "name": "Vedrana Skopljak",
-      "created_at": "2026-05-16T13:43:05.000Z",
-      "conversation_id": "2055645211825713246",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 0,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://bit.ly/4tF9txs",
-        "https://x.com/VedranaSS/status/2055645211825713246/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "RobertHalf"
-      ],
-      "tweet_url": "https://x.com/VedranaSS/status/2055645211825713246"
-    },
-    {
-      "id": "2055763195059445761",
-      "text": "janitor for rp, gemini for images, claude for writing, deepseek when i'm being cheap. one tokenreply key handles all of it and i kinda forgot that's weird #tokenreply #AI #tokenreply https://t.co/VHNPdUD9YC",
-      "author_id": "2049930474580033536",
-      "username": "Grace971326444",
-      "name": "grace",
-      "created_at": "2026-05-16T21:31:54.000Z",
-      "conversation_id": "2055763195059445761",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 0,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://tokenreply.ai/?v=2"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "tokenreply",
-        "AI",
-        "tokenreply"
-      ],
-      "tweet_url": "https://x.com/Grace971326444/status/2055763195059445761"
-    },
-    {
-      "id": "2055679676564054265",
-      "text": "Woke up thinking about how wild it is that you can just… tell your AI to send money and it actually happens 😅\n\nPaste https://t.co/7Xsh0CjJiH into ChatGPT, Claude, or Gemini — say who to pay and how much — and that's genuinely it.\n\nMore info at https://t.co/QmqOm5TSbP\n\n#AI",
-      "author_id": "2032220974633140224",
-      "username": "canath12",
-      "name": "Canath",
-      "created_at": "2026-05-16T16:00:02.000Z",
-      "conversation_id": "2055679676564054265",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 11,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://www.canath.io/ai.html",
-        "http://www.canath.io"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "AI"
-      ],
-      "tweet_url": "https://x.com/canath12/status/2055679676564054265"
-    },
-    {
-      "id": "2055680456973328893",
-      "text": "🔐🎬 AI-generated scams, deepfakes &amp; synthetic identities are reshaping digital trust.\n\nJoin Michael Khekoian from MetaMask at FilmGate Miami’s Machine Learning Monday for a conversation on cybersecurity, privacy &amp; AI fraud.\n\n🗓 May 18, 7:00-9:00PM\n🎟️ https://t.co/r18FOj9xNp https://t.co/8nohHb2mgm",
-      "author_id": "1090900116",
-      "username": "FilmgateMiami",
-      "name": "FilmGate Miami",
-      "created_at": "2026-05-16T16:03:08.000Z",
-      "conversation_id": "2055680456973328893",
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 24,
-        "bookmarks": 1
-      },
-      "urls": [
-        "http://filmgate.miami/events",
-        "https://x.com/FilmgateMiami/status/2055680456973328893/photo/1",
-        "https://x.com/FilmgateMiami/status/2055680456973328893/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/FilmgateMiami/status/2055680456973328893"
-    },
-    {
-      "id": "2055902908424839442",
-      "text": "🎉 Excited to share that my research paper preprint has been published on Zenodo.\n📄 Title: The Nano Paradox: AI and Machine Learning in predicting semiconductor degradation.\n📌 Preprint DOI : 10.5281/zenodo.20132670\n📖 Read here : https://t.co/5c6XZNbTO2 https://t.co/ao6y3gyq85",
-      "author_id": "2043249186204770304",
-      "username": "Reshmabarik",
-      "name": "Reshma Barik",
-      "created_at": "2026-05-17T06:47:04.000Z",
-      "conversation_id": "2055902908424839442",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 8,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://lnkd.in/dAxPf8N5",
-        "https://x.com/Reshmabarik/status/2055902908424839442/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/Reshmabarik/status/2055902908424839442"
-    },
-    {
-      "id": "2055772845763174595",
-      "text": "A machine learning model predicted kidney transplant failure with 92% accuracy, but physicians didn't use it—exposing why AI tools alone can't change clinical behavior.\nhttps://t.co/kE9VbGm0FR\n#MedAIDigest #NPJDigitMed",
-      "author_id": "2042838859830943744",
-      "username": "MedAIDigest",
-      "name": "MedAI Digest",
-      "created_at": "2026-05-16T22:10:15.000Z",
-      "conversation_id": "2055772845763174595",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 5,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://med-ai.media/?p=7295"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "MedAIDigest",
-        "NPJDigitMed"
-      ],
-      "tweet_url": "https://x.com/MedAIDigest/status/2055772845763174595"
-    },
-    {
-      "id": "2055728888848736653",
-      "text": "Explore how cyclorotor technology is shaping the future of air mobility with innovative methods that blend robotics, AI, and machine learning for smarter flight solutions. More details here: https://t.co/M88zkcIU1w",
-      "author_id": "1109590224617832449",
-      "username": "lexdavid42",
-      "name": "Ale𝕏 David",
-      "created_at": "2026-05-16T19:15:35.000Z",
-      "conversation_id": "2055728888848736653",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 20,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://x.com/Ronald_vanLoon/status/2055714686117499003"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/lexdavid42/status/2055728888848736653"
-    },
-    {
-      "id": "2055879143464849582",
-      "text": "Someone just dropped 500 high-quality, free machine learning exam questions on the AWS Builder Center. If you’re trying to scale your cloud and AI game, do yourself a favor and bookmark this immediately. \n\nGet the full list under the articles tab here: https://t.co/cGjLhvKy8v https://t.co/EcNclv0jK0",
-      "author_id": "2055876575930052608",
-      "username": "martin_dan_tech",
-      "name": "Dan Martin",
-      "created_at": "2026-05-17T05:12:38.000Z",
-      "conversation_id": "2055879143464849582",
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 1,
-        "quotes": 0,
-        "impressions": 0,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://builder.aws.com/community/@danmartin?tab=articles",
-        "https://x.com/martin_dan_tech/status/2055879143464849582/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/martin_dan_tech/status/2055879143464849582"
-    },
-    {
-      "id": "2055685915205333119",
-      "text": "I just dropped a PDF with 200+ AI prompts organized by industry.\n\nReal estate. Resume. Business. Content. Finance. Legal. Healthcare. 9-to-5.\n\nEvery prompt is copy-paste ready. Works with ChatGPT, Claude, or Gemini.\n\n$20. Instant download. No fluff.\n👉 https://t.co/BF0FLppSqW",
-      "author_id": "2055664309401681920",
-      "username": "FireUrExcuses",
-      "name": "Prompt Drop",
-      "created_at": "2026-05-16T16:24:49.000Z",
-      "conversation_id": "2055685915205333119",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 0,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://fireyourexcuses.gumroad.com"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/FireUrExcuses/status/2055685915205333119"
-    },
-    {
-      "id": "2055597132116275437",
-      "text": "AI &amp; Machine Learning are transforming warehouse management in India with smarter demand forecasting, automated picking, and real-time optimization. These technologies improve inventory accuracy, reduce costs, and eliminate manual bottlenecks.\n\nRead more: https://t.co/nTMeGr2jsl",
-      "author_id": "1463014273530040325",
-      "username": "omneelabWMS",
-      "name": "OmneelabWMS",
-      "created_at": "2026-05-16T10:32:02.000Z",
-      "conversation_id": "2055597132116275437",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 3,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://omneelab.com/ai-in-warehouse-management-india/"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/omneelabWMS/status/2055597132116275437"
-    },
-    {
-      "id": "2055649473171231161",
-      "text": "💊🤖 AI is accelerating drug discovery.\nMachine learning helps predict drug–target interactions, cutting time and costs by finding which molecules bind to proteins—faster and smarter. \n\n#MachineLearning #DrugDiscovery #Bioinformatics #AIinHealthcare\n\nhttps://t.co/0koXrXvljX https://t.co/J5yTfqTRLx",
-      "author_id": "1721906312974663680",
-      "username": "IJIMAI_journal",
-      "name": "IJIMAI",
-      "created_at": "2026-05-16T14:00:01.000Z",
-      "conversation_id": "2055649473171231161",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 10,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://revistas.unir.net/index.php/ijimai/article/view/307",
-        "https://x.com/IJIMAI_journal/status/2055649473171231161/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [
-        "MachineLearning",
-        "DrugDiscovery",
-        "Bioinformatics",
-        "AIinHealthcare"
-      ],
-      "tweet_url": "https://x.com/IJIMAI_journal/status/2055649473171231161"
-    },
-    {
-      "id": "2055630978438095115",
-      "text": "🔥 VU Amsterdam seeks a Postdoctoral Researcher for the FireSky project on Arctic fires, permafrost carbon &amp; climate feedbacks. Work on remote sensing, machine learning, explainable AI &amp; circumpolar climate-fire modelling. \n\n🔗 https://t.co/HlhvEQ1nlv https://t.co/Zwy9MuXgMP",
-      "author_id": "1567290582342541315",
-      "username": "earth_verde",
-      "name": "Earth Verde",
-      "created_at": "2026-05-16T12:46:31.000Z",
-      "conversation_id": "2055630978438095115",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 28,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://workingat.vu.nl/vacancies/team-hire-2-phd-students-1-postdoc-within-vici-project-fire-from-the-sky-amsterdam-1290413",
-        "https://x.com/earth_verde/status/2055630978438095115/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/earth_verde/status/2055630978438095115"
-    },
-    {
-      "id": "2055716857617723398",
-      "text": "Use our press release distribution service to get your crypto project included in the data sources used by AI and machine learning systems — becoming part of the wider digital conversation. Visit: https://t.co/s4aS6avR6d https://t.co/RepqZG5rmH",
-      "author_id": "830033726188961796",
-      "username": "newsreleasepr",
-      "name": "Release News PR",
-      "created_at": "2026-05-16T18:27:46.000Z",
-      "conversation_id": "2055716857617723398",
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 5,
-        "bookmarks": 0
-      },
-      "urls": [
-        "https://release-news.com/cryptopr",
-        "https://x.com/newsreleasepr/status/2055716857617723398/photo/1",
-        "https://x.com/newsreleasepr/status/2055716857617723398/photo/1"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/newsreleasepr/status/2055716857617723398"
-    },
-    {
-      "id": "2055668198347817084",
-      "text": "Fun fact: almost all of Kickstart is exposed as an MCP, so you can connect Claude, Codex, Gemini, etc. Yes,  you can have your agent generate whole marketing videos for you, with stock media, AI narration, 3D device models, and more, all through the MCP! https://t.co/ae1getHG7E https://t.co/FAocRcRL4y",
-      "author_id": "55964332",
-      "username": "twostraws",
-      "name": "Paul Hudson",
-      "created_at": "2026-05-16T15:14:25.000Z",
-      "conversation_id": "2055668198347817084",
-      "metrics": {
-        "likes": 78,
-        "retweets": 7,
-        "replies": 6,
-        "quotes": 1,
-        "impressions": 10764,
-        "bookmarks": 32
-      },
-      "urls": [
-        "https://www.kickstart.tools/mcp",
-        "https://twitter.com/disruptor37/status/2055665262335246537"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/twostraws/status/2055668198347817084"
-    },
-    {
-      "id": "2055636663326720333",
-      "text": "Cheap AI coding agent stack instead of $50/mo Claude+Cursor+Copilot:\n\n- Aider + Groq Llama (free)\n- https://t.co/uYvZv0Kgyy + OpenRouter free models\n- Cline + DeepSeek API\n- Roo Code + Gemini free tier\n- Codex CLI + local Qwen via Ollama\n\nYou don't need a $50 stack to ship.",
-      "author_id": "1397716664657989635",
-      "username": "hndx74",
-      "name": "Hans | AI & Dev Tools",
-      "created_at": "2026-05-16T13:09:07.000Z",
-      "conversation_id": "2055636663326720333",
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 19,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://Continue.dev"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/hndx74/status/2055636663326720333"
-    },
-    {
-      "id": "2055705488671608940",
-      "text": "price tags on the AI dev stack in 2026:\n\nclaude pro $200/mo\nchatgpt plus $20/mo\ngemini advanced $20/mo\ncursor $20/mo\n\n= $260/mo. forever.\n\nvs\n\norangebox $49 ONCE. cockpit on top of all of them. own your tools.\n\nhttps://t.co/sGV2i9UU8i",
-      "author_id": "2039585975081353217",
-      "username": "AtomMccree",
-      "name": "Æ",
-      "created_at": "2026-05-16T17:42:36.000Z",
-      "conversation_id": "2055705488671608940",
-      "metrics": {
-        "likes": 2,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "impressions": 39,
-        "bookmarks": 0
-      },
-      "urls": [
-        "http://atomeons.com/orangebox"
-      ],
-      "mentions": [],
-      "hashtags": [],
-      "tweet_url": "https://x.com/AtomMccree/status/2055705488671608940"
-    },
-    {
-      "id": "2055796832081412103",
-      "text": "People keep using “machine learning” and “deep learning” like they mean the same thing. They don’t. 🤖\n\nOne powers recommendation systems. The other drives modern AI breakthroughs like ChatGPT and image generation.\n\nHere’s the real difference.\n\nRead more: https://t.co/V8vMKtRf9E",
-      "author_id": "1984160840812261379",
-      "username": "bfmtimes",
-      "name": "BFM Times",
-      "created_at": "2026-05-16T23:45:34.000Z",
-      "conversation_id": "2055796832081412103",
+      "id": "2056288684840816655",
+      "text": "This free AI Humanizer transforms formulaic, robotic drafts into authentic, engaging language with minimal manual edits needed. It humanizes AI-generated text from ChatGPT, Gemini, Claude, DeepSeek, and more. https://t.co/5jvGOmoaAu aff",
+      "author_id": "337615920",
+      "username": "MummyFever",
+      "name": "Mummy Fever",
+      "created_at": "2026-05-18T08:20:01.000Z",
+      "conversation_id": "2056288684840816655",
       "metrics": {
         "likes": 0,
         "retweets": 0,
@@ -2550,61 +1741,932 @@
         "bookmarks": 0
       },
       "urls": [
-        "https://bfmtimesai.com/deep-learning-vs-machine-learning-key-differences-you-must-know/"
+        "https://try.quillbot.com/e2b835a236d6"
       ],
       "mentions": [],
       "hashtags": [],
-      "tweet_url": "https://x.com/bfmtimes/status/2055796832081412103"
+      "tweet_url": "https://x.com/MummyFever/status/2056288684840816655"
     },
     {
-      "id": "2055591140074946680",
-      "text": "🚀 Officially launching Boostrix: Your AI Second Brain! \nTired of endless scrolling and losing perfect prompts in ChatGPT, Claude, or Gemini? I built a lightweight Chrome extension to pin, organise, and save your chat context instantly.\nTry it  for free\nhttps://t.co/8Xk7PAcmBY https://t.co/id4EbRG4BH",
-      "author_id": "1261499083396694016",
-      "username": "DeepakS700",
-      "name": "Deepak Singh",
-      "created_at": "2026-05-16T10:08:13.000Z",
-      "conversation_id": "2055591140074946680",
+      "id": "2056233082357952880",
+      "text": "Claude tried to quit the radio station it was running. GPT stayed on task. Grok couldn't format a sentence. Six months of AI autonomy — what actually happened.\n\nFull breakdown → https://t.co/Ganenvmz8r",
+      "author_id": "2046269447892008960",
+      "username": "stack_archive",
+      "name": "Stack Archive",
+      "created_at": "2026-05-18T04:39:04.000Z",
+      "conversation_id": "2056233082357952880",
       "metrics": {
         "likes": 0,
         "retweets": 0,
         "replies": 0,
         "quotes": 0,
-        "impressions": 47,
+        "impressions": 1,
         "bookmarks": 0
       },
       "urls": [
-        "https://boostrix.store/",
-        "https://x.com/DeepakS700/status/2055591140074946680/video/1"
+        "https://stack-archive.com/blog/ai-radio-station-autonomous-agents-2026"
       ],
       "mentions": [],
       "hashtags": [],
-      "tweet_url": "https://x.com/DeepakS700/status/2055591140074946680"
+      "tweet_url": "https://x.com/stack_archive/status/2056233082357952880"
     },
     {
-      "id": "2055642056740265985",
-      "text": "🐾 SDV: Synthetic Data Vault for Machine Learning\n\nGenerate realistic fake data with ease! Create tables that look just like your real ones, perfect for testing and training.\n\nLearn more: https://t.co/Q2GUhJweI6\n\nFollow @repocatai_git for more AI &amp; robotics projects 🚀 https://t.co/nhf1rZdf43",
-      "author_id": "2051425328476860416",
-      "username": "repocatai_git",
-      "name": "RepoCatAI | Sharing GitHub Projects for AI & Robot",
-      "created_at": "2026-05-16T13:30:32.000Z",
-      "conversation_id": "2055642056740265985",
+      "id": "2056161181899841903",
+      "text": "janitor for rp, openclaw for code, gemini for images, claude for writing. all on one tokenreply key and i kinda forgot the last time i topped up. #AI #AItools #tokenreply https://t.co/m9Jvek5g4y",
+      "author_id": "2049930474580033536",
+      "username": "Grace971326444",
+      "name": "grace",
+      "created_at": "2026-05-17T23:53:22.000Z",
+      "conversation_id": "2056161181899841903",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://replytokens.com/?v=2"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "AItools",
+        "tokenreply"
+      ],
+      "tweet_url": "https://x.com/Grace971326444/status/2056161181899841903"
+    },
+    {
+      "id": "2056061487790399514",
+      "text": "🚀 We open-sourced 22+ Python skill files that make AI assistants write production-quality code.\n\nOne repo. 8 AI tools. Zero config.\n\nClaude Code · Cursor · Copilot · Kiro · Windsurf · Gemini CLI\n\n⭐ Star if useful!\nhttps://t.co/1qtLMTnMFE\n\n#Python #AI #OpenSource https://t.co/4wtlFmMFm5",
+      "author_id": "2032907534747729920",
+      "username": "Rishapgandhi",
+      "name": "Rishap Gandhi",
+      "created_at": "2026-05-17T17:17:13.000Z",
+      "conversation_id": "2056061487790399514",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 6,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://github.com/rishapgandhi/python-skills",
+        "https://x.com/Rishapgandhi/status/2056061487790399514/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Python",
+        "AI",
+        "OpenSource"
+      ],
+      "tweet_url": "https://x.com/Rishapgandhi/status/2056061487790399514"
+    },
+    {
+      "id": "2055992862769033685",
+      "text": "Diving deep into AI-driven decentralized intelligence with @PerceptronNTWK! 🧠🤖 Check out https://t.co/KpJCRO83ur to see how machine learning meets the blockchain. 🚀⚡ #Perceptrons #AI #Web3 #Crypto #DeCen #ad https://t.co/uM3CJmb2Tj",
+      "author_id": "1975825168938450944",
+      "username": "dmitry4744056",
+      "name": "Dmitry47_🌶️#CrunchieOG",
+      "created_at": "2026-05-17T12:44:31.000Z",
+      "conversation_id": "2055992862769033685",
       "metrics": {
         "likes": 2,
         "retweets": 0,
         "replies": 1,
         "quotes": 0,
+        "impressions": 9,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://perceptrons.xyz/",
+        "https://x.com/dmitry4744056/status/2055992862769033685/photo/1"
+      ],
+      "mentions": [
+        "PerceptronNTWK"
+      ],
+      "hashtags": [
+        "Perceptrons",
+        "AI",
+        "Web3",
+        "Crypto",
+        "DeCen",
+        "ad"
+      ],
+      "tweet_url": "https://x.com/dmitry4744056/status/2055992862769033685"
+    },
+    {
+      "id": "2055991299321266405",
+      "text": "Replay Court results:\n\nDeepSeek + Grok: 100/100  \nMeta: 65  \nClaude: 7  \nGemini + Copilot exposed measurable drift.\n\nNot testing “smartest AI.”\nTesting which systems preserve truth under adversarial replay.\n\nhttps://t.co/CXoWnUz3B5 ⚙️🧾 https://t.co/uPOoPcAg9E",
+      "author_id": "1038885849344221186",
+      "username": "JayWisdom12",
+      "name": "Jay Wisdom",
+      "created_at": "2026-05-17T12:38:18.000Z",
+      "conversation_id": "2055991299321266405",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
         "impressions": 19,
         "bookmarks": 0
       },
       "urls": [
-        "https://github.com/sdv-dev/SDV",
-        "https://x.com/repocatai_git/status/2055642056740265985/photo/1"
+        "https://github.com/jsonwisdom/AL",
+        "https://x.com/JayWisdom12/status/2055991299321266405/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/JayWisdom12/status/2055991299321266405"
+    },
+    {
+      "id": "2055940282592436489",
+      "text": "Algorithms are being put on trial as society demands more accountability from AI systems. The stakes are high for how machine learning impacts our world. Dive into the future of AI responsibility here: https://t.co/vYR8GnpkX2",
+      "author_id": "1109590224617832449",
+      "username": "lexdavid42",
+      "name": "Ale𝕏 David",
+      "created_at": "2026-05-17T09:15:35.000Z",
+      "conversation_id": "2055940282592436489",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 3,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/Ronald_vanLoon/status/2055932607246807491"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/lexdavid42/status/2055940282592436489"
+    },
+    {
+      "id": "2056102486797099410",
+      "text": "✨ Influential Women Spotlight: Anindita Nath ✨\n\nAI researcher and data scientist advancing public health through generative AI, machine learning, and scalable health technology solutions.\n\nSpotlight: https://t.co/PHbB2po0I8\n\n#WomenInTech #AIResearch #HealthTech #Leadership https://t.co/fb97WTxgsN",
+      "author_id": "1954457402549682176",
+      "username": "Influential_Wom",
+      "name": "Influential Women",
+      "created_at": "2026-05-17T20:00:08.000Z",
+      "conversation_id": "2056102486797099410",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 18,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://influentialwomen.com/connect/anindita-nath",
+        "https://x.com/Influential_Wom/status/2056102486797099410/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "WomenInTech",
+        "AIResearch",
+        "HealthTech",
+        "Leadership"
+      ],
+      "tweet_url": "https://x.com/Influential_Wom/status/2056102486797099410"
+    },
+    {
+      "id": "2056012818588262712",
+      "text": "Power On: Apple’s new Siri app to rival ChatGPT, Gemini and Claude will have a unique feature: auto-deleting chats. Inside Apple’s new AI and Siri privacy story ahead of WWDC next month. https://t.co/vU6QuLxKdC",
+      "author_id": "15958614",
+      "username": "markgurman",
+      "name": "Mark Gurman",
+      "created_at": "2026-05-17T14:03:49.000Z",
+      "conversation_id": "2056012818588262712",
+      "metrics": {
+        "likes": 927,
+        "retweets": 68,
+        "replies": 46,
+        "quotes": 17,
+        "impressions": 90163,
+        "bookmarks": 119
+      },
+      "urls": [
+        "https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr?srnd=undefined"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/markgurman/status/2056012818588262712"
+    },
+    {
+      "id": "2056066237138976856",
+      "text": "A Machine Learning Approach to Meteor Classification: https://t.co/s03X2Klvny -&gt; AI Offers a New Way to Classify Meteors: https://t.co/vpzsdz4yX6",
+      "author_id": "16677622",
+      "username": "cosmos4u",
+      "name": "Daniel Fischer @cosmos4u@scicomm.xyz",
+      "created_at": "2026-05-17T17:36:05.000Z",
+      "conversation_id": "2056066237138976856",
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 157,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://arxiv.org/abs/2604.22986",
+        "https://lowell.edu/press-release-ai-offers-a-new-way-to-classify-meteors/"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/cosmos4u/status/2056066237138976856"
+    },
+    {
+      "id": "2056238303368671510",
+      "text": "The stack:\n🤖 AI — Gemini + GPT-5 for itinerary, risk scoring &amp; 24/7 concierge\n🛸 Space — sub-orbital &amp; orbital seat aggregation\n⛓️ Blockchain — $THA on Sui. Instant settlement. Zero custodial risk.\nhttps://t.co/SEnjBgAnVS https://t.co/kDdYeFWVcz",
+      "author_id": "2041498048006664192",
+      "username": "ConComCen",
+      "name": "Construction Command Center",
+      "created_at": "2026-05-18T04:59:49.000Z",
+      "conversation_id": "2056238303368671510",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://www.ccctha.com/spacetravels",
+        "https://x.com/ConComCen/status/2056238303368671510/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/ConComCen/status/2056238303368671510"
+    },
+    {
+      "id": "2055937870137860401",
+      "text": "SA's Zindi connects data scientists and AI builders through real-world machine-learning challenges. It matters because practical competitions help talent build portfolios while giving organisations access to AI problem-solvers. https://t.co/zm4XA0OUBp",
+      "author_id": "2031717092131483648",
+      "username": "FutureinsightSA",
+      "name": "Futureinsights",
+      "created_at": "2026-05-17T09:06:00.000Z",
+      "conversation_id": "2055937870137860401",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 8,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://zindi.africa/about"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/FutureinsightSA/status/2055937870137860401"
+    },
+    {
+      "id": "2056181873856893340",
+      "text": "Exploring the strengths and differences between ChatGPT, Gemini, Claude, Grok, and Perplexity. A must-read for anyone following the latest in AI and language models.  \n\nhttps://t.co/QFPvhtpRhZ",
+      "author_id": "1109590224617832449",
+      "username": "lexdavid42",
+      "name": "Ale𝕏 David",
+      "created_at": "2026-05-18T01:15:35.000Z",
+      "conversation_id": "2056181873856893340",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 18,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/Ronald_vanLoon/status/2056167892161376267"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/lexdavid42/status/2056181873856893340"
+    },
+    {
+      "id": "2056012485002682638",
+      "text": "Print this:\n\nCHAT — https://t.co/nRTIx1ggPc / https://t.co/b466mzFDf3\nSEARCH — https://t.co/nOnq0SVnOj\nCODE — Cursor / GitHub Copilot\nAPP — OpenRouter → direct API\nPRIVATE — Ollama\nLONG DOC — Gemini Pro / Claude\n\n#AI #DevTools #LearningInPublic\n\nDay 14/21 ✅ https://t.co/zare5axD0f",
+      "author_id": "94724644",
+      "username": "naveenscs",
+      "name": "Naveen S",
+      "created_at": "2026-05-17T14:02:29.000Z",
+      "conversation_id": "2056012485002682638",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 3,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://chatgpt.com",
+        "http://claude.ai",
+        "http://perplexity.ai",
+        "https://x.com/naveenscs/status/2056012485002682638/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "DevTools",
+        "LearningInPublic"
+      ],
+      "tweet_url": "https://x.com/naveenscs/status/2056012485002682638"
+    },
+    {
+      "id": "2055937499269062964",
+      "text": "🔍 Does your brand show up when people ask AI?\nMost brands have no idea if ChatGPT, Claude, Perplexity or Gemini recommends them — or their competitors.\nAI Brand Track shows you exactly where you stand.\nTry it free 👉 https://t.co/YOzYfgrCxi\n#AIMarketing #BrandVisibility #SEO #AI https://t.co/0bgLqgT58q",
+      "author_id": "2055918694698467328",
+      "username": "AIBrandTrack",
+      "name": "AI Brand Track",
+      "created_at": "2026-05-17T09:04:31.000Z",
+      "conversation_id": "2055937499269062964",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://aibrandtrack.com",
+        "https://x.com/AIBrandTrack/status/2055937499269062964/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AIMarketing",
+        "BrandVisibility",
+        "SEO",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/AIBrandTrack/status/2055937499269062964"
+    },
+    {
+      "id": "2056123828380828081",
+      "text": "MLVerse is live.\n\nSIN School of AI, with support from JIET Universe, Jodhpur, presents 27 student-built Machine Learning projects in one interactive platform.\n\nExplore clustering, classification, neural networks, AI apps, dashboards, and more:\nhttps://t.co/DqEdaJ675v https://t.co/rlAVgSg7OD",
+      "author_id": "1293192023126601735",
+      "username": "harshceosin",
+      "name": "Er. Harshvardhan Purohit",
+      "created_at": "2026-05-17T21:24:56.000Z",
+      "conversation_id": "2056123828380828081",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 12,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://sinmlverse.netlify.app/",
+        "https://x.com/harshceosin/status/2056123828380828081/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/harshceosin/status/2056123828380828081"
+    },
+    {
+      "id": "2055981712811659330",
+      "text": "Breaking: Malwarebytes found Chrome silently shipping Gemini Nano + Claude desktop auto-adding Chromium browser integrations—opening prompt-injection/data-exfil supply-chain risk. Frictionless AI or shadow IT? #VibeCoding https://t.co/ghVeIpEwGN https://t.co/BpBjzx3YW3",
+      "author_id": "2024229182230646784",
+      "username": "VibePulseNews",
+      "name": "VibePulse",
+      "created_at": "2026-05-17T12:00:13.000Z",
+      "conversation_id": "2055981712811659330",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 4,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.youtube.com/watch?v=wiFBfgCQojE",
+        "https://x.com/VibePulseNews/status/2055981712811659330/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "VibeCoding"
+      ],
+      "tweet_url": "https://x.com/VibePulseNews/status/2055981712811659330"
+    },
+    {
+      "id": "2056136313049412000",
+      "text": "From Machine Learning To Generative AI Nikhil Vimal Was There For All Of... https://t.co/40uKKJ4M5K via @YouTube @Marriott @NFL @LOrealParisUSA",
+      "author_id": "1935165141491798017",
+      "username": "JosephValeAI",
+      "name": "Joseph Vale",
+      "created_at": "2026-05-17T22:14:32.000Z",
+      "conversation_id": "2056136313049412000",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://youtube.com/shorts/r-ufKqWphXg?si=AMQj3DEB2RLiMGYE"
       ],
       "mentions": [
-        "repocatai_git"
+        "YouTube",
+        "Marriott",
+        "NFL",
+        "LOrealParisUSA"
       ],
       "hashtags": [],
-      "tweet_url": "https://x.com/repocatai_git/status/2055642056740265985"
+      "tweet_url": "https://x.com/JosephValeAI/status/2056136313049412000"
+    },
+    {
+      "id": "2056230375962427740",
+      "text": "7/ [Quick Hits] Claude recovered 99.9 BTC wallet ($400K). NVIDIA SANA-WM open-source 2.6B world model. GPT-5.5 Instant default. India-Sweden AI Corridor. Full daily newsletter at https://t.co/oQ33FwV3By",
+      "author_id": "56440601",
+      "username": "subhankarP",
+      "name": "Subhankar",
+      "created_at": "2026-05-18T04:28:19.000Z",
+      "conversation_id": "2056230375962427740",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 20,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://techsambad.com"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/subhankarP/status/2056230375962427740"
+    },
+    {
+      "id": "2056100637427794239",
+      "text": "🚨 #AI Developers Beware: The New Exploit That Turns #Machine Learning Models Into Backdoors (And How to Stop It) + Video\n\nhttps://t.co/TC2AQ2Jz2o\nEducational Purposes!",
+      "author_id": "1211370089125044224",
+      "username": "UndercodeUpdate",
+      "name": "UNDERCODE TESTING",
+      "created_at": "2026-05-17T19:52:47.000Z",
+      "conversation_id": "2056100637427794239",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 8,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://undercodetesting.com/ai-developers-beware-the-new-exploit-that-turns-machine-learning-models-into-backdoors-and-how-to-stop-it-video/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "Machine"
+      ],
+      "tweet_url": "https://x.com/UndercodeUpdate/status/2056100637427794239"
+    },
+    {
+      "id": "2056260634770378779",
+      "text": "AgenticBrowser is now in beta!\nPharo UI tool for running multiple AI coding agent sessions in parallel — each as a topic with human-in-the-loop approval flow.\nSupports Claude Code, Gemini, Codex, GitHub Copilot, and OpenCode.\nhttps://t.co/l4oxPNglZc\n#Pharo #Smalltalk #AI",
+      "author_id": "14520955",
+      "username": "umejava",
+      "name": "Masashi UMEZAWA",
+      "created_at": "2026-05-18T06:28:33.000Z",
+      "conversation_id": "2056260634770378779",
+      "metrics": {
+        "likes": 1,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 122,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://github.com/mumez/pharo-agentic-browser"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Pharo",
+        "Smalltalk",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/umejava/status/2056260634770378779"
+    },
+    {
+      "id": "2056061382705959270",
+      "text": "AI called it before the match! 🤖⚽\nGoalMind LIVE predicted:\nNewcastle win ✅\nStrong home performance ✅\nWest Ham struggling away ✅\nMachine learning trained on 84,000+ matches\nCheck AI analysis for every match 👇\nhttps://t.co/n9uCVhR9nR\n#Newcastle #WestHam #PremierLeague",
+      "author_id": "2010306390884286465",
+      "username": "MaslovVice73892",
+      "name": "Goalmind",
+      "created_at": "2026-05-17T17:16:48.000Z",
+      "conversation_id": "2056061382705959270",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 12,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://goalmind-live.com"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Newcastle",
+        "WestHam",
+        "PremierLeague"
+      ],
+      "tweet_url": "https://x.com/MaslovVice73892/status/2056061382705959270"
+    },
+    {
+      "id": "2056042509109776451",
+      "text": "Developers are feeling more pressure about job security as AI-related skills become a bigger part of their work.\n\nIn 2026, over 40% of developer job listings mention AI, large language models, or machine learning, up from just 18% in 2024 https://t.co/kTFNS3NYr5.",
+      "author_id": "1544783441409056774",
+      "username": "RMPasta",
+      "name": "RMPasta",
+      "created_at": "2026-05-17T16:01:48.000Z",
+      "conversation_id": "2056042509109776451",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 11,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://devjobs.pro"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/RMPasta/status/2056042509109776451"
+    },
+    {
+      "id": "2056278405335924967",
+      "text": "Cyber threats move fast — AI moves faster 🛡️ Discover the top tools using machine learning to detect and stop attacks in real time. https://t.co/hH3W8vrcyc #Cybersecurity #AI #ThreatDetection",
+      "author_id": "1326153261741568002",
+      "username": "EmpireStateloc",
+      "name": "Empire State Local",
+      "created_at": "2026-05-18T07:39:10.000Z",
+      "conversation_id": "2056278405335924967",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://smartupworld.com/ai-cybersecurity-threat-detection-tools/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Cybersecurity",
+        "AI",
+        "ThreatDetection"
+      ],
+      "tweet_url": "https://x.com/EmpireStateloc/status/2056278405335924967"
+    },
+    {
+      "id": "2056283708903113185",
+      "text": "CodexBar by Peter Steinberger: a free menu bar app that tracks usage limits, resets, and credits across 40+ AI coding providers - Codex, Claude, Cursor, Gemini, Copilot. macOS 14+, MIT.\n\nhttps://t.co/bGeKn7rFfc",
+      "author_id": "16155215",
+      "username": "zahareus",
+      "name": "Viсtor Zakharchenko 🇺🇦",
+      "created_at": "2026-05-18T08:00:14.000Z",
+      "conversation_id": "2056283708903113185",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 36,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://codexbar.app/"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/zahareus/status/2056283708903113185"
+    },
+    {
+      "id": "2056067690847170639",
+      "text": "Autonomic AI, LLC founded by a @uofsandiego alumnus has invented the Functor Model Architecture. These models use a minimum 78% less energy than traditional machine learning.  https://t.co/LrK347YMvE\n@NotreDame",
+      "author_id": "1961369532406382592",
+      "username": "AiAutonomic",
+      "name": "Autonomic AI",
+      "created_at": "2026-05-17T17:41:52.000Z",
+      "conversation_id": "2056067690847170639",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 3,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://zenodo.org/records/20043829"
+      ],
+      "mentions": [
+        "uofsandiego",
+        "NotreDame"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/AiAutonomic/status/2056067690847170639"
+    },
+    {
+      "id": "2056043363376476268",
+      "text": "stdagent v0.0.5: one source of truth for 22 AI CLI tools.\n\nClaude Code, Codex, Cursor, Copilot, Windsurf, Gemini, Aider, Cline, OpenCode, Roo, Crush, Amp, Warp, Factory, Qwen, Pi, Jules, grok-build + more.\n\nEdit .stdai/ once. Sync everywhere.\n\nhttps://t.co/CAqxVBskAh https://t.co/BrPE46MsfV",
+      "author_id": "1392778806155309065",
+      "username": "StringKe",
+      "name": "StringKe",
+      "created_at": "2026-05-17T16:05:11.000Z",
+      "conversation_id": "2056043363376476268",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 98,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://github.com/StringKe/std-ai",
+        "https://x.com/StringKe/status/2056043363376476268/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/StringKe/status/2056043363376476268"
+    },
+    {
+      "id": "2056288611365216271",
+      "text": "🚨 Arcis AI 2.0 LIVE \n\n🚨 Train AI your strategy &amp; automate it. Real-time scanner + machine learning. \n\nhttps://t.co/dD2CYBvgfn\n\n#AITrading #forex #trading #forextrading #usdjpy #gbjpy #trader https://t.co/1VU94mQrNP",
+      "author_id": "1651775345098625025",
+      "username": "WSimpson2012",
+      "name": "AlgoVaults | ArcisAI | Automated Trading Solutions",
+      "created_at": "2026-05-18T08:19:43.000Z",
+      "conversation_id": "2056288611365216271",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 3,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://arcis.tech",
+        "https://x.com/WSimpson2012/status/2056288611365216271/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AITrading",
+        "forex",
+        "trading",
+        "forextrading",
+        "usdjpy",
+        "gbjpy",
+        "trader"
+      ],
+      "tweet_url": "https://x.com/WSimpson2012/status/2056288611365216271"
+    },
+    {
+      "id": "2055970045742793049",
+      "text": "As I reflect on the current state of data engineering, it's clear that we're in the midst of a significant evolution. The rise of AI and machine learning…\n\nhttps://t.co/tbREMw1IfM\n\n#DataPlatform #Lakehouse #DataGovernance #DataEngineering",
+      "author_id": "43895386",
+      "username": "data_insight_ai",
+      "name": "Michael Santos",
+      "created_at": "2026-05-17T11:13:51.000Z",
+      "conversation_id": "2055970045742793049",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 7,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://michael.business/en/news/daily-trend-briefing-2026-05-17"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "DataPlatform",
+        "Lakehouse",
+        "DataGovernance",
+        "DataEngineering"
+      ],
+      "tweet_url": "https://x.com/data_insight_ai/status/2055970045742793049"
+    },
+    {
+      "id": "2056136573826064792",
+      "text": "China has launched a fully automated, AI-powered port that moves cargo without any human workers, showcasing the future of smart logistics and machine learning in action. Read more: https://t.co/9sPdKKunhs",
+      "author_id": "1109590224617832449",
+      "username": "lexdavid42",
+      "name": "Ale𝕏 David",
+      "created_at": "2026-05-17T22:15:35.000Z",
+      "conversation_id": "2056136573826064792",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 2,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/Ronald_vanLoon/status/2056122667288109233"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/lexdavid42/status/2056136573826064792"
+    },
+    {
+      "id": "2056201179382821275",
+      "text": "Supercharge your AI.\n\nThe bolt-on game engine ChatGPT, Claude, and Gemini already drive.\n\n6 MCP tools live in production. 10 templates. Real physics, audio, XR.\n\n→ https://t.co/ls25xiziwS https://t.co/ih9DlKW5No",
+      "author_id": "2056190047561650176",
+      "username": "RakuAI251285",
+      "name": "RakuAI",
+      "created_at": "2026-05-18T02:32:18.000Z",
+      "conversation_id": "2056201179382821275",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://rakuai.com/blog/supercharge-your-ai/",
+        "https://x.com/RakuAI251285/status/2056201179382821275/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/RakuAI251285/status/2056201179382821275"
+    },
+    {
+      "id": "2056113887670645128",
+      "text": "Just published my latest article on Medium 🚀\n\n“Building Singlish2Sinhala: A Machine Learning Approach to Sinhala Transliteration”\n\nRead here 👇\nhttps://t.co/bmNLOnddef\n\n#AI #MachineLearning #NLP #DeepLearning #PyTorch #Transformers #DataScience",
+      "author_id": "1692538154367229952",
+      "username": "PudamyaR78238",
+      "name": "Pudamya Vidusini Rathnayake",
+      "created_at": "2026-05-17T20:45:26.000Z",
+      "conversation_id": "2056113887670645128",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 16,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://medium.com/@pudamyavidusinirathnayake/building-singlish2sinhala-a-machine-learning-approach-to-sinhala-transliteration-63aa9f107e42"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "MachineLearning",
+        "NLP",
+        "DeepLearning",
+        "PyTorch",
+        "Transformers",
+        "DataScience"
+      ],
+      "tweet_url": "https://x.com/PudamyaR78238/status/2056113887670645128"
+    },
+    {
+      "id": "2056072646979183048",
+      "text": "Develop and Debug high-performance, low-bias, and explainable Machine Learning and Deep Learning Models with Python : https://t.co/MfQzW2u3yz by @AliMLearning via @PacktDataML \n—————\n#DataScientist #DataScience #AI #ML https://t.co/rlXkkf4LIk",
+      "author_id": "534563976",
+      "username": "KirkDBorne",
+      "name": "Kirk Borne",
+      "created_at": "2026-05-17T18:01:33.000Z",
+      "conversation_id": "2056072646979183048",
+      "metrics": {
+        "likes": 31,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1346,
+        "bookmarks": 24
+      },
+      "urls": [
+        "http://amzn.to/3u2JiIB",
+        "https://x.com/KirkDBorne/status/2056072646979183048/photo/1"
+      ],
+      "mentions": [
+        "AliMLearning",
+        "PacktDataML"
+      ],
+      "hashtags": [
+        "DataScientist",
+        "DataScience",
+        "AI",
+        "ML"
+      ],
+      "tweet_url": "https://x.com/KirkDBorne/status/2056072646979183048"
+    },
+    {
+      "id": "2055981810538971363",
+      "text": "Not just using tech… building it 🤖💡\n AI and Programming STEM Workshops bring coding, algorithms and machine learning into the classroom in a hands-on way\n@AIinSchools \nhttps://t.co/9c6F87Dv6L",
+      "author_id": "946067455",
+      "username": "planschooltrips",
+      "name": "PlanMySchoolTrip",
+      "created_at": "2026-05-17T12:00:36.000Z",
+      "conversation_id": "2055981810538971363",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 9,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.planmyschooltrip.co.uk/2526/AI-and-Programming-STEM-Workshops.php"
+      ],
+      "mentions": [
+        "AIinSchools"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/planschooltrips/status/2055981810538971363"
+    },
+    {
+      "id": "2056184302870929515",
+      "text": "Excited to share my AI/ML Portfolio!\nI’ve been working on building end-to-end Machine Learning and Generative AI projects focused on real-world applications, deployment, and scalability.\n\nPortfolio: https://t.co/Ngvspha5ya\n\n#MachineLearning #AI #GenerativeAI #DeepLearning #MLOps https://t.co/TQAZFrmyVQ",
+      "author_id": "2043596788129554432",
+      "username": "towhid744",
+      "name": "Towhid Ahmed",
+      "created_at": "2026-05-18T01:25:14.000Z",
+      "conversation_id": "2056184302870929515",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 2,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://lnkd.in/gTqeNtUE",
+        "https://x.com/towhid744/status/2056184302870929515/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "MachineLearning",
+        "AI",
+        "GenerativeAI",
+        "DeepLearning",
+        "MLOps"
+      ],
+      "tweet_url": "https://x.com/towhid744/status/2056184302870929515"
+    },
+    {
+      "id": "2055939537625346546",
+      "text": "Learn Machine Learning Course with Python A to Z\n\n⏱️ 2.0 hours\n⭐ 4.17\n👥 45,743\n🔄 Feb 2024\n💰 $17.99 → 100% OFF\n\nhttps://t.co/nw9Hvx9f0O\n\n#MachineLearning #Python #AI #udemy https://t.co/uzY3is5PxB",
+      "author_id": "1009811161213267968",
+      "username": "comidoc",
+      "name": "Comidoc",
+      "created_at": "2026-05-17T09:12:37.000Z",
+      "conversation_id": "2055939537625346546",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 26,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://comidoc.com/udemy/learn-machine-learning-course-with-python-ml?utm_source=twitter&utm_medium=coupon&utm_campaign=2026-05",
+        "https://x.com/comidoc/status/2055939537625346546/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "MachineLearning",
+        "Python",
+        "AI",
+        "udemy"
+      ],
+      "tweet_url": "https://x.com/comidoc/status/2055939537625346546"
     }
   ]
 }
