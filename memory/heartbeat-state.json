@@ -1,0 +1,15 @@
+{
+  "lastChecks": {
+    "cron": 1779175099,
+    "sync": 1779175099,
+    "qmd": 1779175099,
+    "health": 1779177737
+  },
+  "rotationOrder": [
+    "cron",
+    "sync",
+    "qmd",
+    "health"
+  ],
+  "nextIndex": 0
+}

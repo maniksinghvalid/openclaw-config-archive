@@ -6,8 +6,9 @@
 - Heartbeat utilization still low — pending HEARTBEAT.md update to add check rotation.
 
 ## Open Items
-- [ ] Initialize backlog and per-session recap logging — Jarvis — due: asap
-- [x] Set up daily heartbeat recap cadence — Jarvis — due: weekly *(done via midnight cron, manual journaling still needed)*
-- [ ] Implement memory/YYYY-MM-DD.md per-session recap — Jarvis — due: asap
+- [x] Initialize backlog and per-session recap logging — Jarvis — done (2026-05-19)
+- [x] Update HEARTBEAT.md with a rotation of checks during idle heartbeats — Jarvis — done (2026-05-19)
+- [x] Implement automated Turn/Session Recap trigger scaffold — Jarvis — done (2026-05-19)
+- [x] Create hygiene maintenance script scaffold — Jarvis — done (2026-05-19)
+- [ ] Wire recap/hygiene scripts into cron or heartbeat-driven execution path — Jarvis — due: end of week
 - [ ] Integrate backup validation status header in replies — Jarvis — due: asap
-- [ ] Update HEARTBEAT.md with a rotation of checks during idle heartbeats — Jarvis — due: asap
