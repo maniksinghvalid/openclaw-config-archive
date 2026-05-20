@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2026-05-19",
+    "runs": 13,
+    "finished": 13,
+    "failed": 0,
+    "totalIn": 309119,
+    "totalOut": 26035,
+    "totalCost": 3.96758,
+    "totalDurationMs": 1063753
+  },
+  {
+    "date": "2026-05-20",
+    "runs": 5,
+    "finished": 5,
+    "failed": 0,
+    "totalIn": 72584,
+    "totalOut": 9097,
+    "totalCost": 0.0153,
+    "totalDurationMs": 306736
+  }
+]

@@ -40,11 +40,31 @@ Focused entirely on portfolio management, market analysis, and investment strate
    - Fed meetings
    - Options expirations
    - Economic data releases
+   - Seed important same-day macro events into `portfolio/daily_macro_watch.json`
 
 3. **Monitor alerts**
    - Price movements >5%
    - Breaking news on holdings
    - High-conviction trade opportunities
+   - Hourly macro-event watcher updates when seeded events actually hit
+
+### Macro Event Alert Format
+
+When the hourly watcher detects a seeded event has arrived, it generates a **rich follow-up alert** with:
+
+1. **Event header** — 🚨/📌/ℹ️ priority, title, scheduled time (UTC + ET)
+2. **Actual vs Consensus** — actual result and consensus estimate (if pre-seeded)
+3. **Previous value** — prior release for context
+4. **Impact & Context** — what the event means for the portfolio
+5. **"So What" Interpretation** — 2-3 line directional bias:
+   - 🔴 Above consensus / hawkish → market impact
+   - 🟢 Below consensus / dovish → market impact
+   - Covers CPI, PPI, NFP, GDP, PCE, FOMC, ISM, housing, consumer sentiment, etc.
+6. **Market Snapshot** — live prices at alert time:
+   - SPY, QQQ, DXY, VIX, 2Y yield, 10Y yield
+7. **Source URL** — direct link to BLS/BEA/Fed/Census data release page
+
+The formatter logic lives in `scripts/macro_alert_formatter.py` and is invoked by `macro_event_watcher.py check`.
 
 ## Tools & Data Sources
 
