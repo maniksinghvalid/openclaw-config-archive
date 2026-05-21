@@ -1,21 +1,7 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "source": "Daily Portfolio Morning Brief",
-  "seeded_at": "2026-05-20T13:02:14.621859Z",
+  "seeded_at": "2026-05-21T13:00:38.251027Z",
   "watch_window": "hourly",
-  "events": [
-    {
-      "title": "FOMC Meeting Minutes (Powell's Final Meeting)",
-      "time_utc": "2026-05-20T18:00:00Z",
-      "priority": "high",
-      "impact": "Details on rate path under new Chair Warsh. Market expects 3.50-3.75% held. Hawkish skew after April hot CPI could shock bonds and equities.",
-      "why_it_matters": "Directional signal for all holdings. Hawkish minutes could spark rate selloff, hit SPY/QQQ and speculative names hardest. Dovish tone lifts everything.",
-      "watch_for": "SPY, QQQ, DXY, VIX, 2Y yield, 10Y yield",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": null
-    }
-  ]
+  "events": []
 }
