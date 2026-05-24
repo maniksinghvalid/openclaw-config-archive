@@ -1,15 +1,9 @@
 {
-  "generated": "2026-05-17",
+  "generated": "2026-05-24",
   "lookahead_days": 90,
   "source": "yfinance",
   "note": "Auto-updated weekly. Agent-supplemented events may also be appended during daily reports.",
   "events": [
-    {
-      "symbol": "NIO",
-      "event": "Earnings",
-      "date": "2026-05-21",
-      "source": "yfinance"
-    },
     {
       "symbol": "O",
       "event": "Ex-Dividend",
