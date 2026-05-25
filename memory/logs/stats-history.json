@@ -48,5 +48,15 @@
     "totalOut": 13703,
     "totalCost": 0.03311,
     "totalDurationMs": 848754
+  },
+  {
+    "date": "2026-05-24",
+    "runs": 8,
+    "finished": 8,
+    "failed": 0,
+    "totalIn": 126492,
+    "totalOut": 8951,
+    "totalCost": 0.02106,
+    "totalDurationMs": 543466
   }
 ]

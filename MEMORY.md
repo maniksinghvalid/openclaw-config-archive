@@ -1,7 +1,14 @@
 ## Lessons Learned
-### May 24, 2026
 
-- Daily log health check (check-logs.sh) reports green across 16 sessions and 7,817 lines. Zero errors detected. Proactive maintenance remains effective. No remediation required.
+### 2026-05-25 — Log Health Check (daily cron)
+- check-logs.sh ran clean: 1 error across 21 sessions / 8163 lines — well under threshold.
+- No skill or cron job remediation needed.
+- Memory_search remains disabled due to OpenAI embedding quota exhaustion (non-blocking infra issue).
+- Routine to run: review analysis report, check thresholds, document in MEMORY.md.
+
+### 2026-05-24 — Log Health Check (daily cron)
+
+- Daily log health check (check-logs.sh) ran twice today: first pass (16 sessions / 7,817 lines) and second pass (19 sessions / 7,960 lines). Both report zero errors. System remains green with no remediation required.
 
 ### May 20, 2026
 

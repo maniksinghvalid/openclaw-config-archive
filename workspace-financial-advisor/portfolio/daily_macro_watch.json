@@ -1,1 +1,21 @@
-{"date": "2026-05-24", "events": []}
+{
+  "date": "2026-05-25",
+  "source": "Daily Portfolio Morning Brief",
+  "seeded_at": "2026-05-25T13:01:43.634697Z",
+  "watch_window": "hourly",
+  "events": [
+    {
+      "title": "Dallas Fed Manufacturing Index (May)",
+      "time_utc": "2026-05-25T14:30:00Z",
+      "priority": "medium",
+      "impact": "Previous -2.30. Manufacturing ISM proxy \u2014 contraction reading could weigh on cyclicals (NIO).",
+      "why_it_matters": "Manufacturing data impacts consumer cyclical holdings (NIO in portfolio). Weak print = headwind for growth-exposed stocks.",
+      "watch_for": "NIO, SPY, DXY",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "scheduled",
+      "alert_sent_at": "2026-05-25T15:05:08.959560Z"
+    }
+  ]
+}
