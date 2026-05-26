@@ -1,21 +1,21 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "source": "Daily Portfolio Morning Brief",
-  "seeded_at": "2026-05-25T13:01:43.634697Z",
+  "seeded_at": "2026-05-26T13:01:58.360659Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "Dallas Fed Manufacturing Index (May)",
-      "time_utc": "2026-05-25T14:30:00Z",
-      "priority": "medium",
-      "impact": "Previous -2.30. Manufacturing ISM proxy \u2014 contraction reading could weigh on cyclicals (NIO).",
-      "why_it_matters": "Manufacturing data impacts consumer cyclical holdings (NIO in portfolio). Weak print = headwind for growth-exposed stocks.",
-      "watch_for": "NIO, SPY, DXY",
+      "title": "US CB Consumer Confidence (May)",
+      "time_utc": "2026-05-26T18:00:00Z",
+      "priority": "high",
+      "impact": "Actual 92.8 vs consensus 92.0 \u2014 slightly above expectations. Key gauge of consumer sentiment and spending outlook.",
+      "why_it_matters": "Consumer confidence drives retail spending, which impacts the broad market. Strong data could support equities; weakness could reignite recession fears.",
+      "watch_for": "SPY, QQQ, DXY, XLF",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "scheduled",
-      "alert_sent_at": "2026-05-25T15:05:08.959560Z"
+      "alert_sent_at": null
     }
   ]
 }

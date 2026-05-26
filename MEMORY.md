@@ -1,10 +1,21 @@
 ## Lessons Learned
 
 ### 2026-05-25 — Log Health Check (daily cron)
-- check-logs.sh ran clean: 1 error across 21 sessions / 8163 lines — well under threshold.
+- ~~2026-05-25 18:02 UTC run: 1 error across 23 sessions / 8237 lines. Single edit error, no new patterns. Clean.~~
+- ~~2026-05-25 20:02 UTC run: 1 error across 22 sessions / 8243 lines. Well under threshold. No remediation needed.~~
+- ~~2026-05-25 22:03 UTC run: 1 error across 22 sessions / 8261 lines. Single edit error — well under threshold. No new patterns. No remediation needed.~~
 - No skill or cron job remediation needed.
 - Memory_search remains disabled due to OpenAI embedding quota exhaustion (non-blocking infra issue).
 - Routine to run: review analysis report, check thresholds, document in MEMORY.md.
+
+### 2026-05-26 — Daily Log Health Check
+- **06:03 UTC run:** check-logs.sh scanned 20 sessions / 8,307 lines — zero errors. All clean.
+- **08:03 UTC run:** check-logs.sh scanned 20 sessions / 8,319 lines — zero errors. All clean.
+- **10:03 UTC run:** check-logs.sh scanned 19 sessions / 8,309 lines — zero errors. All clean.
+- **14:03 UTC run:** check-logs.sh scanned 19 sessions / 8,316 lines — zero errors. All clean.
+- **16:03 UTC run:** check-logs.sh scanned 20 sessions / 8,354 lines — zero errors. All clean.
+- No remediation needed.
+- Memory_search remains disabled (OpenAI embedding quota exhausted — non-blocking).
 
 ### 2026-05-24 — Log Health Check (daily cron)
 
