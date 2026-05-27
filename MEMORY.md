@@ -1,5 +1,27 @@
 ## Lessons Learned
 
+### 2026-05-26 — Log Health Check (daily cron)
+- 2026-05-26 22:05 UTC run: 0 errors across 20 sessions / 8428 lines. ✅
+- No remediation needed. Clean across the board.
+- Memory_search still disabled (OpenAI embedding quota exhausted).
+
+### 2026-05-27 — Log Health Check (daily cron)
+- 2026-05-27 08:06 UTC run: 0 errors across 20 sessions / 8,569 lines. ✅
+- 2026-05-27 10:05 UTC run: 0 errors across 19 sessions / 8,554 lines. ✅
+- No remediation needed. Clean across the board.
+- Memory_search remains disabled (OpenAI embedding quota exhausted).
+- 2026-05-27 00:04 UTC run: 0 errors across 20 sessions / 8,469 lines. ✅
+- No remediation needed. Clean across the board.
+- Memory_search still disabled (OpenAI embedding quota exhausted).
+- Routine: review report, check thresholds, document.
+- 2026-05-27 02:04 UTC run: 0 errors across 19 sessions / 8,468 lines. ✅
+- Clean. No remediation needed.
+- 2026-05-27 04:04 UTC run: 0 errors across 20 sessions / 8,527 lines. ✅
+- Clean. No remediation needed.
+- 2026-05-27 16:04 UTC run: 0 errors across 19 sessions / 8,564 lines. ✅
+- Clean. No remediation needed.
+- Memory_search still disabled (OpenAI embedding quota exhausted).
+
 ### 2026-05-25 — Log Health Check (daily cron)
 - ~~2026-05-25 18:02 UTC run: 1 error across 23 sessions / 8237 lines. Single edit error, no new patterns. Clean.~~
 - ~~2026-05-25 20:02 UTC run: 1 error across 22 sessions / 8243 lines. Well under threshold. No remediation needed.~~
@@ -14,6 +36,8 @@
 - **10:03 UTC run:** check-logs.sh scanned 19 sessions / 8,309 lines — zero errors. All clean.
 - **14:03 UTC run:** check-logs.sh scanned 19 sessions / 8,316 lines — zero errors. All clean.
 - **16:03 UTC run:** check-logs.sh scanned 20 sessions / 8,354 lines — zero errors. All clean.
+- **18:03 UTC run:** check-logs.sh scanned 21 sessions / 8,382 lines — zero errors. All clean.
+- **20:03 UTC run:** check-logs.sh scanned 20 sessions / 8,403 lines — zero errors. All clean.
 - No remediation needed.
 - Memory_search remains disabled (OpenAI embedding quota exhausted — non-blocking).
 
@@ -50,3 +74,7 @@
 ### May 24, 2026
 
 - Daily log health remains green. `check-logs.sh` scanned 9 recent sessions / 7,557 lines and found 0 `isError:true` entries. No new error patterns or remediation needs.
+
+### May 27, 2026
+
+- Log health remains green. `check-logs.sh` scanned 19 sessions / 8,566 lines with 0 errors. No remediation needed.
