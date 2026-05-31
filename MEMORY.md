@@ -1,5 +1,15 @@
 ## Lessons Learned
 
+### Log Health Monitoring (2026-05-31)
+- `scripts/check-logs.sh` runs daily via cron, scans last 7 days of session JSONL files for `isError:true`.
+- Kept in shape — 15 sessions, 9,241 lines, zero errors as of 2026-05-31. No active issues.
+
+### 2026-05-31 — Log Health Check (daily cron)
+- 08:00 UTC run: 0 errors across 12 sessions / 9,116 lines. ✅
+- 10:00 UTC run: 0 errors across 13 sessions / 9,151 lines. ✅
+- No remediation needed. System remains clean.
+- Memory_search remains disabled (OpenAI embedding quota exhausted).
+
 ### 2026-05-26 — Log Health Check (daily cron)
 - 2026-05-26 22:05 UTC run: 0 errors across 20 sessions / 8428 lines. ✅
 - No remediation needed. Clean across the board.

@@ -1,60 +1,21 @@
 {
-  "date": "2026-05-29",
-  "source": "Daily Portfolio Morning Brief",
-  "seeded_at": "2026-05-29T13:02:28.238319Z",
+  "date": "2026-05-31",
+  "source": "Daily Economic Calendar Seed Check (Cron)",
+  "seeded_at": "2026-05-31T11:23:20.846038Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "PCE Price Index (April) \u2014 Core MoM",
-      "time_utc": "2026-05-29T12:30:00Z",
-      "priority": "high",
-      "impact": "Key Fed inflation gauge \u2014 core MoM est. +0.2%",
-      "why_it_matters": "Directly impacts rate path; above-consensus could spook equities",
-      "watch_for": "SPY, QQQ, DXY, 2Y/10Y yields",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": "2026-05-29T14:06:07.790569Z"
-    },
-    {
-      "title": "Personal Income & Spending (April)",
-      "time_utc": "2026-05-29T12:30:00Z",
-      "priority": "medium",
-      "impact": "Consumer health snapshot \u2014 income +0.4%, spending +0.2% est.",
-      "why_it_matters": "Consumer-driven economy; soft spending raises recession fears",
-      "watch_for": "SPY, consumer discretionary stocks",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": "2026-05-29T14:06:07.790569Z"
-    },
-    {
-      "title": "Michigan Consumer Sentiment (May Final)",
-      "time_utc": "2026-05-29T14:00:00Z",
+      "title": "Fed Waller Speech",
+      "time_utc": "2026-05-31T12:30:00Z",
       "priority": "low",
-      "impact": "Consumer confidence gauge \u2014 est. 68.0",
-      "why_it_matters": "Consumption outlook; weak reading adds to recession narrative",
-      "watch_for": "SPY, consumer discretionary",
+      "impact": "Fed governor speech; may offer color on inflation outlook post-PCE",
+      "why_it_matters": "Markets will parse for any policy stance changes; Waller is a known hawk",
+      "watch_for": "SPY, QQQ, 2Y yield, DXY",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "scheduled",
-      "alert_sent_at": "2026-05-29T14:06:07.790569Z"
-    },
-    {
-      "title": "Fed's Kashkari speaks",
-      "time_utc": "2026-05-29T14:30:00Z",
-      "priority": "medium",
-      "impact": "May offer rate path guidance post-PCE",
-      "why_it_matters": "Any hawkish/dovish lean after PCE data moves rate expectations",
-      "watch_for": "SPY, QQQ, 2Y yield",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": "2026-05-29T15:06:14.637365Z"
+      "alert_sent_at": null
     }
   ]
 }
