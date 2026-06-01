@@ -1,21 +1,21 @@
 {
-  "date": "2026-05-31",
-  "source": "Daily Economic Calendar Seed Check (Cron)",
-  "seeded_at": "2026-05-31T11:23:20.846038Z",
+  "date": "2026-06-01",
+  "source": "Daily Portfolio Morning Brief",
+  "seeded_at": "2026-06-01T13:04:18.569438Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "Fed Waller Speech",
-      "time_utc": "2026-05-31T12:30:00Z",
-      "priority": "low",
-      "impact": "Fed governor speech; may offer color on inflation outlook post-PCE",
-      "why_it_matters": "Markets will parse for any policy stance changes; Waller is a known hawk",
-      "watch_for": "SPY, QQQ, 2Y yield, DXY",
+      "title": "ISM Manufacturing PMI (May)",
+      "time_utc": "2026-06-01T14:00:00Z",
+      "priority": "high",
+      "impact": "Leading indicator for manufacturing sector health; prices paid sub-index key for inflation signals",
+      "why_it_matters": "Drives SPY/QQQ sentiment directly. Last month was 52.7 with prices paid jumping to 78.3 \u2014 watch for more inflation pressure.",
+      "watch_for": "SPY, QQQ, DXY, 2Y/10Y yields",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "scheduled",
-      "alert_sent_at": null
+      "alert_sent_at": "2026-06-01T14:06:20.055682Z"
     }
   ]
 }
