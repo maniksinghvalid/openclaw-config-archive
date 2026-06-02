@@ -1,21 +1,21 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "source": "Daily Portfolio Morning Brief",
-  "seeded_at": "2026-06-01T13:04:18.569438Z",
+  "seeded_at": "2026-06-02T13:03:26.509394Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "ISM Manufacturing PMI (May)",
-      "time_utc": "2026-06-01T14:00:00Z",
+      "title": "JOLTS Job Openings (April)",
+      "time_utc": "2026-06-02T14:00:00Z",
       "priority": "high",
-      "impact": "Leading indicator for manufacturing sector health; prices paid sub-index key for inflation signals",
-      "why_it_matters": "Drives SPY/QQQ sentiment directly. Last month was 52.7 with prices paid jumping to 78.3 \u2014 watch for more inflation pressure.",
-      "watch_for": "SPY, QQQ, DXY, 2Y/10Y yields",
+      "impact": "Key labor market indicator. Tight labor = hawkish Fed pressure. Softening = dovish tailwind for equities.",
+      "why_it_matters": "Labor market direction affects rate path directly. JOLTS trending down would support rate cuts = bullish for equities, gold, and crypto. A hot number = bearish for rate-sensitive positions.",
+      "watch_for": "SPY, QQQ, ^VIX, BTC-USD, IAU",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "scheduled",
-      "alert_sent_at": "2026-06-01T14:06:20.055682Z"
+      "alert_sent_at": "2026-06-02T14:06:43.103781Z"
     }
   ]
 }

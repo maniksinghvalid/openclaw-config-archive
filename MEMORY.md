@@ -1,10 +1,12 @@
 ## Lessons Learned
 
-### Log Health Monitoring (2026-06-01)
+### Log Health Monitoring (2026-06-02)
 - `scripts/check-logs.sh` runs daily via cron, scans last 7 days of session JSONL files for `isError:true`.
-- 2026-06-01: 21 sessions, 9,570 lines, zero errors. 8th consecutive clean check.
+- 2026-06-02: 20 sessions, 9,704 lines, zero errors. 11th consecutive clean check.
+- 2026-06-01: 22 sessions, 9,607 lines, zero errors. 9th consecutive clean check.
 - 2026-05-31: 18 sessions, 9,329 lines, zero errors.
-- 2026-05-30: 15 sessions, 9,241 lines, zero errors.
+- Note: `check-logs.sh` only catches tool-level `isError:true`. Cron job failures from model billing/rate-limit issues (as seen in nightly reports) don't surface here — they're separate failure modes.
+- Observed on 2026-06-01: three cron jobs failed due to concurrent API rate limits and Anthropic/OpenRouter billing issues. Not a code defect — timing-related resource contention.
 
 ### 2026-05-31 — Log Health Check (daily cron)
 - 08:00 UTC run: 0 errors across 12 sessions / 9,116 lines. ✅
