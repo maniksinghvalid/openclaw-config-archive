@@ -1,21 +1,21 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "source": "Daily Portfolio Morning Brief",
-  "seeded_at": "2026-06-02T13:03:26.509394Z",
+  "seeded_at": "2026-06-03T13:02:39.562883Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "JOLTS Job Openings (April)",
-      "time_utc": "2026-06-02T14:00:00Z",
+      "title": "ISM Services PMI (May)",
+      "time_utc": "2026-06-03T14:00:00Z",
       "priority": "high",
-      "impact": "Key labor market indicator. Tight labor = hawkish Fed pressure. Softening = dovish tailwind for equities.",
-      "why_it_matters": "Labor market direction affects rate path directly. JOLTS trending down would support rate cuts = bullish for equities, gold, and crypto. A hot number = bearish for rate-sensitive positions.",
-      "watch_for": "SPY, QQQ, ^VIX, BTC-USD, IAU",
+      "impact": "Services sector activity reading \u2014 above 50 = expansion. Big market mover.",
+      "why_it_matters": "Services is 70%+ of US economy. A big miss or beat sets the tone for rate expectations ahead of Friday's NFP.",
+      "watch_for": "SPY, QQQ, DXY, 10Y yield",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "scheduled",
-      "alert_sent_at": "2026-06-02T14:06:43.103781Z"
+      "alert_sent_at": "2026-06-03T14:06:05.374713Z"
     }
   ]
 }
