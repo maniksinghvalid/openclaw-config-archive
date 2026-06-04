@@ -1,7 +1,11 @@
 ## Lessons Learned
 
+### Log Health Monitoring (2026-06-04)
+- `scripts/check-logs.sh` scanned 19 sessions / 10,002 lines — zero errors. 17th consecutive clean check.
+- Log health is green. No remediation required.
+
 ### Log Health Monitoring (2026-06-03)
-- `scripts/check-logs.sh` scanned 19 sessions / 9,905 lines — zero errors. 13th consecutive clean check.
+- `scripts/check-logs.sh` scanned 19 sessions / 9,933 lines — zero errors. 15th consecutive clean check.
 - Log health is green. No remediation required.
 - Note: `memory_search` remains disabled due to persistent OpenAI embedding quota exhaustion.
 

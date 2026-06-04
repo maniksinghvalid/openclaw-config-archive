@@ -1,0 +1,53 @@
+📊 *Manik's Daily Pre-Market Portfolio Report*
+📅 Thursday, June 4, 2026
+
+🚨 *MARKET REGIME: CAUTIOUS / ROTATION*
+• VIX: 15.4 (📉 -4.35%) — Volatility is cooling, but market sentiment is shifting.
+• Macro Context: Broad market rotation is underway. Tech is facing pressure (Broadcom earnings impact) while capital rotates into Healthcare and Financials. Concerns regarding geopolitical stability (Iran) are weighing on futures.
+• Regime Bias: 🟡 Sideways/Rotation
+
+📈 *PORTFOLIO SNAPSHOT*
+(Prices as of 20:42 UTC)
+
+• SPCE: $4.72 (🚀 +17.12%) ⚠️ ALERT
+• CLOV: $3.99 (🚀 +10.53%) ⚠️ ALERT
+• VDY.TO: $74.55 (📈 +1.17%)
+• XIC.TO: $56.37 (📈 +1.22%)
+• XEQT.TO: $45.06 (📈 +0.83%)
+• SPY: $757.09 (📈 +0.88%)
+• IAU: $84.28 (📈 +0.84%)
+• DIVO: $46.51 (📈 +0.76%)
+• QQQ: $740.61 (📈 +0.31%)
+• SCHF: $27.86 (📈 +0.40%)
+• NVDY: $13.69 (📈 +0.11%)
+• O: $59.75 (📉 -0.10%)
+• NIO: $5.69 (📉 -0.70%)
+• IBIT: $36.02 (📉 -0.77%)
+• BTC-USD: $63,554.20 (📉 -0.76%)
+• CADUSD=X: $0.7191 (📉 -0.11%)
+• ZAG.TO: $13.82 (➖ 0.00%)
+
+⚠️ *5% MOVERS*
+• SPCE: +17.12%
+• CLOV: +10.53%
+
+🚀 *DYNAMIC HEDGING & OPPORTUNITIES*
+
+• Portfolio-Level Hedge: 🟡
+With tech under pressure and rotation into value/defensive sectors (Healthcare/Financials), consider tightening stop-losses on high-beta tech holdings or using SPY/QQQ put spreads if the Broadcom-led selloff accelerates.
+
+• Ticker-Specific Strategies:
+• SPCE / CLOV: 🚀 Momentum plays. Given the +10-17% surges, consider selling covered calls against existing positions to lock in some premium while riding the volatility, or use tight trailing stops to protect new gains.
+• NIO / IBIT: 📉 Defensive. Crypto and Chinese EV sentiment remain soft; avoid adding here until clear reversal signals emerge.
+
+📌 *UPCOMING CATALYSTS*
+• O (Realty Income): Dividend Pay Date — June 15, 2026
+• MARA (Marathon Digital): Earnings — July 28, 2026
+• O (Realty Income): Earnings — August 3, 2026
+• CLOV (Clover Health): Earnings — August 4, 2026
+• SPCE (Virgin Galactic): Earnings — August 5, 2026
+
+💡 *ACTION ITEMS*
+1. 🛡️ PROTECT GAINS: Set trailing stop-losses on SPCE and CLOV to capture the current momentum while mitigating reversal risk.
+2. 🔄 WATCH ROTATION: Monitor healthcare and financial sector strength; look for opportunities to rebalance from tech into these defensive sectors if the rotation persists.
+3. 📉 MONITOR TECH: Keep a close eye on QQQ and semiconductor-related news (Broadcom/Nvidia) as the current tech-led selloff may create entry points or require further hedging.

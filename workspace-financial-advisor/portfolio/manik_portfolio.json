@@ -19,7 +19,7 @@
     {"symbol": "ZAG.TO", "quantity": 50, "buy_price": 14.01, "currency": "CAD", "sector": "Fixed Income", "industry": "Bond ETF", "type": "bond"},
     {"symbol": "XIC.TO", "quantity": 10, "buy_price": 41.81, "currency": "CAD", "sector": "Equity", "industry": "Canadian Equity ETF", "type": "etf", "broker": "moomoo", "account": "7R7-5W9V-1"},
     {"symbol": "XEQT.TO", "quantity": 1, "buy_price": 35.74, "currency": "CAD", "sector": "Equity", "industry": "Global Equity ETF", "type": "etf", "broker": "moomoo", "account": "7R7-5W9V-1"},
-    {"symbol": "YNVDA", "quantity": 26, "buy_price": 15.92, "currency": "USD", "sector": "Technology", "industry": "Option Income ETF", "type": "speculative", "broker": "moomoo", "account": "7R7-5W9S-2"}
+    {"symbol": "NVDY", "quantity": 26, "buy_price": 15.92, "currency": "USD", "sector": "Technology", "industry": "Option Income ETF", "type": "speculative", "broker": "moomoo", "account": "7R7-5W9S-2"}
   ],
   "target_allocation": {
     "speculative": 5,
