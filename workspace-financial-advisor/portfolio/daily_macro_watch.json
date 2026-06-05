@@ -1,21 +1,60 @@
 {
-  "date": "2026-06-03",
-  "source": "Daily Portfolio Morning Brief",
-  "seeded_at": "2026-06-03T13:02:39.562883Z",
+  "date": "2026-06-05",
+  "source": "Economic Calendar Seed Check",
+  "seeded_at": "2026-06-05T11:23:35.793446Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "ISM Services PMI (May)",
-      "time_utc": "2026-06-03T14:00:00Z",
+      "title": "US Non-Farm Payrolls",
+      "time_utc": "2026-06-05T12:30:00Z",
       "priority": "high",
-      "impact": "Services sector activity reading \u2014 above 50 = expansion. Big market mover.",
-      "why_it_matters": "Services is 70%+ of US economy. A big miss or beat sets the tone for rate expectations ahead of Friday's NFP.",
+      "impact": "Key measure of US job creation.",
+      "why_it_matters": "Primary driver for Fed rate decisions. High miss/beat causes volatility in SPY, QQQ, DXY.",
       "watch_for": "SPY, QQQ, DXY, 10Y yield",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": "2026-06-03T14:06:05.374713Z"
+      "actual": "172K",
+      "consensus": "102K",
+      "previous": "85K",
+      "status": "released",
+      "alert_sent_at": "2026-06-05T14:05:34.119331Z"
+    },
+    {
+      "title": "US Unemployment Rate",
+      "time_utc": "2026-06-05T12:30:00Z",
+      "priority": "high",
+      "impact": "Overall labor market health.",
+      "why_it_matters": "Higher unemployment signals cooling economy, potentially accelerating rate cuts.",
+      "watch_for": "DXY, 10Y yield",
+      "actual": "4.3%",
+      "consensus": "4.4%",
+      "previous": "4.3%",
+      "status": "released",
+      "alert_sent_at": "2026-06-05T14:05:34.119331Z"
+    },
+    {
+      "title": "US Average Hourly Earnings",
+      "time_utc": "2026-06-05T12:30:00Z",
+      "priority": "high",
+      "impact": "Wage inflation indicator.",
+      "why_it_matters": "Strong wage growth is hawkish and may keep rates higher for longer.",
+      "watch_for": "DXY, 10Y yield",
+      "actual": "0.3%",
+      "consensus": "0.2%",
+      "previous": "0.3%",
+      "status": "released",
+      "alert_sent_at": "2026-06-05T14:05:34.119331Z"
+    },
+    {
+      "title": "CA Employment Change",
+      "time_utc": "2026-06-05T12:30:00Z",
+      "priority": "medium",
+      "impact": "Canadian labor market strength.",
+      "why_it_matters": "Influences BoC rate path and CAD strength.",
+      "watch_for": "CAD",
+      "actual": "26.7K",
+      "consensus": "8K",
+      "previous": "10K",
+      "status": "released",
+      "alert_sent_at": "2026-06-05T14:05:34.119331Z"
     }
   ]
 }

@@ -1,53 +1,87 @@
-📊 *Manik's Daily Pre-Market Portfolio Report*
-📅 Thursday, June 4, 2026
+📊 **Manik's Portfolio Report**
+📅 Friday, June 5, 2026 — 16:20 UTC / 12:20 ET
 
-🚨 *MARKET REGIME: CAUTIOUS / ROTATION*
-• VIX: 15.4 (📉 -4.35%) — Volatility is cooling, but market sentiment is shifting.
-• Macro Context: Broad market rotation is underway. Tech is facing pressure (Broadcom earnings impact) while capital rotates into Healthcare and Financials. Concerns regarding geopolitical stability (Iran) are weighing on futures.
-• Regime Bias: 🟡 Sideways/Rotation
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📈 *PORTFOLIO SNAPSHOT*
-(Prices as of 20:42 UTC)
+🚨 **Breaking: NFP Smashes Expectations — 172K vs 85K Consensus**
 
-• SPCE: $4.72 (🚀 +17.12%) ⚠️ ALERT
-• CLOV: $3.99 (🚀 +10.53%) ⚠️ ALERT
-• VDY.TO: $74.55 (📈 +1.17%)
-• XIC.TO: $56.37 (📈 +1.22%)
-• XEQT.TO: $45.06 (📈 +0.83%)
-• SPY: $757.09 (📈 +0.88%)
-• IAU: $84.28 (📈 +0.84%)
-• DIVO: $46.51 (📈 +0.76%)
-• QQQ: $740.61 (📈 +0.31%)
-• SCHF: $27.86 (📈 +0.40%)
-• NVDY: $13.69 (📈 +0.11%)
-• O: $59.75 (📉 -0.10%)
-• NIO: $5.69 (📉 -0.70%)
-• IBIT: $36.02 (📉 -0.77%)
-• BTC-USD: $63,554.20 (📉 -0.76%)
-• CADUSD=X: $0.7191 (📉 -0.11%)
-• ZAG.TO: $13.82 (➖ 0.00%)
+The May jobs report blew past every estimate. Here's the full breakdown:
 
-⚠️ *5% MOVERS*
-• SPCE: +17.12%
-• CLOV: +10.53%
+• **NFP**: 172K actual vs **85K consensus** (Previous: 115K, revised up to 179K)
+• **Unemployment**: 4.3% actual vs 4.3% consensus ✅ (held steady)
+• **Avg Hourly Earnings**: +0.3% MoM, +3.4% YoY — in line
+• **Prior months revised UP**: March 185K→214K, April 115K→179K (+64K revision!)
 
-🚀 *DYNAMIC HEDGING & OPPORTUNITIES*
+🔴 **Hawkish Read**: Strong labor + steady wages = **Fed stays on hold**. Rate cuts remain off the table. Some chatter about a potential hike has quieted, but no cuts anytime soon.
 
-• Portfolio-Level Hedge: 🟡
-With tech under pressure and rotation into value/defensive sectors (Healthcare/Financials), consider tightening stop-losses on high-beta tech holdings or using SPY/QQQ put spreads if the Broadcom-led selloff accelerates.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• Ticker-Specific Strategies:
-• SPCE / CLOV: 🚀 Momentum plays. Given the +10-17% surges, consider selling covered calls against existing positions to lock in some premium while riding the volatility, or use tight trailing stops to protect new gains.
-• NIO / IBIT: 📉 Defensive. Crypto and Chinese EV sentiment remain soft; avoid adding here until clear reversal signals emerge.
+**📉 Market Snapshot (Live)**
 
-📌 *UPCOMING CATALYSTS*
-• O (Realty Income): Dividend Pay Date — June 15, 2026
-• MARA (Marathon Digital): Earnings — July 28, 2026
-• O (Realty Income): Earnings — August 3, 2026
-• CLOV (Clover Health): Earnings — August 4, 2026
-• SPCE (Virgin Galactic): Earnings — August 5, 2026
+| Ticker | Price | Change |
+|--------|-------|--------|
+| SPY    | $744.86 | −1.29% |
+| QQQ    | $718.24 | −2.33% |
+| VIX    | 17.49   | **+13.64%** 🚨 |
+| BTC    | $60,988 | −4.43% |
+| Gold   | $81.37  | −3.11% |
 
-💡 *ACTION ITEMS*
-1. 🛡️ PROTECT GAINS: Set trailing stop-losses on SPCE and CLOV to capture the current momentum while mitigating reversal risk.
-2. 🔄 WATCH ROTATION: Monitor healthcare and financial sector strength; look for opportunities to rebalance from tech into these defensive sectors if the rotation persists.
-3. 📉 MONITOR TECH: Keep a close eye on QQQ and semiconductor-related news (Broadcom/Nvidia) as the current tech-led selloff may create entry points or require further hedging.
+Bonds selling off → yields spiking. Markets re-pricing "no cuts" scenario. Tech hammered hardest (QQQ −2.3%) as rising rates compress growth valuations.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**💼 Holdings Performance**
+
+| Ticker | Price | Chg | Cost | P/L |
+|--------|-------|-----|------|-----|
+| SPCE   | $4.29  | −10.62% | $11.90 | 🔴 −64% |
+| MARA   | $12.25 | −11.46% | $21.45 | 🔴 −43% |
+| IBIT   | $34.54 | −4.49%  | $56.74 | 🔴 −39% |
+| NIO    | $5.40  | −5.33%  | $10.54 | 🔴 −49% |
+| NVDY   | $13.16 | −3.59%  | $15.92 | 🔴 −17% |
+| CLOV   | $3.84  | −3.27%  | $11.19 | 🔴 −66% |
+| IAU    | $81.37 | −3.11%  | $78.10 | 🟢 +4% |
+| SCHF   | $27.07 | −2.91%  | $23.66 | 🟢 +14% |
+| QQQ    | $718.24| −2.33%  | —      | — |
+| XIC.TO | $55.28 | −1.93%  | $41.81 | 🟢 +32% |
+| XEQT.TO| $44.20 | −1.91%  | $37.10 | 🟢 +19% |
+| O      | $60.81 | **+1.67%** 🟢 | $55.93 | 🟢 +9% |
+| DIVO   | $46.26 | −0.55%  | $41.02 | 🟢 +13% |
+| VDY.TO | $74.18 | −0.50%  | $58.24 | 🟢 +27% |
+| ZAG.TO | $13.75 | −0.51%  | $14.01 | 🔴 −2% |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**📌 Key Takeaways**
+
+**1. NFP Shock = Rates Go Higher**
+The 172K print (double consensus) with upward revisions means the labor market is red hot. Bond yields are spiking. This directly hurts your growth/tech holdings (QQQ-related) while defensive positions (O, DIVO, VDY.TO) hold up better.
+
+**2. O (Realty Income) is Your Safe Haven**
+Your only green day in US holdings. Up 1.67% as the market rotates into defensive, rate-resilient dividends. The June 15 dividend is coming — hold tight.
+
+**3. Bitcoin Below $61K — MARA/IBIT Getting Destroyed**
+BTC down 4.4%. MARA −11.5%, IBIT −4.5%. If BTC loses $60K support, expect another leg down. This is your biggest portfolio risk right now.
+
+**4. Gold (IAU) Giving Back Gains**
+Down 3.11% today as the strong USD (DXY up) and rising yields punish gold. Still in profit (+4%) but watching support.
+
+**5. Speculative Blow-Out**
+SPCE, MARA, NIO, CLOV all down heavily. Your speculative allocation is likely exceeding the 5% target due to concentrated losses + no rebalancing.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**🎯 Suggested Actions**
+
+1. **🔴 MARA/IBIT**: If BTC breaks $60K, consider cutting partial positions. The strong dollar + hawkish Fed is toxic for crypto.
+2. **✅ Defensive Hold**: O, DIVO, VDY.TO — let these ride. They're doing exactly what dividend holdings should during a risk-off rotation.
+3. **💡 Covered Calls**: On MARA or NIO, selling calls against positions can generate income during the downturn. IV is elevated.
+4. **😐 SPCE/CLOV**: Too far gone to cut now unless you're tax-loss harvesting. If you're holding for a catalyst, make sure it's defined.
+5. **📊 CAD Holdings**: XEQT.TO, XIC.TO, VDY.TO are down but still massively green overall. No action needed.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📎 Source: CNBC — Jobs Report May 2026
+https://www.cnbc.com/2026/06/05/jobs-report-may-2026.html
+
+⚠️ This is not financial advice. Work with a licensed advisor.
