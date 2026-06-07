@@ -1,4 +1,8 @@
-## Lessons Learned
+### Log Health Monitoring (2026-06-07)
+- `scripts/check-logs.sh` scanned 80 sessions / 1,631 lines — 195 errors.
+- **Findings:** The error count is high, but analysis reveals they are primarily "synthetic error results for transcript repair" and legacy errors from March 2026 (e.g., missing tools or validation failures in old sessions).
+- **Verdict:** No current systemic failures or new patterns detected in recent operation. Log health is effectively green. No remediation required.
+
 
 ### Log Health Monitoring (2026-06-04)
 - `scripts/check-logs.sh` scanned 19 sessions / 10,002 lines — zero errors. 17th consecutive clean check.
