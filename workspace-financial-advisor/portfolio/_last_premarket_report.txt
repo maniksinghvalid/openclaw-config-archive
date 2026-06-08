@@ -1,87 +1,56 @@
-📊 **Manik's Portfolio Report**
-📅 Friday, June 5, 2026 — 16:20 UTC / 12:20 ET
+📊 PRE-MARKET PORTFOLIO REPORT — JUNE 8, 2026
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 MARKET REGIME & VIBE
+• Market Sentiment: Bullish Bias. QQQ (+1.91%) and SPY (+0.82%) showing strong upward momentum in pre-market.
+• Volatility: VIX at 18.73 (-13.17%). The sharp drop in VIX indicates a rapid shift away from fear, favoring risk-on assets.
+• Macro Context: Opening near resistance. While the trend is green, the VIX compression suggests a potential for a "volatility squeeze" if macro data surprises.
+• Currency: CAD/USD at 0.7173. Relatively stable.
 
-🚨 **Breaking: NFP Smashes Expectations — 172K vs 85K Consensus**
+📈 PORTFOLIO SNAPSHOT
+• Total Value: $13,849.49 USD
+• P&L: -$2,261.22 (-14.04%)
+• Status: Recovery mode. Speculative holdings are seeing a strong bounce.
 
-The May jobs report blew past every estimate. Here's the full breakdown:
+⚠️ PRICE ALERTS (>5% Movement)
+• IBIT: +4.52% (Approaching alert threshold)
+• MARA: +4.77% (Approaching alert threshold)
+• VIX: -13.17% (Significant drop, risk-on signal)
 
-• **NFP**: 172K actual vs **85K consensus** (Previous: 115K, revised up to 179K)
-• **Unemployment**: 4.3% actual vs 4.3% consensus ✅ (held steady)
-• **Avg Hourly Earnings**: +0.3% MoM, +3.4% YoY — in line
-• **Prior months revised UP**: March 185K→214K, April 115K→179K (+64K revision!)
+📋 HOLDINGS PERFORMANCE
+• MARA: $12.77 (+4.77%) — Strong bounce, likely tied to BTC momentum.
+• IBIT: $36.11 (+4.52%) — Strong growth.
+• NIO: $5.51 (+2.46%) — Positive momentum.
+• CLOV: $3.87 (+1.96%) — Slight recovery.
+• NVDY: $13.18 (+1.62%) — Steady.
+• O: $60.81 (+0.31%) — Stable.
+• DIVO: $46.21 (+0.21%) — Stable.
+• VDY.TO: $74.73 (+0.93%) — Positive.
+• XEQT.TO: $44.17 (+0.66%) — Positive.
+• XIC.TO: $55.49 (+0.78%) — Positive.
+• SCHF: $27.17 (+0.80%) — Positive.
+• IAU: $81.39 (-0.05%) — Flat.
+• ZAG.TO: $13.77 (-0.04%) — Flat.
+• SPCE: $4.27 (-2.34%) — Weakness relative to peers.
 
-🔴 **Hawkish Read**: Strong labor + steady wages = **Fed stays on hold**. Rate cuts remain off the table. Some chatter about a potential hike has quieted, but no cuts anytime soon.
+🛡️ TACTICAL HEDGING & OPPORTUNITIES
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Market Condition: Bullish / Risk-On
 
-**📉 Market Snapshot (Live)**
+Portfolio-Level Hedges:
+• Current State: Over-exposed to high-beta spec names (MARA, IBIT, NIO) which are currently rallying.
+• Suggestion: Since VIX is low (18.73), it is an ideal time to buy "cheap" protection. Consider a small tail-hedge using SPY puts or VIX calls to protect the recovery gains if the regime shifts.
 
-| Ticker | Price | Change |
-|--------|-------|--------|
-| SPY    | $744.86 | −1.29% |
-| QQQ    | $718.24 | −2.33% |
-| VIX    | 17.49   | **+13.64%** 🚨 |
-| BTC    | $60,988 | −4.43% |
-| Gold   | $81.37  | −3.11% |
+Ticker-Specific Strategies:
+• MARA & IBIT: These are leading the rally. To lock in gains without selling, consider selling Out-of-the-Money (OTM) Covered Calls if quantity permits, or using a trailing stop-loss to capture the trend.
+• NIO: Momentum is returning. Consider a Bull Call Spread if a breakout above key resistance is confirmed.
+• SPCE: Laggard in a risk-on market. If it fails to join the rally, consider reducing position size to reallocate into stronger momentum names.
+• O (Realty Income): Stable. Continue holding for dividends; no immediate hedging needed.
 
-Bonds selling off → yields spiking. Markets re-pricing "no cuts" scenario. Tech hammered hardest (QQQ −2.3%) as rising rates compress growth valuations.
+📅 UPCOMING CATALYSTS (14-Day Window)
+• June 15: O — Dividend Pay Date 💰
+• Macro: Monitor Juneteenth holiday adjustments (June 19) which may lead to lower liquidity/higher volatility in the following session.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**💼 Holdings Performance**
-
-| Ticker | Price | Chg | Cost | P/L |
-|--------|-------|-----|------|-----|
-| SPCE   | $4.29  | −10.62% | $11.90 | 🔴 −64% |
-| MARA   | $12.25 | −11.46% | $21.45 | 🔴 −43% |
-| IBIT   | $34.54 | −4.49%  | $56.74 | 🔴 −39% |
-| NIO    | $5.40  | −5.33%  | $10.54 | 🔴 −49% |
-| NVDY   | $13.16 | −3.59%  | $15.92 | 🔴 −17% |
-| CLOV   | $3.84  | −3.27%  | $11.19 | 🔴 −66% |
-| IAU    | $81.37 | −3.11%  | $78.10 | 🟢 +4% |
-| SCHF   | $27.07 | −2.91%  | $23.66 | 🟢 +14% |
-| QQQ    | $718.24| −2.33%  | —      | — |
-| XIC.TO | $55.28 | −1.93%  | $41.81 | 🟢 +32% |
-| XEQT.TO| $44.20 | −1.91%  | $37.10 | 🟢 +19% |
-| O      | $60.81 | **+1.67%** 🟢 | $55.93 | 🟢 +9% |
-| DIVO   | $46.26 | −0.55%  | $41.02 | 🟢 +13% |
-| VDY.TO | $74.18 | −0.50%  | $58.24 | 🟢 +27% |
-| ZAG.TO | $13.75 | −0.51%  | $14.01 | 🔴 −2% |
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**📌 Key Takeaways**
-
-**1. NFP Shock = Rates Go Higher**
-The 172K print (double consensus) with upward revisions means the labor market is red hot. Bond yields are spiking. This directly hurts your growth/tech holdings (QQQ-related) while defensive positions (O, DIVO, VDY.TO) hold up better.
-
-**2. O (Realty Income) is Your Safe Haven**
-Your only green day in US holdings. Up 1.67% as the market rotates into defensive, rate-resilient dividends. The June 15 dividend is coming — hold tight.
-
-**3. Bitcoin Below $61K — MARA/IBIT Getting Destroyed**
-BTC down 4.4%. MARA −11.5%, IBIT −4.5%. If BTC loses $60K support, expect another leg down. This is your biggest portfolio risk right now.
-
-**4. Gold (IAU) Giving Back Gains**
-Down 3.11% today as the strong USD (DXY up) and rising yields punish gold. Still in profit (+4%) but watching support.
-
-**5. Speculative Blow-Out**
-SPCE, MARA, NIO, CLOV all down heavily. Your speculative allocation is likely exceeding the 5% target due to concentrated losses + no rebalancing.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**🎯 Suggested Actions**
-
-1. **🔴 MARA/IBIT**: If BTC breaks $60K, consider cutting partial positions. The strong dollar + hawkish Fed is toxic for crypto.
-2. **✅ Defensive Hold**: O, DIVO, VDY.TO — let these ride. They're doing exactly what dividend holdings should during a risk-off rotation.
-3. **💡 Covered Calls**: On MARA or NIO, selling calls against positions can generate income during the downturn. IV is elevated.
-4. **😐 SPCE/CLOV**: Too far gone to cut now unless you're tax-loss harvesting. If you're holding for a catalyst, make sure it's defined.
-5. **📊 CAD Holdings**: XEQT.TO, XIC.TO, VDY.TO are down but still massively green overall. No action needed.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📎 Source: CNBC — Jobs Report May 2026
-https://www.cnbc.com/2026/06/05/jobs-report-may-2026.html
-
-⚠️ This is not financial advice. Work with a licensed advisor.
+💡 ACTION ITEMS
+1. Set Trailing Stop-Losses: Apply to MARA and IBIT to protect the recent ~4-5% jump.
+2. Hedge Volatility: Look at VIX calls or SPY puts while VIX is < 20 to create a low-cost insurance policy.
+3. Review SPCE: Evaluate why it's lagging during a broad market bounce; consider a partial exit if no catalyst appears.

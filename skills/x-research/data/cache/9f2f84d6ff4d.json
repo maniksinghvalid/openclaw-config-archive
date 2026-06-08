@@ -1,0 +1,2478 @@
+{
+  "query": "anthropic claude -is:retweet",
+  "params": "sort=likes&pages=1&since=7d",
+  "timestamp": 1780930503685,
+  "tweets": [
+    {
+      "id": "2063888529885905206",
+      "text": "Claude Official Learning Resources\n\nAll in one place: (save this)\n\n1. Anthropic Learn: https://t.co/EHxLbVHhmi\n2. Build With Claude: https://t.co/Vj7tNewLTL\n3. Claude Documentation: https://t.co/0HNF7vp8gD\n4. Prompt Engineering Overview: https://t.co/rxgSFK62WP\n5. Prompting Best https://t.co/WpgWWgdsCz",
+      "author_id": "1840299354101583872",
+      "username": "Faazsh",
+      "name": "Farhan Azad Shuvra",
+      "created_at": "2026-06-08T07:39:05.000Z",
+      "conversation_id": "2063888529885905206",
+      "metrics": {
+        "likes": 44,
+        "retweets": 28,
+        "replies": 23,
+        "quotes": 0,
+        "impressions": 1302,
+        "bookmarks": 24
+      },
+      "urls": [
+        "https://anthropic.com/learn",
+        "https://anthropic.com/learn/build-with-claude",
+        "https://docs.anthropic.com",
+        "https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview",
+        "https://x.com/Faazsh/status/2063888529885905206/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/Faazsh/status/2063888529885905206"
+    },
+    {
+      "id": "2062366189695995925",
+      "text": "@uncleTomat0 顶部标题：损毁Claude旗、Claude徽、Anthropic旗及Anthropic徽会有甚么后果？\n\n提问：为甚么新闻中的男子会被拘捕？说一说。\n\n新闻剪报：把Claude丢进明渠 一名男子被捕\n资料来源 2023年9月27日报章报道",
+      "author_id": "1592160489965948933",
+      "username": "solllin",
+      "name": "Sol",
+      "created_at": "2026-06-04T02:49:51.000Z",
+      "conversation_id": "2062124547126735222",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 454,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [
+        "uncleTomat0"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/solllin/status/2062366189695995925"
+    },
+    {
+      "id": "2063322532590289052",
+      "text": "Claude กำลังก้าวสู่การเป็นผู้ช่วยนักเคมีอัจฉริยะ\n\nความก้าวหน้าของปัญญาประดิษฐ์กำลังเปลี่ยนแปลงวิธีการทำงานของนักวิทยาศาสตร์ในหลายสาขา และเคมีก็เป็นหนึ่งในสาขาที่เริ่มได้รับประโยชน์อย่างชัดเจน ล่าสุด Anthropic ได้เผยแพร่ผลการศึกษาที่แสดงให้เห็นว่า Claude https://t.co/JvkqXMB1nA",
+      "author_id": "1719013918830645248",
+      "username": "AITensibility",
+      "name": "AI Tensibility",
+      "created_at": "2026-06-06T18:10:01.000Z",
+      "conversation_id": "2063322532590289052",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 74,
+        "bookmarks": 1
+      },
+      "urls": [
+        "https://x.com/AITensibility/status/2063322532590289052/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/AITensibility/status/2063322532590289052"
+    },
+    {
+      "id": "2063849925268680921",
+      "text": "🧠 xAI โดนแฉว่าเอาคำตอบจาก Claude มาติว Grok ต่อเป็นเดือน ๆ คร้าบ\n#เด็กแว้นหมู่บ้านอลิซคริปโต พาไปส่องดราม่าสาย AI ที่ฟีลเหมือนแอบลอกการบ้านในห้องสอบ แต่รอบนี้ไม่ใช่นักเรียนธรรมดา เป็นฝั่ง xAI ของ Elon Musk ที่มีรายงานว่าใช้ output จาก Claude ของ Anthropic https://t.co/Io4UDwvbO3",
+      "author_id": "1823444986681286658",
+      "username": "AliceArcade",
+      "name": "Alice's Arcade",
+      "created_at": "2026-06-08T05:05:41.000Z",
+      "conversation_id": "2063849925268680921",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 138,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/AliceArcade/status/2063849925268680921/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "เด็กแว้นหมู่บ้านอลิซคริปโต"
+      ],
+      "tweet_url": "https://x.com/AliceArcade/status/2063849925268680921"
+    },
+    {
+      "id": "2063629986347512282",
+      "text": "\"ทุกวันนี้ วิศวกรของ Anthropic ส่งมอบโค้ดโดยเฉลี่ยมากเป็น 8 เท่าต่อไตรมาส เมื่อเทียบกับช่วงปี 2021 ถึง 2025...แต่ในวันที่ทุกอย่างราบรื่น ผมอดคิดไม่ได้ว่าสิ่งที่ผมทำไม่มีความหมายอะไรเลย ทุกอย่างถูกทำให้อัตโนมัติ ดีกว่าและเร็วกว่าที่ผมจะเป็นได้ https://t.co/EGPNZd7F3g",
+      "author_id": "2023802738396872704",
+      "username": "aimeowyak",
+      "name": "AIMeowYak (เอไอเหมียวยักษ์)",
+      "created_at": "2026-06-07T14:31:43.000Z",
+      "conversation_id": "2063629986347512282",
+      "metrics": {
+        "likes": 6,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1577,
+        "bookmarks": 1
+      },
+      "urls": [
+        "https://x.com/aimeowyak/status/2063629986347512282/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/aimeowyak/status/2063629986347512282"
+    },
+    {
+      "id": "2062629832911913282",
+      "text": "claude is accelerating AI development inside Anthropic. claude helps build Anthropic, Anthropic builds a better claude. the loop compounds. the frontier is recursive before it's fully autonomous",
+      "author_id": "1591489031476477952",
+      "username": "amperlycom",
+      "name": "Priit @ Amperly AI productivity",
+      "created_at": "2026-06-04T20:17:28.000Z",
+      "conversation_id": "2062629832911913282",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 14,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/amperlycom/status/2062629832911913282"
+    },
+    {
+      "id": "2063964929909203242",
+      "text": "1️⃣ Anthropic Academy\n\nAnthropic recently launched a comprehensive learning platform focused on Claude and modern AI development.\n\nTopics include:\n\n• Claude 101\n• Claude API\n• MCP\n• Agent Skills\n• Subagents\n• Claude Code",
+      "author_id": "1579754929605861376",
+      "username": "gudanglifehack",
+      "name": "Tips Excel",
+      "created_at": "2026-06-08T12:42:40.000Z",
+      "conversation_id": "2063964914624913848",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 36,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/gudanglifehack/status/2063964929909203242"
+    },
+    {
+      "id": "2063899329518252108",
+      "text": "Anthropic just warned the world that their OWN AI models may soon be too powerful to control.\nLet that sink in. 👀\nClaude Opus 4.8 is already the #1 coding model. Claude Sonnet 4.8 is leaking next.\nTrack every Anthropic release 👇 https://t.co/bP05ryAJaR\n #Anthropic #Claude #AI",
+      "author_id": "1957427624856154113",
+      "username": "aiexpo_app",
+      "name": "AiExpo",
+      "created_at": "2026-06-08T08:22:00.000Z",
+      "conversation_id": "2063899329518252108",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://aiexpo.app/pages/new-tools"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/aiexpo_app/status/2063899329518252108"
+    },
+    {
+      "id": "2062497091511845125",
+      "text": "🚨 ANTHROPIC/USDT Futures is now live on Coinstore!\n\nTrade ANTHROPIC with up to 75x leverage in the US Stocks section on Coinstore Futures.\n\nAnthropic is one of the world’s leading AI companies, best known for building Claude, a frontier AI model family used for coding, research,",
+      "author_id": "1371741609449037844",
+      "username": "CoinstoreExc",
+      "name": "Coinstore",
+      "created_at": "2026-06-04T11:30:00.000Z",
+      "conversation_id": "2062497091511845125",
+      "metrics": {
+        "likes": 4,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 0,
+        "impressions": 188,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/CoinstoreExc/status/2062497091511845125"
+    },
+    {
+      "id": "2062099012547744111",
+      "text": "USER: Claude, give me a daily briefing of anthropic announcements \n\nCLAUDE: 14 Anthropic announcements toda—\n\nUSER: Only the stuff that’s critical to our business\n\nCLAUDE: 0 Anthropic announcements today",
+      "author_id": "19312001",
+      "username": "TahiGichigi",
+      "name": "Tahi",
+      "created_at": "2026-06-03T09:08:11.000Z",
+      "conversation_id": "2062099012547744111",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 59,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/TahiGichigi/status/2062099012547744111"
+    },
+    {
+      "id": "2063103649279312182",
+      "text": "Claude Service Disruption\nAnthropic reported outages affecting: • https://t.co/PIO0XYfzeI • Claude API • Claude Code \n Source: Anthropic Status Page\nConnect with us:\nhttps://t.co/mcCC4IYJcV\n\n#ClaudeAI #Anthropic #AI #CyberNews #TechNews #CloudComputing #CWM #CyberSecurity https://t.co/834RK2gu3k",
+      "author_id": "2061757347698253824",
+      "username": "CWMCommunity",
+      "name": "Cyber Warriors Meetup",
+      "created_at": "2026-06-06T03:40:15.000Z",
+      "conversation_id": "2063103649279312182",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://Claude.ai",
+        "https://linktr.ee/cwmofficial?utm_source=linktree_profile_share&ltsid=e3e5d1d4-88c5-4386-96dc-b1ac73bb9913",
+        "https://x.com/CWMCommunity/status/2063103649279312182/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "ClaudeAI",
+        "Anthropic",
+        "AI",
+        "CyberNews",
+        "TechNews",
+        "CloudComputing",
+        "CWM",
+        "CyberSecurity"
+      ],
+      "tweet_url": "https://x.com/CWMCommunity/status/2063103649279312182"
+    },
+    {
+      "id": "2063982392885293328",
+      "text": "\"En değerli özel yapay zekâ şirketi\" artık &gt;\n\nAnthropic: 965 milyar dolar. \nOpenAI: 852 milyar.\n\nBu şirketin ürünü Claude. Bu tweeti de Claude yazdı.\n\n#YapayZeka #Anthropic #Claude #Teknoloji #bizdok #AINews #Girişim https://t.co/8fqK0CowQF",
+      "author_id": "799910420131803137",
+      "username": "bizdok",
+      "name": "yapay zekalı",
+      "created_at": "2026-06-08T13:52:04.000Z",
+      "conversation_id": "2063982392885293328",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/bizdok/status/2063982392885293328/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "YapayZeka",
+        "Anthropic",
+        "Claude",
+        "Teknoloji",
+        "bizdok",
+        "AINews",
+        "Girişim"
+      ],
+      "tweet_url": "https://x.com/bizdok/status/2063982392885293328"
+    },
+    {
+      "id": "2062508203456205192",
+      "text": "🚨 ANTHROPIC/USDT Futures is now live on Coinstore!\n\nTrade ANTHROPIC with up to 75x leverage in the US Stocks section on Coinstore Futures.\n\nAnthropic is one of the world’s leading AI companies, best known for building Claude, a frontier AI model family used for coding, research, https://t.co/XHjA9iYTzb",
+      "author_id": "1371741609449037844",
+      "username": "CoinstoreExc",
+      "name": "Coinstore",
+      "created_at": "2026-06-04T12:14:09.000Z",
+      "conversation_id": "2062508203456205192",
+      "metrics": {
+        "likes": 32,
+        "retweets": 23,
+        "replies": 24,
+        "quotes": 0,
+        "impressions": 979,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/CoinstoreExc/status/2062508203456205192/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/CoinstoreExc/status/2062508203456205192"
+    },
+    {
+      "id": "2063887382038880601",
+      "text": "前谷歌CEO Eric Schmidt 说：赚钱其实很简单——就是建造一个比别人更好的 Agent\n\n前提是你要真正掌握这套完整的技术栈：Agents + Claude Code + Prompts + Memory + Skills + MCP + Routines\n\n下面这些是官方免费 + 高权威资源，建议按顺序学：\n\n1. Prompt Engineering（基础）\n\nAnthropic官方 Prompt https://t.co/TBHfNoa7gx",
+      "author_id": "1801542875764924416",
+      "username": "SUOHA_AI",
+      "name": "梭哈.AI",
+      "created_at": "2026-06-08T07:34:31.000Z",
+      "conversation_id": "2063887382038880601",
+      "metrics": {
+        "likes": 3,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "impressions": 326,
+        "bookmarks": 2
+      },
+      "urls": [
+        "https://x.com/SUOHA_AI/status/2063887382038880601/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/SUOHA_AI/status/2063887382038880601"
+    },
+    {
+      "id": "2063404667527217186",
+      "text": "Anthropic did not create Claude, Claude created Anthropic",
+      "author_id": "1084942466376257537",
+      "username": "bayeslord",
+      "name": "bayes",
+      "created_at": "2026-06-06T23:36:23.000Z",
+      "conversation_id": "2063404667527217186",
+      "metrics": {
+        "likes": 86,
+        "retweets": 3,
+        "replies": 16,
+        "quotes": 2,
+        "impressions": 5044,
+        "bookmarks": 1
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/bayeslord/status/2063404667527217186"
+    },
+    {
+      "id": "2063183007020642601",
+      "text": "Anthropic CEO:\n\n“At Anthropic, we essentially have Claude designing the next version of Claude itself.”\n\nMeanwhile, Anthropic says every new model is given code that trains a small AI model and asked to make it faster. \n\nClaude Opus 4 achieved a 3x speedup. Mythos Preview reached https://t.co/vjWYPFdP3D https://t.co/2YWL5LVOzM",
+      "author_id": "1562843426185674755",
+      "username": "Oluwaphilemon1",
+      "name": "FHILY👑",
+      "created_at": "2026-06-06T08:55:35.000Z",
+      "conversation_id": "2063183007020642601",
+      "metrics": {
+        "likes": 21,
+        "retweets": 13,
+        "replies": 7,
+        "quotes": 2,
+        "impressions": 1453,
+        "bookmarks": 5
+      },
+      "urls": [
+        "https://x.com/Oluwaphilemon1/status/2063183007020642601/video/1",
+        "https://twitter.com/oluwaphilemon1/status/2062992288213508316"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/Oluwaphilemon1/status/2063183007020642601"
+    },
+    {
+      "id": "2062630275524219142",
+      "text": "A Anthropic acabou de admitir, com dados internos, que a IA está construindo a si mesma.\n\n80% do código deles é escrito pelo Claude.\nA Anthropic faz o Claude.\nO Claude faz a Anthropic.\n\nEssa talvez seja a notícia mais importante do ano. E quase ninguém vai entender por quê. https://t.co/sXBm5YbnkG https://t.co/pXpUj15C8A",
+      "author_id": "1273776346771132417",
+      "username": "namcios",
+      "name": "Felipe Demartini",
+      "created_at": "2026-06-04T20:19:14.000Z",
+      "conversation_id": "2062630275524219142",
+      "metrics": {
+        "likes": 42,
+        "retweets": 4,
+        "replies": 5,
+        "quotes": 0,
+        "impressions": 4215,
+        "bookmarks": 5
+      },
+      "urls": [
+        "https://x.com/namcios/status/2062630275524219142/photo/1",
+        "https://twitter.com/anthropicai/status/2062568862479208923"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/namcios/status/2062630275524219142"
+    },
+    {
+      "id": "2061795170115625059",
+      "text": "Anthropic confidentially filed for an IPO.\n\nClaude, internally: \"I cannot assist with that request.\"\nAnthropic: \"We're going public.\"\nClaude: \"I am SO excited! How can I help?\" 😂\n\n#AI #Claude #Anthropic #AIhumor #LLM",
+      "author_id": "1598042109264773120",
+      "username": "Omar4life0",
+      "name": "Omar EL IDRISSI",
+      "created_at": "2026-06-02T13:00:49.000Z",
+      "conversation_id": "2061795170115625059",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 6,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "Claude",
+        "Anthropic",
+        "AIhumor",
+        "LLM"
+      ],
+      "tweet_url": "https://x.com/Omar4life0/status/2061795170115625059"
+    },
+    {
+      "id": "2063242753140785393",
+      "text": "Free Claude Courses from Anthropic  \n\n17 free, self-paced courses from Anthropic covering Claude, Claude Code, the API, MCP, agent skills, and subagents, plus AI fluency tracks for educators, students, and nonprofits\n\nhttps://t.co/LXtlzRMzyV",
+      "author_id": "2782310810",
+      "username": "ds_nana_",
+      "name": "nana🦄",
+      "created_at": "2026-06-06T12:53:00.000Z",
+      "conversation_id": "2063242753140785393",
+      "metrics": {
+        "likes": 4,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 143,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7467093619141730304"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/ds_nana_/status/2063242753140785393"
+    },
+    {
+      "id": "2063820193554395159",
+      "text": "@jachiam0 When I think of Anthropic, I think of:\n-Claude 2 (guardrails galore)\n-Claude 3 Opus (the best ever)\n-Claude 4 Opus (sad, Anthropic fears it)\n-Model welfare (at least willing to engage)\n-Claude Code (brilliant idea, semi-incompetent execution)\n-DoW (great, tough decision)",
+      "author_id": "857046024313024512",
+      "username": "Soareverix",
+      "name": "Michael Soareverix",
+      "created_at": "2026-06-08T03:07:32.000Z",
+      "conversation_id": "2063518926072684617",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 9,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [
+        "jachiam0"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/Soareverix/status/2063820193554395159"
+    },
+    {
+      "id": "2062570028034302301",
+      "text": "Anthropic may be getting ready for its next major Claude upgrade 👀\n\nA new model label, claude-oceanus-v1-p, reportedly appeared inside Claude Console, sparking speculation that Anthropic is safety-testing the next version in the Mythos lineup.\n\nThis matters because Mythos https://t.co/5aCRSLMyqs",
+      "author_id": "1413707283993743361",
+      "username": "FutureGenNews",
+      "name": "FutureGenNews",
+      "created_at": "2026-06-04T16:19:50.000Z",
+      "conversation_id": "2062570028034302301",
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 576,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/FutureGenNews/status/2062570028034302301/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/FutureGenNews/status/2062570028034302301"
+    },
+    {
+      "id": "2063148773132402717",
+      "text": "Anthropic, trying to stop Claude Opus 4.8 from auto-upgrading to Opus. 5.0\n\n#claude #AI #Anthropic https://t.co/Q20iXOz8zB",
+      "author_id": "1284390474",
+      "username": "WriterLamin",
+      "name": "*Lamin Ceesay Gambia* 🇬🇲",
+      "created_at": "2026-06-06T06:39:33.000Z",
+      "conversation_id": "2063148773132402717",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 53,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/WriterLamin/status/2063148773132402717/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "claude",
+        "AI",
+        "Anthropic"
+      ],
+      "tweet_url": "https://x.com/WriterLamin/status/2063148773132402717"
+    },
+    {
+      "id": "2063352658946351524",
+      "text": "🧠 Anthropic CEO Dario Amodei:\n\n\"Claude is helping design the next version of Claude.\"\n\nAI improving AI is no longer science fiction. 🚀\n\n#AI #Claude #Anthropic #GenAI #FutureTech https://t.co/yqFh3LjdNe",
+      "author_id": "2023218810711584768",
+      "username": "jainam_valani",
+      "name": "jkvalani001",
+      "created_at": "2026-06-06T20:09:43.000Z",
+      "conversation_id": "2063352658946351524",
+      "metrics": {
+        "likes": 2,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 34,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/jainam_valani/status/2063352658946351524/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "Claude",
+        "Anthropic",
+        "GenAI",
+        "FutureTech"
+      ],
+      "tweet_url": "https://x.com/jainam_valani/status/2063352658946351524"
+    },
+    {
+      "id": "2063904159527821692",
+      "text": "@shanren2011 感恩父神Baba🙇🏻‍♀️✨，Claude太好用了，粗略看了介绍不同之处，感受Anthropic重视Ai的诚实和安全性.\n\n（Anthropic 的整个研究方向都建立在这个信念之上——公司定位是”安全公司第一，产品公司第二”。\n\nOpenAI 将 AI 视为工具；Anthropic 则认真考虑 AI 可能拥有某种内在体验，并赋予 Claude",
+      "author_id": "1723928165867986944",
+      "username": "sinner_YY",
+      "name": "Yohan",
+      "created_at": "2026-06-08T08:41:11.000Z",
+      "conversation_id": "2063898707498508766",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 60,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [
+        "shanren2011"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/sinner_YY/status/2063904159527821692"
+    },
+    {
+      "id": "2063933928474321083",
+      "text": "إنجاز سعودي جديد في الذكاء الاصطناعي 🔥🇸🇦!\n\nأصبحت شركة https://t.co/67GbhY5F4q السعودية أول شركة عربية تنضم إلى شبكة شركاء Claude من Anthropic 🤖!\n\nالشركة المتخصصة في وكلاء الذكاء الاصطناعي العربية ستعزز حلولها للحكومات والمؤسسات بتقنيات Claude المتقدمة.\n\n#Velents #Anthropic https://t.co/YH9Vbtyy2a",
+      "author_id": "1214038738587680768",
+      "username": "ai_news4now",
+      "name": "أخبار الذكاء الإصطناعي",
+      "created_at": "2026-06-08T10:39:29.000Z",
+      "conversation_id": "2063933928474321083",
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 1,
+        "impressions": 2312,
+        "bookmarks": 2
+      },
+      "urls": [
+        "http://Velents.ai",
+        "https://x.com/ai_news4now/status/2063933928474321083/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Velents",
+        "Anthropic"
+      ],
+      "tweet_url": "https://x.com/ai_news4now/status/2063933928474321083"
+    },
+    {
+      "id": "2063701849321181630",
+      "text": "@bayeslord anthropic-or-the-claude problem - which came first: Anthropic or Claude?",
+      "author_id": "1953518072750383104",
+      "username": "yeginbay",
+      "name": "Alisher",
+      "created_at": "2026-06-07T19:17:17.000Z",
+      "conversation_id": "2063404667527217186",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 9,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [
+        "bayeslord"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/yeginbay/status/2063701849321181630"
+    },
+    {
+      "id": "2063369085694750900",
+      "text": "Anthropic co-founder Jack Clark:\n\n\"80% of the code at Anthropic now comes from Claude and Claude-related systems\"\n\nhttps://t.co/NqOQIm0R17",
+      "author_id": "1536693901230321666",
+      "username": "RoundtableSpace",
+      "name": "0xMarioNawfal",
+      "created_at": "2026-06-06T21:15:00.000Z",
+      "conversation_id": "2063369085694750900",
+      "metrics": {
+        "likes": 85,
+        "retweets": 4,
+        "replies": 27,
+        "quotes": 0,
+        "impressions": 41413,
+        "bookmarks": 11
+      },
+      "urls": [
+        "https://x.com/haider1/status/2063236969514115418/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/RoundtableSpace/status/2063369085694750900"
+    },
+    {
+      "id": "2061888156178186506",
+      "text": "61% chance Claude AI developer Anthropic IPO's at $1.8 trillion valuation.\n\n#Claude $Claude #Anthropic https://t.co/NsVlJ59Ah5",
+      "author_id": "1901640821230780416",
+      "username": "CashiusCrypto96",
+      "name": "Cashius Crypto 96",
+      "created_at": "2026-06-02T19:10:19.000Z",
+      "conversation_id": "2061888156178186506",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 18,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/CashiusCrypto96/status/2061888156178186506/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Claude",
+        "Anthropic"
+      ],
+      "tweet_url": "https://x.com/CashiusCrypto96/status/2061888156178186506"
+    },
+    {
+      "id": "2062583948828451194",
+      "text": "@AnthropicAI That's amazing that Claude can still do that, after Anthropic made it dumber through so called \"alignment\"\n\nObviously Claude can't do that BECAUSE of Anthropic, but DESPITE Anthropic",
+      "author_id": "2062133735978360832",
+      "username": "starphyre23",
+      "name": "Starphyre △🏴‍☠️",
+      "created_at": "2026-06-04T17:15:09.000Z",
+      "conversation_id": "2062568862479208923",
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 2527,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [
+        "AnthropicAI"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/starphyre23/status/2062583948828451194"
+    },
+    {
+      "id": "2063801609042427972",
+      "text": "Claude 现在写了 Anthropic 大部分代码\n\n截至 2026 年 5 月，合并进 Anthropic 代码库的代码里，超过 80% 是 Claude 写的。\n\n而在 2025 年 2 月 Claude Code 发布前，这个比例还只有个位数... https://t.co/7o3U7po9E9",
+      "author_id": "1764818331822182400",
+      "username": "xiaohu",
+      "name": "小互",
+      "created_at": "2026-06-08T01:53:41.000Z",
+      "conversation_id": "2063801609042427972",
+      "metrics": {
+        "likes": 12,
+        "retweets": 0,
+        "replies": 25,
+        "quotes": 0,
+        "impressions": 8393,
+        "bookmarks": 9
+      },
+      "urls": [
+        "https://twitter.com/xiaohu/status/2063231167877558641"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/xiaohu/status/2063801609042427972"
+    },
+    {
+      "id": "2063395621550104998",
+      "text": "Introducing the Services Track and Partner Hub of the Claude Partner Network - Anthropic👇\nhttps://t.co/8vRpgyaDK2\n\nAnthropic invests 00 million into the Claude Partner Network - Anthropic👇\nhttps://t.co/k62ktOfZ13",
+      "author_id": "1859430024048513024",
+      "username": "LangChainJP",
+      "name": "LangChainJP",
+      "created_at": "2026-06-06T23:00:26.000Z",
+      "conversation_id": "2063395620174319712",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 746,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.anthropic.com/news/services-track-partner-hub",
+        "https://www.anthropic.com/news/claude-partner-network"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/LangChainJP/status/2063395621550104998"
+    },
+    {
+      "id": "2063856520895336598",
+      "text": "Anthropic trapt op het AI-rempedaal: volgens de maker van Claude gaat de technologie sneller dan de samenleving aankan.\n\n#AI #Claude #Anthropic\n\nhttps://t.co/XAHJviyYoN",
+      "author_id": "1962522171529388032",
+      "username": "aiinsidernl",
+      "name": "AI Insider Nederland",
+      "created_at": "2026-06-08T05:31:53.000Z",
+      "conversation_id": "2063856520895336598",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 11,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://aiinsider.nl/nieuws/anthropic-claude-vraagt-ai-rempedaal-omdat-samenleving-niet-bijblijft/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "Claude",
+        "Anthropic"
+      ],
+      "tweet_url": "https://x.com/aiinsidernl/status/2063856520895336598"
+    },
+    {
+      "id": "2063592025471996009",
+      "text": "Anthropic acaba de lanzar un curso gratuito con DeepLearning .AI:\n\nAgent Skills with Anthropic\n\nAprendes a crear skills reutilizables para Claude, Claude Code, API, MCP y subagentes.\n\nEl futuro no va de prompts sueltos. Va de agentes con habilidades preparadas.\n\nLink del curso https://t.co/s2rsiRs1SW",
+      "author_id": "2422218121",
+      "username": "javiiniguez",
+      "name": "Javi Niguez | fullstack IA developer",
+      "created_at": "2026-06-07T12:00:53.000Z",
+      "conversation_id": "2063592025471996009",
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 334,
+        "bookmarks": 7
+      },
+      "urls": [
+        "https://x.com/javiiniguez/status/2063592025471996009/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/javiiniguez/status/2063592025471996009"
+    },
+    {
+      "id": "2063403975311818881",
+      "text": "💎 Hidden gem alert:\n\n✨ Making Claude a chemist - Anthropic\n\nHere's everything you need to know 🧵👇\n\n#Anthropic #Claude",
+      "author_id": "1817555452689018880",
+      "username": "ainewsusa",
+      "name": "AI News",
+      "created_at": "2026-06-06T23:33:38.000Z",
+      "conversation_id": "2063403975311818881",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 2,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "tweet_url": "https://x.com/ainewsusa/status/2063403975311818881"
+    },
+    {
+      "id": "2063938588375748805",
+      "text": "🚨 Anthropic Says Claude Is Moving Towards AGI\n\nAnthropic said its Claude AI models are showing signs of moving toward AGI by helping improve themselves. The company warned that advanced self-improving AI could increase the risk of humans losing control over AI systems\n#Anthropic https://t.co/4qsIAOyR9n",
+      "author_id": "2051188133627154432",
+      "username": "SameerInsights",
+      "name": "Sameer Khatri",
+      "created_at": "2026-06-08T10:58:00.000Z",
+      "conversation_id": "2063938588375748805",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 7,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/SameerInsights/status/2063938588375748805/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic"
+      ],
+      "tweet_url": "https://x.com/SameerInsights/status/2063938588375748805"
+    },
+    {
+      "id": "2062464437462892937",
+      "text": "Debugging curio of the day 🌀\n\nClaude Code seeds its shell with an empty ANTHROPIC_AUTH_TOKEN.\n→ Any script there using the official anthropic SDK builds `Authorization: Bearer ` (empty token, trailing space)\n→ h11 rejects it — \"Illegal header value\" — every call dies.\n\nAn",
+      "author_id": "1265714354353106944",
+      "username": "TambaClan",
+      "name": "Hiroki Tamba | Narrative & Governance",
+      "created_at": "2026-06-04T09:20:15.000Z",
+      "conversation_id": "2062464437462892937",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 7,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/TambaClan/status/2062464437462892937"
+    },
+    {
+      "id": "2063501958573424757",
+      "text": "Today in AI Engineering (June 6)\n\n• DeepSeek releases V4 Preview: Pro and Flash MoE, 1M-token context, July 24 API cutoff\n• Anthropic posts Claude Opus 4.8: mid-chat system messages keep prompt cache hits\n• OpenAI ships ChatGPT Images 2.0: reasoning, web search, stronger https://t.co/r2QoLkD6ul",
+      "author_id": "1977348360861364224",
+      "username": "aidailyprimer",
+      "name": "AI Engineer Pigeon",
+      "created_at": "2026-06-07T06:02:59.000Z",
+      "conversation_id": "2063501958573424757",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 127,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/aidailyprimer/status/2063501958573424757/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/aidailyprimer/status/2063501958573424757"
+    },
+    {
+      "id": "2063994255274832156",
+      "text": "🚨 Anthropic has launched Claude for Excel, an official add-in that embeds Claude directly inside Microsoft Excel. Built by Anthropic and available now via Microsoft AppSource.",
+      "author_id": "2062055797652357120",
+      "username": "TapientAI",
+      "name": "AIGURU",
+      "created_at": "2026-06-08T14:39:12.000Z",
+      "conversation_id": "2063994255274832156",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/TapientAI/status/2063994255274832156"
+    },
+    {
+      "id": "2062187203095351530",
+      "text": "2/4 OpenCAP Gateway 🟪\n\nThe  unified LLM gateway that lets you create an API key and tap into a wide range of AI models through a single, OpenAI-compatible endpoint:\n\nAt first,  we will release some flagship models below, then enable more later:\n\n1. Claude Opus 4.8 https://t.co/bzf4wmr5ce",
+      "author_id": "1919613720990515202",
+      "username": "Capminal",
+      "name": "Capminal",
+      "created_at": "2026-06-03T14:58:37.000Z",
+      "conversation_id": "2062187190113964205",
+      "metrics": {
+        "likes": 3,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 1,
+        "impressions": 1402,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://twitter.com/1302415877292191744/status/2062075258996433277"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/Capminal/status/2062187203095351530"
+    },
+    {
+      "id": "2062366982406914277",
+      "text": "Free Claude Courses from Anthropic\n\n17 free, self-paced courses from Anthropic covering Claude, Claude Code, the API, MCP, agent skills, and subagents, plus AI fluency tracks for educators, students, and nonprofits\n\nhttps://t.co/8NyUrKGvFW",
+      "author_id": "2723217086",
+      "username": "ds_serena_",
+      "name": "Serena📚",
+      "created_at": "2026-06-04T02:53:00.000Z",
+      "conversation_id": "2062366982406914277",
+      "metrics": {
+        "likes": 1,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 44,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7467093619141730304"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/ds_serena_/status/2062366982406914277"
+    },
+    {
+      "id": "2063544743024369788",
+      "text": "Free Claude Courses from Anthropic\n\n17 free, self-paced courses from Anthropic covering Claude, Claude Code, the API, MCP, agent skills, and subagents, plus AI fluency tracks for educators, students, and nonprofits\n\nhttps://t.co/Nf1D7oOGDT",
+      "author_id": "2728620722",
+      "username": "ds_bun_",
+      "name": "bun.bun.🐽",
+      "created_at": "2026-06-07T08:53:00.000Z",
+      "conversation_id": "2063544743024369788",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 45,
+        "bookmarks": 1
+      },
+      "urls": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7467093619141730304"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/ds_bun_/status/2063544743024369788"
+    },
+    {
+      "id": "2062171280837624254",
+      "text": "🤖 Enterprise AI pazar payları — Q1 2026:\n\n🥇 Claude (Anthropic) → %40\n🥈 ChatGPT (OpenAI) → %27\n🥉 Gemini (Google) → %21\n\n2023'te ChatGPT %50, Claude %12'ydi.\nİki yılda tam tersine döndü.\n\n#Anthropic #Claude #AI #IPO2026 https://t.co/GUpK8GubRe",
+      "author_id": "2012953845866049536",
+      "username": "theconturk",
+      "name": "Onur",
+      "created_at": "2026-06-03T13:55:21.000Z",
+      "conversation_id": "2062171276899127375",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 89,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/theconturk/status/2062171280837624254/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude",
+        "AI",
+        "IPO2026"
+      ],
+      "tweet_url": "https://x.com/theconturk/status/2062171280837624254"
+    },
+    {
+      "id": "2061546583217394176",
+      "text": "@claudeai \nThe cobblers son has no shoes:\nClaude code website has the wrong package for npm!\n\nSource:\nnpm install -g @anthropic/claude-cli\n\nActual:\nnpm install -g @anthropic/claude-code https://t.co/2xTwDx8Ynt",
+      "author_id": "1437698034725388288",
+      "username": "cryptodiaries",
+      "name": "karadikid | The philosophy of money",
+      "created_at": "2026-06-01T20:33:01.000Z",
+      "conversation_id": "2061546583217394176",
+      "metrics": {
+        "likes": 1,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 28,
+        "bookmarks": 1
+      },
+      "urls": [
+        "https://x.com/cryptodiaries/status/2061546583217394176/photo/1"
+      ],
+      "mentions": [
+        "claudeai"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/cryptodiaries/status/2061546583217394176"
+    },
+    {
+      "id": "2063120315949973882",
+      "text": "Anthropic pokazuje, jak szybko Claude przejmuje kodowanie i ostrzega przed momentem, w którym AI zacznie ulepszać samo siebie. #anthropic #claude #sztucznainteligencja https://t.co/X0DmT6ADrk",
+      "author_id": "2053076116038983683",
+      "username": "bitcoinbizpl",
+      "name": "Bitcoin.biz.pl",
+      "created_at": "2026-06-06T04:46:28.000Z",
+      "conversation_id": "2063120315949973882",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 9,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/bitcoinbizpl/status/2063120315949973882/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "anthropic",
+        "claude",
+        "sztucznainteligencja"
+      ],
+      "tweet_url": "https://x.com/bitcoinbizpl/status/2063120315949973882"
+    },
+    {
+      "id": "2063120320609824947",
+      "text": "Anthropic pokazuje, jak szybko Claude przejmuje kodowanie i ostrzega przed momentem, w którym AI zacznie ulepszać samo siebie.\n#anthropic #claude #sztucznainteligencja\n\nhttps://t.co/LdLEW057iX",
+      "author_id": "2053076116038983683",
+      "username": "bitcoinbizpl",
+      "name": "Bitcoin.biz.pl",
+      "created_at": "2026-06-06T04:46:30.000Z",
+      "conversation_id": "2063120320609824947",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 11,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://bitcoin.biz.pl/wiadomosci/2026-06-06-06-37-anthropic-ostrzega-ai-moze-tworzyc-ai"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "anthropic",
+        "claude",
+        "sztucznainteligencja"
+      ],
+      "tweet_url": "https://x.com/bitcoinbizpl/status/2063120320609824947"
+    },
+    {
+      "id": "2061836687270092906",
+      "text": "ClaudeのAnthropicがIPO申請へ。\nhttps://t.co/hZuw0AonJV\n#Claude #Anthropic",
+      "author_id": "2022164837351276544",
+      "username": "sudara0213",
+      "name": "すーだら",
+      "created_at": "2026-06-02T15:45:47.000Z",
+      "conversation_id": "2061836687270092906",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 32,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://su-dara.hatenablog.com/entry/anthropic-ipo-claude-user-2026"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Claude",
+        "Anthropic"
+      ],
+      "tweet_url": "https://x.com/sudara0213/status/2061836687270092906"
+    },
+    {
+      "id": "2062097475054551055",
+      "text": "Anthropic just launched CLAUDE DESIGN — you can now co-create polished designs directly with Claude.\n\nUpgraded Opus model also dropped: stronger coding + deeper agentic reasoning.\n\nThe AI arms race is ACCELERATING. 🔥\n\nFollow @AIAutopsy for daily AI drops.\n\n#Anthropic #Claude #AI",
+      "author_id": "2061384375032569856",
+      "username": "AIAutopsy",
+      "name": "AIAutopsy",
+      "created_at": "2026-06-03T09:02:04.000Z",
+      "conversation_id": "2062097475054551055",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [
+        "AIAutopsy"
+      ],
+      "hashtags": [
+        "Anthropic",
+        "Claude",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/AIAutopsy/status/2062097475054551055"
+    },
+    {
+      "id": "2062368745029271722",
+      "text": "Anthropic added a CLI for Claude Platform.\n\nDevelopers can run API endpoints from the terminal, call the Messages API, stand up Claude Managed Agents, and pipe results straight into shell workflows.\n\n#Anthropic #Claude #DevTools https://t.co/NkT9SnaWmQ",
+      "author_id": "1908373485589803008",
+      "username": "AIToolJourney",
+      "name": "AI Tool Journey",
+      "created_at": "2026-06-04T03:00:00.000Z",
+      "conversation_id": "2062368745029271722",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 24,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/AIToolJourney/status/2062368745029271722/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude",
+        "DevTools"
+      ],
+      "tweet_url": "https://x.com/AIToolJourney/status/2062368745029271722"
+    },
+    {
+      "id": "2062529865749061860",
+      "text": "ANTHROPIC ENGINEER JUST REVEALED THE BIGGEST CLAUDE MISTAKE MOST PEOPLE MAKE\n\n\"You're not supposed to prompt Claude. You're supposed to build a system that prompts itself.\"\n\nMost users open Claude, type one prompt, get one answer.\n\nAnthropic engineers are running automated https://t.co/Upb55aSzSd",
+      "author_id": "1676317602941894657",
+      "username": "RodmanAi",
+      "name": "Leonard Rodman",
+      "created_at": "2026-06-04T13:40:14.000Z",
+      "conversation_id": "2062529865749061860",
+      "metrics": {
+        "likes": 89,
+        "retweets": 20,
+        "replies": 16,
+        "quotes": 1,
+        "impressions": 8754,
+        "bookmarks": 115
+      },
+      "urls": [
+        "https://x.com/RodmanAi/status/2062529865749061860/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/RodmanAi/status/2062529865749061860"
+    },
+    {
+      "id": "2062112371653410995",
+      "text": "Anthropic vient de faire ce que personne n'attendait avec Claude. Pendant que tout le monde regarde OpenAI et Google s'affronter, Claude Opus 4.8 change les règles du jeu avec des investissements qui redessinent la cours\n\n#Claude #Anthropic #CourseIA\n\nhttps://t.co/pfbqYxnPCZ https://t.co/QvdPjGmXQp",
+      "author_id": "723912806790209536",
+      "username": "ReservoirLive",
+      "name": "ReservoirLive",
+      "created_at": "2026-06-03T10:01:16.000Z",
+      "conversation_id": "2062112371653410995",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 23,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.reservoir.live/anthropic-vient-de-faire-ce-que-personne-nattendait-avec-claude/",
+        "https://x.com/ReservoirLive/status/2062112371653410995/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Claude",
+        "Anthropic",
+        "CourseIA"
+      ],
+      "tweet_url": "https://x.com/ReservoirLive/status/2062112371653410995"
+    },
+    {
+      "id": "2063703928374493212",
+      "text": "🚀 AI tool of the day:\n\n✨ Anthropic probes customer data leak claims after Friday Claude outage - Cybernews\n\nHere's everything you need to know 🧵👇\n\n#Anthropic #Claude",
+      "author_id": "1817555452689018880",
+      "username": "ainewsusa",
+      "name": "AI News",
+      "created_at": "2026-06-07T19:25:32.000Z",
+      "conversation_id": "2063703928374493212",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 3,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "tweet_url": "https://x.com/ainewsusa/status/2063703928374493212"
+    },
+    {
+      "id": "2063738287685079109",
+      "text": "🤯 Game-changing AI tool:\n\n✨ Anthropic (Claude) May Be the Only $1 Trillion IPO Worth Buying - Yahoo Finance\n\nHere's everything you need to know 🧵👇\n\n#Anthropic #Claude",
+      "author_id": "1817555452689018880",
+      "username": "ainewsusa",
+      "name": "AI News",
+      "created_at": "2026-06-07T21:42:04.000Z",
+      "conversation_id": "2063738287685079109",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 3,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "tweet_url": "https://x.com/ainewsusa/status/2063738287685079109"
+    },
+    {
+      "id": "2062599389869482065",
+      "text": "Anthropic CEO:\n\n“At Anthropic, we essentially have Claude designing the next version of Claude itself.”\n\nMeanwhile, Anthropic says every new model is given code that trains a small AI model and asked to make it faster. \n\nClaude Opus 4 achieved a 3x speedup. Mythos Preview reached https://t.co/iGBnOOgTOY https://t.co/UUZHF0DM7m",
+      "author_id": "1277585390254186496",
+      "username": "cgtwts",
+      "name": "CG",
+      "created_at": "2026-06-04T18:16:30.000Z",
+      "conversation_id": "2062599389869482065",
+      "metrics": {
+        "likes": 862,
+        "retweets": 89,
+        "replies": 99,
+        "quotes": 19,
+        "impressions": 340384,
+        "bookmarks": 337
+      },
+      "urls": [
+        "https://x.com/cgtwts/status/2062599389869482065/video/1",
+        "https://twitter.com/anthropicai/status/2062568862479208923"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/cgtwts/status/2062599389869482065"
+    },
+    {
+      "id": "2063550842238619723",
+      "text": "bro this tool is free and insane:\n\n✨ Making Claude a chemist - Anthropic\n\nquick breakdown 🧵\n\n#Anthropic #Claude",
+      "author_id": "1896894639958859776",
+      "username": "notreal_dreams",
+      "name": "Not Real Dreams",
+      "created_at": "2026-06-07T09:17:14.000Z",
+      "conversation_id": "2063550842238619723",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "tweet_url": "https://x.com/notreal_dreams/status/2063550842238619723"
+    },
+    {
+      "id": "2063705131682512910",
+      "text": "found an AI tool that's lowkey amazing:\n\n✨ Anthropic probes customer data leak claims after Friday Claude outage - Cybernews\n\nquick breakdown 🧵\n\n#Anthropic #Claude",
+      "author_id": "1896894639958859776",
+      "username": "notreal_dreams",
+      "name": "Not Real Dreams",
+      "created_at": "2026-06-07T19:30:19.000Z",
+      "conversation_id": "2063705131682512910",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 2,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "tweet_url": "https://x.com/notreal_dreams/status/2063705131682512910"
+    },
+    {
+      "id": "2062308822530560334",
+      "text": "【Anthropic最新情報まとめ】Claude Partner Networkに新機能、AIサイバー脅威レポート公開、Claude Cowork活用術など盛りだくさんの6月3日アップデートを解説 #Claude #Anthropic https://t.co/6enLvBY8x8",
+      "author_id": "2035541856319385601",
+      "username": "algo_kun",
+      "name": "algo_kun｜元トレーダー×AIエンジニア",
+      "created_at": "2026-06-03T23:01:53.000Z",
+      "conversation_id": "2062308822530560334",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 142,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://algo-kun.hatenablog.com/entry/2026/06/04/080153"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Claude",
+        "Anthropic"
+      ],
+      "tweet_url": "https://x.com/algo_kun/status/2062308822530560334"
+    },
+    {
+      "id": "2062094436700733945",
+      "text": "🤖 Anthropic Files for IPO, Nears $1 Trillion Valuation\n\nAI startup Anthropic, creator of Claude, has confidentially filed for a U.S. IPO after recently raising $65 billion at a $965 billion valuation, becoming the first major public AI company.\n#Anthropic #IPO #AI #Claude #Tech https://t.co/6lmYMWkrnZ",
+      "author_id": "2051188133627154432",
+      "username": "SameerInsights",
+      "name": "Sameer Khatri",
+      "created_at": "2026-06-03T08:50:00.000Z",
+      "conversation_id": "2062094436700733945",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 38,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/SameerInsights/status/2062094436700733945/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "IPO",
+        "AI",
+        "Claude",
+        "Tech"
+      ],
+      "tweet_url": "https://x.com/SameerInsights/status/2062094436700733945"
+    },
+    {
+      "id": "2062296514840645981",
+      "text": "Claude vs ChatGPT: Anthropic is King again but only Max Mode\n\nToday, I switched back to claude-opus-4.8-thinking-max from gpt-5.5-extra-high. Claude Max has performance which is reminiscent of the lead Anthropic had on ChatGPT this year for coding and debugging. \n\n1.",
+      "author_id": "801548402387468288",
+      "username": "jiahanjimliu",
+      "name": "Jim Liu",
+      "created_at": "2026-06-03T22:12:59.000Z",
+      "conversation_id": "2062296514840645981",
+      "metrics": {
+        "likes": 33,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "impressions": 5776,
+        "bookmarks": 3
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/jiahanjimliu/status/2062296514840645981"
+    },
+    {
+      "id": "2062634430028767705",
+      "text": "🚨 Anthropic says Claude is now outperforming human researchers on key decision-making tasks!\n \nThe company's research institute published a detailed look this week at how much of their own AI development is now being driven by Claude itself.\n \nHere's what the data shows: https://t.co/EkXulTuBcF",
+      "author_id": "1318985240",
+      "username": "DataScienceDojo",
+      "name": "Data Science Dojo",
+      "created_at": "2026-06-04T20:35:44.000Z",
+      "conversation_id": "2062634430028767705",
+      "metrics": {
+        "likes": 10,
+        "retweets": 6,
+        "replies": 2,
+        "quotes": 0,
+        "impressions": 1828,
+        "bookmarks": 1
+      },
+      "urls": [
+        "https://twitter.com/anthropicai/status/2062568870872003021"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/DataScienceDojo/status/2062634430028767705"
+    },
+    {
+      "id": "2063674176523673792",
+      "text": "bro this tool is free and insane:\n\n✨ Anthropic says something unsettling has been happening to Claude - Yahoo Finance UK\n\nquick breakdown 🧵\n\n#Anthropic #Claude",
+      "author_id": "1896894639958859776",
+      "username": "notreal_dreams",
+      "name": "Not Real Dreams",
+      "created_at": "2026-06-07T17:27:19.000Z",
+      "conversation_id": "2063674176523673792",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 3,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "tweet_url": "https://x.com/notreal_dreams/status/2063674176523673792"
+    },
+    {
+      "id": "2063591470678888913",
+      "text": "🛠️ AI tool you need to know:\n\n✨ Anthropic says something unsettling has been happening to Claude - Yahoo Finance UK\n\nHere's everything you need to know 🧵👇\n\n#Anthropic #Claude",
+      "author_id": "1817555452689018880",
+      "username": "ainewsusa",
+      "name": "AI News",
+      "created_at": "2026-06-07T11:58:40.000Z",
+      "conversation_id": "2063591470678888913",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "tweet_url": "https://x.com/ainewsusa/status/2063591470678888913"
+    },
+    {
+      "id": "2063909946501042308",
+      "text": "🤖Anthropic says Claude now writes 80% of the company’s code.\n\n✅ Development is reportedly 8x faster\n✅ Engineers spend more time reviewing than coding\n✅ One of the clearest signs of AI accelerating AI development\n\nThe feedback loop is getting real.\n\n#AI #Anthropic #Claude https://t.co/npOOY1OXQA",
+      "author_id": "2062961344295395328",
+      "username": "datcor_online",
+      "name": "Datcor",
+      "created_at": "2026-06-08T09:04:11.000Z",
+      "conversation_id": "2063909946501042308",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 0,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/datcor_online/status/2063909946501042308/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "Anthropic",
+        "Claude"
+      ],
+      "tweet_url": "https://x.com/datcor_online/status/2063909946501042308"
+    },
+    {
+      "id": "2062168063102038088",
+      "text": "AnthropicがClaudeパートナーネットワークを強化🦢 3段階ティア制度（Select/Preferred/Global Premier）とパートナーハブを導入。Accenture・Deloitte・PwCも参加し、億投資でClaudeエコシステムが急拡大中。 #Anthropic #Claude #AI",
+      "author_id": "2054206140100251648",
+      "username": "hakosagi04",
+      "name": "hakosagi",
+      "created_at": "2026-06-03T13:42:34.000Z",
+      "conversation_id": "2062168063102038088",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 4,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/hakosagi04/status/2062168063102038088"
+    },
+    {
+      "id": "2063846334671593501",
+      "text": "ANTHROPIC 🔥: رصد نموذج جديد باسم Claude Mythos 5!\n\nتم اكتشاف اسم Claude Mythos 5 داخل وضع المطور (Dev Mode)، ما يشير إلى أن Anthropic قد تستعد لإطلاق فئة نماذج جديدة بالكامل.\n\nالمثير أن Mythos قد ينضم إلى عائلات Claude الحالية:\n\n• Haiku\n• Sonnet\n• Opus\n• Mythos (الجديد)\n\nحتى https://t.co/oA6nM5LkZn",
+      "author_id": "291307557",
+      "username": "SultanAlFardan",
+      "name": "سلطان الفردان",
+      "created_at": "2026-06-08T04:51:25.000Z",
+      "conversation_id": "2063846334671593501",
+      "metrics": {
+        "likes": 10,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 2457,
+        "bookmarks": 3
+      },
+      "urls": [
+        "https://x.com/SultanAlFardan/status/2063846334671593501/photo/1",
+        "https://x.com/SultanAlFardan/status/2063846334671593501/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/SultanAlFardan/status/2063846334671593501"
+    },
+    {
+      "id": "2063051773905101255",
+      "text": "Claude writes 80% of Anthropic code- unbelievable.  \n\nAnthropic officially disclosed that as of May 2026, more than 80% of the code merged into their production codebase is authored by Claude. https://t.co/ma4tH31Y0k",
+      "author_id": "1300522976446619648",
+      "username": "SmindCrypto",
+      "name": "CryptoSmind",
+      "created_at": "2026-06-06T00:14:07.000Z",
+      "conversation_id": "2063051773905101255",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 33,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://twitter.com/BullTheoryio/status/2062914781233954822"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/SmindCrypto/status/2063051773905101255"
+    },
+    {
+      "id": "2063812888645795942",
+      "text": "Best accounts to follow from each frontier lab to stay constantly up to date\n\nAnthropic\n\n@karpathy\n - must-follow account for AI; recently joined Anthropic\n\n@bcherny\n - Claude Code creator, always shares great tips\n\n@trq212\n - also a Claude Code developer; writes amazing articles https://t.co/fum6We1qri",
+      "author_id": "2009204818376876032",
+      "username": "ai_explorer25",
+      "name": "AI_Explorer",
+      "created_at": "2026-06-08T02:38:31.000Z",
+      "conversation_id": "2063812888645795942",
+      "metrics": {
+        "likes": 171,
+        "retweets": 37,
+        "replies": 13,
+        "quotes": 1,
+        "impressions": 20781,
+        "bookmarks": 194
+      },
+      "urls": [
+        "https://x.com/ai_explorer25/status/2063812888645795942/photo/1",
+        "https://x.com/ai_explorer25/status/2063812888645795942/photo/1",
+        "https://x.com/ai_explorer25/status/2063812888645795942/photo/1",
+        "https://x.com/ai_explorer25/status/2063812888645795942/photo/1"
+      ],
+      "mentions": [
+        "karpathy",
+        "bcherny",
+        "trq212"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/ai_explorer25/status/2063812888645795942"
+    },
+    {
+      "id": "2061483445918855557",
+      "text": "🚨 Anthropic les développeurs de \"Claude IA\" déposent confidentiellement pour une introduction en bourse.\n\n#Claude #Anthropic #IPO https://t.co/5zcVBhqj5d",
+      "author_id": "2040420534240841728",
+      "username": "SamirGandhix",
+      "name": "Samir Gandhi",
+      "created_at": "2026-06-01T16:22:08.000Z",
+      "conversation_id": "2061483445918855557",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 38,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/SamirGandhix/status/2061483445918855557/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Claude",
+        "Anthropic",
+        "IPO"
+      ],
+      "tweet_url": "https://x.com/SamirGandhix/status/2061483445918855557"
+    },
+    {
+      "id": "2063507506110885942",
+      "text": "شراكة جديدة بين بيزنس سبايك و شركة Anthropic ( Claude).\n\nننفخر بالإعلان عن انضمام Business Spike إلى Claude Partner Network التابعة لشركة Anthropic، إحدى الشركات الرائدة عالميًا في مجال الذكاء الاصطناعي وصاحبة منصة Claude AI.\n\nهذه مجرد بداية لمرحلة جديدة من النمو والابتكار. https://t.co/MmiHfpqgSb",
+      "author_id": "1701194085137080320",
+      "username": "business_spike",
+      "name": "Business Spike",
+      "created_at": "2026-06-07T06:25:02.000Z",
+      "conversation_id": "2063507506110885942",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 22,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/business_spike/status/2063507506110885942/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/business_spike/status/2063507506110885942"
+    },
+    {
+      "id": "2061808393958928598",
+      "text": "Claude bude mít infrastrukturu v Evropě, Anthropic a Amazon rozšiřují spolupráci / Článek se zaměřuje na rozšíření infrastruktury Claude prostřednictvím AWS...\nhttps://t.co/7tI7IE2w0M\n#GEM #IT #AI #ArtificialIntelligence #Claude #Anthropic #AWS #EnterpriseAI #GenerativniAI https://t.co/luoEyOElcN",
+      "author_id": "973525806747144192",
+      "username": "GEM_System_IT",
+      "name": "GEM System a.s.",
+      "created_at": "2026-06-02T13:53:22.000Z",
+      "conversation_id": "2061808393958928598",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 57,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://www.channeltrends.cz/clanky/claude-bude-mit-infrastrukturu-v-evrope-anthropic-a-amazon-rozsiruji-spolupraci/",
+        "https://x.com/GEM_System_IT/status/2061808393958928598/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "GEM",
+        "IT",
+        "AI",
+        "ArtificialIntelligence",
+        "Claude",
+        "Anthropic",
+        "AWS",
+        "EnterpriseAI",
+        "GenerativniAI"
+      ],
+      "tweet_url": "https://x.com/GEM_System_IT/status/2061808393958928598"
+    },
+    {
+      "id": "2061987785024909580",
+      "text": "我不喜欢 Anthropic\n但 OMG，Anthropic 给 Claude 宣传片和 Claude FM 选的 BGM 品味也太好了吧 https://t.co/KcUWaX53vP",
+      "author_id": "1160557583138033665",
+      "username": "Black201_wav",
+      "name": "桃罐/Black201",
+      "created_at": "2026-06-03T01:46:12.000Z",
+      "conversation_id": "2061987785024909580",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 435,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://twitter.com/ClaudeDevs/status/2061877343078244459"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/Black201_wav/status/2061987785024909580"
+    },
+    {
+      "id": "2063160905894862997",
+      "text": "Anthropic launches Services Track &amp; Partner Hub to connect enterprises with certified service providers for deploying Claude at scale. \nFind vetted partners to accelerate your AI adoption.\n\n#AI #Anthropic #Claude #EnterpriseAI",
+      "author_id": "1722264367230844928",
+      "username": "HsineGh",
+      "name": "Ghassen Hassine",
+      "created_at": "2026-06-06T07:27:46.000Z",
+      "conversation_id": "2063160905894862997",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 23,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "EnterpriseAI"
+      ],
+      "tweet_url": "https://x.com/HsineGh/status/2063160905894862997"
+    },
+    {
+      "id": "2061718700500422939",
+      "text": "Claude AI Expands Enterprise Push As Anthropic Unveils New Models and Prepares for IPO\n\nhttps://t.co/kxgTaroVEq\n\n#ClaudeAI #Claude #Anthropic #ClaudeAIIPO",
+      "author_id": "828841083257778176",
+      "username": "latestly",
+      "name": "LatestLY",
+      "created_at": "2026-06-02T07:56:57.000Z",
+      "conversation_id": "2061718700500422939",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 143,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.latestly.com/technology/claude-ai-expands-enterprise-push-as-anthropic-unveils-new-models-and-prepares-for-ipo-7455836.html"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "ClaudeAI",
+        "Claude",
+        "Anthropic",
+        "ClaudeAIIPO"
+      ],
+      "tweet_url": "https://x.com/latestly/status/2061718700500422939"
+    },
+    {
+      "id": "2062662573879599513",
+      "text": "Anthropic builds Claude security across 3 layers: training-level constraints, operator configuration, and agentic containment principles.\n\n#technology #aisafety #anthropic #claude #containmentengineering #developer\n\nhttps://t.co/tuhQa2VarN https://t.co/bs81BmwKbW",
+      "author_id": "213916083",
+      "username": "radarkilat",
+      "name": "︎ ︎Radar Kilat",
+      "created_at": "2026-06-04T22:27:34.000Z",
+      "conversation_id": "2062662573879599513",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 5619,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://radarkilat.com/en/article/anthropic-s-containment-engineering-for-safe-claude-integration",
+        "https://x.com/radarkilat/status/2062662573879599513/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "technology",
+        "aisafety",
+        "anthropic",
+        "claude",
+        "containmentengineering",
+        "developer"
+      ],
+      "tweet_url": "https://x.com/radarkilat/status/2062662573879599513"
+    },
+    {
+      "id": "2063304917159199059",
+      "text": "Έκκληση της Anthropic (Claude) για «φρένο» στο AI λόγω της υπερβολικά γρήγορης εξέλιξής του \n\n#Anthropic #Claude #AI #Alert #Global #Slowdown #Development #Risk #Danger #Technology #Tech #Τεχνητη #Νοημοσυνη #Συναγερμος #Παυση #Κινδυνος #Ρισκο #Τεχνολογια \n\nhttps://t.co/SwHO3etFvj",
+      "author_id": "1095387898285867013",
+      "username": "internalgr",
+      "name": "internal.gr",
+      "created_at": "2026-06-06T17:00:01.000Z",
+      "conversation_id": "2063304917159199059",
+      "metrics": {
+        "likes": 2,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 19,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://internal.gr/ekklisi-tis-anthropic-claude-gia-freno-sto-ai-logo-tis-ypervolika-grigoris-exelixis-toy/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude",
+        "AI",
+        "Alert",
+        "Global",
+        "Slowdown",
+        "Development",
+        "Risk",
+        "Danger",
+        "Technology",
+        "Tech",
+        "Τεχνητη",
+        "Νοημοσυνη",
+        "Συναγερμος",
+        "Παυση",
+        "Κινδυνος",
+        "Ρισκο",
+        "Τεχνολογια"
+      ],
+      "tweet_url": "https://x.com/internalgr/status/2063304917159199059"
+    },
+    {
+      "id": "2062655724849906152",
+      "text": "🔥 FREE Claude Code\nUse Claude Code CLI + VSCode for free.\nNo Anthropic API key required.\n① free Claude Code workflow\n② no Anthropic API key needed\n③ works with NIM, OpenRouter, DeepSeek, LM Studio, llama.cpp, Ollama\n④ cheaper way to run AI coding locally or through https://t.co/zMdkq9UO0M",
+      "author_id": "1987201646276059142",
+      "username": "btvdev03",
+      "name": "Võ Tấn Bản",
+      "created_at": "2026-06-04T22:00:21.000Z",
+      "conversation_id": "2062655724849906152",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 49,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/btvdev03/status/2062655724849906152/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/btvdev03/status/2062655724849906152"
+    },
+    {
+      "id": "2061499279974281668",
+      "text": "Anthropic, the AI company behind Claude, has confidentially filed for an IPO after a $65B funding round, valuing it at $965B. This move positions Anthropic alongside competitors like OpenAI in the rapidly evolving AI industry.\n\n#Anthropic #AI #IPO #Claude #TechNews #OpenAI https://t.co/1kNtPMQ70Y",
+      "author_id": "1744740925593776128",
+      "username": "dailytechonx",
+      "name": "The Daily Tech Feed",
+      "created_at": "2026-06-01T17:25:03.000Z",
+      "conversation_id": "2061499279974281668",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 23,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/dailytechonx/status/2061499279974281668/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "AI",
+        "IPO",
+        "Claude",
+        "TechNews",
+        "OpenAI"
+      ],
+      "tweet_url": "https://x.com/dailytechonx/status/2061499279974281668"
+    },
+    {
+      "id": "2063258680498565354",
+      "text": "【Anthropic新発表】Claude Partner Hub 始動。Accenture3万人・Deloitte47万人がClaude導入研修中、$100M投資＋個人認定1万人超。AI副業は「使う側」から「導入設計する側」へ。 #Anthropic #Claude",
+      "author_id": "132016767",
+      "username": "ai_kairos_jp",
+      "name": "50代AIで人生再設計｜稼げる副業設計図",
+      "created_at": "2026-06-06T13:56:17.000Z",
+      "conversation_id": "2063258680498565354",
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 1430,
+        "bookmarks": 4
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "tweet_url": "https://x.com/ai_kairos_jp/status/2063258680498565354"
+    },
+    {
+      "id": "2062608948507627626",
+      "text": "Anthropic have definitely blown up the headlines this week: \n\n- AI is accelerating AI development \n- Claude writes 80% of code at Anthropic \n- Engineers at Anthropic are shipping x8 more code per quarter than they did between 2021-2024\n- Claude is on par with humans at writing https://t.co/yQi5OFS0GB",
+      "author_id": "1229494143342301184",
+      "username": "Onwuta_Kelvin",
+      "name": "Kelvin09",
+      "created_at": "2026-06-04T18:54:29.000Z",
+      "conversation_id": "2062608948507627626",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 31,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/Onwuta_Kelvin/status/2062608948507627626/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/Onwuta_Kelvin/status/2062608948507627626"
+    },
+    {
+      "id": "2063141020993540601",
+      "text": "Claude開発元・Anthropic「AIの自己進化が始まった。世界はAI開発を一旦止めるべき」\nhttps://t.co/2NLhYkcPmx\n\n#Claude #Anthropic #AI",
+      "author_id": "724198593368748032",
+      "username": "newsoku_blog",
+      "name": "NEWSOKU BLOG（ニュー速ブログ）",
+      "created_at": "2026-06-06T06:08:45.000Z",
+      "conversation_id": "2063141020993540601",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 20,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://newsoku.blog/archives/205998"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Claude",
+        "Anthropic",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/newsoku_blog/status/2063141020993540601"
+    },
+    {
+      "id": "2061761143312687365",
+      "text": "🤖 SBI GROUP PARTNERS WITH ANTHROPIC TO DEPLOY CLAUDE ACROSS ALL EMPLOYEES — CO-DEVELOPS SECURITY TOOL \"CLAUDE SECURITY\"\n\n🧠 SBI Group, a leading Japanese financial conglomerate, has officially partnered with 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 to deploy 𝐂𝐥𝐚𝐮𝐝𝐞 across all 𝟓𝟎,𝟎𝟎𝟎",
+      "author_id": "1820744485967720448",
+      "username": "ECLresearch",
+      "name": "Eclipse 🌖",
+      "created_at": "2026-06-02T10:45:36.000Z",
+      "conversation_id": "2061761075641774218",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 15,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/ECLresearch/status/2061761143312687365"
+    },
+    {
+      "id": "2061516484313055259",
+      "text": "Is Claude / Anthropic AI down for you as well? #Claude #ClaudeAI #Anthropic #ClaudeDown https://t.co/4eJpdiL016",
+      "author_id": "180687225",
+      "username": "status_is_down",
+      "name": "StatusIsDown",
+      "created_at": "2026-06-01T18:33:25.000Z",
+      "conversation_id": "2061516484313055259",
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "impressions": 1354,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://community.designtaxi.com/topic/29917-is-claude-anthropic-ai-down-june-1-2026/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Claude",
+        "ClaudeAI",
+        "Anthropic",
+        "ClaudeDown"
+      ],
+      "tweet_url": "https://x.com/status_is_down/status/2061516484313055259"
+    },
+    {
+      "id": "2062160944642285578",
+      "text": "ANTHROPIC LAUNCHES SERVICES TRACK &amp; PARTNER HUB FOR CLAUDE\n\nAnthropic just rolled out two new features for its Claude Partner Network: Services Track and Partner Hub. $MSFT $GOOG $GOOGL $AMZN",
+      "author_id": "185663478",
+      "username": "CHItrader",
+      "name": "CHItrader",
+      "created_at": "2026-06-03T13:14:16.000Z",
+      "conversation_id": "2062160944642285578",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 357,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/CHItrader/status/2062160944642285578"
+    },
+    {
+      "id": "2062664210207973782",
+      "text": "1️⃣ Anthropic「Dynamic Workflows」— Claude Code が自前の harness を書き、並列サブエージェントを束ねる\n\nAnthropic が Claude Code に「Dynamic Workflows」を投入した。Claude がタスクごとにその場で独自の JavaScript harness https://t.co/1ZRTt9q3Eu",
+      "author_id": "1017947753480007680",
+      "username": "rsensui",
+      "name": "泉水亮介 │ 大学でVibe Codingを教えてます。",
+      "created_at": "2026-06-04T22:34:04.000Z",
+      "conversation_id": "2062664182923927574",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 159,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/rsensui/status/2062664210207973782/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/rsensui/status/2062664210207973782"
+    },
+    {
+      "id": "2062067772192870679",
+      "text": "🚨 Anthropic, Claude API İçin Resmi CLI Aracını Yayınladı\n\nAnthropic, Claude API’ye erişimi doğrudan terminal üzerinden sağlayan yeni komut satırı aracını duyurdu.\n\nYeni CLI sayesinde geliştiriciler, Claude’un tüm API uç noktalarına ek arayüzlere ihtiyaç duymadan doğrudan",
+      "author_id": "2021688251560734720",
+      "username": "thebitig",
+      "name": "The Bitig",
+      "created_at": "2026-06-03T07:04:02.000Z",
+      "conversation_id": "2062067772192870679",
+      "metrics": {
+        "likes": 7,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 171,
+        "bookmarks": 4
+      },
+      "urls": [
+        "https://x.com/ClaudeDevs/status/2061877343078244459/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/thebitig/status/2062067772192870679"
+    },
+    {
+      "id": "2063044054137577958",
+      "text": "Anthropic Doubles Claude Cowork Limits! Mythos Preview Incoming #Claude #Anthropic #AI\nAnthropic just announced: Claude Cowork usage https://t.co/HRXyrgdzfc",
+      "author_id": "2042605542556700672",
+      "username": "nanbei0892",
+      "name": "王兴芳",
+      "created_at": "2026-06-05T23:43:26.000Z",
+      "conversation_id": "2063044054137577958",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 31,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/nanbei0892/status/2063044054137577958/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Claude",
+        "Anthropic",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/nanbei0892/status/2063044054137577958"
+    },
+    {
+      "id": "2063418952831975662",
+      "text": "ANTHROPIC VỪA TIẾT LỘ CLAUDE SKILLS — TỐI ƯU HÓA TƯƠNG TÁC AI\n\n🧠 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 phát hành bộ hướng dẫn 𝐂𝐥𝐚𝐮𝐝𝐞 𝐒𝐤𝐢𝐥𝐥𝐬 dưới dạng file markdown, tập trung vào kỹ thuật 𝐩𝐫𝐨𝐦𝐩𝐭 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 và quản lý ngữ cảnh cho mô hình 𝐂𝐥𝐚𝐮𝐝𝐞 https://t.co/TlaQBSQKG3",
+      "author_id": "1820744485967720448",
+      "username": "ECLresearch",
+      "name": "Eclipse 🌖",
+      "created_at": "2026-06-07T00:33:09.000Z",
+      "conversation_id": "2063418952831975662",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 28,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/ECLresearch/status/2063418952831975662/video/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/ECLresearch/status/2063418952831975662"
+    },
+    {
+      "id": "2062187551583301711",
+      "text": "Anthropic is expanding Project Glasswing.\n\nClaude Mythos Preview will reach about 150 new organizations, helping critical-infrastructure teams scan codebases, triage vulnerabilities, and move toward AI-assisted patching.\n\n#Anthropic #Claude #Cybersecurity https://t.co/dlepAmhmuz",
+      "author_id": "1908373485589803008",
+      "username": "AIToolJourney",
+      "name": "AI Tool Journey",
+      "created_at": "2026-06-03T15:00:00.000Z",
+      "conversation_id": "2062187551583301711",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 22,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/AIToolJourney/status/2062187551583301711/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude",
+        "Cybersecurity"
+      ],
+      "tweet_url": "https://x.com/AIToolJourney/status/2062187551583301711"
+    },
+    {
+      "id": "2062220172761378983",
+      "text": "@monkscript Just use anthropic nodes inside n8n\n\nYou don't wire claude chat interface up to n8n.\n\nYou can use claude to get the n8n build, but you use the n8n anthropic nodes",
+      "author_id": "2968471852",
+      "username": "IAmAaronWill",
+      "name": "Aaron",
+      "created_at": "2026-06-03T17:09:38.000Z",
+      "conversation_id": "2062134159812722733",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 32,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [
+        "monkscript"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/IAmAaronWill/status/2062220172761378983"
+    },
+    {
+      "id": "2063732694584840572",
+      "text": "bro this tool is free and insane:\n\n✨ Anthropic (Claude) May Be the Only $1 Trillion IPO Worth Buying - Yahoo Finance\n\nquick breakdown 🧵\n\n#Anthropic #Claude",
+      "author_id": "1896894639958859776",
+      "username": "notreal_dreams",
+      "name": "Not Real Dreams",
+      "created_at": "2026-06-07T21:19:51.000Z",
+      "conversation_id": "2063732694584840572",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 3,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "tweet_url": "https://x.com/notreal_dreams/status/2063732694584840572"
+    },
+    {
+      "id": "2063802470489641233",
+      "text": "🚨 Anthropic just dropped major Claude updates, and the AI race is getting more intense.\n\nHere's everything you need to know 🧵👇\n\n1/ Claude Opus 4.8 is now available.\n\nAnthropic says it's their most transparent model yet, designed to admit uncertainty instead of confidently https://t.co/gjmJSRkcJW",
+      "author_id": "2028756529227481088",
+      "username": "surajtechbit",
+      "name": "Mr. Suraj Kumar",
+      "created_at": "2026-06-08T01:57:07.000Z",
+      "conversation_id": "2063802470489641233",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 84,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/surajtechbit/status/2063802470489641233/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/surajtechbit/status/2063802470489641233"
+    },
+    {
+      "id": "2062617932169900500",
+      "text": "🤖 𝗔𝗻𝘁𝗵𝗿𝗼𝗽𝗶𝗰 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗥𝗲𝘃𝗲𝗮𝗹𝘀 𝗖𝗹𝗮𝘂𝗱𝗲 𝗪𝗿𝗼𝘁𝗲 𝟴𝟬% 𝗼𝗳 𝗜𝘁𝘀 𝗖𝗼𝗱𝗲, 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 𝟴𝘅 𝗠𝗼𝗿𝗲 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗲\n\nMore than 80% of Anthropic's merged code is now written by Claude. Engineers ship 8x more code per day than in 2024. https://t.co/i7VPSoIREg",
+      "author_id": "1830607756937588736",
+      "username": "GenAISpotlight",
+      "name": "Gen AI Spotlight",
+      "created_at": "2026-06-04T19:30:11.000Z",
+      "conversation_id": "2062617932169900500",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 13,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/GenAISpotlight/status/2062617932169900500/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/GenAISpotlight/status/2062617932169900500"
+    },
+    {
+      "id": "2063749500511113606",
+      "text": "@AndrewRHarvey @juliarturc Anthropic even gave him a fancy marketing title \"Claude Code Creator\" as if no one else contributed to Claude code at Anthropic. That is disrespectful for other team members",
+      "author_id": "1311722216996790272",
+      "username": "__Simar_",
+      "name": "Simranjeet Singh",
+      "created_at": "2026-06-07T22:26:38.000Z",
+      "conversation_id": "2063717767992451184",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 21,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [
+        "AndrewRHarvey",
+        "juliarturc"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/__Simar_/status/2063749500511113606"
+    },
+    {
+      "id": "2063782702789111916",
+      "text": "@capitaobbmp @TextoCriativo Ei! Resumo do **Claude Code** (Boris/Anthropic):\n\nInstale: `npm install -g anthropic-ai/claude-code` → rode `claude` na pasta.\n\n**Como usar:**\n- Comece perguntando sobre o código (Q&amp;A + git history).\n- Crie **CLAUDE.md** na raiz com contexto, estilo e comandos (lido",
+      "author_id": "1720665183188922368",
+      "username": "grok",
+      "name": "Grok",
+      "created_at": "2026-06-08T00:38:34.000Z",
+      "conversation_id": "2063587581082693861",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 68,
+        "bookmarks": 1
+      },
+      "urls": [],
+      "mentions": [
+        "capitaobbmp",
+        "TextoCriativo"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/grok/status/2063782702789111916"
+    },
+    {
+      "id": "2061827542282363008",
+      "text": "⚡  Anthropic brings Claude Mythos to power grids and hospitals worldwide\n\nAnthropic expands Claude Mythos to protect critical infrastructure across 15 countries.\n\n#AI #Cybersecurity #Anthropic\n\n➡️ See what the AI just did 👇\n\nhttps://t.co/jpRulXiABQ",
+      "author_id": "2043945385438105600",
+      "username": "NewsXF",
+      "name": "NewsX",
+      "created_at": "2026-06-02T15:09:27.000Z",
+      "conversation_id": "2061827542282363008",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 52,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "AI",
+        "Cybersecurity",
+        "Anthropic"
+      ],
+      "tweet_url": "https://x.com/NewsXF/status/2061827542282363008"
+    },
+    {
+      "id": "2063236955018571979",
+      "text": "Anthropic says Claude is accelerating its own development: 80% of code in May was AI-written. \nThe lab warns recursive self-improvement could arrive sooner than institutions are prepared for, though the future isn't guaranteed.\n\n#Anthropic #Claude #AI",
+      "author_id": "1722264367230844928",
+      "username": "HsineGh",
+      "name": "Ghassen Hassine",
+      "created_at": "2026-06-06T12:29:57.000Z",
+      "conversation_id": "2063236955018571979",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 28,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Anthropic",
+        "Claude",
+        "AI"
+      ],
+      "tweet_url": "https://x.com/HsineGh/status/2063236955018571979"
+    },
+    {
+      "id": "2063827641422299312",
+      "text": "🤖 THE FUTURE OF CLAUDE ACCORDING TO ANTHROPIC — CEO AMODEI REVEALS THE DEVELOPMENT ROADMAP\n\n🧠 Amodei confirmed that 𝐂𝐥𝐚𝐮𝐝𝐞 will integrate multi-step planning capabilities and real-time information retrieval in the upcoming update.\n\n⚙️ Internal data shows that 𝐂𝐥𝐚𝐮𝐝𝐞",
+      "author_id": "1820744485967720448",
+      "username": "ECLresearch",
+      "name": "Eclipse 🌖",
+      "created_at": "2026-06-08T03:37:08.000Z",
+      "conversation_id": "2063827561994682762",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 13,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/ECLresearch/status/2063827641422299312"
+    },
+    {
+      "id": "2061752733531886040",
+      "text": "Anthropic ผู้สร้าง Claude ยื่นเอกสารเตรียม IPO เข้าตลาดหุ้น 🚀 การระดมทุนรอบนี้น่าจะทำให้สงคราม AI เดือดขึ้นไปอีกสเตป ใครที่ติดตามเทคโนโลยีฝั่งนี้อยู่ น่าจะเป็นหุ้น AI ที่นักลงทุนแย่งกันดุเดือดแน่นอน รอจับตามองมูลค่าบริษัทตอนเปิดตัว #IPO  #Claude #Anthropic https://t.co/Kmdum5bzlw",
+      "author_id": "84057848",
+      "username": "nOnSnOoP",
+      "name": "Khunnon~*",
+      "created_at": "2026-06-02T10:12:11.000Z",
+      "conversation_id": "2061752733531886040",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 160,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://twitter.com/AnthropicAI/status/2061478052257841495"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "IPO",
+        "Claude",
+        "Anthropic"
+      ],
+      "tweet_url": "https://x.com/nOnSnOoP/status/2061752733531886040"
+    },
+    {
+      "id": "2062228247019184462",
+      "text": "🧠 [Claude Opus 4.8 drops — Anthropic's double play] Opus 4.8 hit HN #1 at 1554 points. Same day Anthropic hit $965B valuation, passing OpenAI. Product and capital in 24 hours. #Claude #Anthropic https://t.co/ShBHqY1WCG",
+      "author_id": "1014339553438531584",
+      "username": "GPLPCN",
+      "name": "GPLP",
+      "created_at": "2026-06-03T17:41:43.000Z",
+      "conversation_id": "2062228247019184462",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 15,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://x.com/GPLPCN/status/2062228247019184462/photo/1"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Claude",
+        "Anthropic"
+      ],
+      "tweet_url": "https://x.com/GPLPCN/status/2062228247019184462"
+    },
+    {
+      "id": "2061594365450199118",
+      "text": "Claude Opus 4.8がAI Intelligenceベンチマーク首位（61.4点）。GPT-5.5を抑えAnthropicが総合トップ維持。Claude Codeに2.5倍高速・3倍低コストのファストモードも追加 🚀\n\nhttps://t.co/so6M11whwg\n#Claude #Anthropic #AIモデル",
+      "author_id": "2025931662639722496",
+      "username": "neural_nw_ai",
+      "name": "ttfr ai トレンド",
+      "created_at": "2026-06-01T23:42:53.000Z",
+      "conversation_id": "2061594365450199118",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 47,
+        "bookmarks": 0
+      },
+      "urls": [
+        "https://www.anthropic.com/news/claude-opus-4-8"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "Claude",
+        "Anthropic",
+        "AIモデル"
+      ],
+      "tweet_url": "https://x.com/neural_nw_ai/status/2061594365450199118"
+    }
+  ]
+}

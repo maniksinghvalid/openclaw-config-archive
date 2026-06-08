@@ -20,16 +20,24 @@ For X API details (endpoints, operators, response format): see the [X API v2 doc
 
 ## CLI Tool
 
-All commands run from this skill directory:
+The CLI is installed as `x-search` on the bun PATH, so commands run from **any** directory:
 
 ```bash
-cd /home/claw/.openclaw/workspace/skills/x-research
+x-search search "<query>" [options]
 ```
+
+If `which x-search` comes up empty (e.g. after a host rebuild), reinstall the wrapper:
+
+```bash
+bash /home/claw/.openclaw/workspace/skills/x-research/install.sh
+```
+
+The wrapper just execs the script by absolute path; the script resolves its `.env`, cache, and watchlist via `import.meta.dir`, so it is fully cwd-independent. (Invoking the `.ts` file directly from this skill dir also still works.)
 
 ### Search
 
 ```bash
-bun run x-search.ts search "<query>" [options]
+x-search search "<query>" [options]
 ```
 
 **Options:**
@@ -51,15 +59,15 @@ Auto-adds `-is:retweet` unless query already includes it. All searches display e
 
 **Examples:**
 ```bash
-bun run x-search.ts search "AI agents" --quality --quick
-bun run x-search.ts search "from:kaborojevic" --sort recent
-bun run x-search.ts search "(GPT-5 OR Claude 4)" --pages 2 --save
+x-search search "AI agents" --quality --quick
+x-search search "from:kaborojevic" --sort recent
+x-search search "(GPT-5 OR Claude 4)" --pages 2 --save
 ```
 
 ### Profile
 
 ```bash
-bun run x-search.ts profile <username> [--count N] [--replies] [--json]
+x-search profile <username> [--count N] [--replies] [--json]
 ```
 
 Fetches recent tweets from a specific user (excludes replies by default).
@@ -67,7 +75,7 @@ Fetches recent tweets from a specific user (excludes replies by default).
 ### Thread
 
 ```bash
-bun run x-search.ts thread <tweet_id> [--pages N]
+x-search thread <tweet_id> [--pages N]
 ```
 
 Fetches full conversation thread by root tweet ID.
@@ -75,16 +83,16 @@ Fetches full conversation thread by root tweet ID.
 ### Single Tweet
 
 ```bash
-bun run x-search.ts tweet <tweet_id> [--json]
+x-search tweet <tweet_id> [--json]
 ```
 
 ### Watchlist
 
 ```bash
-bun run x-search.ts watchlist                       # Show all
-bun run x-search.ts watchlist add <user> [note]     # Add account
-bun run x-search.ts watchlist remove <user>          # Remove account
-bun run x-search.ts watchlist check                  # Check recent from all
+x-search watchlist                       # Show all
+x-search watchlist add <user> [note]     # Add account
+x-search watchlist remove <user>          # Remove account
+x-search watchlist check                  # Check recent from all
 ```
 
 Watchlist stored in `data/watchlist.json`. Use for heartbeat integration.
@@ -92,8 +100,8 @@ Watchlist stored in `data/watchlist.json`. Use for heartbeat integration.
 ### Cache
 
 ```bash
-bun run x-search.ts cache clear    # Clear all cached results
-bun run x-search.ts cache          # Prune expired entries only
+x-search cache clear    # Clear all cached results
+x-search cache          # Prune expired entries only
 ```
 
 File-based cache (MD5-keyed) in `data/cache/`. Default TTL: 15 minutes. `--quick` mode uses 1-hour TTL. Cache is checked before every search API call — a cache hit costs $0.
@@ -125,7 +133,7 @@ Run each query via CLI. After each, assess:
 
 When a tweet has high engagement or is a thread starter:
 ```bash
-bun run x-search.ts thread <tweet_id>
+x-search thread <tweet_id>
 ```
 
 ### 4. Deep-Dive Linked Content
@@ -168,6 +176,7 @@ Use `--save` flag or save manually to `~/clawd/drafts/x-research-{topic-slug}-{Y
 skills/x-research/
 ├── SKILL.md              (this file)
 ├── x-search.ts           (CLI entry point — all commands)
+├── install.sh            (installs the `x-search` wrapper onto the bun PATH; idempotent)
 ├── load-env.ts           (env loader)
 ├── lib/
 │   ├── api.ts            (X API wrapper: search, thread, profile, tweet)

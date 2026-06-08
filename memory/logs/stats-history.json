@@ -198,5 +198,15 @@
     "totalOut": 0,
     "totalCost": 0,
     "totalDurationMs": 0
+  },
+  {
+    "date": "2026-06-08",
+    "runs": 0,
+    "finished": 0,
+    "failed": 0,
+    "totalIn": 0,
+    "totalOut": 0,
+    "totalCost": 0,
+    "totalDurationMs": 0
   }
 ]

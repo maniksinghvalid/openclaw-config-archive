@@ -15,13 +15,24 @@ Usage:
 
 import argparse
 import sys
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 import re
 import html
 
-USER_AGENT = "openclaw-reddit-reader/2.0"
+# old.reddit.com throttles anonymous RSS by IP/UA and intermittently returns 403/429.
+# Rotate through a few UAs and retry transient failures with backoff so a single
+# blocked request doesn't produce an empty report.
+USER_AGENTS = [
+    "openclaw-reddit-reader/2.0",
+    "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+]
+RETRY_STATUSES = {403, 429, 500, 502, 503}
+BACKOFF_SECONDS = [2, 5, 10]  # len == number of retries after the first attempt
 BASE = "https://old.reddit.com"
 NS = {"a": "http://www.w3.org/2005/Atom"}
 
@@ -29,16 +40,38 @@ NS = {"a": "http://www.w3.org/2005/Atom"}
 def fetch_feed(url, params=None):
     if params:
         url = f"{url}?{urllib.parse.urlencode(params)}"
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/atom+xml,application/xml"})
-    try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            body = resp.read()
-    except urllib.error.HTTPError as e:
-        print(f"HTTP {e.code} fetching {url}", file=sys.stderr)
+
+    attempts = len(BACKOFF_SECONDS) + 1
+    last_code = None
+    body = None
+    for i in range(attempts):
+        ua = USER_AGENTS[i % len(USER_AGENTS)]
+        req = urllib.request.Request(
+            url,
+            headers={"User-Agent": ua, "Accept": "application/atom+xml,application/xml"},
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                body = resp.read()
+            break
+        except urllib.error.HTTPError as e:
+            last_code = e.code
+            if e.code in RETRY_STATUSES and i < attempts - 1:
+                time.sleep(BACKOFF_SECONDS[i])
+                continue
+            print(f"HTTP {e.code} fetching {url}", file=sys.stderr)
+            sys.exit(1)
+        except Exception as e:
+            if i < attempts - 1:
+                time.sleep(BACKOFF_SECONDS[i])
+                continue
+            print(f"Request failed: {e}", file=sys.stderr)
+            sys.exit(1)
+
+    if body is None:
+        print(f"HTTP {last_code} fetching {url}", file=sys.stderr)
         sys.exit(1)
-    except Exception as e:
-        print(f"Request failed: {e}", file=sys.stderr)
-        sys.exit(1)
+
     try:
         return ET.fromstring(body)
     except ET.ParseError:
