@@ -1,56 +1,56 @@
-📊 PRE-MARKET PORTFOLIO REPORT — JUNE 8, 2026
+📊 PRE-MARKET PORTFOLIO REPORT
+Tuesday, June 9th, 2026
 
-🚀 MARKET REGIME & VIBE
-• Market Sentiment: Bullish Bias. QQQ (+1.91%) and SPY (+0.82%) showing strong upward momentum in pre-market.
-• Volatility: VIX at 18.73 (-13.17%). The sharp drop in VIX indicates a rapid shift away from fear, favoring risk-on assets.
-• Macro Context: Opening near resistance. While the trend is green, the VIX compression suggests a potential for a "volatility squeeze" if macro data surprises.
-• Currency: CAD/USD at 0.7173. Relatively stable.
+📈 MARKET REGIME & VIBE
+* Market Sentiment: Bullish bias (SPY/QQQ futures showing positive momentum)
+* VIX Level: 17.62 (🟢 Low/Stable - Prioritize growth over hedging)
+* Macro Context: Low volatility environment. Equity futures are trending upward, suggesting a positive open.
 
-📈 PORTFOLIO SNAPSHOT
-• Total Value: $13,849.49 USD
-• P&L: -$2,261.22 (-14.04%)
-• Status: Recovery mode. Speculative holdings are seeing a strong bounce.
+⚠️ SIGNIFICANT PRICE MOVEMENTS (>5%)
+* SPCE: +13.25% (🚀 Strong momentum)
+* CLOV: +10.92% (🚀 Strong momentum)
 
-⚠️ PRICE ALERTS (>5% Movement)
-• IBIT: +4.52% (Approaching alert threshold)
-• MARA: +4.77% (Approaching alert threshold)
-• VIX: -13.17% (Significant drop, risk-on signal)
+💰 PORTFOLIO SNAPSHOT
+* Total Value: $13,948.95 USD
+* Total P&L: -$2,162.17 (-13.42%)
+* FX Rate: 0.7176 CAD/USD
 
-📋 HOLDINGS PERFORMANCE
-• MARA: $12.77 (+4.77%) — Strong bounce, likely tied to BTC momentum.
-• IBIT: $36.11 (+4.52%) — Strong growth.
-• NIO: $5.51 (+2.46%) — Positive momentum.
-• CLOV: $3.87 (+1.96%) — Slight recovery.
-• NVDY: $13.18 (+1.62%) — Steady.
-• O: $60.81 (+0.31%) — Stable.
-• DIVO: $46.21 (+0.21%) — Stable.
-• VDY.TO: $74.73 (+0.93%) — Positive.
-• XEQT.TO: $44.17 (+0.66%) — Positive.
-• XIC.TO: $55.49 (+0.78%) — Positive.
-• SCHF: $27.17 (+0.80%) — Positive.
-• IAU: $81.39 (-0.05%) — Flat.
-• ZAG.TO: $13.77 (-0.04%) — Flat.
-• SPCE: $4.27 (-2.34%) — Weakness relative to peers.
+ holdings breakdown
+* SPCE: 50 shares @ $4.75 (Cost: $11.90) 📉
+* CLOV: 100 shares @ $4.35 (Cost: $11.19) 📉
+* MARA: 50 shares @ $14.20 (Cost: $21.45) 📉
+* NIO: 200 shares @ $5.45 (Cost: $10.54) 📉
+* O: 30 shares @ $60.33 (Cost: $55.93) 📈
+* IBIT: 38 shares @ $35.28 (Cost: $56.74) 📉
+* VDY.TO: 20 shares @ $74.35 (Cost: $58.24) 📈
+* DIVO: 51 shares @ $46.11 (Cost: $41.02) 📈
+* XEQT.TO: 51 shares @ $44.41 (Cost: ~$37.00) 📈
+* IAU: 15 shares @ $81.42 (Cost: $78.10) 📈
+* SCHF: 30 shares @ $27.40 (Cost: $23.66) 📈
+* ZAG.TO: 50 shares @ $13.74 (Cost: $14.01) 📉
+* XIC.TO: 10 shares @ $55.56 (Cost: $41.81) 📈
+* NVDY: 26 shares @ $13.20 (Cost: $15.92) 📉
 
-🛡️ TACTICAL HEDGING & OPPORTUNITIES
-
-Market Condition: Bullish / Risk-On
+🚀 TACTICAL HEDGING & OPPORTUNITIES
+Market Condition: Bullish/Low Volatility
 
 Portfolio-Level Hedges:
-• Current State: Over-exposed to high-beta spec names (MARA, IBIT, NIO) which are currently rallying.
-• Suggestion: Since VIX is low (18.73), it is an ideal time to buy "cheap" protection. Consider a small tail-hedge using SPY puts or VIX calls to protect the recovery gains if the regime shifts.
+* Current VIX is low (17.62). No urgent need for systemic hedges.
+* Consider a small Long Put spread on SPY if VIX crosses 20 to protect core equity gains.
 
 Ticker-Specific Strategies:
-• MARA & IBIT: These are leading the rally. To lock in gains without selling, consider selling Out-of-the-Money (OTM) Covered Calls if quantity permits, or using a trailing stop-loss to capture the trend.
-• NIO: Momentum is returning. Consider a Bull Call Spread if a breakout above key resistance is confirmed.
-• SPCE: Laggard in a risk-on market. If it fails to join the rally, consider reducing position size to reallocate into stronger momentum names.
-• O (Realty Income): Stable. Continue holding for dividends; no immediate hedging needed.
+* SPCE & CLOV: Both seeing double-digit spikes. Avoid adding. Consider selling covered calls if shares are held in a taxable account to lock in premium during the spike.
+* MARA & IBIT: Crypto exposure is lagging (IBIT -1.32%). If BTC breaks support, consider a protective put on IBIT.
+* O & VDY: Dividend anchors are performing well. Maintain hold for income.
 
-📅 UPCOMING CATALYSTS (14-Day Window)
-• June 15: O — Dividend Pay Date 💰
-• Macro: Monitor Juneteenth holiday adjustments (June 19) which may lead to lower liquidity/higher volatility in the following session.
+📅 UPCOMING CATALYSTS (14 Days)
+* June 15: O - Dividend Pay Date 💰
 
-💡 ACTION ITEMS
-1. Set Trailing Stop-Losses: Apply to MARA and IBIT to protect the recent ~4-5% jump.
-2. Hedge Volatility: Look at VIX calls or SPY puts while VIX is < 20 to create a low-cost insurance policy.
-3. Review SPCE: Evaluate why it's lagging during a broad market bounce; consider a partial exit if no catalyst appears.
+Macro Events:
+* Federal Reserve: Governor Michael S. Barr speech scheduled.
+* Monitor upcoming CPI/FOMC dates for June (Consult economic calendar).
+
+🎯 ACTION ITEMS
+1. HOLD: Maintain current positions in SPCE and CLOV to ride the current momentum spike.
+2. MONITOR: Watch IBIT/BTC for a reversal signal; avoid averaging down until a base is formed.
+3. INCOME: Verify O dividend payment arrival on June 15.
