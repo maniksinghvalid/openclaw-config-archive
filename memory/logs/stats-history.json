@@ -1,222 +1,602 @@
 [
   {
-    "date": "2026-05-19",
-    "runs": 13,
-    "finished": 13,
+    "runs": 8,
+    "finished": 8,
     "failed": 0,
-    "totalIn": 309119,
-    "totalOut": 26035,
-    "totalCost": 3.96758,
-    "totalDurationMs": 1063753
+    "totalIn": 527541,
+    "totalOut": 13174,
+    "totalCost": 0.04352,
+    "totalDurationMs": 308952,
+    "date": "2026-04-11"
   },
   {
-    "date": "2026-05-20",
-    "runs": 5,
-    "finished": 5,
+    "runs": 8,
+    "finished": 8,
     "failed": 0,
-    "totalIn": 72584,
-    "totalOut": 9097,
-    "totalCost": 0.0153,
-    "totalDurationMs": 306736
+    "totalIn": 401659,
+    "totalOut": 9812,
+    "totalCost": 0.03307,
+    "totalDurationMs": 320800,
+    "date": "2026-04-12"
   },
   {
-    "date": "2026-05-21",
+    "runs": 12,
+    "finished": 12,
+    "failed": 0,
+    "totalIn": 787662,
+    "totalOut": 27154,
+    "totalCost": 0.03985,
+    "totalDurationMs": 624454,
+    "date": "2026-04-13"
+  },
+  {
+    "runs": 11,
+    "finished": 10,
+    "failed": 1,
+    "totalIn": 855331,
+    "totalOut": 23007,
+    "totalCost": 0.05654,
+    "totalDurationMs": 490012,
+    "date": "2026-04-14"
+  },
+  {
     "runs": 11,
     "finished": 11,
     "failed": 0,
-    "totalIn": 442075,
-    "totalOut": 40566,
-    "totalCost": 0.11598,
-    "totalDurationMs": 955341
+    "totalIn": 819860,
+    "totalOut": 23069,
+    "totalCost": 0.05469,
+    "totalDurationMs": 623328,
+    "date": "2026-04-15"
   },
   {
-    "date": "2026-05-22",
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 914696,
+    "totalOut": 18472,
+    "totalCost": 0.06473,
+    "totalDurationMs": 604456,
+    "date": "2026-04-16"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 1066464,
+    "totalOut": 17593,
+    "totalCost": 0.08318,
+    "totalDurationMs": 430269,
+    "date": "2026-04-17"
+  },
+  {
+    "runs": 7,
+    "finished": 7,
+    "failed": 0,
+    "totalIn": 389398,
+    "totalOut": 14743,
+    "totalCost": 0.03363,
+    "totalDurationMs": 374152,
+    "date": "2026-04-18"
+  },
+  {
+    "runs": 8,
+    "finished": 8,
+    "failed": 0,
+    "totalIn": 466795,
+    "totalOut": 13382,
+    "totalCost": 0.03902,
+    "totalDurationMs": 288856,
+    "date": "2026-04-19"
+  },
+  {
+    "runs": 12,
+    "finished": 11,
+    "failed": 1,
+    "totalIn": 592592,
+    "totalOut": 15528,
+    "totalCost": 0.04755,
+    "totalDurationMs": 638075,
+    "date": "2026-04-20"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 977414,
+    "totalOut": 22824,
+    "totalCost": 0.07486,
+    "totalDurationMs": 675819,
+    "date": "2026-04-21"
+  },
+  {
+    "runs": 11,
+    "finished": 9,
+    "failed": 2,
+    "totalIn": 991691,
+    "totalOut": 15045,
+    "totalCost": 0.04734,
+    "totalDurationMs": 500911,
+    "date": "2026-04-22"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 1609526,
+    "totalOut": 19017,
+    "totalCost": 0.12642,
+    "totalDurationMs": 469980,
+    "date": "2026-04-23"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 1012018,
+    "totalOut": 13014,
+    "totalCost": 0.07981,
+    "totalDurationMs": 302289,
+    "date": "2026-04-24"
+  },
+  {
+    "runs": 7,
+    "finished": 7,
+    "failed": 0,
+    "totalIn": 480522,
+    "totalOut": 7934,
+    "totalCost": 0.03842,
+    "totalDurationMs": 256168,
+    "date": "2026-04-25"
+  },
+  {
+    "runs": 8,
+    "finished": 8,
+    "failed": 0,
+    "totalIn": 632361,
+    "totalOut": 9216,
+    "totalCost": 0.05019,
+    "totalDurationMs": 239254,
+    "date": "2026-04-26"
+  },
+  {
+    "runs": 12,
+    "finished": 11,
+    "failed": 1,
+    "totalIn": 1119260,
+    "totalOut": 16492,
+    "totalCost": 0.06677,
+    "totalDurationMs": 690534,
+    "date": "2026-04-27"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 422013,
+    "totalOut": 21806,
+    "totalCost": 0.01066,
+    "totalDurationMs": 598579,
+    "date": "2026-04-28"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 162224,
+    "totalOut": 11324,
+    "totalCost": 0.01336,
+    "totalDurationMs": 742482,
+    "date": "2026-04-29"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 195333,
+    "totalOut": 29437,
+    "totalCost": 0.14866,
+    "totalDurationMs": 1109469,
+    "date": "2026-04-30"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 293682,
+    "totalOut": 14155,
+    "totalCost": 0.0245,
+    "totalDurationMs": 429705,
+    "date": "2026-05-01"
+  },
+  {
+    "runs": 7,
+    "finished": 7,
+    "failed": 0,
+    "totalIn": 241608,
+    "totalOut": 12973,
+    "totalCost": 0.13184,
+    "totalDurationMs": 327744,
+    "date": "2026-05-02"
+  },
+  {
+    "runs": 8,
+    "finished": 8,
+    "failed": 0,
+    "totalIn": 375122,
+    "totalOut": 15856,
+    "totalCost": 0.10679,
+    "totalDurationMs": 379443,
+    "date": "2026-05-03"
+  },
+  {
+    "runs": 12,
+    "finished": 12,
+    "failed": 0,
+    "totalIn": 426839,
+    "totalOut": 28694,
+    "totalCost": 0.30403,
+    "totalDurationMs": 937086,
+    "date": "2026-05-04"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 614657,
+    "totalOut": 22412,
+    "totalCost": 0.40307,
+    "totalDurationMs": 787163,
+    "date": "2026-05-05"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 570092,
+    "totalOut": 43029,
+    "totalCost": 0.53713,
+    "totalDurationMs": 1440125,
+    "date": "2026-05-06"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 371294,
+    "totalOut": 20640,
+    "totalCost": 0.36244,
+    "totalDurationMs": 834066,
+    "date": "2026-05-07"
+  },
+  {
+    "runs": 11,
+    "finished": 11,
+    "failed": 0,
+    "totalIn": 272296,
+    "totalOut": 9389,
+    "totalCost": 0.38781,
+    "totalDurationMs": 596717,
+    "date": "2026-05-08"
+  },
+  {
+    "runs": 7,
+    "finished": 7,
+    "failed": 0,
+    "totalIn": 220629,
+    "totalOut": 7192,
+    "totalCost": 0.25743,
+    "totalDurationMs": 405524,
+    "date": "2026-05-09"
+  },
+  {
+    "runs": 8,
+    "finished": 8,
+    "failed": 0,
+    "totalIn": 292648,
+    "totalOut": 11619,
+    "totalCost": 0.20162,
+    "totalDurationMs": 399814,
+    "date": "2026-05-10"
+  },
+  {
+    "runs": 12,
+    "finished": 12,
+    "failed": 0,
+    "totalIn": 411859,
+    "totalOut": 17370,
+    "totalCost": 0.38356,
+    "totalDurationMs": 1128255,
+    "date": "2026-05-11"
+  },
+  {
+    "runs": 13,
+    "finished": 13,
+    "failed": 0,
+    "totalIn": 313942,
+    "totalOut": 46601,
+    "totalCost": 0.3988,
+    "totalDurationMs": 1204457,
+    "date": "2026-05-12"
+  },
+  {
+    "runs": 13,
+    "finished": 12,
+    "failed": 1,
+    "totalIn": 413789,
+    "totalOut": 23773,
+    "totalCost": 1.01063,
+    "totalDurationMs": 1508170,
+    "date": "2026-05-13"
+  },
+  {
+    "runs": 12,
+    "finished": 11,
+    "failed": 1,
+    "totalIn": 348063,
+    "totalOut": 23877,
+    "totalCost": 0.05024,
+    "totalDurationMs": 806504,
+    "date": "2026-05-14"
+  },
+  {
+    "runs": 12,
+    "finished": 12,
+    "failed": 0,
+    "totalIn": 385525,
+    "totalOut": 21921,
+    "totalCost": 0.05303,
+    "totalDurationMs": 1401743,
+    "date": "2026-05-15"
+  },
+  {
+    "runs": 8,
+    "finished": 8,
+    "failed": 0,
+    "totalIn": 175981,
+    "totalOut": 12289,
+    "totalCost": 0.02396,
+    "totalDurationMs": 404517,
+    "date": "2026-05-16"
+  },
+  {
+    "runs": 9,
+    "finished": 9,
+    "failed": 0,
+    "totalIn": 259104,
+    "totalOut": 8048,
+    "totalCost": 0.03275,
+    "totalDurationMs": 363155,
+    "date": "2026-05-17"
+  },
+  {
+    "runs": 14,
+    "finished": 13,
+    "failed": 1,
+    "totalIn": 386076,
+    "totalOut": 28364,
+    "totalCost": 2.10681,
+    "totalDurationMs": 1131322,
+    "date": "2026-05-18"
+  },
+  {
+    "runs": 15,
+    "finished": 15,
+    "failed": 0,
+    "totalIn": 314620,
+    "totalOut": 27214,
+    "totalCost": 2.67068,
+    "totalDurationMs": 1010637,
+    "date": "2026-05-19"
+  },
+  {
     "runs": 20,
     "finished": 19,
     "failed": 1,
-    "totalIn": 328063,
-    "totalOut": 23230,
-    "totalCost": 0.04427,
-    "totalDurationMs": 1199724
+    "totalIn": 316968,
+    "totalOut": 31886,
+    "totalCost": 0.05312,
+    "totalDurationMs": 1109348,
+    "date": "2026-05-20"
   },
   {
-    "date": "2026-05-23",
+    "runs": 20,
+    "finished": 20,
+    "failed": 0,
+    "totalIn": 529174,
+    "totalOut": 43982,
+    "totalCost": 0.12373,
+    "totalDurationMs": 1230190,
+    "date": "2026-05-21"
+  },
+  {
+    "runs": 22,
+    "finished": 21,
+    "failed": 1,
+    "totalIn": 323577,
+    "totalOut": 17635,
+    "totalCost": 0.04483,
+    "totalDurationMs": 1293960,
+    "date": "2026-05-22"
+  },
+  {
+    "runs": 9,
+    "finished": 9,
+    "failed": 0,
+    "totalIn": 296351,
+    "totalOut": 9100,
+    "totalCost": 0.03008,
+    "totalDurationMs": 735353,
+    "date": "2026-05-23"
+  },
+  {
     "runs": 10,
     "finished": 10,
     "failed": 0,
-    "totalIn": 295937,
-    "totalOut": 13703,
-    "totalCost": 0.03311,
-    "totalDurationMs": 848754
+    "totalIn": 149373,
+    "totalOut": 9789,
+    "totalCost": 0.02303,
+    "totalDurationMs": 590528,
+    "date": "2026-05-24"
   },
   {
-    "date": "2026-05-24",
-    "runs": 8,
-    "finished": 8,
-    "failed": 0,
-    "totalIn": 126492,
-    "totalOut": 8951,
-    "totalCost": 0.02106,
-    "totalDurationMs": 543466
-  },
-  {
-    "date": "2026-05-25",
-    "runs": 19,
-    "finished": 18,
+    "runs": 23,
+    "finished": 22,
     "failed": 1,
-    "totalIn": 292549,
-    "totalOut": 24292,
-    "totalCost": 0.04645,
-    "totalDurationMs": 1323216
+    "totalIn": 487493,
+    "totalOut": 34774,
+    "totalCost": 0.08948,
+    "totalDurationMs": 1724281,
+    "date": "2026-05-25"
   },
   {
-    "date": "2026-05-26",
-    "runs": 19,
-    "finished": 18,
+    "runs": 21,
+    "finished": 20,
     "failed": 1,
-    "totalIn": 416116,
-    "totalOut": 36500,
-    "totalCost": 0.09503,
-    "totalDurationMs": 1458905
+    "totalIn": 330299,
+    "totalOut": 32174,
+    "totalCost": 0.06549,
+    "totalDurationMs": 1630383,
+    "date": "2026-05-26"
   },
   {
-    "date": "2026-05-27",
-    "runs": 19,
-    "finished": 18,
+    "runs": 21,
+    "finished": 20,
     "failed": 1,
-    "totalIn": 147138,
-    "totalOut": 25150,
-    "totalCost": 0.03381,
-    "totalDurationMs": 1657481
+    "totalIn": 165092,
+    "totalOut": 30727,
+    "totalCost": 0.04123,
+    "totalDurationMs": 1854701,
+    "date": "2026-05-27"
   },
   {
-    "date": "2026-05-28",
-    "runs": 19,
-    "finished": 15,
+    "runs": 22,
+    "finished": 16,
+    "failed": 6,
+    "totalIn": 187542,
+    "totalOut": 24045,
+    "totalCost": 0.06383,
+    "totalDurationMs": 2373581,
+    "date": "2026-05-28"
+  },
+  {
+    "runs": 22,
+    "finished": 18,
     "failed": 4,
-    "totalIn": 204650,
-    "totalOut": 29441,
-    "totalCost": 0.07256,
-    "totalDurationMs": 2195255
+    "totalIn": 246539,
+    "totalOut": 26681,
+    "totalCost": 0.06652,
+    "totalDurationMs": 2171435,
+    "date": "2026-05-29"
   },
   {
-    "date": "2026-05-29",
-    "runs": 20,
-    "finished": 15,
-    "failed": 5,
-    "totalIn": 124419,
-    "totalOut": 26727,
-    "totalCost": 0.03095,
-    "totalDurationMs": 2161224
-  },
-  {
-    "date": "2026-05-30",
-    "runs": 10,
+    "runs": 9,
     "finished": 9,
-    "failed": 1,
-    "totalIn": 337841,
-    "totalOut": 9966,
-    "totalCost": 0.06444,
-    "totalDurationMs": 902348
-  },
-  {
-    "date": "2026-05-31",
-    "runs": 8,
-    "finished": 8,
     "failed": 0,
-    "totalIn": 145219,
-    "totalOut": 11014,
-    "totalCost": 0.02375,
-    "totalDurationMs": 741871
+    "totalIn": 227696,
+    "totalOut": 9148,
+    "totalCost": 0.03112,
+    "totalDurationMs": 601019,
+    "date": "2026-05-30"
   },
   {
-    "date": "2026-06-01",
-    "runs": 19,
-    "finished": 16,
+    "runs": 10,
+    "finished": 10,
+    "failed": 0,
+    "totalIn": 139536,
+    "totalOut": 11007,
+    "totalCost": 0.02289,
+    "totalDurationMs": 771635,
+    "date": "2026-05-31"
+  },
+  {
+    "runs": 23,
+    "finished": 20,
     "failed": 3,
-    "totalIn": 141026,
-    "totalOut": 15563,
-    "totalCost": 0.03882,
-    "totalDurationMs": 1523071
+    "totalIn": 191983,
+    "totalOut": 20892,
+    "totalCost": 0.0477,
+    "totalDurationMs": 1916146,
+    "date": "2026-06-01"
   },
   {
-    "date": "2026-06-02",
-    "runs": 19,
-    "finished": 17,
+    "runs": 21,
+    "finished": 18,
+    "failed": 3,
+    "totalIn": 187504,
+    "totalOut": 35146,
+    "totalCost": 0.07034,
+    "totalDurationMs": 2153439,
+    "date": "2026-06-02"
+  },
+  {
+    "runs": 21,
+    "finished": 19,
     "failed": 2,
-    "totalIn": 141645,
-    "totalOut": 30102,
-    "totalCost": 0.03775,
-    "totalDurationMs": 1756182
+    "totalIn": 316651,
+    "totalOut": 50355,
+    "totalCost": 0.17117,
+    "totalDurationMs": 2051239,
+    "date": "2026-06-03"
   },
   {
-    "date": "2026-06-03",
-    "runs": 19,
-    "finished": 16,
+    "runs": 56,
+    "finished": 21,
+    "failed": 35,
+    "totalIn": 82570,
+    "totalOut": 11701,
+    "totalCost": 0.01941,
+    "totalDurationMs": 1165858,
+    "date": "2026-06-04"
+  },
+  {
+    "runs": 26,
+    "finished": 22,
+    "failed": 4,
+    "totalIn": 0,
+    "totalOut": 0,
+    "totalCost": 0,
+    "totalDurationMs": 919670,
+    "date": "2026-06-05"
+  },
+  {
+    "runs": 13,
+    "finished": 11,
+    "failed": 2,
+    "totalIn": 0,
+    "totalOut": 0,
+    "totalCost": 0,
+    "totalDurationMs": 955950,
+    "date": "2026-06-06"
+  },
+  {
+    "runs": 22,
+    "finished": 19,
     "failed": 3,
-    "totalIn": 286022,
-    "totalOut": 44401,
-    "totalCost": 0.16297,
-    "totalDurationMs": 2128856
-  },
-  {
-    "date": "2026-06-04",
-    "runs": 0,
-    "finished": 0,
-    "failed": 0,
     "totalIn": 0,
     "totalOut": 0,
     "totalCost": 0,
-    "totalDurationMs": 0
+    "totalDurationMs": 1039552,
+    "date": "2026-06-07"
   },
   {
-    "date": "2026-06-05",
-    "runs": 0,
-    "finished": 0,
-    "failed": 0,
+    "runs": 29,
+    "finished": 25,
+    "failed": 4,
     "totalIn": 0,
     "totalOut": 0,
     "totalCost": 0,
-    "totalDurationMs": 0
-  },
-  {
-    "date": "2026-06-06",
-    "runs": 0,
-    "finished": 0,
-    "failed": 0,
-    "totalIn": 0,
-    "totalOut": 0,
-    "totalCost": 0,
-    "totalDurationMs": 0
-  },
-  {
-    "date": "2026-06-07",
-    "runs": 0,
-    "finished": 0,
-    "failed": 0,
-    "totalIn": 0,
-    "totalOut": 0,
-    "totalCost": 0,
-    "totalDurationMs": 0
-  },
-  {
-    "date": "2026-06-08",
-    "runs": 0,
-    "finished": 0,
-    "failed": 0,
-    "totalIn": 0,
-    "totalOut": 0,
-    "totalCost": 0,
-    "totalDurationMs": 0
+    "totalDurationMs": 1200369,
+    "date": "2026-06-08"
   },
   {
     "date": "2026-06-09",
-    "runs": 0,
-    "finished": 0,
-    "failed": 0,
+    "runs": 35,
+    "finished": 21,
+    "failed": 14,
     "totalIn": 0,
     "totalOut": 0,
     "totalCost": 0,
-    "totalDurationMs": 0
+    "totalDurationMs": 1047247
   }
 ]
