@@ -1,56 +1,53 @@
-📊 PRE-MARKET PORTFOLIO REPORT
-Tuesday, June 9th, 2026
+📊 **Pre-Market Portfolio Report: June 11, 2026**
 
-📈 MARKET REGIME & VIBE
-* Market Sentiment: Bullish bias (SPY/QQQ futures showing positive momentum)
-* VIX Level: 17.62 (🟢 Low/Stable - Prioritize growth over hedging)
-* Macro Context: Low volatility environment. Equity futures are trending upward, suggesting a positive open.
+**Market Regime: Neutral to Bullish (Rebound Phase)**
+* **Vibe:** Fear & Greed Index is currently 43 (Fear), but market sentiment is shifting toward Neutral.
+* **VIX:** 21.51 (Slightly elevated). We are in a regime where volatility is present, but current futures indicate a strong recovery from Wednesday's tumble.
+* **Futures:** S&P 500 futures +0.75%, Nasdaq 100 futures +1.10%. We are likely opening with positive momentum.
 
-⚠️ SIGNIFICANT PRICE MOVEMENTS (>5%)
-* SPCE: +13.25% (🚀 Strong momentum)
-* CLOV: +10.92% (🚀 Strong momentum)
+**🚨 Significant Movements (>5%)**
+* **SPCE:** 📈 +19.52% (Last: 5.51). Massive intraday spike.
 
-💰 PORTFOLIO SNAPSHOT
-* Total Value: $13,948.95 USD
-* Total P&L: -$2,162.17 (-13.42%)
-* FX Rate: 0.7176 CAD/USD
+**Portfolio Snapshot**
+* **Total Value:** $13,910.31 USD
+* **Total P&L:** -$2,186.20 (-13.58%)
+* **FX (CAD/USD):** 0.7142
 
- holdings breakdown
-* SPCE: 50 shares @ $4.75 (Cost: $11.90) 📉
-* CLOV: 100 shares @ $4.35 (Cost: $11.19) 📉
-* MARA: 50 shares @ $14.20 (Cost: $21.45) 📉
-* NIO: 200 shares @ $5.45 (Cost: $10.54) 📉
-* O: 30 shares @ $60.33 (Cost: $55.93) 📈
-* IBIT: 38 shares @ $35.28 (Cost: $56.74) 📉
-* VDY.TO: 20 shares @ $74.35 (Cost: $58.24) 📈
-* DIVO: 51 shares @ $46.11 (Cost: $41.02) 📈
-* XEQT.TO: 51 shares @ $44.41 (Cost: ~$37.00) 📈
-* IAU: 15 shares @ $81.42 (Cost: $78.10) 📈
-* SCHF: 30 shares @ $27.40 (Cost: $23.66) 📈
-* ZAG.TO: 50 shares @ $13.74 (Cost: $14.01) 📉
-* XIC.TO: 10 shares @ $55.56 (Cost: $41.81) 📈
-* NVDY: 26 shares @ $13.20 (Cost: $15.92) 📉
+**Holdings Performance**
+* SPCE: 5.51 (Buy: 11.90) 📉
+* CLOV: 5.04 (Buy: 11.19) 📉
+* MARA: 12.98 (Buy: 21.45) 📉
+* NIO: 5.26 (Buy: 10.54) 📉
+* O: 62.59 (Buy: 55.93) 📈
+* IBIT: 35.70 (Buy: 56.74) 📉
+* VDY.TO: 75.27 (Buy: 58.24) 📈
+* DIVO: 45.83 (Buy: 41.02) 📈
+* XEQT.TO: 43.96 (Buy: 37.10) 📈
+* IAU: 76.78 (Buy: 78.10) 📉
+* SCHF: 27.03 (Buy: 23.66) 📈
+* ZAG.TO: 13.79 (Buy: 14.01) 📉
+* XIC.TO: 55.25 (Buy: 41.81) 📈
+* NVDY: 12.79 (Buy: 15.92) 📉
 
-🚀 TACTICAL HEDGING & OPPORTUNITIES
-Market Condition: Bullish/Low Volatility
+**🚀 Tactical Hedging & Opportunities**
 
-Portfolio-Level Hedges:
-* Current VIX is low (17.62). No urgent need for systemic hedges.
-* Consider a small Long Put spread on SPY if VIX crosses 20 to protect core equity gains.
+**Market Outlook: Bullish Rebound**
+The market is bouncing back from a sharp decline caused by geopolitical tensions (Iran). While the trend is recovering, VIX > 20 suggests we should not be blindly aggressive.
 
-Ticker-Specific Strategies:
-* SPCE & CLOV: Both seeing double-digit spikes. Avoid adding. Consider selling covered calls if shares are held in a taxable account to lock in premium during the spike.
-* MARA & IBIT: Crypto exposure is lagging (IBIT -1.32%). If BTC breaks support, consider a protective put on IBIT.
-* O & VDY: Dividend anchors are performing well. Maintain hold for income.
+**Portfolio-Level Hedges**
+* **Downside Protection:** With the VIX at 21.51, consider a protective put on SPY if the rebound stalls at resistance.
+* **Volatility Play:** Maintain IAU (Gold) as a primary hedge against geopolitical instability.
 
-📅 UPCOMING CATALYSTS (14 Days)
-* June 15: O - Dividend Pay Date 💰
+**Ticker-Specific Strategies**
+* **SPCE (Speculative):** The 19% spike is a high-volatility event. *Strategy:* Avoid chasing. If it hits a key resistance level, consider selling covered calls to capture premium while reducing cost basis.
+* **MARA / IBIT (Crypto Proxy):** BTC is up 2.49%. *Strategy:* Bullish momentum. If BTC breaks previous local highs, hold. If it reverses, consider a tight stop-loss to protect the current rebound.
+* **O (Dividend):** Performing well. *Strategy:* Hold for the upcoming dividend pay date on June 15.
 
-Macro Events:
-* Federal Reserve: Governor Michael S. Barr speech scheduled.
-* Monitor upcoming CPI/FOMC dates for June (Consult economic calendar).
+**📅 Upcoming Catalysts (Next 14 Days)**
+* **June 15:** O - Dividend Pay Date 💰
+* **Macro:** Monitor Fed speeches (Governor Barr) for clues on interest rate direction.
 
-🎯 ACTION ITEMS
-1. HOLD: Maintain current positions in SPCE and CLOV to ride the current momentum spike.
-2. MONITOR: Watch IBIT/BTC for a reversal signal; avoid averaging down until a base is formed.
-3. INCOME: Verify O dividend payment arrival on June 15.
+**✅ Action Items for Today**
+1. **Ride the SPCE Momentum:** Monitor SPCE closely; do not add to the position, but look for an exit or income-generating option (covered call) if the spike peaks.
+2. **Verify Dividend Capture:** Ensure the account for 'O' is ready for the June 15 payout.
+3. **Monitor VIX:** If VIX drops below 20, shift from "defensive" to "growth" mode for speculative holdings.

@@ -13,7 +13,8 @@ When events become due (check mode), generates a rich formatted alert with:
 
 Usage:
   python3 scripts/macro_event_watcher.py seed < events.json
-  python3 scripts/macro_event_watcher.py check
+  python3 scripts/macro_event_watcher.py check        # read-only; reports due events + ack_cmd
+  python3 scripts/macro_event_watcher.py ack <idx>... # mark events delivered (call AFTER sending)
 
 Seed input JSON format:
 {
@@ -45,7 +46,12 @@ from datetime import datetime, timezone
 from typing import Any
 
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
-WATCH_PATH = os.path.join(BASE_DIR, "portfolio", "daily_macro_watch.json")
+# Paths are env-overridable for testing; default to the live portfolio files.
+WATCH_PATH = os.environ.get(
+    "MACRO_WATCH_PATH", os.path.join(BASE_DIR, "portfolio", "daily_macro_watch.json"))
+ALERT_STATE_PATH = os.environ.get(
+    "MACRO_WATCH_ALERT_STATE_PATH",
+    os.path.join(BASE_DIR, "portfolio", ".macro_watch_alert_state.json"))
 
 VALID_PRIORITIES = {"high", "medium", "low"}
 
@@ -57,6 +63,9 @@ class DueEvent:
 
 
 def utc_now() -> datetime:
+    override = os.environ.get("MACRO_WATCHER_NOW")
+    if override:
+        return parse_iso_z(override)
     return datetime.now(timezone.utc)
 
 
@@ -105,6 +114,58 @@ def normalize_event(raw: dict[str, Any]) -> dict[str, Any]:
         "status": str(raw.get("status", "scheduled")).strip() or "scheduled",
         "alert_sent_at": None,
     }
+
+
+def _stale_already_alerted(today: str) -> bool:
+    try:
+        with open(ALERT_STATE_PATH) as f:
+            return json.load(f).get("stale_alert_date") == today
+    except (FileNotFoundError, ValueError, OSError):
+        return False
+
+
+def _mark_stale_alerted(today: str) -> None:
+    try:
+        write_json(ALERT_STATE_PATH, {"stale_alert_date": today})
+    except OSError:
+        pass
+
+
+def stale_alarm(status: str, watch_date: Any, today: str, now: datetime) -> dict[str, Any]:
+    """
+    Build the check() response for a stale or missing watch file.
+
+    On a trading weekday a stale file is a real monitoring failure — today's
+    events were never seeded, so releases (CPI, NFP, FOMC, rate decisions) will
+    be missed. Escalate with alert=true + ready-to-send alert_text, but only
+    ONCE per day (deduped via ALERT_STATE_PATH). On weekends there are no
+    scheduled US/CA releases, so stay quiet.
+    """
+    result: dict[str, Any] = {
+        "ok": True,
+        "status": status,
+        "path": WATCH_PATH,
+        "watch_date": watch_date,
+        "today": today,
+        "alert": False,
+    }
+    if now.weekday() >= 5:  # Saturday/Sunday
+        result["note"] = "stale on weekend; no scheduled releases"
+        return result
+    if _stale_already_alerted(today):
+        result["note"] = "stale on weekday; already alerted today"
+        return result
+    _mark_stale_alerted(today)
+    result["alert"] = True
+    result["alert_text"] = (
+        "🚨 MACRO WATCH FILE STALE — intraday macro monitoring is DOWN.\n"
+        f"The watch file is dated {watch_date or 'MISSING'}, but today is {today}. "
+        "Today's economic events were never seeded, so any releases today "
+        "(CPI, NFP, FOMC, rate decisions, etc.) will be MISSED by the hourly watcher.\n"
+        "Action: re-seed daily_macro_watch.json for today — re-run the Economic "
+        "Calendar Seed Check, or run `macro_event_watcher.py seed` with today's events."
+    )
+    return result
 
 
 def seed() -> int:
@@ -178,23 +239,18 @@ def check() -> int:
       "remaining": 0
     }
     """
+    now = utc_now()
+    today = now.date().isoformat()
+
     if not os.path.exists(WATCH_PATH):
-        print(json.dumps({"ok": True, "status": "no-watch-file", "path": WATCH_PATH}, indent=2))
+        print(json.dumps(stale_alarm("no-watch-file", None, today, now), indent=2))
         return 0
 
     payload = read_json(WATCH_PATH)
-    today = utc_now().date().isoformat()
     if payload.get("date") != today:
-        print(json.dumps({
-            "ok": True,
-            "status": "stale-watch-file",
-            "path": WATCH_PATH,
-            "watch_date": payload.get("date"),
-            "today": today,
-        }, indent=2))
+        print(json.dumps(stale_alarm("stale-watch-file", payload.get("date"), today, now), indent=2))
         return 0
 
-    now = utc_now()
     due = find_due_events(payload, now)
 
     if not due:
@@ -219,15 +275,19 @@ def check() -> int:
         }, indent=2))
         return 1
 
-    # Fetch one market snapshot for all due events (same time)
-    snapshot = fetch_market_snapshot()
-    sent_at = now.isoformat().replace("+00:00", "Z")
+    # Fetch one market snapshot for all due events (same time).
+    # NOTE: check() is READ-ONLY — it does NOT mark events as alerted. Marking
+    # happens via `ack <indices>` AFTER the agent confirms delivery, so a
+    # delivery/model failure leaves the event unmarked for the next run to
+    # retry (avoids the silent "marked-but-not-delivered" loss). MACRO_SKIP_SNAPSHOT
+    # skips the (network) market fetch — used by tests.
+    snapshot = {} if os.environ.get("MACRO_SKIP_SNAPSHOT") else fetch_market_snapshot()
 
     alerts = []
+    due_indices = []
     for item in due:
         ev = item.event
-        # Mark as alerted
-        payload["events"][item.index]["alert_sent_at"] = sent_at
+        due_indices.append(item.index)
 
         # Build data strings from seed data (if provided)
         actual_str = None
@@ -252,13 +312,15 @@ def check() -> int:
         )
 
         alerts.append({
+            "index": item.index,
             "event": ev,
             "alert_text": alert_text,
         })
 
-    write_json(WATCH_PATH, payload)
-
-    remaining = sum(1 for ev in payload.get("events", []) if not ev.get("alert_sent_at"))
+    # READ-ONLY: do not write the file here. `remaining` counts unalerted events
+    # NOT in the current due set (i.e. still-upcoming events).
+    remaining = sum(1 for ev in payload.get("events", []) if not ev.get("alert_sent_at")) - len(due)
+    ack_cmd = f"python3 {os.path.abspath(__file__)} ack " + " ".join(str(i) for i in due_indices)
     output = {
         "ok": True,
         "status": "due-events",
@@ -266,6 +328,8 @@ def check() -> int:
         "due_count": len(alerts),
         "alerts": alerts,
         "remaining": remaining,
+        "ack_required": True,
+        "ack_cmd": ack_cmd,
     }
 
     # Also format snapshot for top-level convenience
@@ -286,12 +350,56 @@ def check() -> int:
     return 0
 
 
+def ack() -> int:
+    """
+    Mark the given event indices as alerted (delivered). The watcher calls this
+    AFTER it has actually sent the alert(s) — so a failed delivery leaves events
+    unmarked and the next run retries them.
+
+    Usage: macro_event_watcher.py ack <idx> [idx ...]
+    """
+    idx_args = sys.argv[2:]
+    if not idx_args:
+        print(json.dumps({"ok": False, "status": "error", "error": "ack requires event indices"}, indent=2))
+        return 1
+    try:
+        indices = sorted({int(a) for a in idx_args})
+    except ValueError:
+        print(json.dumps({"ok": False, "status": "error", "error": f"invalid indices: {idx_args}"}, indent=2))
+        return 1
+
+    if not os.path.exists(WATCH_PATH):
+        print(json.dumps({"ok": False, "status": "no-watch-file", "path": WATCH_PATH}, indent=2))
+        return 1
+
+    payload = read_json(WATCH_PATH)
+    events = payload.get("events", [])
+    now_iso = utc_now().isoformat().replace("+00:00", "Z")
+    acked, skipped = [], []
+    for i in indices:
+        if 0 <= i < len(events):
+            if not events[i].get("alert_sent_at"):
+                events[i]["alert_sent_at"] = now_iso
+                events[i]["status"] = "released"
+                acked.append(events[i].get("title", f"#{i}"))
+            else:
+                skipped.append(events[i].get("title", f"#{i}"))  # already acked
+        else:
+            skipped.append(f"index {i} out of range")
+    write_json(WATCH_PATH, payload)
+    remaining = sum(1 for ev in events if not ev.get("alert_sent_at"))
+    print(json.dumps({"ok": True, "status": "acked", "acked": acked, "skipped": skipped, "remaining": remaining}, indent=2))
+    return 0
+
+
 def main() -> int:
-    if len(sys.argv) < 2 or sys.argv[1] not in {"seed", "check"}:
+    if len(sys.argv) < 2 or sys.argv[1] not in {"seed", "check", "ack"}:
         print(__doc__.strip())
         return 1
     if sys.argv[1] == "seed":
         return seed()
+    if sys.argv[1] == "ack":
+        return ack()
     return check()
 
 
