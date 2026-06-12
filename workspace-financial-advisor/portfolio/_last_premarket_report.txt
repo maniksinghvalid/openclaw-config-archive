@@ -1,53 +1,60 @@
-📊 **Pre-Market Portfolio Report: June 11, 2026**
+📊 PRE-MARKET PORTFOLIO REPORT
+Date: Friday, June 12, 2026
+Time: 14:00 UTC
 
-**Market Regime: Neutral to Bullish (Rebound Phase)**
-* **Vibe:** Fear & Greed Index is currently 43 (Fear), but market sentiment is shifting toward Neutral.
-* **VIX:** 21.51 (Slightly elevated). We are in a regime where volatility is present, but current futures indicate a strong recovery from Wednesday's tumble.
-* **Futures:** S&P 500 futures +0.75%, Nasdaq 100 futures +1.10%. We are likely opening with positive momentum.
+🚨 CRITICAL ALERTS
+• SPCE: 📉 MASSIVE DROP (-32.9%). Price: 4.355. Immediate review required.
+• CLOV: 📉 Down -3.38%. Price: 4.715.
+• MARA: 📈 Up +3.65%. Price: 14.065.
 
-**🚨 Significant Movements (>5%)**
-* **SPCE:** 📈 +19.52% (Last: 5.51). Massive intraday spike.
+🌍 MARKET REGIME & MACRO
+• VIX: 19.62 (Approaching 20 - Caution advised).
+• S&P 500 (SPY): 737.86 (-0.22%)
+• Nasdaq (QQQ): 715.98 (-0.47%)
+• Sentiment: Mixed/Cautious. Equity futures are slightly red, suggesting a weak or flat open.
+• Vibe: Shift toward downside protection as VIX creeps up.
 
-**Portfolio Snapshot**
-* **Total Value:** $13,910.31 USD
-* **Total P&L:** -$2,186.20 (-13.58%)
-* **FX (CAD/USD):** 0.7142
+💰 PORTFOLIO SNAPSHOT
+• Total Value (USD): 13,981.19
+• Total P&L (USD): -2,120.75
+• Total P&L (%): -13.17%
+• CAD/USD: 0.7154
 
-**Holdings Performance**
-* SPCE: 5.51 (Buy: 11.90) 📉
-* CLOV: 5.04 (Buy: 11.19) 📉
-* MARA: 12.98 (Buy: 21.45) 📉
-* NIO: 5.26 (Buy: 10.54) 📉
-* O: 62.59 (Buy: 55.93) 📈
-* IBIT: 35.70 (Buy: 56.74) 📉
-* VDY.TO: 75.27 (Buy: 58.24) 📈
-* DIVO: 45.83 (Buy: 41.02) 📈
-* XEQT.TO: 43.96 (Buy: 37.10) 📈
-* IAU: 76.78 (Buy: 78.10) 📉
-* SCHF: 27.03 (Buy: 23.66) 📈
-* ZAG.TO: 13.79 (Buy: 14.01) 📉
-* XIC.TO: 55.25 (Buy: 41.81) 📈
-* NVDY: 12.79 (Buy: 15.92) 📉
+📈 HOLDINGS PERFORMANCE
+• SPCE: 4.355 (Buy: 11.90) 🔴 -63.3% total
+• CLOV: 4.715 (Buy: 11.19) 🔴 -57.8% total
+• MARA: 14.065 (Buy: 21.45) 🔴 -34.4% total
+• NIO: 5.225 (Buy: 10.54) 🔴 -50.4% total
+• O: 62.58 (Buy: 55.93) 🟢 +11.9% total
+• IBIT: 35.88 (Buy: 56.74) 🔴 -36.7% total
+• VDY.TO: 75.52 (Buy: 58.24) 🟢 +29.7% total
+• DIVO: 46.20 (Buy: 41.02) 🟢 +12.6% total
+• XEQT.TO: 44.48 (Buy: 37.10) 🟢 +19.9% total
+• IAU: 78.84 (Buy: 78.10) 🟢 +0.9% total
+• SCHF: 27.615 (Buy: 23.66) 🟢 +16.7% total
+• ZAG.TO: 13.81 (Buy: 14.01) 🔴 -1.4% total
+• XIC.TO: 55.80 (Buy: 41.81) 🟢 +33.5% total
+• NVDY: 12.855 (Buy: 15.92) 🔴 -19.2% total
 
-**🚀 Tactical Hedging & Opportunities**
+🚀 TACTICAL HEDGING & OPPORTUNITIES
+Market Regime: Bearish/Neutral (Weak futures, rising VIX)
 
-**Market Outlook: Bullish Rebound**
-The market is bouncing back from a sharp decline caused by geopolitical tensions (Iran). While the trend is recovering, VIX > 20 suggests we should not be blindly aggressive.
+Portfolio-Level Hedges:
+• VIX Hedge: With VIX at 19.62, consider a small long position in VIX calls or UVXY to protect against a spike > 20.
+• Equity Hedge: SPY Put Spreads (e.g., 730/720) to protect core equity exposure from a deeper pullback.
 
-**Portfolio-Level Hedges**
-* **Downside Protection:** With the VIX at 21.51, consider a protective put on SPY if the rebound stalls at resistance.
-* **Volatility Play:** Maintain IAU (Gold) as a primary hedge against geopolitical instability.
+Ticker-Specific Strategies:
+• SPCE: 🚨 EXTREME RISK. The -32.9% drop is catastrophic. Stop loss check. If holding for long-term, do NOT average down here. Consider selling covered calls (if quantity permits) at very low strikes to claw back some premium, but the primary focus is risk mitigation.
+• MARA: Riding a short-term bounce (+3.65%). Consider trimming if it hits 15.00 or selling a near-term OTM call to lock in gains.
+• O: Strong performance. Continue holding for dividends.
 
-**Ticker-Specific Strategies**
-* **SPCE (Speculative):** The 19% spike is a high-volatility event. *Strategy:* Avoid chasing. If it hits a key resistance level, consider selling covered calls to capture premium while reducing cost basis.
-* **MARA / IBIT (Crypto Proxy):** BTC is up 2.49%. *Strategy:* Bullish momentum. If BTC breaks previous local highs, hold. If it reverses, consider a tight stop-loss to protect the current rebound.
-* **O (Dividend):** Performing well. *Strategy:* Hold for the upcoming dividend pay date on June 15.
+📅 UPCOMING CATALYSTS (14 Days)
+• O: Dividend Pay Date - 2026-06-15 (Income incoming)
+• Macro: Check for June FOMC/CPI dates (refer to economic calendar).
 
-**📅 Upcoming Catalysts (Next 14 Days)**
-* **June 15:** O - Dividend Pay Date 💰
-* **Macro:** Monitor Fed speeches (Governor Barr) for clues on interest rate direction.
+🛠️ ACTION ITEMS
+1. SPCE Damage Control: Analyze the cause of the 33% drop. Determine if the investment thesis is broken.
+2. VIX Monitor: If VIX breaks 20, initiate the SPY put hedge.
+3. Income Capture: Confirm O dividend arrival on the 15th.
 
-**✅ Action Items for Today**
-1. **Ride the SPCE Momentum:** Monitor SPCE closely; do not add to the position, but look for an exit or income-generating option (covered call) if the spike peaks.
-2. **Verify Dividend Capture:** Ensure the account for 'O' is ready for the June 15 payout.
-3. **Monitor VIX:** If VIX drops below 20, shift from "defensive" to "growth" mode for speculative holdings.
+(News/Sentiment: unavailable)

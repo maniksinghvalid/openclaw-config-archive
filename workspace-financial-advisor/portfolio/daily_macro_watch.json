@@ -1,60 +1,34 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-06-11T11:21:38.560583Z",
+  "seeded_at": "2026-06-12T11:21:36.052909Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "US Producer Price Index (PPI) MoM",
-      "time_utc": "2026-06-11T12:30:00Z",
-      "priority": "high",
-      "impact": "Inflation Gauge",
-      "why_it_matters": "Leading indicator for CPI; higher than expected suggests sticky inflation and potential for higher rates.",
-      "watch_for": "SPY, QQQ, DXY",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-06-11T14:05:08.736807Z"
-    },
-    {
-      "title": "US Jobless Claims",
-      "time_utc": "2026-06-11T12:30:00Z",
+      "title": "US Consumer Confidence (Michigan)",
+      "time_utc": "2026-06-12T14:00:00Z",
       "priority": "medium",
-      "impact": "Labor Market Strength",
-      "why_it_matters": "Weekly pulse of the job market; spikes could signal cooling labor demand.",
+      "impact": "Consumer sentiment indicates future spending trends.",
+      "why_it_matters": "Lower confidence can signal a slowing economy and reduced corporate earnings.",
       "watch_for": "SPY, QQQ",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-11T14:05:08.736807Z"
+      "alert_sent_at": "2026-06-12T14:05:32.030863Z"
     },
     {
-      "title": "US Core PPI MoM",
-      "time_utc": "2026-06-11T12:30:00Z",
-      "priority": "high",
-      "impact": "Core Inflation",
-      "why_it_matters": "Excludes volatile food/energy; key metric for Fed policy decisions.",
-      "watch_for": "SPY, QQQ, DXY",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-06-11T14:05:08.736807Z"
-    },
-    {
-      "title": "CA Building Permits MoM",
-      "time_utc": "2026-06-11T12:30:00Z",
+      "title": "US Crude Oil Rigs",
+      "time_utc": "2026-06-12T17:00:00Z",
       "priority": "low",
-      "impact": "Housing Activity",
-      "why_it_matters": "Leading indicator for residential construction and economic growth in Canada.",
-      "watch_for": "CAD",
+      "impact": "Supply-side indicator for oil.",
+      "why_it_matters": "Significant changes in rig counts can lead to oil price volatility.",
+      "watch_for": "XLE, Oil",
       "actual": null,
       "consensus": null,
       "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-06-11T14:05:08.736807Z"
+      "status": "scheduled",
+      "alert_sent_at": null
     }
   ]
 }
