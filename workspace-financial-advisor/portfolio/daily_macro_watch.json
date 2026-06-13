@@ -1,34 +1,7 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-06-12T11:21:36.052909Z",
+  "seeded_at": "2026-06-13T11:21:35.487909Z",
   "watch_window": "hourly",
-  "events": [
-    {
-      "title": "US Consumer Confidence (Michigan)",
-      "time_utc": "2026-06-12T14:00:00Z",
-      "priority": "medium",
-      "impact": "Consumer sentiment indicates future spending trends.",
-      "why_it_matters": "Lower confidence can signal a slowing economy and reduced corporate earnings.",
-      "watch_for": "SPY, QQQ",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-06-12T14:05:32.030863Z"
-    },
-    {
-      "title": "US Crude Oil Rigs",
-      "time_utc": "2026-06-12T17:00:00Z",
-      "priority": "low",
-      "impact": "Supply-side indicator for oil.",
-      "why_it_matters": "Significant changes in rig counts can lead to oil price volatility.",
-      "watch_for": "XLE, Oil",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": null
-    }
-  ]
+  "events": []
 }
