@@ -1,60 +1,57 @@
-📊 PRE-MARKET PORTFOLIO REPORT
-Date: Friday, June 12, 2026
-Time: 14:00 UTC
+📊 PRE-MARKET PORTFOLIO REPORT - JUNE 15, 2026
 
-🚨 CRITICAL ALERTS
-• SPCE: 📉 MASSIVE DROP (-32.9%). Price: 4.355. Immediate review required.
-• CLOV: 📉 Down -3.38%. Price: 4.715.
-• MARA: 📈 Up +3.65%. Price: 14.065.
+🚀 MARKET REGIME & VIBE
+* Sentiment: Neutral to Fear (Fear & Greed Index around 42-47)
+* VIX: 16.34 (📉 Down 7.63%) - Low volatility environment, but cautious sentiment.
+* Futures: S&P 500 futures showing strength. If levels hold above 7,480, path toward record highs remains open.
+* Macro Vibe: Market is in a "wait and see" mode ahead of a key Fed decision this Wednesday.
 
-🌍 MARKET REGIME & MACRO
-• VIX: 19.62 (Approaching 20 - Caution advised).
-• S&P 500 (SPY): 737.86 (-0.22%)
-• Nasdaq (QQQ): 715.98 (-0.47%)
-• Sentiment: Mixed/Cautious. Equity futures are slightly red, suggesting a weak or flat open.
-• Vibe: Shift toward downside protection as VIX creeps up.
+📈 PORTFOLIO SNAPSHOT
+* Total Value: $14,188.33 USD
+* Total P&L: -$1,913.61 (-11.88%)
+* FX Rate (CAD/USD): 0.7155
 
-💰 PORTFOLIO SNAPSHOT
-• Total Value (USD): 13,981.19
-• Total P&L (USD): -2,120.75
-• Total P&L (%): -13.17%
-• CAD/USD: 0.7154
+⚠️ SIGNIFICANT PRICE MOVEMENTS (>5%)
+* MARA: +5.64% (Bullish momentum in crypto-linked equities)
+* SPCE: +5.04% (Speculative bounce)
+* ^VIX: -7.63% (Volatility crushing, generally bullish for equities)
 
-📈 HOLDINGS PERFORMANCE
-• SPCE: 4.355 (Buy: 11.90) 🔴 -63.3% total
-• CLOV: 4.715 (Buy: 11.19) 🔴 -57.8% total
-• MARA: 14.065 (Buy: 21.45) 🔴 -34.4% total
-• NIO: 5.225 (Buy: 10.54) 🔴 -50.4% total
-• O: 62.58 (Buy: 55.93) 🟢 +11.9% total
-• IBIT: 35.88 (Buy: 56.74) 🔴 -36.7% total
-• VDY.TO: 75.52 (Buy: 58.24) 🟢 +29.7% total
-• DIVO: 46.20 (Buy: 41.02) 🟢 +12.6% total
-• XEQT.TO: 44.48 (Buy: 37.10) 🟢 +19.9% total
-• IAU: 78.84 (Buy: 78.10) 🟢 +0.9% total
-• SCHF: 27.615 (Buy: 23.66) 🟢 +16.7% total
-• ZAG.TO: 13.81 (Buy: 14.01) 🔴 -1.4% total
-• XIC.TO: 55.80 (Buy: 41.81) 🟢 +33.5% total
-• NVDY: 12.855 (Buy: 15.92) 🔴 -19.2% total
+💰 HOLDING PERFORMANCE & STATUS
+* IBIT: $37.56 (+4.38%) - Strong BTC momentum.
+* IAU: $81.91 (+3.38%) - Gold hedge performing well.
+* MARA: $14.90 (+5.64%) - Outperforming.
+* SPCE: $4.07 (+5.04%) - Recovery attempt.
+* NIO: $5.28 (+1.15%) - Stable.
+* O: $62.80 (+0.22%) - Income steady.
+* CLOV: $4.61 (-2.85%) - Underperforming.
+* NVDY: $13.10 (+1.24%) - Yield generation active.
+* XEQT.TO: $45.26 (+1.30%)
+* XIC.TO: $56.48 (+0.95%)
+* VDY.TO: $75.07 (-0.78%)
+* ZAG.TO: $13.86 (+0.22%)
+* SCHF: $28.08 (+0.70%)
+* DIVO: $46.59 (+0.37%)
 
-🚀 TACTICAL HEDGING & OPPORTUNITIES
-Market Regime: Bearish/Neutral (Weak futures, rising VIX)
+🛡️ TACTICAL HEDGING & OPPORTUNITIES
+Current Market Condition: Bullish bias but high Macro Uncertainty (Fed Wednesday).
 
 Portfolio-Level Hedges:
-• VIX Hedge: With VIX at 19.62, consider a small long position in VIX calls or UVXY to protect against a spike > 20.
-• Equity Hedge: SPY Put Spreads (e.g., 730/720) to protect core equity exposure from a deeper pullback.
+* VIX Hedge: With VIX low (16.34), the cost of downside protection is relatively cheap. Consider a small position in VIX calls or a put spread on SPY for Wednesday's Fed event.
+* Gold Stability: IAU is trending up (+3.38%). Maintain current gold weight as a hedge against potential Fed hawkishness.
 
 Ticker-Specific Strategies:
-• SPCE: 🚨 EXTREME RISK. The -32.9% drop is catastrophic. Stop loss check. If holding for long-term, do NOT average down here. Consider selling covered calls (if quantity permits) at very low strikes to claw back some premium, but the primary focus is risk mitigation.
-• MARA: Riding a short-term bounce (+3.65%). Consider trimming if it hits 15.00 or selling a near-term OTM call to lock in gains.
-• O: Strong performance. Continue holding for dividends.
+* MARA/IBIT: These are surging. Consider selling "Covered Calls" (slightly out-of-the-money) to lock in gains and generate income while holding the upside.
+* SPCE/CLOV: High volatility speculative plays. Avoid adding new capital here until a clear trend emerges.
+* O (Realty Income): Dividend pay date today (June 15). Ensure account is ready for credit.
 
-📅 UPCOMING CATALYSTS (14 Days)
-• O: Dividend Pay Date - 2026-06-15 (Income incoming)
-• Macro: Check for June FOMC/CPI dates (refer to economic calendar).
+📅 UPCOMING CATALYSTS (14-Day Window)
+* June 15: O - Dividend Pay Date (TODAY)
+* June 17-18: Estimated FOMC/Fed Decision (High Impact - Expect volatility)
+* June 30: O - Ex-Dividend Date
 
-🛠️ ACTION ITEMS
-1. SPCE Damage Control: Analyze the cause of the 33% drop. Determine if the investment thesis is broken.
-2. VIX Monitor: If VIX breaks 20, initiate the SPY put hedge.
-3. Income Capture: Confirm O dividend arrival on the 15th.
+💡 ACTION ITEMS
+1. Lock in Crypto Gains: Evaluate selling covered calls on MARA/IBIT to capture current premiums.
+2. Fed Event Prep: Tighten stop-losses on speculative holdings (SPCE, CLOV) before Wednesday's Fed meeting.
+3. Income Check: Confirm receipt of O dividend payment.
 
-(News/Sentiment: unavailable)
+(Sentiment data for individual tickers was limited in current scan, but macro-indicators suggest a cautious bullish trend.)
