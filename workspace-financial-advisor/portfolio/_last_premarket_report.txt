@@ -1,57 +1,53 @@
-📊 PRE-MARKET PORTFOLIO REPORT - JUNE 15, 2026
+📊 **Manik's Daily Portfolio Report**
+📅 June 17, 2026 | 12:30 PM UTC
 
-🚀 MARKET REGIME & VIBE
-* Sentiment: Neutral to Fear (Fear & Greed Index around 42-47)
-* VIX: 16.34 (📉 Down 7.63%) - Low volatility environment, but cautious sentiment.
-* Futures: S&P 500 futures showing strength. If levels hold above 7,480, path toward record highs remains open.
-* Macro Vibe: Market is in a "wait and see" mode ahead of a key Fed decision this Wednesday.
+**🚀 Market Regime & Vibe**
+* **Sentiment:** Fear/Greed Index is at **39.29 (Fear)**. Market is cautious.
+* **VIX:** **16.34** (Low to Moderate). No immediate panic, but sentiment is leaning bearish.
+* **Indices:** S&P 500 and Nasdaq futures are edging slightly higher ahead of a key Fed decision.
+* **Macro Backdrop:** All eyes on new Fed Chairman Kevin Warsh. Markets are in "wait-and-see" mode regarding policy signals.
 
-📈 PORTFOLIO SNAPSHOT
-* Total Value: $14,188.33 USD
-* Total P&L: -$1,913.61 (-11.88%)
-* FX Rate (CAD/USD): 0.7155
+**📉 Portfolio Performance Snapshot**
+* **Total Value:** $14,071.89 USD
+* **Total P&L:** -$2,023.79 (-12.57%)
+* **FX Rate:** 1 CAD = 0.7139 USD
 
-⚠️ SIGNIFICANT PRICE MOVEMENTS (>5%)
-* MARA: +5.64% (Bullish momentum in crypto-linked equities)
-* SPCE: +5.04% (Speculative bounce)
-* ^VIX: -7.63% (Volatility crushing, generally bullish for equities)
+**⚠️ Price Alerts (>5% Move)**
+* No holdings moved more than 5% today.
 
-💰 HOLDING PERFORMANCE & STATUS
-* IBIT: $37.56 (+4.38%) - Strong BTC momentum.
-* IAU: $81.91 (+3.38%) - Gold hedge performing well.
-* MARA: $14.90 (+5.64%) - Outperforming.
-* SPCE: $4.07 (+5.04%) - Recovery attempt.
-* NIO: $5.28 (+1.15%) - Stable.
-* O: $62.80 (+0.22%) - Income steady.
-* CLOV: $4.61 (-2.85%) - Underperforming.
-* NVDY: $13.10 (+1.24%) - Yield generation active.
-* XEQT.TO: $45.26 (+1.30%)
-* XIC.TO: $56.48 (+0.95%)
-* VDY.TO: $75.07 (-0.78%)
-* ZAG.TO: $13.86 (+0.22%)
-* SCHF: $28.08 (+0.70%)
-* DIVO: $46.59 (+0.37%)
+**📈 Holding Updates**
+* **O:** $62.17 (+0.23%) - Holding steady.
+* **SPCE:** $3.35 (+1.52%) - Slight bounce.
+* **CLOV:** $4.94 (-0.35%) - Trending sideways.
+* **MARA:** $14.42 (-0.55%) - Following BTC weakness.
+* **NIO:** $5.01 (-0.10%) - Stable but under pressure.
+* **IBIT:** $37.17 (-0.09%) - BTC at $64,530.
+* **XIC.TO:** $56.70 (+0.37%)
+* **VDY.TO:** $75.50 (+0.07%)
+* **XEQT.TO:** $45.20 (-0.19%)
+* **ZAG.TO:** $13.85 (+0.07%)
 
-🛡️ TACTICAL HEDGING & OPPORTUNITIES
-Current Market Condition: Bullish bias but high Macro Uncertainty (Fed Wednesday).
+**📰 News & Sentiment**
+* **NIO:** Ongoing "Bulls vs Bears" war. Bullishness is driven by the first profitable quarter in Q4 2025, while bears highlight long-term losses and Chinese EV competition.
+* **CLOV:** Revenue grew to $749.2M in Q1 2026 with an EPS of $0.05, showing improved core business health.
+* **Macro:** High focus on the Fed's policy announcement today.
 
-Portfolio-Level Hedges:
-* VIX Hedge: With VIX low (16.34), the cost of downside protection is relatively cheap. Consider a small position in VIX calls or a put spread on SPY for Wednesday's Fed event.
-* Gold Stability: IAU is trending up (+3.38%). Maintain current gold weight as a hedge against potential Fed hawkishness.
+**🛡️ TACTICAL HEDGING & OPPORTUNITIES**
+* **Market Bias:** Neutral to Bearish (Sentiment in Fear).
+* **Portfolio-Level Hedge:**
+  * **Equity Hedge:** Since VIX is relatively low (16.34) but sentiment is "Fear," consider a small position in **VIX Call Options** or **SPY Put Spreads** if the Fed announcement comes in hawkish.
+  * **Currency Hedge:** CAD/USD is at 0.7139. If US rates stay high, CAD may weaken further. Maintain current CAD holdings as a diversification.
+* **Ticker-Specific Strategies:**
+  * **NIO/MARA:** Both are high-beta. If BTC drops below $60k, these will crater. Consider **Protective Puts** on MARA to lock in a floor.
+  * **O (Realty Income):** With a medium risk profile, selling **Covered Calls** (Out-of-the-money) on O could generate extra income while the stock trades sideways.
+  * **SPCE/CLOV:** Purely speculative. No new entries. Hold and monitor.
 
-Ticker-Specific Strategies:
-* MARA/IBIT: These are surging. Consider selling "Covered Calls" (slightly out-of-the-money) to lock in gains and generate income while holding the upside.
-* SPCE/CLOV: High volatility speculative plays. Avoid adding new capital here until a clear trend emerges.
-* O (Realty Income): Dividend pay date today (June 15). Ensure account is ready for credit.
+**📅 Upcoming Catalysts (14-Day Window)**
+* **O:** Ex-Dividend on June 30 (Mark your calendar for dividend capture).
+* **Macro:** Fed Policy Announcement (Today) - High Impact.
+* **Macro:** Expected CPI/PCE data releases late June (Monitor for inflation surprises).
 
-📅 UPCOMING CATALYSTS (14-Day Window)
-* June 15: O - Dividend Pay Date (TODAY)
-* June 17-18: Estimated FOMC/Fed Decision (High Impact - Expect volatility)
-* June 30: O - Ex-Dividend Date
-
-💡 ACTION ITEMS
-1. Lock in Crypto Gains: Evaluate selling covered calls on MARA/IBIT to capture current premiums.
-2. Fed Event Prep: Tighten stop-losses on speculative holdings (SPCE, CLOV) before Wednesday's Fed meeting.
-3. Income Check: Confirm receipt of O dividend payment.
-
-(Sentiment data for individual tickers was limited in current scan, but macro-indicators suggest a cautious bullish trend.)
+**🎯 Top 3 Action Items for Today**
+1. **Monitor Fed Announcement:** Immediate impact on SPY/QQQ and your speculative holdings (MARA/NIO).
+2. **Set Stop-Losses:** Tighten stops on SPCE and CLOV to protect remaining capital if the market turns sharply.
+3. **Review O Position:** Evaluate if current price ($62.17) is an ideal spot to write a Covered Call for July income.

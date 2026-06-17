@@ -1,60 +1,73 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-06-16T11:28:06.038453Z",
+  "seeded_at": "2026-06-17T11:21:59.887716Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "US Building Permits",
-      "time_utc": "2026-06-16T12:30:00Z",
-      "priority": "low",
-      "impact": "Measures new residential construction activity.",
-      "why_it_matters": "Indicator of housing market health and future economic growth.",
-      "watch_for": "SPY, QQQ",
+      "title": "US Retail Sales",
+      "time_utc": "2026-06-17T12:30:00Z",
+      "priority": "high",
+      "impact": "Consumer spending strength",
+      "why_it_matters": "Primary gauge of consumer demand; impacts GDP and Fed outlook",
+      "watch_for": "SPY, QQQ, DXY",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-16T14:10:20.758493Z"
+      "alert_sent_at": "2026-06-17T14:05:13.976406Z"
     },
     {
-      "title": "US Housing Starts",
-      "time_utc": "2026-06-16T12:30:00Z",
-      "priority": "low",
-      "impact": "Measures the number of new residential construction projects.",
-      "why_it_matters": "Leading indicator of economic activity and housing demand.",
-      "watch_for": "SPY, QQQ",
+      "title": "US Jobless Claims",
+      "time_utc": "2026-06-17T12:30:00Z",
+      "priority": "high",
+      "impact": "Labor market tightness",
+      "why_it_matters": "Weekly trend of unemployment filings; shifts Fed rate expectations",
+      "watch_for": "SPY, QQQ, DXY, 2Y Yield",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-16T14:10:20.758493Z"
+      "alert_sent_at": "2026-06-17T14:05:13.976406Z"
     },
     {
-      "title": "US Import/Export Prices",
-      "time_utc": "2026-06-16T12:30:00Z",
+      "title": "CA House Price Index",
+      "time_utc": "2026-06-17T12:30:00Z",
       "priority": "medium",
-      "impact": "Tracks inflation in goods crossing borders.",
-      "why_it_matters": "Influences overall CPI and monetary policy expectations.",
-      "watch_for": "DXY, SPY",
+      "impact": "Canadian housing market health",
+      "why_it_matters": "Indicator of real estate stability and consumer wealth in Canada",
+      "watch_for": "CAD, FX",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-16T14:10:20.758493Z"
+      "alert_sent_at": "2026-06-17T14:05:13.976406Z"
     },
     {
-      "title": "CA Foreign Stock Investment",
-      "time_utc": "2026-06-16T12:30:00Z",
-      "priority": "low",
-      "impact": "Tracks Canadian investment in foreign equities.",
-      "why_it_matters": "Indicator of capital flows and investor sentiment.",
-      "watch_for": "CAD",
+      "title": "US Crude Oil Stocks",
+      "time_utc": "2026-06-17T14:30:00Z",
+      "priority": "medium",
+      "impact": "Energy supply balance",
+      "why_it_matters": "Impacts oil prices and energy sector equities",
+      "watch_for": "CL, XLE",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-16T14:10:20.758493Z"
+      "alert_sent_at": "2026-06-17T15:05:23.007101Z"
+    },
+    {
+      "title": "US Interest Rate",
+      "time_utc": "2026-06-17T18:00:00Z",
+      "priority": "high",
+      "impact": "Monetary policy stance",
+      "why_it_matters": "Actual rate decision or statement; direct impact on borrowing costs",
+      "watch_for": "SPY, QQQ, DXY, 10Y Yield",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "scheduled",
+      "alert_sent_at": null
     }
   ]
 }
