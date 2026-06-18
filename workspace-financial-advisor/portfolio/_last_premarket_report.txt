@@ -1,53 +1,53 @@
-📊 **Manik's Daily Portfolio Report**
-📅 June 17, 2026 | 12:30 PM UTC
+📊 PRE-MARKET PORTFOLIO REPORT - June 18, 2026
 
-**🚀 Market Regime & Vibe**
-* **Sentiment:** Fear/Greed Index is at **39.29 (Fear)**. Market is cautious.
-* **VIX:** **16.34** (Low to Moderate). No immediate panic, but sentiment is leaning bearish.
-* **Indices:** S&P 500 and Nasdaq futures are edging slightly higher ahead of a key Fed decision.
-* **Macro Backdrop:** All eyes on new Fed Chairman Kevin Warsh. Markets are in "wait-and-see" mode regarding policy signals.
+📉 MARKET REGIME: BEARISH / FEAR
+* Sentiment: Fear (Index: 33)
+* VIX: 17.36 (Moderate, but trending down -5.8%)
+* SPY: 740.96 (-0.63%)
+* QQQ: 722.51 (-1.02%)
+* Outlook: Markets are showing weakness, particularly in Tech (QQQ). Sentiment is firmly in 'Fear' territory, suggesting a defensive posture is warranted.
 
-**📉 Portfolio Performance Snapshot**
-* **Total Value:** $14,071.89 USD
-* **Total P&L:** -$2,023.79 (-12.57%)
-* **FX Rate:** 1 CAD = 0.7139 USD
+⚠️ HOLDING ALERTS (>5% Move)
+* No holdings moved >5% today.
 
-**⚠️ Price Alerts (>5% Move)**
-* No holdings moved more than 5% today.
+💰 PORTFOLIO SNAPSHOT
+* Total Value: $13,870.66 USD
+* Total P&L: -$2,202.47 (-13.7%)
+* FX (CAD/USD): 0.7086
 
-**📈 Holding Updates**
-* **O:** $62.17 (+0.23%) - Holding steady.
-* **SPCE:** $3.35 (+1.52%) - Slight bounce.
-* **CLOV:** $4.94 (-0.35%) - Trending sideways.
-* **MARA:** $14.42 (-0.55%) - Following BTC weakness.
-* **NIO:** $5.01 (-0.10%) - Stable but under pressure.
-* **IBIT:** $37.17 (-0.09%) - BTC at $64,530.
-* **XIC.TO:** $56.70 (+0.37%)
-* **VDY.TO:** $75.50 (+0.07%)
-* **XEQT.TO:** $45.20 (-0.19%)
-* **ZAG.TO:** $13.85 (+0.07%)
+📋 CURRENT HOLDINGS
+* SPCE: $3.49 (Buy: $11.90) - 50 units
+* CLOV: $4.80 (Buy: $11.19) - 100 units
+* MARA: $13.92 (Buy: $21.45) - 50 units
+* NIO: $5.05 (Buy: $10.54) - 200 units
+* O: $60.57 (Buy: $55.93) - 30 units
+* IBIT: $36.36 (Buy: $56.74) - 38 units
+* VDY.TO: $75.53 (Buy: $58.24) - 20 units
+* DIVO: $46.18 (Buy: $41.02) - 51 units
+* XEQT.TO: $45.07 (Buy: $37.10) - 51 units (Combined)
+* IAU: $79.64 (Buy: $78.10) - 15 units
+* SCHF: $27.92 (Buy: $23.66) - 30 units
+* ZAG.TO: $13.82 (Buy: $14.01) - 50 units
+* XIC.TO: $56.27 (Buy: $41.81) - 10 units
+* NVDY: $12.96 (Buy: $15.92) - 26 units
 
-**📰 News & Sentiment**
-* **NIO:** Ongoing "Bulls vs Bears" war. Bullishness is driven by the first profitable quarter in Q4 2025, while bears highlight long-term losses and Chinese EV competition.
-* **CLOV:** Revenue grew to $749.2M in Q1 2026 with an EPS of $0.05, showing improved core business health.
-* **Macro:** High focus on the Fed's policy announcement today.
+🚀 TACTICAL HEDGING & OPPORTUNITIES
+Market Regime: Bearish/Fear
 
-**🛡️ TACTICAL HEDGING & OPPORTUNITIES**
-* **Market Bias:** Neutral to Bearish (Sentiment in Fear).
-* **Portfolio-Level Hedge:**
-  * **Equity Hedge:** Since VIX is relatively low (16.34) but sentiment is "Fear," consider a small position in **VIX Call Options** or **SPY Put Spreads** if the Fed announcement comes in hawkish.
-  * **Currency Hedge:** CAD/USD is at 0.7139. If US rates stay high, CAD may weaken further. Maintain current CAD holdings as a diversification.
-* **Ticker-Specific Strategies:**
-  * **NIO/MARA:** Both are high-beta. If BTC drops below $60k, these will crater. Consider **Protective Puts** on MARA to lock in a floor.
-  * **O (Realty Income):** With a medium risk profile, selling **Covered Calls** (Out-of-the-money) on O could generate extra income while the stock trades sideways.
-  * **SPCE/CLOV:** Purely speculative. No new entries. Hold and monitor.
+Portfolio-Level Hedges:
+* Consider Long Put Spreads on QQQ to hedge the overall equity downturn, specifically targeting the 710-720 range.
+* Increase IAU allocation if VIX spikes back above 20, as gold typically acts as a safe haven during high-fear regimes.
 
-**📅 Upcoming Catalysts (14-Day Window)**
-* **O:** Ex-Dividend on June 30 (Mark your calendar for dividend capture).
-* **Macro:** Fed Policy Announcement (Today) - High Impact.
-* **Macro:** Expected CPI/PCE data releases late June (Monitor for inflation surprises).
+Ticker-Specific Strategies:
+* O (Realty Income): Currently in profit. Consider selling Covered Calls at $65 strike to generate income while protecting gains.
+* NVDY: High volatility. Use cash-secured puts if looking to lower cost basis, but only if the overall market stabilizes.
+* Speculative (SPCE, CLOV, NIO): High unrealized losses. Avoid averaging down during this 'Fear' regime; wait for a sentiment reversal (Fear & Greed > 45).
 
-**🎯 Top 3 Action Items for Today**
-1. **Monitor Fed Announcement:** Immediate impact on SPY/QQQ and your speculative holdings (MARA/NIO).
-2. **Set Stop-Losses:** Tighten stops on SPCE and CLOV to protect remaining capital if the market turns sharply.
-3. **Review O Position:** Evaluate if current price ($62.17) is an ideal spot to write a Covered Call for July income.
+📅 UPCOMING CATALYSTS (Next 14 Days)
+* O: Ex-Dividend on June 30 (Upcoming)
+* Macro: Monitor Federal Reserve communications for any shifts in rate expectations.
+
+✅ ACTION ITEMS
+1. Hedge Tech Exposure: Look into QQQ puts to mitigate downside risk given the current bearish vibe.
+2. Lock in O Gains: Explore covered calls for O to monetize current profit.
+3. Defensive Wait: Maintain current positions in speculative assets; do not add capital until sentiment improves.

@@ -1,73 +1,47 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-06-17T11:21:59.887716Z",
+  "seeded_at": "2026-06-18T11:21:43.247340Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "US Retail Sales",
-      "time_utc": "2026-06-17T12:30:00Z",
+      "title": "US Jobless Claims",
+      "time_utc": "2026-06-18T12:30:00Z",
       "priority": "high",
-      "impact": "Consumer spending strength",
-      "why_it_matters": "Primary gauge of consumer demand; impacts GDP and Fed outlook",
+      "impact": "Labor market health indicator. High claims can signal economic cooling, potentially leading to dovish Fed shifts.",
+      "why_it_matters": "Key weekly gauge of unemployment trend.",
       "watch_for": "SPY, QQQ, DXY",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-17T14:05:13.976406Z"
+      "alert_sent_at": "2026-06-18T14:05:30.098469Z"
     },
     {
-      "title": "US Jobless Claims",
-      "time_utc": "2026-06-17T12:30:00Z",
-      "priority": "high",
-      "impact": "Labor market tightness",
-      "why_it_matters": "Weekly trend of unemployment filings; shifts Fed rate expectations",
-      "watch_for": "SPY, QQQ, DXY, 2Y Yield",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-06-17T14:05:13.976406Z"
-    },
-    {
-      "title": "CA House Price Index",
-      "time_utc": "2026-06-17T12:30:00Z",
+      "title": "US Philly Fed Manufacturing Index",
+      "time_utc": "2026-06-18T12:30:00Z",
       "priority": "medium",
-      "impact": "Canadian housing market health",
-      "why_it_matters": "Indicator of real estate stability and consumer wealth in Canada",
-      "watch_for": "CAD, FX",
+      "impact": "Indicator of regional industrial health. Strong data suggests economic resilience.",
+      "why_it_matters": "Leading indicator for national manufacturing trends.",
+      "watch_for": "SPY, QQQ",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-17T14:05:13.976406Z"
+      "alert_sent_at": "2026-06-18T14:05:30.098469Z"
     },
     {
-      "title": "US Crude Oil Stocks",
-      "time_utc": "2026-06-17T14:30:00Z",
+      "title": "CA Producer Price Inflation MoM",
+      "time_utc": "2026-06-18T12:30:00Z",
       "priority": "medium",
-      "impact": "Energy supply balance",
-      "why_it_matters": "Impacts oil prices and energy sector equities",
-      "watch_for": "CL, XLE",
+      "impact": "Measures wholesale price changes. Rising PPI often precedes consumer inflation.",
+      "why_it_matters": "Input for BoC interest rate decisions.",
+      "watch_for": "CAD, Bonds",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-17T15:05:23.007101Z"
-    },
-    {
-      "title": "US Interest Rate",
-      "time_utc": "2026-06-17T18:00:00Z",
-      "priority": "high",
-      "impact": "Monetary policy stance",
-      "why_it_matters": "Actual rate decision or statement; direct impact on borrowing costs",
-      "watch_for": "SPY, QQQ, DXY, 10Y Yield",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": null
+      "alert_sent_at": "2026-06-18T14:05:30.098469Z"
     }
   ]
 }
