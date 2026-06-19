@@ -1,47 +1,47 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-06-18T11:21:43.247340Z",
+  "seeded_at": "2026-06-19T11:21:41.440001Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "US Jobless Claims",
-      "time_utc": "2026-06-18T12:30:00Z",
-      "priority": "high",
-      "impact": "Labor market health indicator. High claims can signal economic cooling, potentially leading to dovish Fed shifts.",
-      "why_it_matters": "Key weekly gauge of unemployment trend.",
-      "watch_for": "SPY, QQQ, DXY",
+      "title": "CA Small Business Sentiment",
+      "time_utc": "2026-06-19T11:00:00Z",
+      "priority": "low",
+      "impact": "Low",
+      "why_it_matters": "Indicator of business confidence in Canada.",
+      "watch_for": "CAD",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-18T14:05:30.098469Z"
+      "alert_sent_at": "2026-06-19T14:05:29.031487Z"
     },
     {
-      "title": "US Philly Fed Manufacturing Index",
-      "time_utc": "2026-06-18T12:30:00Z",
+      "title": "CA Retail Sales",
+      "time_utc": "2026-06-19T12:30:00Z",
       "priority": "medium",
-      "impact": "Indicator of regional industrial health. Strong data suggests economic resilience.",
-      "why_it_matters": "Leading indicator for national manufacturing trends.",
-      "watch_for": "SPY, QQQ",
+      "impact": "Moderate",
+      "why_it_matters": "Measures consumer spending health in Canada, influencing BoC rate decisions.",
+      "watch_for": "CAD, TSX",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-18T14:05:30.098469Z"
+      "alert_sent_at": "2026-06-19T14:05:29.031487Z"
     },
     {
-      "title": "CA Producer Price Inflation MoM",
-      "time_utc": "2026-06-18T12:30:00Z",
-      "priority": "medium",
-      "impact": "Measures wholesale price changes. Rising PPI often precedes consumer inflation.",
-      "why_it_matters": "Input for BoC interest rate decisions.",
-      "watch_for": "CAD, Bonds",
+      "title": "CA Retail Sales ex-Autos",
+      "time_utc": "2026-06-19T12:30:00Z",
+      "priority": "low",
+      "impact": "Low",
+      "why_it_matters": "Core consumer spending excluding volatile auto sales.",
+      "watch_for": "CAD",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-18T14:05:30.098469Z"
+      "alert_sent_at": "2026-06-19T14:05:29.031487Z"
     }
   ]
 }

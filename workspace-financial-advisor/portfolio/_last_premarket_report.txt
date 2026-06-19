@@ -1,53 +1,64 @@
-📊 PRE-MARKET PORTFOLIO REPORT - June 18, 2026
+📊 PRE-MARKET PORTFOLIO REPORT 📈
+Friday, June 19th, 2026
 
-📉 MARKET REGIME: BEARISH / FEAR
-* Sentiment: Fear (Index: 33)
-* VIX: 17.36 (Moderate, but trending down -5.8%)
-* SPY: 740.96 (-0.63%)
-* QQQ: 722.51 (-1.02%)
-* Outlook: Markets are showing weakness, particularly in Tech (QQQ). Sentiment is firmly in 'Fear' territory, suggesting a defensive posture is warranted.
+🚀 MARKET REGIME: FEAR
+- Fear & Greed Index: 37 (Fear)
+- VIX: 17.13 (Rising +4.45%)
+- Sentiment: Investors are leaning cautious. VIX is ticking up, suggesting an increase in hedging demand.
+- Futures: SPY (+0.15%), QQQ (+1.46%) - Tech leading the overnight recovery, but overall vibe remains fragile.
 
-⚠️ HOLDING ALERTS (>5% Move)
-* No holdings moved >5% today.
+⚠️ 5% MOVEMENT ALERTS
+- CLOV: +4.82% (Approaching alert threshold)
+- All other holdings within normal volatility range.
 
 💰 PORTFOLIO SNAPSHOT
-* Total Value: $13,870.66 USD
-* Total P&L: -$2,202.47 (-13.7%)
-* FX (CAD/USD): 0.7086
+- Total Value: $13,859.09 USD
+- Total P&L: -$2,205.28 (-13.73%)
+- FX (CAD/USD): 0.7066
 
-📋 CURRENT HOLDINGS
-* SPCE: $3.49 (Buy: $11.90) - 50 units
-* CLOV: $4.80 (Buy: $11.19) - 100 units
-* MARA: $13.92 (Buy: $21.45) - 50 units
-* NIO: $5.05 (Buy: $10.54) - 200 units
-* O: $60.57 (Buy: $55.93) - 30 units
-* IBIT: $36.36 (Buy: $56.74) - 38 units
-* VDY.TO: $75.53 (Buy: $58.24) - 20 units
-* DIVO: $46.18 (Buy: $41.02) - 51 units
-* XEQT.TO: $45.07 (Buy: $37.10) - 51 units (Combined)
-* IAU: $79.64 (Buy: $78.10) - 15 units
-* SCHF: $27.92 (Buy: $23.66) - 30 units
-* ZAG.TO: $13.82 (Buy: $14.01) - 50 units
-* XIC.TO: $56.27 (Buy: $41.81) - 10 units
-* NVDY: $12.96 (Buy: $15.92) - 26 units
+ holdings:
+- SPY: $746.74 (+0.15%)
+- QQQ: $740.62 (+1.46%)
+- IBIT: $35.62 (-2.39%)
+- NIO: $5.02 (-1.00%)
+- O: $60.24 (-0.95%)
+- MARA: $14.22 (+0.40%)
+- CLOV: $5.00 (+4.82%)
+- SPCE: $3.56 (+1.71%)
+- NVDY: $13.08 (+0.31%)
+- DIVO: $45.87 (-1.36%)
+- IAU: $79.33 (-1.38%)
+- SCHF: $28.23 (-1.91%)
+- XEQT.TO: $45.44 (+0.82%)
+- XIC.TO: $56.02 (-0.44%)
+- VDY.TO: $75.53 (0.00%)
+- ZAG.TO: $13.85 (+0.25%)
 
-🚀 TACTICAL HEDGING & OPPORTUNITIES
-Market Regime: Bearish/Fear
+📰 NEWS & SENTIMENT
+- NIO: Mixed signals; Adanos showing a 'Hold'. Retail buzz is stagnant.
+- SPCE: Bearish sentiment; Adanos signaling 'Sell'.
+- General: Tech (QQQ) is seeing a bounce, but crypto (IBIT) is under pressure (-2.39%).
+
+🛡️ TACTICAL HEDGING & OPPORTUNITIES
+Market Condition: Sideways to Bearish (Fear regime)
 
 Portfolio-Level Hedges:
-* Consider Long Put Spreads on QQQ to hedge the overall equity downturn, specifically targeting the 710-720 range.
-* Increase IAU allocation if VIX spikes back above 20, as gold typically acts as a safe haven during high-fear regimes.
+- VIX Hedge: Since VIX is rising (17.13), consider a small position in UVXY or long VIX calls if fear intensifies toward 20+.
+- Tail Risk: The portfolio is heavy on speculative names (NIO, SPCE, CLOV). A broad market dip will amplify these losses.
 
 Ticker-Specific Strategies:
-* O (Realty Income): Currently in profit. Consider selling Covered Calls at $65 strike to generate income while protecting gains.
-* NVDY: High volatility. Use cash-secured puts if looking to lower cost basis, but only if the overall market stabilizes.
-* Speculative (SPCE, CLOV, NIO): High unrealized losses. Avoid averaging down during this 'Fear' regime; wait for a sentiment reversal (Fear & Greed > 45).
+- NIO/SPCE: High volatility. Avoid adding to these positions. If holding costs are an issue, consider selling covered calls at high strikes to harvest premium during this sideways movement.
+- IBIT: Bitcoin is dipping. If bullish long-term, this is a DCA zone; otherwise, use a protective put if the $60k level fails.
+- O (Realty Income): Solid dividend payer. Use the current dip to potentially add if the risk profile allows.
 
-📅 UPCOMING CATALYSTS (Next 14 Days)
-* O: Ex-Dividend on June 30 (Upcoming)
-* Macro: Monitor Federal Reserve communications for any shifts in rate expectations.
+📅 UPCOMING CATALYSTS (14-Day Window)
+- O (Realty Income): Ex-Dividend on June 30th. Ensure shares are held by this date to capture the payout.
+
+Macro Watch:
+- Quarter-end macro setup is being tracked by traders.
+- Monitor upcoming PCE/CPI data for inflation trends.
 
 ✅ ACTION ITEMS
-1. Hedge Tech Exposure: Look into QQQ puts to mitigate downside risk given the current bearish vibe.
-2. Lock in O Gains: Explore covered calls for O to monetize current profit.
-3. Defensive Wait: Maintain current positions in speculative assets; do not add capital until sentiment improves.
+1. Monitor O (Realty Income) for June 30th Ex-Dividend date.
+2. Tighten stop-losses on speculative holdings (SPCE/CLOV) given the 'Fear' regime.
+3. Evaluate a VIX-based hedge if VIX crosses 20.
