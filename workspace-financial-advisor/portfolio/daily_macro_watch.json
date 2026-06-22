@@ -1,7 +1,86 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-06-21T11:22:24.656522Z",
+  "seeded_at": "2026-06-22T11:21:53.590801Z",
   "watch_window": "hourly",
-  "events": []
+  "events": [
+    {
+      "title": "Canada CPI (YoY)",
+      "time_utc": "2026-06-22T12:30:00Z",
+      "priority": "high",
+      "impact": "High",
+      "why_it_matters": "Primary inflation gauge for BoC; influences rate path.",
+      "watch_for": "CAD, SPY",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-06-22T14:06:56.105728Z"
+    },
+    {
+      "title": "Canada Core Inflation Rate",
+      "time_utc": "2026-06-22T12:30:00Z",
+      "priority": "medium",
+      "impact": "Medium",
+      "why_it_matters": "BoC focuses on core metrics to filter noise.",
+      "watch_for": "CAD",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-06-22T14:06:56.105728Z"
+    },
+    {
+      "title": "US Composite PMI",
+      "time_utc": "2026-06-22T13:45:00Z",
+      "priority": "medium",
+      "impact": "Medium",
+      "why_it_matters": "Broad measure of US economic health.",
+      "watch_for": "SPY, QQQ",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-06-22T14:06:56.105728Z"
+    },
+    {
+      "title": "US Manufacturing PMI",
+      "time_utc": "2026-06-22T13:45:00Z",
+      "priority": "medium",
+      "impact": "Medium",
+      "why_it_matters": "Sector health indicator.",
+      "watch_for": "SPY, QQQ",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-06-22T14:06:56.105728Z"
+    },
+    {
+      "title": "US Services PMI",
+      "time_utc": "2026-06-22T13:45:00Z",
+      "priority": "medium",
+      "impact": "Medium",
+      "why_it_matters": "Service sector is a huge part of US GDP.",
+      "watch_for": "SPY, QQQ",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-06-22T14:06:56.105728Z"
+    },
+    {
+      "title": "Richmond Fed Manufacturing Index",
+      "time_utc": "2026-06-22T14:00:00Z",
+      "priority": "low",
+      "impact": "Low",
+      "why_it_matters": "Regional indicator of manufacturing activity.",
+      "watch_for": "SPY",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-06-22T14:06:56.105728Z"
+    }
+  ]
 }

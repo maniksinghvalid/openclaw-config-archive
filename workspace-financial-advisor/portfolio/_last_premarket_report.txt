@@ -1,64 +1,50 @@
-📊 PRE-MARKET PORTFOLIO REPORT 📈
-Friday, June 19th, 2026
+📊 **Daily Pre-Market Portfolio Report**
+📅 Date: Monday, June 22, 2026
+🕒 Time: 12:30 PM UTC
 
-🚀 MARKET REGIME: FEAR
-- Fear & Greed Index: 37 (Fear)
-- VIX: 17.13 (Rising +4.45%)
-- Sentiment: Investors are leaning cautious. VIX is ticking up, suggesting an increase in hedging demand.
-- Futures: SPY (+0.15%), QQQ (+1.46%) - Tech leading the overnight recovery, but overall vibe remains fragile.
+🚀 **Market Regime & Macro Context**
+• Sentiment: Neutral (Fear & Greed Index ~55)
+• VIX: 17.2 (Low to Moderate volatility)
+• Market Vibe: Sideways to slightly bullish. VIX is below 20, suggesting no immediate need for aggressive portfolio-wide downside hedging, but a 2.5% intraday rise in VIX warrants caution.
+• Indices: SPY (-0.03%), QQQ (+0.11%). Flat open expected with slight tech strength.
 
-⚠️ 5% MOVEMENT ALERTS
-- CLOV: +4.82% (Approaching alert threshold)
-- All other holdings within normal volatility range.
+📉 **Portfolio Performance & Alerts**
+• Total Value: $13,861.03 USD
+• Total P&L: -$2,205.43 (-13.73%)
+• Currency: CAD/USD = 0.7068
 
-💰 PORTFOLIO SNAPSHOT
-- Total Value: $13,859.09 USD
-- Total P&L: -$2,205.28 (-13.73%)
-- FX (CAD/USD): 0.7066
+⚠️ **Significant Moves (>5%)**
+• No holdings moved >5% today.
 
- holdings:
-- SPY: $746.74 (+0.15%)
-- QQQ: $740.62 (+1.46%)
-- IBIT: $35.62 (-2.39%)
-- NIO: $5.02 (-1.00%)
-- O: $60.24 (-0.95%)
-- MARA: $14.22 (+0.40%)
-- CLOV: $5.00 (+4.82%)
-- SPCE: $3.56 (+1.71%)
-- NVDY: $13.08 (+0.31%)
-- DIVO: $45.87 (-1.36%)
-- IAU: $79.33 (-1.38%)
-- SCHF: $28.23 (-1.91%)
-- XEQT.TO: $45.44 (+0.82%)
-- XIC.TO: $56.02 (-0.44%)
-- VDY.TO: $75.53 (0.00%)
-- ZAG.TO: $13.85 (+0.25%)
+📋 **Holdings Snapshot**
+• SPCE: $3.56 (+1.72%) - Buy: $11.90 (Speculative)
+• CLOV: $5.00 (-0.20%) - Buy: $11.19 (Speculative)
+• MARA: $14.22 (+0.02%) - Buy: $21.45 (Speculative)
+• NIO: $5.02 (-0.40%) - Buy: $10.54 (Speculative)
+• O: $60.24 (-0.27%) - Buy: $55.93 (Dividend)
+• IBIT: $35.62 (0.00%) - Buy: $56.74 (Crypto)
+• VDY.TO: $75.52 (-0.01%) - Buy: $58.24 (CAD)
+• DIVO: $45.87 (-0.26%) - Buy: $41.02 (ETF)
+• XEQT.TO: $45.48 (+0.09%) - Buy: $37.10 (CAD)
+• IAU: $79.33 (+0.91%) - Buy: $78.10 (Commodity)
+• SCHF: $28.23 (-0.14%) - Buy: $23.66 (ETF)
+• ZAG.TO: $13.84 (-0.04%) - Buy: $14.01 (CAD)
+• XIC.TO: $55.80 (-0.39%) - Buy: $41.81 (CAD)
+• NVDY: $13.08 (+0.08%) - Buy: $15.92 (Speculative)
 
-📰 NEWS & SENTIMENT
-- NIO: Mixed signals; Adanos showing a 'Hold'. Retail buzz is stagnant.
-- SPCE: Bearish sentiment; Adanos signaling 'Sell'.
-- General: Tech (QQQ) is seeing a bounce, but crypto (IBIT) is under pressure (-2.39%).
+🛡️ **Tactical Hedging & Market Opportunities**
+• Market Condition: Neutral/Sideways
+• Portfolio-Level Hedge: With VIX at 17.2 and a neutral sentiment, a heavy hedge is unnecessary. However, given the concentration in speculative names (NIO, MARA, CLOV, SPCE), consider a small long position in VIX calls or a SPY put spread if VIX crosses 20.
+• Ticker-Specific Strategies:
+  - IAU (Gold): Showing strength (+0.91%). Hold as a primary hedge against macro volatility.
+  - NIO/CLOV/SPCE: Deep in the red. Avoid adding to these positions. For NIO, consider selling covered calls if quantity allows to generate income while waiting for the Q4 catalyst.
+  - O (Realty Income): Trading above cost basis. Consider a trailing stop to lock in gains.
 
-🛡️ TACTICAL HEDGING & OPPORTUNITIES
-Market Condition: Sideways to Bearish (Fear regime)
+📅 **Upcoming Catalysts (Next 14 Days)**
+• O: Ex-Dividend on 2026-06-30. Ensure holding through this date to capture the dividend.
+• Macro: Monitor end-of-quarter rebalancing flows typically seen in late June.
 
-Portfolio-Level Hedges:
-- VIX Hedge: Since VIX is rising (17.13), consider a small position in UVXY or long VIX calls if fear intensifies toward 20+.
-- Tail Risk: The portfolio is heavy on speculative names (NIO, SPCE, CLOV). A broad market dip will amplify these losses.
-
-Ticker-Specific Strategies:
-- NIO/SPCE: High volatility. Avoid adding to these positions. If holding costs are an issue, consider selling covered calls at high strikes to harvest premium during this sideways movement.
-- IBIT: Bitcoin is dipping. If bullish long-term, this is a DCA zone; otherwise, use a protective put if the $60k level fails.
-- O (Realty Income): Solid dividend payer. Use the current dip to potentially add if the risk profile allows.
-
-📅 UPCOMING CATALYSTS (14-Day Window)
-- O (Realty Income): Ex-Dividend on June 30th. Ensure shares are held by this date to capture the payout.
-
-Macro Watch:
-- Quarter-end macro setup is being tracked by traders.
-- Monitor upcoming PCE/CPI data for inflation trends.
-
-✅ ACTION ITEMS
-1. Monitor O (Realty Income) for June 30th Ex-Dividend date.
-2. Tighten stop-losses on speculative holdings (SPCE/CLOV) given the 'Fear' regime.
-3. Evaluate a VIX-based hedge if VIX crosses 20.
+✅ **Action Items**
+1. HOLD O through June 30 for the ex-dividend date.
+2. MONITOR VIX. If it spikes above 20, implement a tactical SPY put hedge to protect the speculative core.
+3. REVIEW speculative holdings. Evaluate if capital in SPCE/CLOV can be rotated into higher-conviction assets given the long-term underperformance.
