@@ -1,41 +1,53 @@
-📊 **MANIK'S DAILY PORTFOLIO REPORT**
-📅 Tuesday, June 23, 2026 - 12:30 PM UTC
+📊 MANIK'S PRE-MARKET PORTFOLIO REPORT
+📅 Wednesday, June 24, 2026
 
-🚀 **MARKET REGIME & VIBE**
-* **Market Vibe**: Mixed/Cautious. S&P 500 (SPY) and Nasdaq (QQQ) are slightly positive, but a sharp spike in volatility is present.
-* **VIX Alert**: ^VIX is at 19.62 (+13.54%). We are approaching the 20.00 threshold. While not in a panic, the sudden jump suggests hedging is now a priority.
-* **Macro Context**: BTC-USD is under pressure (-2.44% at $62,390), which will likely drag on crypto-correlated holdings like IBIT and MARA.
-* **Currency**: CADUSD=X at 0.7047 (-0.28%).
+🚀 MARKET REGIME & SENTIMENT
+• Market Vibe: FEAR (Fear & Greed Index: 27)
+• VIX: 18.87 (-3.13%) - Elevated but trending down.
+• SPY: 733.58 (-0.20%)
+• QQQ: 713.65 (-0.33%)
+• BTC: $62,750 (+0.17%)
+• CAD/USD: 0.7024 (-0.19%)
+• Analysis: The overall sentiment is fearful, and indices are slightly red. With VIX near 19, we are in a high-volatility regime. Priority is shifted toward downside protection and tactical hedging.
 
-⚠️ **5% ALERT CHECK**
-* **VIX**: 🚨 +13.54% (Sharp volatility spike)
-* All other holdings are within the +/- 5% range.
+📉 PORTFOLIO SNAPSHOT & ALERTS
+• Total Value: $13,807.89 USD
+• Overall P&L: -$2,239.37 (-13.95%)
+• Notable Movements (>5%): None intraday, but several speculative holdings are deeply underwater vs cost basis.
 
-📈 **PORTFOLIO SNAPSHOT**
-* **Total Value**: $13,927.83 USD
-* **Total P&L**: -$2,129.45 (-13.26%)
-* **Core Equity (SPY/QQQ)**: SPY $744.39 (+0.10%), QQQ $737.95 (+0.24%)
+Holding Performance:
+• SPCE: $3.00 (Buy: $11.90) - Severe drawdown.
+• CLOV: $5.06 (Buy: $11.19) - Significant drawdown.
+• MARA: $14.70 (Buy: $21.45) - Significant drawdown.
+• NIO: $5.09 (Buy: $10.54) - Significant drawdown.
+• O: $61.53 (Buy: $55.93) - 🟢 Gain.
+• IBIT: $35.31 (Buy: $56.74) - Significant drawdown.
+• VDY.TO: $76.20 (Buy: $58.24) - 🟢 Gain.
+• DIVO: $45.97 (Buy: $41.02) - 🟢 Gain.
+• XEQT.TO: $44.94 (Buy: $37.10) - 🟢 Gain.
+• IAU: $77.33 (Buy: $78.10) - Flat.
+• SCHF: $27.40 (Buy: $23.66) - 🟢 Gain.
+• ZAG.TO: $13.82 (Buy: $14.01) - Flat.
+• XIC.TO: $55.96 (Buy: $41.81) - 🟢 Gain.
+• NVDY: $12.56 (Buy: $15.92) - Drawdown.
 
-🔍 **HOLDING ANALYSIS & SENTIMENT**
-* **NIO**: $5.05 (-0.98%). Buy Price: $10.54. Sentiment is mixed. Recent strong May deliveries (+62% YoY) provided a boost, but price action remains bearish below moving averages.
-* **MARA**: $14.85 (-0.07%). Buy Price: $21.45. Sentiment is cautiously bullish on long-term AI forecasts ($17.57 target), but currently tied to BTC's downward pressure. 50-day MA recently crossed above 200-day MA (Golden Cross signal).
-* **IBIT**: $36.50 (+0.79%). Buy Price: $56.74. Tracking BTC volatility.
-* **O**: $60.58 (+0.13%). Buy Price: $55.93. Stable dividend performance.
-* **SPCE**: $3.19 (+1.60%). Buy Price: $11.90. High volatility, speculative.
-* **CLOV**: $5.14 (+0.54%). Buy Price: $11.19. Flat.
+🛡️ TACTICAL HEDGING & OPPORTUNITIES
+Market Regime: BEARISH/VOLATILE
 
-🛡️ **TACTICAL HEDGING & OPPORTUNITIES**
-* **Portfolio-Level Hedge**: With VIX spiking 13% in one session, consider a **Long VIX Call** or **SPY Put Spread** to protect the core equity and speculative positions from a broader correction.
-* **Ticker-Specific Strategies**:
-  * **MARA**: Since the Golden Cross is appearing but BTC is dipping, consider **Cash-Secured Puts** at $12.00 to lower the average cost basis if a deeper dip occurs.
-  * **NIO**: Price is stagnant. A **Covered Call** at $6.00 (30-45 days) could generate income while the stock searches for a catalyst.
-  * **O**: Holding in profit. Use a **Trailing Stop-Loss** to lock in gains if the REIT sector rotates.
+Portfolio-Level Hedges:
+• Long VIX/UVXY: Since VIX is below 20 but sentiment is "Fear", a small tactical long on volatility could hedge a broader market flush.
+• Increase Gold (IAU): Gold is a natural hedge in a fearful market. Consider augmenting this position if geopolitical tension rises.
 
-📅 **UPCOMING CATALYSTS (14-Day Window)**
-* **O (Realty Income)**: Ex-Dividend on 2026-06-30. Hold through this date to capture the dividend.
-* **Macro**: Monitor upcoming Fed/CPI communications for late June/early July (refer to economic calendar).
+Ticker-Specific Strategies:
+• O (Realty Income): Current price $61.53 is above cost basis. Suggest selling Out-of-the-Money (OTM) Covered Calls to generate income while the stock is strong.
+• NIO/CLOV/SPCE: These are high-risk speculative plays in deep drawdown. Avoid adding to these. If any recovery occurs, prioritize "selling into strength" to reduce exposure.
+• IBIT (Bitcoin): BTC is consolidating around $62k. Consider Cash-Secured Puts (CSP) far below current price to acquire more IBIT at a lower cost basis, provided risk appetite allows.
 
-✅ **ACTION ITEMS**
-1. **Secure O Dividends**: Confirm holding for the 06-30 ex-dividend date.
-2. **Volatility Hedge**: Evaluate a small hedge via VIX calls given the 13% jump in volatility.
-3. **MARA Re-entry**: Monitor BTC support levels; if BTC stabilizes, the MARA Golden Cross may trigger a rally.
+🗓️ UPCOMING CATALYSTS (Next 14 Days)
+• O: Ex-Dividend on June 30 (High Priority - Capture yield).
+• Macro: Monitoring June quarter-end rebalancing and upcoming July CPI/FOMC prints (dates TBD via calendar).
+
+✅ ACTION ITEMS
+1. Harvest Income from O: Evaluate strike prices for O covered calls to capitalize on recent gains.
+2. Hedge Tail Risk: Monitor VIX; if it dips further toward 15-16, consider a cheap long-dated VIX call.
+3. Review Speculative Weights: The portfolio is heavily weighted in speculative drawdowns. Plan a phased exit strategy for the worst performers if they fail to show a catalyst-driven reversal.
