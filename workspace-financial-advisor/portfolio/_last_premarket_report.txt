@@ -1,53 +1,52 @@
-📊 PRE-MARKET PORTFOLIO REPORT - JUNE 25, 2026
+📊 PRE-MARKET PORTFOLIO REPORT - JUNE 26, 2026
 
-💰 PORTFOLIO SNAPSHOT
-- Total Value: $13,635.96 USD
-- Total P&L: -$2,411.72 (-15.03%)
-- CAD/USD: 0.7025
-- Risk Profile: Medium
+🚨 MARKET REGIME & VIBE
+• Sentiment: FEAR (Fear & Greed Index: 43)
+• VIX: 19.82 (+4.87%) - Approaching the 20 threshold. Volatility is climbing.
+• Trend: SPY (+0.19%) and QQQ (+0.18%) are slightly positive in pre-market, but the rising VIX and "Fear" sentiment suggest a fragile floor. We are likely testing immediate resistance.
+• Regime: Fragile Bull / Transition to Sideways.
 
-🌍 MARKET REGIME & MACRO
-- VIX: 18.04 (Neutral)
-- SPY: 733.24 (-0.54%)
-- QQQ: 710.62 (-1.92%)
-- BTC-USD: 61,476.91 (+0.81%)
-- Vibe: Neutral-Bearish. Tech (QQQ) is showing weakness, while Bitcoin remains resilient. VIX is stable below 20, suggesting no immediate panic, but the downward drift in indices warrants caution.
+📉 HOLDING PERFORMANCE & ALERTS
+(Prices as of 12:30 UTC)
 
-📈 HOLDINGS PERFORMANCE
-- CLOV: $5.21 (+0.77%)
-- DIVO: $45.81 (-0.15%)
-- IAU: $74.99 (-0.93%)
-- IBIT: $33.87 (-2.00%)
-- MARA: $14.00 (-2.03%)
-- NIO: $4.90 (-0.81%)
-- NVDY: $12.50 (-1.03%)
-- O: $61.99 (-0.02%)
-- SCHF: $27.26 (-0.33%)
-- SPCE: $2.73 (-1.43%)
-- VDY.TO: $75.55 (-0.85%)
-- XEQT.TO: $44.88 (-0.13%)
-- XIC.TO: $55.65 (-0.55%)
-- ZAG.TO: $13.89 (+0.51%)
-- Alerts: No holdings moved >5%.
+• SPCE: $2.50 (-0.79%) ⚠️ Deeply below cost ($11.90)
+• CLOV: $5.21 (+0.39%) ⚠️ Below cost ($11.19)
+• MARA: $13.88 (+0.29%) ⚠️ Below cost ($21.45)
+• NIO: $4.73 (-0.00%) ⚠️ Below cost ($10.54)
+• O: $62.04 (0.00%) ✅ Above cost ($55.93)
+• IBIT: $33.52 (-0.95%) ⚠️ Below cost ($56.74)
+• VDY.TO: $76.03 (+0.64%) ✅ Above cost ($58.24)
+• DIVO: $45.73 (-0.59%) ✅ Above cost ($41.02)
+• XEQT.TO: $44.65 (-0.51%) ✅ Above cost ($37.10)
+• IAU: $75.71 (+0.32%) ⚠️ Below cost ($78.10)
+• SCHF: $27.64 (-0.58%) ✅ Above cost ($23.66)
+• ZAG.TO: $13.87 (-0.14%) ⚠️ Below cost ($14.01)
+• XIC.TO: $55.57 (-0.14%) ✅ Above cost ($41.81)
+• NVDY: $12.23 (-0.08%) ⚠️ Below cost ($15.92)
+
+*No holdings triggered the 5% intraday alert today.*
 
 🚀 TACTICAL HEDGING & OPPORTUNITIES
-Market Condition: Sideways to Bearish
+
+Market Condition: Bearish-leaning Sideways / High Volatility Potential.
 
 Portfolio-Level Hedges:
-- Tech Exposure: With QQQ down nearly 2%, the portfolio's speculative tech/crypto weight is feeling pressure. Consider a small position in Long Put options on QQQ (strike 700) to hedge the overall equity slide.
-- Volatility Play: VIX is at 18. If it breaks above 20, the current "neutral" vibe will shift to "fear."
+• VIX Hedge: With VIX at 19.82 and sentiment in "Fear," consider a small allocation to VIX calls or a UVXY position if VIX breaks 21.
+• Gold (IAU): IAU is slightly positive. Keep as the primary safe-haven anchor.
+• Bond Stability: ZAG.TO is flat. Maintain for volatility dampening.
 
 Ticker-Specific Strategies:
-- MARA / IBIT: BTC is slightly up, but MARA is down 2%. This divergence suggests MARA is lagging. Avoid adding to MARA here; wait for confirmation of a BTC breakout above 63k.
-- O (Realty Income): Trading flat. With the ex-dividend date approaching, it remains a stable income anchor.
+• O (Realty Income): Strong position. Consider selling covered calls at 65 or 67 strike to generate income while protecting gains.
+• MARA/IBIT: High correlation to BTC ($59,617). If BTC drops below 58k, these will accelerate. Consider protective puts on IBIT to floor the crypto exposure.
+• NIO/SPCE/CLOV: Speculative positions are heavily underwater. Do not average down. Hold for catalysts or exit on any 10% relief rally.
 
-📅 UPCOMING CATALYSTS (14 Days)
-- O: Ex-Dividend on 2026-06-30 📌
-- Macro: Economic data (unavailable due to search error).
+📅 UPCOMING CATALYSTS (14-Day Window)
+• June 30: O - Ex-Dividend Date (Prepare for price adjustment)
+• Macro: Monitor FOMC Summary of Economic Projections (SEP) and upcoming PCE inflation data for directional bias on interest rates.
 
-🛠 ACTION ITEMS
-1. Monitor QQQ Support: If QQQ breaks below 700, tighten stop-losses on speculative holdings (SPCE, NIO).
-2. Review O Position: Confirm dividend capture strategy for the June 30 ex-date.
-3. BTC Divergence Watch: Track if MARA catches up to BTC's positive momentum or continues to decouple.
+🛠️ TOP 3 ACTION ITEMS
+1. Income Generation: Evaluate O covered calls (Strike 65+) to capture premium in this sideways market.
+2. Crypto Risk: Set tight stop-losses or buy protective puts for IBIT if BTC fails to hold 59k.
+3. Discipline: Avoid adding to speculative positions (NIO, SPCE, CLOV) despite the "Fear" sentiment; wait for a confirmed trend reversal.
 
-(Note: Macro search was unavailable during this run.)
+Note: All values based on manik_portfolio.json and fetch_quotes.py.

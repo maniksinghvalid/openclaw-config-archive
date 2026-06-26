@@ -1,60 +1,47 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-06-25T11:21:54.401822Z",
+  "seeded_at": "2026-06-26T11:22:10.535802Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "US Core PCE Price Index (MoM)",
-      "time_utc": "2026-06-25T12:30:00Z",
-      "priority": "high",
-      "impact": "High",
-      "why_it_matters": "The Fed s preferred inflation gauge. Higher than expected readings may lead to hawkish Fed policy and higher yields.",
-      "watch_for": "SPY, QQQ, DXY",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-06-25T14:05:50.817518Z"
-    },
-    {
-      "title": "US GDP Growth",
-      "time_utc": "2026-06-25T12:30:00Z",
-      "priority": "medium",
-      "impact": "Medium",
-      "why_it_matters": "Primary measure of economic health. Stronger growth supports equities but may fuel inflation.",
-      "watch_for": "SPY, QQQ",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-06-25T14:05:50.817518Z"
-    },
-    {
-      "title": "US Jobless Claims",
-      "time_utc": "2026-06-25T12:30:00Z",
-      "priority": "medium",
-      "impact": "Medium",
-      "why_it_matters": "Weekly indicator of labor market health. Surprises can shift Fed expectations on rate cuts.",
-      "watch_for": "SPY, DXY",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-06-25T14:05:50.817518Z"
-    },
-    {
-      "title": "CA Wage Growth",
-      "time_utc": "2026-06-25T12:30:00Z",
-      "priority": "medium",
-      "impact": "Medium",
-      "why_it_matters": "Key input for BoC inflation targets. High growth suggests sticky inflation.",
+      "title": "CA Wholesale Sales",
+      "time_utc": "2026-06-26T12:30:00Z",
+      "priority": "low",
+      "impact": "Minor impact on CAD.",
+      "why_it_matters": "Indicator of business activity.",
       "watch_for": "CAD",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-06-25T14:05:50.817518Z"
+      "alert_sent_at": "2026-06-26T14:06:49.428086Z"
+    },
+    {
+      "title": "US Consumer Confidence",
+      "time_utc": "2026-06-26T14:00:00Z",
+      "priority": "medium",
+      "impact": "Consumer sentiment data affects growth expectations and Fed outlook.",
+      "why_it_matters": "Key gauge of US consumer health.",
+      "watch_for": "SPY, QQQ, DXY",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-06-26T14:06:49.428086Z"
+    },
+    {
+      "title": "US Michigan Inflation Expectations",
+      "time_utc": "2026-06-26T14:00:00Z",
+      "priority": "medium",
+      "impact": "Inflates expectations can lead to wage pressure and hawkish Fed pivots.",
+      "why_it_matters": "Forward-looking inflation gauge.",
+      "watch_for": "DXY, 2Y Yield",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-06-26T14:06:49.428086Z"
     }
   ]
 }
