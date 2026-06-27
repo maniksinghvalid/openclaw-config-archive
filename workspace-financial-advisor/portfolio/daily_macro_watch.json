@@ -1,47 +1,47 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-06-26T11:22:10.535802Z",
+  "seeded_at": "2026-06-27T11:21:56.196064Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "CA Wholesale Sales",
-      "time_utc": "2026-06-26T12:30:00Z",
-      "priority": "low",
-      "impact": "Minor impact on CAD.",
-      "why_it_matters": "Indicator of business activity.",
-      "watch_for": "CAD",
+      "title": "Canada Monthly GDP MoM",
+      "time_utc": "2026-06-27T12:30:00Z",
+      "priority": "medium",
+      "impact": "Growth indicator for Canada",
+      "why_it_matters": "Provides insight into economic momentum and BoC policy direction.",
+      "watch_for": "CAD, TSX",
       "actual": null,
       "consensus": null,
       "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-06-26T14:06:49.428086Z"
+      "status": "scheduled",
+      "alert_sent_at": null
     },
     {
-      "title": "US Consumer Confidence",
-      "time_utc": "2026-06-26T14:00:00Z",
+      "title": "US Chicago PMI",
+      "time_utc": "2026-06-27T13:45:00Z",
       "priority": "medium",
-      "impact": "Consumer sentiment data affects growth expectations and Fed outlook.",
-      "why_it_matters": "Key gauge of US consumer health.",
+      "impact": "Regional manufacturing health",
+      "why_it_matters": "Leading indicator for US industrial activity.",
+      "watch_for": "SPY, QQQ",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "scheduled",
+      "alert_sent_at": null
+    },
+    {
+      "title": "US JOLTS Job Openings",
+      "time_utc": "2026-06-27T14:00:00Z",
+      "priority": "high",
+      "impact": "Labor market tightness",
+      "why_it_matters": "Crucial for Fed interest rate decisions; high openings suggest a tight market.",
       "watch_for": "SPY, QQQ, DXY",
       "actual": null,
       "consensus": null,
       "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-06-26T14:06:49.428086Z"
-    },
-    {
-      "title": "US Michigan Inflation Expectations",
-      "time_utc": "2026-06-26T14:00:00Z",
-      "priority": "medium",
-      "impact": "Inflates expectations can lead to wage pressure and hawkish Fed pivots.",
-      "why_it_matters": "Forward-looking inflation gauge.",
-      "watch_for": "DXY, 2Y Yield",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-06-26T14:06:49.428086Z"
+      "status": "scheduled",
+      "alert_sent_at": null
     }
   ]
 }
