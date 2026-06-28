@@ -1,47 +1,7 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-06-27T11:21:56.196064Z",
+  "seeded_at": "2026-06-28T11:21:53.288757Z",
   "watch_window": "hourly",
-  "events": [
-    {
-      "title": "Canada Monthly GDP MoM",
-      "time_utc": "2026-06-27T12:30:00Z",
-      "priority": "medium",
-      "impact": "Growth indicator for Canada",
-      "why_it_matters": "Provides insight into economic momentum and BoC policy direction.",
-      "watch_for": "CAD, TSX",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": null
-    },
-    {
-      "title": "US Chicago PMI",
-      "time_utc": "2026-06-27T13:45:00Z",
-      "priority": "medium",
-      "impact": "Regional manufacturing health",
-      "why_it_matters": "Leading indicator for US industrial activity.",
-      "watch_for": "SPY, QQQ",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": null
-    },
-    {
-      "title": "US JOLTS Job Openings",
-      "time_utc": "2026-06-27T14:00:00Z",
-      "priority": "high",
-      "impact": "Labor market tightness",
-      "why_it_matters": "Crucial for Fed interest rate decisions; high openings suggest a tight market.",
-      "watch_for": "SPY, QQQ, DXY",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": null
-    }
-  ]
+  "events": []
 }
