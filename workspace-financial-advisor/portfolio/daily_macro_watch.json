@@ -1,7 +1,47 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-06-28T11:21:53.288757Z",
+  "seeded_at": "2026-06-29T11:22:03.556096Z",
   "watch_window": "hourly",
-  "events": []
+  "events": [
+    {
+      "title": "Canada Monthly GDP MoM",
+      "time_utc": "2026-06-29T12:30:00Z",
+      "priority": "medium",
+      "impact": "Growth indicator for CA economy",
+      "why_it_matters": "Affects CAD strength and BoC rate expectations",
+      "watch_for": "CAD, TSX",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-06-29T14:06:18.053542Z"
+    },
+    {
+      "title": "US Chicago PMI",
+      "time_utc": "2026-06-29T18:45:00Z",
+      "priority": "medium",
+      "impact": "Manufacturing sentiment in Midwest",
+      "why_it_matters": "Leading indicator for US industrial health",
+      "watch_for": "SPY, QQQ",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "scheduled",
+      "alert_sent_at": null
+    },
+    {
+      "title": "US JOLTS Job Openings",
+      "time_utc": "2026-06-29T19:00:00Z",
+      "priority": "high",
+      "impact": "Labor market tightness",
+      "why_it_matters": "Key metric for Fed inflation/rate path",
+      "watch_for": "SPY, QQQ, DXY, 10Y Yield",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "scheduled",
+      "alert_sent_at": null
+    }
+  ]
 }

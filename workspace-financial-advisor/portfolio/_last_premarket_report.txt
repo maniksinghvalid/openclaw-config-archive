@@ -1,52 +1,44 @@
-📊 PRE-MARKET PORTFOLIO REPORT - JUNE 26, 2026
+📊 MANIK'S PRE-MARKET PORTFOLIO REPORT
+Monday, June 29, 2026
 
-🚨 MARKET REGIME & VIBE
-• Sentiment: FEAR (Fear & Greed Index: 43)
-• VIX: 19.82 (+4.87%) - Approaching the 20 threshold. Volatility is climbing.
-• Trend: SPY (+0.19%) and QQQ (+0.18%) are slightly positive in pre-market, but the rising VIX and "Fear" sentiment suggest a fragile floor. We are likely testing immediate resistance.
-• Regime: Fragile Bull / Transition to Sideways.
+🚀 MARKET REGIME & VIBE
+* Sentiment: Fear (Index: 42)
+* Volatility: VIX 18.3 (Stable/Moderate)
+* Market Mood: Cautiously bearish to neutral. The Fear & Greed index suggests a lean toward fear, though VIX remains under the 20.0 critical threshold.
+* Futures Outlook: S&P 500 (SPY) and Nasdaq (QQQ) showing slight overnight weakness. We are testing support levels.
 
-📉 HOLDING PERFORMANCE & ALERTS
-(Prices as of 12:30 UTC)
+📉 PORTFOLIO SNAPSHOT
+* Total Value: $13,727.90 USD
+* All-Time P&L: -$2,326.87 (-14.49%)
+* FX Rate: 1 CAD = 0.7041 USD
 
-• SPCE: $2.50 (-0.79%) ⚠️ Deeply below cost ($11.90)
-• CLOV: $5.21 (+0.39%) ⚠️ Below cost ($11.19)
-• MARA: $13.88 (+0.29%) ⚠️ Below cost ($21.45)
-• NIO: $4.73 (-0.00%) ⚠️ Below cost ($10.54)
-• O: $62.04 (0.00%) ✅ Above cost ($55.93)
-• IBIT: $33.52 (-0.95%) ⚠️ Below cost ($56.74)
-• VDY.TO: $76.03 (+0.64%) ✅ Above cost ($58.24)
-• DIVO: $45.73 (-0.59%) ✅ Above cost ($41.02)
-• XEQT.TO: $44.65 (-0.51%) ✅ Above cost ($37.10)
-• IAU: $75.71 (+0.32%) ⚠️ Below cost ($78.10)
-• SCHF: $27.64 (-0.58%) ✅ Above cost ($23.66)
-• ZAG.TO: $13.87 (-0.14%) ⚠️ Below cost ($14.01)
-• XIC.TO: $55.57 (-0.14%) ✅ Above cost ($41.81)
-• NVDY: $12.23 (-0.08%) ⚠️ Below cost ($15.92)
+🔔 SIGNIFICANT MOVES (>5%)
+* No holdings moved >5% today. Stability across the board.
 
-*No holdings triggered the 5% intraday alert today.*
+🔍 HOLDING ANALYSIS & SENTIMENT
+* SPCE: $2.95 (+0.68%) | Sentiment: Bearish. Reddit (15% bullish) and Wall Street remain skeptical.
+* CLOV: $5.41 (+0.37%) | Sentiment: Mixed/Bullish. 69% bullish overall; technicals showing a "Golden Cross" (50-day > 200-day).
+* MARA: $14.54 (+0.41%) | Sentiment: Bearish. Concerns over share dilution mentioned on Reddit.
+* NIO: $4.86 (+0.21%) | Sentiment: Bullish. Retail sales in China showing strength against Tesla.
+* IBIT: $33.85 (-0.38%) | BTC: $60,355.96 (+1.49%).
+* NVDY: $12.03 (-0.58%) | High yield but price pressure continues.
+* O: $63.12 (+0.19%) | Stable REIT performance.
 
-🚀 TACTICAL HEDGING & OPPORTUNITIES
+🛡️ TACTICAL HEDGING & OPPORTUNITIES
+* Market Regime: Sideways to Bearish
+* Portfolio-Level Hedge: With the Fear index at 42 and SPY showing weakness, consider a small protective put on SPY or increasing IAU (Gold) allocation if VIX spikes above 20.
+* Ticker-Specific Strategies:
+  - NIO: Bullish momentum. Consider selling Cash Secured Puts (CSP) at $4.00 to lower entry or generate income.
+  - CLOV: Technicals are turning. Hold for potential trend reversal.
+  - MARA: High volatility. If BTC stabilizes, MARA may recover, but watch for further dilution news.
+  - O: Dividend play. Hold for income.
 
-Market Condition: Bearish-leaning Sideways / High Volatility Potential.
+📅 UPCOMING CATALYSTS (Next 14 Days)
+* June 30: O - Ex-Dividend Date (Crucial for dividend capture)
+* July 28-29: FOMC Meeting & Press Conference (High Impact Macro)
+* July 28: MARA - Earnings (High Volatility)
 
-Portfolio-Level Hedges:
-• VIX Hedge: With VIX at 19.82 and sentiment in "Fear," consider a small allocation to VIX calls or a UVXY position if VIX breaks 21.
-• Gold (IAU): IAU is slightly positive. Keep as the primary safe-haven anchor.
-• Bond Stability: ZAG.TO is flat. Maintain for volatility dampening.
-
-Ticker-Specific Strategies:
-• O (Realty Income): Strong position. Consider selling covered calls at 65 or 67 strike to generate income while protecting gains.
-• MARA/IBIT: High correlation to BTC ($59,617). If BTC drops below 58k, these will accelerate. Consider protective puts on IBIT to floor the crypto exposure.
-• NIO/SPCE/CLOV: Speculative positions are heavily underwater. Do not average down. Hold for catalysts or exit on any 10% relief rally.
-
-📅 UPCOMING CATALYSTS (14-Day Window)
-• June 30: O - Ex-Dividend Date (Prepare for price adjustment)
-• Macro: Monitor FOMC Summary of Economic Projections (SEP) and upcoming PCE inflation data for directional bias on interest rates.
-
-🛠️ TOP 3 ACTION ITEMS
-1. Income Generation: Evaluate O covered calls (Strike 65+) to capture premium in this sideways market.
-2. Crypto Risk: Set tight stop-losses or buy protective puts for IBIT if BTC fails to hold 59k.
-3. Discipline: Avoid adding to speculative positions (NIO, SPCE, CLOV) despite the "Fear" sentiment; wait for a confirmed trend reversal.
-
-Note: All values based on manik_portfolio.json and fetch_quotes.py.
+✅ ACTION ITEMS
+1. Monitor O Ex-Dividend date tomorrow. Ensure holding is secure for the payout.
+2. Watch the FOMC meeting window. Be prepared to hedge equity exposure if the Fed turns hawkish.
+3. Review NIO position; potential for a low-strike CSP if confidence in China retail sales grows.
