@@ -1,44 +1,52 @@
-📊 MANIK'S PRE-MARKET PORTFOLIO REPORT
-Monday, June 29, 2026
+📊 PRE-MARKET PORTFOLIO REPORT
+Tuesday, June 30, 2026
 
-🚀 MARKET REGIME & VIBE
-* Sentiment: Fear (Index: 42)
-* Volatility: VIX 18.3 (Stable/Moderate)
-* Market Mood: Cautiously bearish to neutral. The Fear & Greed index suggests a lean toward fear, though VIX remains under the 20.0 critical threshold.
-* Futures Outlook: S&P 500 (SPY) and Nasdaq (QQQ) showing slight overnight weakness. We are testing support levels.
+🌍 MARKET REGIME & MACRO VIBE
+• Sentiment: Fear (Fear & Greed Index ~27)
+• VIX: 17.59 (Moderate - No immediate panic, but cautious)
+• Indices: S&P 500 and Nasdaq futures pointing to a cautious higher open. Tech rally and Middle East de-escalation providing some lift.
+• Market Bias: Cautiously Bullish / Neutral
 
 📉 PORTFOLIO SNAPSHOT
-* Total Value: $13,727.90 USD
-* All-Time P&L: -$2,326.87 (-14.49%)
-* FX Rate: 1 CAD = 0.7041 USD
+• Total Value: $13,713.46 USD
+• Total P&L: -$2,335.05 (-14.55%)
+• FX Rate: 1 CAD = 0.7026 USD
 
-🔔 SIGNIFICANT MOVES (>5%)
-* No holdings moved >5% today. Stability across the board.
+⚠️ SIGNIFICANT MOVES (>5%)
+• No holdings currently showing >5% intraday movement based on latest quotes.
 
-🔍 HOLDING ANALYSIS & SENTIMENT
-* SPCE: $2.95 (+0.68%) | Sentiment: Bearish. Reddit (15% bullish) and Wall Street remain skeptical.
-* CLOV: $5.41 (+0.37%) | Sentiment: Mixed/Bullish. 69% bullish overall; technicals showing a "Golden Cross" (50-day > 200-day).
-* MARA: $14.54 (+0.41%) | Sentiment: Bearish. Concerns over share dilution mentioned on Reddit.
-* NIO: $4.86 (+0.21%) | Sentiment: Bullish. Retail sales in China showing strength against Tesla.
-* IBIT: $33.85 (-0.38%) | BTC: $60,355.96 (+1.49%).
-* NVDY: $12.03 (-0.58%) | High yield but price pressure continues.
-* O: $63.12 (+0.19%) | Stable REIT performance.
+📈 HOLDINGS PERFORMANCE
+• SPY: $741.00 (+0.03%)
+• QQQ: $724.08 (+0.008%)
+• IBIT: $34.18 (+0.21%) - Basis: $56.74
+• MARA: $14.03 (0.00%) - Basis: $21.45
+• NIO: $4.95 (-0.38%) - Basis: $10.54
+• O: $63.04 (+0.08%) - Basis: $55.93
+• CLOV: $5.31 (-0.75%) - Basis: $11.19
+• SPCE: $2.94 (-1.34%) - Basis: $11.90
+• NVDY: $12.20 (-0.24%) - Basis: $15.92
+• DIVO: $45.59 (-0.33%) - Basis: $41.02
+• IAU: $75.53 (+0.01%) - Basis: $78.10
+• VDY.TO: $75.87 (+0.12%) - Basis: $58.24
+• XEQT.TO: $44.92 (+0.83%) - Basis: $37.10 / $35.74
+• XIC.TO: $55.53 (-0.38%) - Basis: $41.81
+• ZAG.TO: $13.86 (-0.07%) - Basis: $14.01
+• SCHF: $27.53 (-1.68%) - Basis: $23.66
 
-🛡️ TACTICAL HEDGING & OPPORTUNITIES
-* Market Regime: Sideways to Bearish
-* Portfolio-Level Hedge: With the Fear index at 42 and SPY showing weakness, consider a small protective put on SPY or increasing IAU (Gold) allocation if VIX spikes above 20.
-* Ticker-Specific Strategies:
-  - NIO: Bullish momentum. Consider selling Cash Secured Puts (CSP) at $4.00 to lower entry or generate income.
-  - CLOV: Technicals are turning. Hold for potential trend reversal.
-  - MARA: High volatility. If BTC stabilizes, MARA may recover, but watch for further dilution news.
-  - O: Dividend play. Hold for income.
+🚀 TACTICAL HEDGING & OPPORTUNITIES
+• Market Condition: Sideways to Bullish (Cautious)
+• Portfolio Hedge: With VIX < 20 and Fear sentiment, a full portfolio hedge is not urgent. However, given the heavy speculative weight (NIO, SPCE, CLOV), consider a protective put on QQQ if VIX spikes above 20.
+• Ticker Specifics:
+- O (Realty Income): Currently above basis. With today being Ex-Dividend date, expect a slight price adjustment. Hold for income.
+- Crypto (IBIT/MARA): BTC is currently $58,676 (-2.47% daily). High volatility expected. Avoid adding to MARA until it stabilizes above $15.
+- Speculatives: NIO and SPCE are deep in the red. Avoid "averaging down" during this Fear regime.
 
-📅 UPCOMING CATALYSTS (Next 14 Days)
-* June 30: O - Ex-Dividend Date (Crucial for dividend capture)
-* July 28-29: FOMC Meeting & Press Conference (High Impact Macro)
-* July 28: MARA - Earnings (High Volatility)
+📅 UPCOMING CATALYSTS (14 DAYS)
+• O: Ex-Dividend (Today, June 30)
+• Macro: FOMC Meeting (July 28-29) - Long term watch.
+• Macro: July CPI/PCE data - Watch for inflation prints early next month to gauge Fed direction.
 
-✅ ACTION ITEMS
-1. Monitor O Ex-Dividend date tomorrow. Ensure holding is secure for the payout.
-2. Watch the FOMC meeting window. Be prepared to hedge equity exposure if the Fed turns hawkish.
-3. Review NIO position; potential for a low-strike CSP if confidence in China retail sales grows.
+💡 ACTION ITEMS
+1. Monitor O price action following Ex-Dividend to ensure it holds support.
+2. Set alerts for BTC at $55k (Downside) and $62k (Upside) to manage IBIT/MARA risk.
+3. Review speculative positions (SPCE, CLOV) for potential tax-loss harvesting if they break recent lows.
