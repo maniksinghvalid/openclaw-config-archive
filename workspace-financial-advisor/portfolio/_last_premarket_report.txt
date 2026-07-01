@@ -1,52 +1,57 @@
-📊 PRE-MARKET PORTFOLIO REPORT
-Tuesday, June 30, 2026
+📊 PRE-MARKET PORTFOLIO REPORT - July 1, 2026
 
-🌍 MARKET REGIME & MACRO VIBE
-• Sentiment: Fear (Fear & Greed Index ~27)
-• VIX: 17.59 (Moderate - No immediate panic, but cautious)
-• Indices: S&P 500 and Nasdaq futures pointing to a cautious higher open. Tech rally and Middle East de-escalation providing some lift.
-• Market Bias: Cautiously Bullish / Neutral
+Overall Market Vibe: Neutral to Slightly Bullish
+VIX: 16.72 (Moderate)
+S&P 500 (SPY): 746.77 (+0.06%)
+Nasdaq (QQQ): 736.40 (+0.02%)
+BTC: $58,445 (-0.14%)
+CAD/USD: 0.7031 (-0.19%)
 
-📉 PORTFOLIO SNAPSHOT
-• Total Value: $13,713.46 USD
-• Total P&L: -$2,335.05 (-14.55%)
-• FX Rate: 1 CAD = 0.7026 USD
+Market Regime Scan:
+The market is currently in a neutral regime with VIX under 20, suggesting no immediate panic. However, the Fear and Greed Index is hovering around 40 (Fear), indicating some underlying caution. Futures are flat, suggesting a sideways open.
 
-⚠️ SIGNIFICANT MOVES (>5%)
-• No holdings currently showing >5% intraday movement based on latest quotes.
+Holdings Performance:
+* CLOV: $5.24 (+0.64%)
+* DIVO: $45.70 (-0.13%)
+* IAU: $75.51 (+0.24%)
+* IBIT: $33.29 (+0.36%)
+* MARA: $13.89 (+0.65%)
+* NIO: $5.06 (-0.43%)
+* NVDY: $12.44 (-0.16%)
+* O: $61.96 (-0.39%)
+* SCHF: $27.70 (+0.14%)
+* SPCE: $2.89 (+0.59%)
+* VDY.TO: $76.00 (+0.17%)
+* XEQT.TO: $45.10 (+0.40%)
+* XIC.TO: $55.60 (+0.13%)
+* ZAG.TO: $13.84 (-0.14%)
 
-📈 HOLDINGS PERFORMANCE
-• SPY: $741.00 (+0.03%)
-• QQQ: $724.08 (+0.008%)
-• IBIT: $34.18 (+0.21%) - Basis: $56.74
-• MARA: $14.03 (0.00%) - Basis: $21.45
-• NIO: $4.95 (-0.38%) - Basis: $10.54
-• O: $63.04 (+0.08%) - Basis: $55.93
-• CLOV: $5.31 (-0.75%) - Basis: $11.19
-• SPCE: $2.94 (-1.34%) - Basis: $11.90
-• NVDY: $12.20 (-0.24%) - Basis: $15.92
-• DIVO: $45.59 (-0.33%) - Basis: $41.02
-• IAU: $75.53 (+0.01%) - Basis: $78.10
-• VDY.TO: $75.87 (+0.12%) - Basis: $58.24
-• XEQT.TO: $44.92 (+0.83%) - Basis: $37.10 / $35.74
-• XIC.TO: $55.53 (-0.38%) - Basis: $41.81
-• ZAG.TO: $13.86 (-0.07%) - Basis: $14.01
-• SCHF: $27.53 (-1.68%) - Basis: $23.66
+Ticker Sentiment & News:
+* MARA: Bullish technicals. 50-day MA crossed above 200-day MA on June 18. AI models project growth toward $18.16.
+* CLOV: Bullish signal. 50-day MA crossed above 200-day MA on June 1. Analyst price targets vary, some as low as $3.82.
+* NIO: Bearish outlook for July. Some forecasts suggest a potential 15% drop by month-end, targeting $4.30.
+* SPCE: Mixed/Speculative. General long-term volatility remains high.
 
 🚀 TACTICAL HEDGING & OPPORTUNITIES
-• Market Condition: Sideways to Bullish (Cautious)
-• Portfolio Hedge: With VIX < 20 and Fear sentiment, a full portfolio hedge is not urgent. However, given the heavy speculative weight (NIO, SPCE, CLOV), consider a protective put on QQQ if VIX spikes above 20.
-• Ticker Specifics:
-- O (Realty Income): Currently above basis. With today being Ex-Dividend date, expect a slight price adjustment. Hold for income.
-- Crypto (IBIT/MARA): BTC is currently $58,676 (-2.47% daily). High volatility expected. Avoid adding to MARA until it stabilizes above $15.
-- Speculatives: NIO and SPCE are deep in the red. Avoid "averaging down" during this Fear regime.
 
-📅 UPCOMING CATALYSTS (14 DAYS)
-• O: Ex-Dividend (Today, June 30)
-• Macro: FOMC Meeting (July 28-29) - Long term watch.
-• Macro: July CPI/PCE data - Watch for inflation prints early next month to gauge Fed direction.
+Market Condition: Sideways / Cautious Bull
 
-💡 ACTION ITEMS
-1. Monitor O price action following Ex-Dividend to ensure it holds support.
-2. Set alerts for BTC at $55k (Downside) and $62k (Upside) to manage IBIT/MARA risk.
-3. Review speculative positions (SPCE, CLOV) for potential tax-loss harvesting if they break recent lows.
+Portfolio-Level Hedges:
+* Tail Risk Protection: With VIX at 16.72, consider buying cheap OTM Put Spreads on SPY for the July 18 expiry to hedge against a sudden regime shift toward "Fear."
+* Currency Hedge: CAD is weakening slightly (0.7031). If USD strength continues, this acts as a natural hedge for US-denominated holdings but hurts CAD-based purchasing power.
+
+Ticker-Specific Strategies:
+* MARA (Bullish/Momentum): Consider a Bull Call Spread to capture the trend toward $18 while limiting risk.
+* NIO (Bearish/Risk): Consider selling Covered Calls (if holding enough shares) or buying protective Puts to hedge the predicted July decline.
+* O (Dividend/Income): Trading flat. Continue collecting dividends; check for entry on dips toward $60.
+
+Upcoming Catalysts (Next 14 Days):
+* No major earnings or ex-div dates found in upcoming_events.json for the next 14 days.
+* Macro Watch: Monitor upcoming US jobs data and Fed commentary for hints on Q3 rate trajectory.
+
+Action Items:
+1. Hedge NIO: Implement a protective put or sell covered calls to mitigate the predicted July downside.
+2. Monitor MARA: Ride the bullish MA cross, but set a trailing stop to lock in gains if the trend reverses.
+3. Review Allocation: With current prices, check if speculative weight (SPCE, CLOV, NIO) has drifted beyond the 5% target.
+
+Risk Warning: Options trading involves significant risk. Ensure all strategies have defined risk parameters.
