@@ -1,9 +1,10 @@
-### KEY INSIGHTS - CNBC Fast Money (2026-07-01)
-Episode: The Best First Half Ever for Semis… And Nike Report Results 6/30/26
+# CNBC Fast Money - July 01, 2026
 
-- **Semiconductor Divergence:** The first half of 2026 saw a massive rally in chips and semiconductors, while software stocks faced significant losses.
-- **Magnificent 7 Resilience:** A key point of discussion is whether the "Mag 7" can sustain their positions given the heavy losses in the software sector.
-- **Nike's Post-Earnings Path:** Analysis of Nike's fourth-quarter results suggests a shift in investor appetite toward other discretionary spending areas.
-- **Crypto Downtrend:** Bitcoin is currently trending toward its lowest levels seen since 2024, indicating a sharp cooling of momentum.
-- **Defense Sector Scale:** The defense industry has reached a trillion-dollar valuation, remaining a focal point for institutional capital.
-- **Telecom Value:** Telecom stocks are currently trading at near two-year lows, presenting a potential value play.
+## KEY INSIGHTS
+- The Dow Jones Industrial Average touched a fresh record high to start the second half of the year, though stocks subsequently dipped into the red.
+- Markets are braced for the June jobs report; strong economic data may be viewed negatively by investors as it could delay Fed rate cuts.
+- Benchmark senior analyst Mark Palmer argues that Strategy's new bitcoin approach could drive the stock to surge nearly 500%.
+- Strategy's pivot to bitcoin is seen as a significant catalyst for both the company's valuation and the broader bitcoin holder ecosystem.
+- Analysis was provided on Meta's expanding cloud business ventures and their potential impact on the tech landscape.
+- The episode reviews Walmart's recent performance, noting a "rough few months" for the retail giant.
+- The team identifies and analyzes "top dividend kings" for income-focused investors.
