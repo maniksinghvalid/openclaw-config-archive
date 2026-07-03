@@ -1,46 +1,45 @@
 📊 PRE-MARKET PORTFOLIO REPORT
-Thursday, July 2, 2026
+Friday, July 3, 2026
 
 🚀 MARKET REGIME & VIBE
-* Sentiment: Fear (CNN Fear & Greed Index: 32.5)
-* VIX: 16.5 (Neutral to Low)
-* Market Vibe: Investors are cautious (Fear zone), but volatility remains suppressed.
-* Index Outlook: SPY (+0.11%) and QQQ (+0.11%) showing slight positive bias pre-market.
-* CAD/USD: 0.7053 (+0.25%)
+• Sentiment: Fear (Fear & Greed Index: 32)
+• Volatility: VIX at 15.97 (Low/Moderate)
+• Futures: S&P 500 and Nasdaq futures trending slightly lower; Nasdaq showing more weakness (-1.62%)
+• Context: Market is in a "Fear" regime despite relatively low VIX, suggesting cautious positioning ahead of the July 4th holiday weekend.
 
-📉 PORTFOLIO PERFORMANCE SNAPSHOT
-* Total Value: $13,676.19 USD
-* Total P&L: -$2,382.76 (-14.84%)
-* Key Movers:
-  * SPCE: $2.78 (-1.77%) ⚠️ Significant drop from buy price ($11.90)
-  * IBIT: $34.00 (+0.06%) 📈 Strong recovery vs buy price ($56.74) - Wait, price is below buy price, but trending up today.
-  * BTC-USD: $61,148.83 (+1.98%) 🟢 Positive momentum for crypto.
+📉 HOLDING ALERTS (>5% Move)
+• MARA: -7.39% 🔴 (Significant slide; correlation with BTC remaining high but momentum is bearish)
 
-⚠️ 5% ALERT CHECK
-* No holdings moved >5% in the last session.
+📋 PORTFOLIO SNAPSHOT
+• Total Value: $13,713.17 USD
+• Overall P&L: -$2,342.02 (-14.59%)
+• Currency: CAD/USD at 0.7042
 
-📰 NEWS & SENTIMENT
-* SPCE: Reddit sentiment remains highly skeptical; discussions center on dilution risks and recession vulnerability.
-* CLOV: Some speculative interest in calls ahead of August earnings.
-* BTC/IBIT: Positive momentum following recent price action.
+🔍 HOLDING ANALYSIS & SENTIMENT
+• MARA ($12.40): Bearish short-term trend. Analysts maintain "Buy" consensus with target $18.16, but price action is weak. Options show hedging puts.
+• NIO ($4.79): Neutral to Bearish. Short-term technicals are bearish. Options tilt slightly bullish but lack conviction.
+• SPCE ($2.70): Bearish. Long-term erosion remains severe. Some valuation support suggested after debt trim, but momentum is negative.
+• IBIT ($34.87): Bullish (+2.62%). BTC performing well at $61,861, providing a key hedge against equity weakness.
+• O ($63.84): Bullish (+2.97%). Strong performance in REITs today.
+• IAU ($77.51): Bullish (+1.84%). Gold acting as a safe haven during "Fear" sentiment.
 
 🛡️ TACTICAL HEDGING & OPPORTUNITIES
-Market Regime: Bearish Sentiment / Low Volatility
+• Market Condition: Bearish/Cautious
+• Portfolio Hedge:
+- Increase Gold (IAU) exposure. Gold is rising as equities slide.
+- Consider Long Put Spreads on QQQ if Nasdaq continues to break support.
+• Ticker-Specific Strategies:
+- MARA: Sell Covered Calls at $15 strike (Aug expiry) to collect premium while waiting for a bounce.
+- NIO: Avoid adding to position; maintain current size.
+- O: Tighten stop-loss to lock in recent gains.
 
-Portfolio-Level Hedges:
-* Tail Risk Protection: With the Fear index at 32.5, consider a small position in long puts on SPY or QQQ to protect against a sudden spike in volatility.
-* Gold Hedge: IAU ($75.96) is holding steady; maintain this as a core hedge against systemic risk.
+📅 UPCOMING CATALYSTS (Next 14 Days)
+• July 4: US Independence Day (Markets Closed)
+• July 6: Delayed Statistical Releases (CPI/Jobs data expected Monday)
+• Macro: Focus on upcoming CPI and Fed decisions later in July.
+• Portfolio: No immediate earnings or dividends in the next 14 days (Next: MARA Earnings July 28).
 
-Ticker-Specific Strategies:
-* SPCE (Speculative): Heavy drawdown. Avoid adding to position. Consider selling covered calls if quantity allows (currently 50 shares), though premiums may be low given current price.
-* NIO (Speculative): Price is $4.97. If bullish on Q4 projections, consider a cash-secured put at $4.00 to lower entry or generate income.
-* O (Dividend): Stable at $61.82. Great for income; hold for dividends.
-
-📅 UPCOMING CATALYSTS (14-Day Window)
-* No specific earnings or ex-div dates within the next 14 days.
-* Macro Watch: July is "packed" with CPI, PCE, and Jobs data. Watch for these as primary volatility drivers.
-
-✅ ACTION ITEMS
-1. Monitor CPI/PCE release dates: These will dictate the Fed's next move and drive the "Fear" sentiment.
-2. Review SPCE position: Assess if the thesis remains intact given the steep decline and dilution fears.
-3. Income Generation: Evaluate covered call opportunities on NVDY or O to offset portfolio decay.
+💡 ACTION ITEMS
+1. Monitor BTC/IBIT: Let the crypto winner run; it is currently the primary driver of portfolio stability.
+2. MARA Premium Harvest: Sell 2026-Aug $15 Calls on MARA to offset the 7% dip.
+3. Safe Haven Shift: Rebalance 2% from speculative (SPCE/CLOV) into IAU if VIX climbs toward 20.

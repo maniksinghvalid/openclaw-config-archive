@@ -1,7 +1,8 @@
-### Log Health Monitoring (2026-07-01)
-- `scripts/check-logs.sh` scanned 107 sessions / 5,609 lines — 13 errors total.
-- **Findings:** Same known legacy patterns: "exec host=node requires a paired node" (6×), "Cron tool is restricted" (2×), "node required" (2×). No new error messages or patterns detected. Error count is stable relative to session volume (13 errors / 107 sessions ≈ 12%).
-- **Verdict:** Clean. All errors are from missing paired nodes (no companion app connected) — not indicative of any systemic failures needing remediation.
+### Log Health Monitoring (2026-07-03)
+- `scripts/check-logs.sh` scanned 111 sessions / 5,874 lines — 13 errors total.
+- **Findings:** Consistent with previous checks; errors are limited to known legacy patterns: "exec host=node requires a paired node" (6×), "Cron tool is restricted" (2×), and "node required" (2×). No new error messages or patterns detected.
+- **Verdict:** Clean. Error count is stable and attributable to missing paired nodes/restricted tool access rather than systemic failures.
+
 
 ### Log Health Monitoring (2026-06-30)
 - `scripts/check-logs.sh` scanned 103 sessions / 5,474 lines — 11 errors total.
