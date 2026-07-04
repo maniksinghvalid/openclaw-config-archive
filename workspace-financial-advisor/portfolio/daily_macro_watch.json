@@ -1,73 +1,7 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-07-03T11:22:39.735899Z",
+  "seeded_at": "2026-07-04T11:21:57.933429Z",
   "watch_window": "hourly",
-  "events": [
-    {
-      "title": "CA Composite/Services PMI",
-      "time_utc": "2026-07-03T13:30:00Z",
-      "priority": "medium",
-      "impact": "Medium",
-      "why_it_matters": "Leading indicator of economic activity in Canada.",
-      "watch_for": "CAD",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-07-03T14:07:06.405657Z"
-    },
-    {
-      "title": "US Composite/Services PMI",
-      "time_utc": "2026-07-03T13:45:00Z",
-      "priority": "medium",
-      "impact": "Medium",
-      "why_it_matters": "Leading indicator of economic activity in the US services sector.",
-      "watch_for": "SPY, QQQ",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-07-03T14:07:06.405657Z"
-    },
-    {
-      "title": "US ISM Non-Manufacturing PMI",
-      "time_utc": "2026-07-03T14:00:00Z",
-      "priority": "high",
-      "impact": "High",
-      "why_it_matters": "Primary indicator of health in the US services sector, a huge part of GDP.",
-      "watch_for": "SPY, QQQ, DXY",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-07-03T14:07:06.405657Z"
-    },
-    {
-      "title": "CA Interest Rate",
-      "time_utc": "2026-07-03T14:30:00Z",
-      "priority": "high",
-      "impact": "High",
-      "why_it_matters": "Central bank policy decision affecting borrowing costs and CAD value.",
-      "watch_for": "CAD, TSX",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-07-03T15:06:11.556143Z"
-    },
-    {
-      "title": "API Crude Oil Stock Change",
-      "time_utc": "2026-07-03T20:30:00Z",
-      "priority": "medium",
-      "impact": "Medium",
-      "why_it_matters": "Weekly inventory data that drives short-term oil price volatility.",
-      "watch_for": "WTI, XLE",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": null
-    }
-  ]
+  "events": []
 }
