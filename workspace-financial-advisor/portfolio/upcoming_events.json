@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-14",
+  "generated": "2026-07-05",
   "lookahead_days": 90,
   "source": "yfinance",
   "note": "Auto-updated weekly. Agent-supplemented events may also be appended during daily reports.",
@@ -7,25 +7,13 @@
     {
       "symbol": "O",
       "event": "Dividend Pay Date",
-      "date": "2026-06-15",
-      "source": "yfinance"
-    },
-    {
-      "symbol": "O",
-      "event": "Ex-Dividend",
-      "date": "2026-06-30",
+      "date": "2026-07-15",
       "source": "yfinance"
     },
     {
       "symbol": "MARA",
       "event": "Earnings",
       "date": "2026-07-28",
-      "source": "yfinance"
-    },
-    {
-      "symbol": "O",
-      "event": "Earnings",
-      "date": "2026-08-03",
       "source": "yfinance"
     },
     {
@@ -36,6 +24,12 @@
     },
     {
       "symbol": "SPCE",
+      "event": "Earnings",
+      "date": "2026-08-05",
+      "source": "yfinance"
+    },
+    {
+      "symbol": "O",
       "event": "Earnings",
       "date": "2026-08-05",
       "source": "yfinance"
