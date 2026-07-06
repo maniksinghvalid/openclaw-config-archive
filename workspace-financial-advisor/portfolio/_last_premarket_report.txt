@@ -1,45 +1,41 @@
-📊 PRE-MARKET PORTFOLIO REPORT
-Friday, July 3, 2026
+📊 **Manik's Pre-Market Portfolio Report**
+📅 July 6, 2026
 
-🚀 MARKET REGIME & VIBE
-• Sentiment: Fear (Fear & Greed Index: 32)
-• Volatility: VIX at 15.97 (Low/Moderate)
-• Futures: S&P 500 and Nasdaq futures trending slightly lower; Nasdaq showing more weakness (-1.62%)
-• Context: Market is in a "Fear" regime despite relatively low VIX, suggesting cautious positioning ahead of the July 4th holiday weekend.
+**🚀 MARKET REGIME & MACRO CONTEXT**
+• **Vibe**: Neutral to Cautious. VIX is at 16.32 (up 3.23%), signaling a slight uptick in nervousness.
+• **Futures**: Nasdaq and S&P 500 futures show some overnight strength, but technicals suggest negative RSI divergence, indicating a risk of a downward reaction.
+• **Currency**: CAD/USD at 0.7028.
+• **Regime**: Sideways/Cautious. The market is searching for direction; AI-momentum is attempting a rebound, but volatility is creeping up.
 
-📉 HOLDING ALERTS (>5% Move)
-• MARA: -7.39% 🔴 (Significant slide; correlation with BTC remaining high but momentum is bearish)
+**📉 PORTFOLIO SNAPSHOT**
+• **Total Value**: $13,725.79 USD
+• **Total P&L**: -$2,323.55 (-14.48%)
+• **Status**: Portfolio is currently underwater, heavily impacted by speculative holdings (NIO, SPCE, CLOV).
 
-📋 PORTFOLIO SNAPSHOT
-• Total Value: $13,713.17 USD
-• Overall P&L: -$2,342.02 (-14.59%)
-• Currency: CAD/USD at 0.7042
+**⚠️ SIGNIFICANT MOVES (>5%)**
+• No holdings moved >5% in the last session.
 
-🔍 HOLDING ANALYSIS & SENTIMENT
-• MARA ($12.40): Bearish short-term trend. Analysts maintain "Buy" consensus with target $18.16, but price action is weak. Options show hedging puts.
-• NIO ($4.79): Neutral to Bearish. Short-term technicals are bearish. Options tilt slightly bullish but lack conviction.
-• SPCE ($2.70): Bearish. Long-term erosion remains severe. Some valuation support suggested after debt trim, but momentum is negative.
-• IBIT ($34.87): Bullish (+2.62%). BTC performing well at $61,861, providing a key hedge against equity weakness.
-• O ($63.84): Bullish (+2.97%). Strong performance in REITs today.
-• IAU ($77.51): Bullish (+1.84%). Gold acting as a safe haven during "Fear" sentiment.
+**🔍 HOLDING ANALYSIS & SENTIMENT**
+• **SPY/QQQ**: Slight dip. Market is hesitant.
+• **NIO**: Price 4.79. Sentiment remains mixed; awaiting Q4 data.
+• **IBIT (Bitcoin ETF)**: Price 34.87. BTC is down 2.46% to $62,016. Crypto is seeing a short-term pullback.
+• **O (Realty Income)**: Price 63.84. Stable performance; positive yield play.
+• **Speculatives (CLOV, MARA, SPCE)**: Continuing to trade well below cost basis. High volatility expected around earnings.
 
-🛡️ TACTICAL HEDGING & OPPORTUNITIES
-• Market Condition: Bearish/Cautious
-• Portfolio Hedge:
-- Increase Gold (IAU) exposure. Gold is rising as equities slide.
-- Consider Long Put Spreads on QQQ if Nasdaq continues to break support.
-• Ticker-Specific Strategies:
-- MARA: Sell Covered Calls at $15 strike (Aug expiry) to collect premium while waiting for a bounce.
-- NIO: Avoid adding to position; maintain current size.
-- O: Tighten stop-loss to lock in recent gains.
+**🛡️ TACTICAL HEDGING & OPPORTUNITIES**
+• **Portfolio-Level Hedge**: With VIX rising and RSI divergence on indices, consider a **Protective Put on SPY** or a small position in **Long VIX calls** if VIX breaks 18.
+• **Ticker-Specific Strategy (NVDY)**: Since NVDY is an option-income ETF, continue holding for premiums but avoid adding size until NVDA shows a clear trend reversal.
+• **Opportunity**: Gold (IAU) is stable at 77.51. In a "cautious" regime, IAU acts as a primary diversifier. Consider increasing weight to 12% target if equity volatility spikes.
+• **Income Play**: O is performing well. Maintain for dividends.
 
-📅 UPCOMING CATALYSTS (Next 14 Days)
-• July 4: US Independence Day (Markets Closed)
-• July 6: Delayed Statistical Releases (CPI/Jobs data expected Monday)
-• Macro: Focus on upcoming CPI and Fed decisions later in July.
-• Portfolio: No immediate earnings or dividends in the next 14 days (Next: MARA Earnings July 28).
+**📅 UPCOMING CATALYSTS (Next 14 Days)**
+• **July 15**: O - Dividend Pay Date 💰
+• **Macro**: Keep an eye on upcoming US inflation data (CPI/PCE) and Fed commentary which typically drive the "vibe" shifts.
+• **Earnings (Future)**: MARA (July 28), CLOV (Aug 4), SPCE/O (Aug 5).
 
-💡 ACTION ITEMS
-1. Monitor BTC/IBIT: Let the crypto winner run; it is currently the primary driver of portfolio stability.
-2. MARA Premium Harvest: Sell 2026-Aug $15 Calls on MARA to offset the 7% dip.
-3. Safe Haven Shift: Rebalance 2% from speculative (SPCE/CLOV) into IAU if VIX climbs toward 20.
+**✅ ACTION ITEMS**
+1. **Monitor VIX**: If VIX crosses 20, tighten stop-losses on speculative positions (NIO, SPCE).
+2. **Rebalance Check**: Portfolio is skewed toward speculative losses. Do not "average down" on SPCE or CLOV without a fundamental catalyst.
+3. **Income Focus**: Ensure O dividend is captured on the 15th.
+
+*Data Source: fetch_quotes.py, snapshot_portfolio.py, yfinance*
