@@ -1,41 +1,53 @@
-📊 **Manik's Pre-Market Portfolio Report**
-📅 July 6, 2026
+📊 MANIK'S PRE-MARKET REPORT - JULY 7, 2026
 
-**🚀 MARKET REGIME & MACRO CONTEXT**
-• **Vibe**: Neutral to Cautious. VIX is at 16.32 (up 3.23%), signaling a slight uptick in nervousness.
-• **Futures**: Nasdaq and S&P 500 futures show some overnight strength, but technicals suggest negative RSI divergence, indicating a risk of a downward reaction.
-• **Currency**: CAD/USD at 0.7028.
-• **Regime**: Sideways/Cautious. The market is searching for direction; AI-momentum is attempting a rebound, but volatility is creeping up.
+🚀 MARKET REGIME & VIBE
+• Market Mood: Neutral to Slightly Bullish
+• VIX: 15.83 (Low volatility regime, no immediate need for panic hedging)
+• SPY: 751.28 (+0.08%)
+• QQQ: 722.82 (+0.35%)
+• CAD/USD: 0.7036
+• Summary: Markets are drifting higher with a slight bias toward Tech (QQQ). With VIX under 20, the environment supports core holdings and income generation, but we remain vigilant for macro shifts.
 
-**📉 PORTFOLIO SNAPSHOT**
-• **Total Value**: $13,725.79 USD
-• **Total P&L**: -$2,323.55 (-14.48%)
-• **Status**: Portfolio is currently underwater, heavily impacted by speculative holdings (NIO, SPCE, CLOV).
+📉 PORTFOLIO PERFORMANCE & ALERTS
+• Total Value (USD): 13,844.11
+• Total P&L (USD): -2,208.16 (-13.76%)
+• 5% Move Alerts: None. All holdings are trading within normal intraday ranges.
 
-**⚠️ SIGNIFICANT MOVES (>5%)**
-• No holdings moved >5% in the last session.
+💰 HOLDINGS SNAPSHOT
+• SPCE: 2.69 (Buy: 11.90) 📉
+• CLOV: 5.06 (Buy: 11.19) 📉
+• MARA: 12.95 (Buy: 21.45) 📉
+• NIO: 5.02 (Buy: 10.54) 📈 (+0.40%)
+• O: 63.19 (Buy: 55.93) 🟢
+• IBIT: 36.12 (Buy: 56.74) 📉
+• VDY.TO: 76.22 (Buy: 58.24) 🟢
+• DIVO: 46.43 (Buy: 41.02) 🟢
+• XEQT.TO: 45.55 (Buy: 37.10) 🟢
+• IAU: 78.30 (Buy: 78.10) 🟢
+• SCHF: 27.87 (Buy: 23.66) 🟢
+• ZAG.TO: 13.83 (Buy: 14.01) 🟡
+• XIC.TO: 56.18 (Buy: 41.81) 🟢
+• NVDY: 12.19 (Buy: 15.92) 📉
 
-**🔍 HOLDING ANALYSIS & SENTIMENT**
-• **SPY/QQQ**: Slight dip. Market is hesitant.
-• **NIO**: Price 4.79. Sentiment remains mixed; awaiting Q4 data.
-• **IBIT (Bitcoin ETF)**: Price 34.87. BTC is down 2.46% to $62,016. Crypto is seeing a short-term pullback.
-• **O (Realty Income)**: Price 63.84. Stable performance; positive yield play.
-• **Speculatives (CLOV, MARA, SPCE)**: Continuing to trade well below cost basis. High volatility expected around earnings.
+🛡️ TACTICAL HEDGING & OPPORTUNITIES
+Current Regime: Low Volatility Bullish Drift
 
-**🛡️ TACTICAL HEDGING & OPPORTUNITIES**
-• **Portfolio-Level Hedge**: With VIX rising and RSI divergence on indices, consider a **Protective Put on SPY** or a small position in **Long VIX calls** if VIX breaks 18.
-• **Ticker-Specific Strategy (NVDY)**: Since NVDY is an option-income ETF, continue holding for premiums but avoid adding size until NVDA shows a clear trend reversal.
-• **Opportunity**: Gold (IAU) is stable at 77.51. In a "cautious" regime, IAU acts as a primary diversifier. Consider increasing weight to 12% target if equity volatility spikes.
-• **Income Play**: O is performing well. Maintain for dividends.
+Portfolio-Level Hedges:
+• Neutral Bias: No aggressive hedging required. Keep IAU (Gold) as the primary macro hedge.
+• Tail Risk: If VIX spikes above 20, consider a small position in long put spreads on SPY (out-of-the-money).
 
-**📅 UPCOMING CATALYSTS (Next 14 Days)**
-• **July 15**: O - Dividend Pay Date 💰
-• **Macro**: Keep an eye on upcoming US inflation data (CPI/PCE) and Fed commentary which typically drive the "vibe" shifts.
-• **Earnings (Future)**: MARA (July 28), CLOV (Aug 4), SPCE/O (Aug 5).
+Ticker-Specific Strategies:
+• O (Realty Income): Trading well above cost basis. Consider selling covered calls at a 5-10% OTM strike to generate additional yield.
+• NIO: Showing slight strength. Avoid adding here; hold for a catalyst.
+• MARA/IBIT: High correlation to BTC. Since BTC is slightly down (-0.63%), ensure these aren't over-weighted relative to the 8% crypto target.
+• NVDY: Trading below cost. Monitor Nvidia's underlying trend; avoid averaging down unless a clear reversal forms.
 
-**✅ ACTION ITEMS**
-1. **Monitor VIX**: If VIX crosses 20, tighten stop-losses on speculative positions (NIO, SPCE).
-2. **Rebalance Check**: Portfolio is skewed toward speculative losses. Do not "average down" on SPCE or CLOV without a fundamental catalyst.
-3. **Income Focus**: Ensure O dividend is captured on the 15th.
+📅 UPCOMING CATALYSTS (14-Day Window)
+• July 15: O - Dividend Pay Date (Income incoming)
+• Macro: Monitor Fed Governor speeches and upcoming CPI/Jobs data (Dates TBD via official calendar).
+• Long-term: MARA Earnings (July 28), CLOV Earnings (Aug 4), SPCE/O Earnings (Aug 5).
 
-*Data Source: fetch_quotes.py, snapshot_portfolio.py, yfinance*
+✅ ACTION ITEMS FOR TODAY
+1. Collect Dividends: Confirm 'O' dividend payment on July 15.
+2. Yield Boost: Evaluate O covered call strikes for August expiry to monetize gains.
+3. Rebalance Check: Verify that the current crypto exposure (IBIT/MARA) still aligns with the 8% target given recent BTC volatility.
