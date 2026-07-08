@@ -1,53 +1,53 @@
-📊 MANIK'S PRE-MARKET REPORT - JULY 7, 2026
+📊 **Daily Pre-Market Portfolio Report**
+📅 Date: Wednesday, July 8th, 2026
 
-🚀 MARKET REGIME & VIBE
-• Market Mood: Neutral to Slightly Bullish
-• VIX: 15.83 (Low volatility regime, no immediate need for panic hedging)
-• SPY: 751.28 (+0.08%)
-• QQQ: 722.82 (+0.35%)
-• CAD/USD: 0.7036
-• Summary: Markets are drifting higher with a slight bias toward Tech (QQQ). With VIX under 20, the environment supports core holdings and income generation, but we remain vigilant for macro shifts.
+**1. Market Regime & Macro Context**
+🟢 **Market Vibe:** Mixed to Bullish
+📉 **VIX:** 17.55 (Up 8.8%) - Moderate volatility. While VIX is below 20, the sharp intraday spike suggests some anxiety.
+📈 **Indices:**
+• SPY: 747.71 (+0.21%)
+• QQQ: 709.43 (+0.33%)
+• BTC: 62,187.95 (-1.80%)
+• CAD/USD: 0.7052 (+0.12%)
+**Regime:** Bullish bias but showing signs of short-term fragility (VIX spike + Crypto dip).
 
-📉 PORTFOLIO PERFORMANCE & ALERTS
-• Total Value (USD): 13,844.11
-• Total P&L (USD): -2,208.16 (-13.76%)
-• 5% Move Alerts: None. All holdings are trading within normal intraday ranges.
+**2. Portfolio Performance Snapshot**
+💰 **Total Value:** $13,770.11 USD
+📉 **Total P&L:** -$2,289.25 (-14.25%)
+**Holding Alerts:**
+• SPCE: 2.57 (-1.15%)
+• IBIT: 36.15 (+0.87%)
+• VDY.TO: 77.12 (+1.18%)
+(No holdings triggered the 5% movement alert today)
 
-💰 HOLDINGS SNAPSHOT
-• SPCE: 2.69 (Buy: 11.90) 📉
-• CLOV: 5.06 (Buy: 11.19) 📉
-• MARA: 12.95 (Buy: 21.45) 📉
-• NIO: 5.02 (Buy: 10.54) 📈 (+0.40%)
-• O: 63.19 (Buy: 55.93) 🟢
-• IBIT: 36.12 (Buy: 56.74) 📉
-• VDY.TO: 76.22 (Buy: 58.24) 🟢
-• DIVO: 46.43 (Buy: 41.02) 🟢
-• XEQT.TO: 45.55 (Buy: 37.10) 🟢
-• IAU: 78.30 (Buy: 78.10) 🟢
-• SCHF: 27.87 (Buy: 23.66) 🟢
-• ZAG.TO: 13.83 (Buy: 14.01) 🟡
-• XIC.TO: 56.18 (Buy: 41.81) 🟢
-• NVDY: 12.19 (Buy: 15.92) 📉
+**3. News & Sentiment Analysis**
+• **CLOV:** Bullish sentiment on Reddit (Score 76/100). Crowd is roughly 69% bullish, though Reddit specifically is split 50/50.
+• **NIO:** Heavily Bearish sentiment on Reddit (only 9% bullish). Strong negative momentum across social channels.
+• **MARA:** Mixed/Bearish. Recent Adanos "Sell" signal. Community concerns regarding share dilution/selling.
 
-🛡️ TACTICAL HEDGING & OPPORTUNITIES
-Current Regime: Low Volatility Bullish Drift
+**4. 🚀 Tactical Hedging & Opportunities**
+**Market Condition:Cautiously Bullish / High Volatility Transition**
 
-Portfolio-Level Hedges:
-• Neutral Bias: No aggressive hedging required. Keep IAU (Gold) as the primary macro hedge.
-• Tail Risk: If VIX spikes above 20, consider a small position in long put spreads on SPY (out-of-the-money).
+**Portfolio-Level Hedges:**
+• **Equity Hedge:** With VIX spiking 8.8%, consider a small position in VIX calls or a Put Spread on SPY if VIX crosses 20.
+• **Crypto Hedge:** BTC is sliding (-1.8%). If IBIT continues to drop, consider a protective put or reducing exposure to MARA (which is highly correlated to BTC).
 
-Ticker-Specific Strategies:
-• O (Realty Income): Trading well above cost basis. Consider selling covered calls at a 5-10% OTM strike to generate additional yield.
-• NIO: Showing slight strength. Avoid adding here; hold for a catalyst.
-• MARA/IBIT: High correlation to BTC. Since BTC is slightly down (-0.63%), ensure these aren't over-weighted relative to the 8% crypto target.
-• NVDY: Trading below cost. Monitor Nvidia's underlying trend; avoid averaging down unless a clear reversal forms.
+**Ticker-Specific Strategies:**
+• **NIO (Bearish):** Current price 4.88. High bearish sentiment. Consider selling Covered Calls to collect premium while waiting for a reversal, or a Bear Call Spread to profit from the downward trend.
+• **CLOV (Bullish):** Current price 5.00. Sentiment is positive. Consider Cash-Secured Puts to enter at a lower cost basis if you want to increase position.
+• **MARA (Volatile):** Price 12.05. High volatility ahead of July 28 earnings. A Straddle or Strangle may be appropriate to capture the earnings move regardless of direction.
 
-📅 UPCOMING CATALYSTS (14-Day Window)
-• July 15: O - Dividend Pay Date (Income incoming)
-• Macro: Monitor Fed Governor speeches and upcoming CPI/Jobs data (Dates TBD via official calendar).
-• Long-term: MARA Earnings (July 28), CLOV Earnings (Aug 4), SPCE/O Earnings (Aug 5).
+**5. Upcoming Catalysts (Next 14 Days)**
+• **July 15:** O (Realty Income) Dividend Pay Date 💰
 
-✅ ACTION ITEMS FOR TODAY
-1. Collect Dividends: Confirm 'O' dividend payment on July 15.
-2. Yield Boost: Evaluate O covered call strikes for August expiry to monetize gains.
-3. Rebalance Check: Verify that the current crypto exposure (IBIT/MARA) still aligns with the 8% target given recent BTC volatility.
+**Macro Events:**
+• Monitor Federal Reserve Governor Christopher Waller's comments on monetary policy transmission (July).
+• Watch for July CPI/PPI prints (Standard monthly cycle).
+
+**6. Prioritized Action Items**
+1. **Hedge Crypto Exposure:** Review MARA and IBIT. If BTC breaks below 60k, consider tactical downside protection.
+2. **Monetize NIO Bearishness:** Set up a premium-collection strategy (Covered Calls) for NIO given the strong negative sentiment.
+3. **Prepare for MARA Earnings:** Mark July 28 on the calendar; evaluate volatility plays 1 week prior.
+
+---
+*Risk Warning: Options trading involves significant risk. All suggestions are based on current data and sentiment; execute based on your personal risk tolerance.*
