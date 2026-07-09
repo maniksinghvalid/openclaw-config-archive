@@ -1,34 +1,47 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-07-08T11:22:04.778041Z",
+  "seeded_at": "2026-07-09T11:22:19.272208Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "US Crude Oil Inventories",
-      "time_utc": "2026-07-08T14:30:00Z",
+      "title": "US Jobless Claims",
+      "time_utc": "2026-07-09T12:30:00Z",
       "priority": "medium",
-      "impact": "Moderate",
-      "why_it_matters": "Weekly EIA data on oil stocks affects energy prices and inflation expectations.",
-      "watch_for": "WTI, Brent, Energy ETFs",
+      "impact": "Labor market health indicator. Higher claims suggest slowing economy.",
+      "why_it_matters": "Influences Fed interest rate decisions.",
+      "watch_for": "SPY, QQQ, DXY",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-07-08T15:06:14.707074Z"
+      "alert_sent_at": "2026-07-09T14:06:23.734873Z"
     },
     {
-      "title": "US Consumer Credit",
-      "time_utc": "2026-07-08T19:00:00Z",
-      "priority": "medium",
-      "impact": "Low to Medium",
-      "why_it_matters": "Provides insight into household debt levels and consumer borrowing trends, which reflects consumer health and potential inflation pressures.",
-      "watch_for": "DXY, SPY",
+      "title": "US Existing Home Sales",
+      "time_utc": "2026-07-09T14:00:00Z",
+      "priority": "low",
+      "impact": "Housing market activity.",
+      "why_it_matters": "Proxy for consumer confidence and economic health.",
+      "watch_for": "SPY, Real Estate ETFs",
       "actual": null,
       "consensus": null,
       "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": null
+      "status": "released",
+      "alert_sent_at": "2026-07-09T14:06:23.734873Z"
+    },
+    {
+      "title": "US Natural Gas Stocks Change",
+      "time_utc": "2026-07-09T14:30:00Z",
+      "priority": "low",
+      "impact": "Energy market supply/demand.",
+      "why_it_matters": "Directly affects natural gas prices.",
+      "watch_for": "UNG, Natural Gas Futures",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-07-09T15:06:05.151656Z"
     }
   ]
 }
