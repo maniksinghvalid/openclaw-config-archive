@@ -1,47 +1,47 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-07-09T11:22:19.272208Z",
+  "seeded_at": "2026-07-10T11:22:17.150479Z",
   "watch_window": "hourly",
   "events": [
     {
-      "title": "US Jobless Claims",
-      "time_utc": "2026-07-09T12:30:00Z",
-      "priority": "medium",
-      "impact": "Labor market health indicator. Higher claims suggest slowing economy.",
-      "why_it_matters": "Influences Fed interest rate decisions.",
-      "watch_for": "SPY, QQQ, DXY",
+      "title": "Canada Unemployment Rate",
+      "time_utc": "2026-07-10T12:30:00Z",
+      "priority": "high",
+      "impact": "High",
+      "why_it_matters": "Key measure of labor market health in Canada, influencing BoC interest rate decisions.",
+      "watch_for": "CAD, CAD-linked assets",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-07-09T14:06:23.734873Z"
+      "alert_sent_at": "2026-07-10T14:05:20.438493Z"
     },
     {
-      "title": "US Existing Home Sales",
-      "time_utc": "2026-07-09T14:00:00Z",
-      "priority": "low",
-      "impact": "Housing market activity.",
-      "why_it_matters": "Proxy for consumer confidence and economic health.",
-      "watch_for": "SPY, Real Estate ETFs",
+      "title": "Canada Employment Change",
+      "time_utc": "2026-07-10T12:30:00Z",
+      "priority": "high",
+      "impact": "High",
+      "why_it_matters": "Direct indicator of economic growth and labor demand.",
+      "watch_for": "CAD, CAD-linked assets",
       "actual": null,
       "consensus": null,
       "previous": null,
       "status": "released",
-      "alert_sent_at": "2026-07-09T14:06:23.734873Z"
+      "alert_sent_at": "2026-07-10T14:05:20.438493Z"
     },
     {
-      "title": "US Natural Gas Stocks Change",
-      "time_utc": "2026-07-09T14:30:00Z",
+      "title": "US Crude Oil Rigs",
+      "time_utc": "2026-07-10T17:00:00Z",
       "priority": "low",
-      "impact": "Energy market supply/demand.",
-      "why_it_matters": "Directly affects natural gas prices.",
-      "watch_for": "UNG, Natural Gas Futures",
+      "impact": "Low",
+      "why_it_matters": "Proxy for future US oil production capacity.",
+      "watch_for": "USO, XLE, Crude Oil",
       "actual": null,
       "consensus": null,
       "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-07-09T15:06:05.151656Z"
+      "status": "scheduled",
+      "alert_sent_at": null
     }
   ]
 }
