@@ -1,47 +1,7 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-07-10T11:22:17.150479Z",
+  "seeded_at": "2026-07-11T11:21:59.121222Z",
   "watch_window": "hourly",
-  "events": [
-    {
-      "title": "Canada Unemployment Rate",
-      "time_utc": "2026-07-10T12:30:00Z",
-      "priority": "high",
-      "impact": "High",
-      "why_it_matters": "Key measure of labor market health in Canada, influencing BoC interest rate decisions.",
-      "watch_for": "CAD, CAD-linked assets",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-07-10T14:05:20.438493Z"
-    },
-    {
-      "title": "Canada Employment Change",
-      "time_utc": "2026-07-10T12:30:00Z",
-      "priority": "high",
-      "impact": "High",
-      "why_it_matters": "Direct indicator of economic growth and labor demand.",
-      "watch_for": "CAD, CAD-linked assets",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "released",
-      "alert_sent_at": "2026-07-10T14:05:20.438493Z"
-    },
-    {
-      "title": "US Crude Oil Rigs",
-      "time_utc": "2026-07-10T17:00:00Z",
-      "priority": "low",
-      "impact": "Low",
-      "why_it_matters": "Proxy for future US oil production capacity.",
-      "watch_for": "USO, XLE, Crude Oil",
-      "actual": null,
-      "consensus": null,
-      "previous": null,
-      "status": "scheduled",
-      "alert_sent_at": null
-    }
-  ]
+  "events": []
 }
