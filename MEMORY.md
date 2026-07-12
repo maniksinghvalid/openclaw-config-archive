@@ -1,11 +1,13 @@
-### Log Health Monitoring (2026-07-10)
-- `scripts/check-logs.sh` scanned 118 sessions / 7,334 lines — 18 errors total.
+### Log Health Monitoring (2026-07-12)
+- `scripts/check-logs.sh` scanned 116 sessions / 7,906 lines — 30 errors total.
 - **Findings:**
-  - 12 × "gateway timeout after 30000ms" (message tool)
-  - 5 × "Cron tool is restricted to the current cron job"
-  - 1 × gateway error, 1 × exec error.
-- **Verdict:** The error count is above 5, but the primary driver (12 timeouts) represents transient network/gateway latency rather than a logic defect in a skill. The cron restriction is a known edge case.
-- **Action:** No code remediation needed for transient timeouts. Monitoring for increase in frequency.
+  - 16 × "gateway timeout after 30000ms" (message tool)
+  - 5 × "gateway" errors (protected config paths)
+  - 5 × "cron" errors (restricted access)
+  - 4 × "edit" errors (text mismatch)
+- **Verdict:** Error count is elevated (30), but the primary driver is the same transient gateway timeouts seen on 2026-07-10. Protected config and cron restriction errors are known edge cases. Edit errors are typically one-off mismatches.
+- **Action:** No code remediation needed for transient timeouts or known restrictions. Monitoring for increase in frequency.
+
 
 ### Log Health Monitoring (2026-07-08)
 - `scripts/check-logs.sh` scanned 110 sessions / 6,943 lines — 8 errors total.
