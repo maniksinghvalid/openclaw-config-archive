@@ -1,56 +1,51 @@
 📊 PRE-MARKET PORTFOLIO REPORT
-Date: Monday, July 13, 2026
-Reference UTC: 12:30 PM
+Tuesday, July 14, 2026
 
-📈 MARKET REGIME & VIBE
-* Regime: Neutral to Slightly Bullish
-* VIX: 16.4 (Up 9.1%) - Still in Low Fear zone (<20), but rising volatility suggests a shift in sentiment.
-* S&P 500 (SPY): 754.95 (Flat)
-* Nasdaq (QQQ): 725.51 (Down 0.12%)
-* Market Vibe: "Low Fear" but cautious. Rising VIX often precedes a volatility spike; we are seeing a slight divergence between SPY and QQQ.
+🚀 MARKET REGIME & VIBE
+• Sentiment: Neutral to Greed
+• VIX: 17.52 (Moderate)
+• SPY: 749.17 (+0.14%)
+• QQQ: 711.74 (+0.16%)
+• BTC: $63,316 (+1.69%)
+• Regime: Bullish/Sideways. Market is holding steady with a slight upward bias. VIX is below 20, meaning aggressive downside hedging isn't mandatory, but tactical protection is advised for speculative plays.
 
-⚠️ HOLDINGS WATCHLIST (>5% Movement)
-* No portfolio holdings moved >5% today.
+📉 PORTFOLIO SNAPSHOT
+• Total Value: $13,702.81 USD
+• Total P&L: -$2,380.35 (-14.8%)
+• CAD/USD: 0.7109
 
-💰 PORTFOLIO SNAPSHOT
-* Total Value: $13,736.92 USD
-* Total P&L: -$2,330.79 (-14.51%)
-* FX (CAD/USD): 0.7072
+⚠️ SIGNIFICANT MOVES (>5%)
+• No holdings moved >5% today.
 
-📋 HOLDING DETAILS
-* SPCE: $2.57 (Buy: $11.90) - Speculative
-* CLOV: $4.44 (Buy: $11.19) - Speculative
-* MARA: $12.60 (Buy: $21.45) - Speculative
-* NIO: $4.78 (Buy: $10.54) - Speculative
-* O: $63.31 (Buy: $55.93) - Dividend 🟢
-* IBIT: $36.23 (Buy: $56.74) - Crypto
-* VDY.TO: $77.47 (Buy: $58.24) - ETF 🟢
-* DIVO: $46.46 (Buy: $41.02) - ETF 🟢
-* XEQT.TO: $45.35 (Buy: $37.10) - ETF 🟢
-* IAU: $77.26 (Buy: $78.10) - Commodity
-* SCHF: $27.55 (Buy: $23.66) - ETF 🟢
-* ZAG.TO: $13.75 (Buy: $14.01) - Bond
-* XIC.TO: $56.34 (Buy: $41.81) - ETF 🟢
-* NVDY: $12.75 (Buy: $15.92) - Speculative
+🔍 HOLDING ANALYSIS & SENTIMENT
+• SPCE: $2.42 (-0.41%) • Basis: $11.90 • Status: Deeply underwater. Sentiment: Speculative/Bearish.
+• CLOV: $4.57 (+0.04%) • Basis: $11.19 • Status: Underwater. Sentiment: Mixed.
+• MARA: $12.19 (+0.50%) • Basis: $21.45 • Status: Underwater. Sentiment: Bullish (BTC correlation).
+• NIO: $4.93 (+0.41%) • Basis: $10.54 • Status: Underwater. Sentiment: Mixed.
+• O: $64.17 (+0.23%) • Basis: $55.93 • Status: Profitable. Sentiment: Bullish/Income.
+• IBIT: $35.22 (-0.03%) • Basis: $56.74 • Status: Underwater. Sentiment: Bullish (BTC trend).
+• VDY.TO: $77.87 (+0.52%) • Basis: $58.24 • Status: Profitable.
+• DIVO: $46.58 (-0.19%) • Basis: $41.02 • Status: Profitable.
+• XEQT.TO: $45.01 (-0.75%) • Basis: $37.10 • Status: Profitable.
+• IAU: $75.25 (-0.08%) • Basis: $78.10 • Status: Slight loss.
+• SCHF: $27.07 (-0.08%) • Basis: $23.66 • Status: Profitable.
+• ZAG.TO: $13.70 (-0.36%) • Basis: $14.01 • Status: Slight loss.
+• XIC.TO: $56.30 (-0.07%) • Basis: $41.81 • Status: Profitable.
+• NVDY: $12.43 (+0.32%) • Basis: $15.92 • Status: Underwater. Sentiment: Bullish on NVDA.
 
-🔍 SENTIMENT & NEWS
-* NIO: Sentiment is consistently bearish on Reddit (9% bullish). However, some retail sales growth in China is noted.
-* CLOV: Mixed sentiment; some analyst buys but retail sentiment is split.
-* General: Speculative holdings continue to face heavy headwinds; core dividend/equity ETFs remain the portfolio's anchor.
+🛡️ TACTICAL HEDGING & OPPORTUNITIES
+• Portfolio Level: With VIX at 17.5, a small "tail hedge" using SPY put spreads (out-of-the-money) could protect against a sudden macro reversal without eating too much capital.
+• Ticker Specific:
+  - MARA/IBIT: Since BTC is climbing, avoid hedging these now. Ride the momentum.
+  - Speculative Basket (SPCE, CLOV, NIO): These are high-risk. Suggest selling Covered Calls (if holding 100 shares) or using a "Collar" strategy to lock in a floor while capping upside.
+  - O (Realty Income): Consider selling slightly OTM Covered Calls to enhance the yield on your profitable position.
 
-🚀 TACTICAL HEDGING & OPPORTUNITIES
-* Market Condition: Sideways/Cautious
-* Portfolio-Level Hedge: With VIX rising (16.4), consider a small position in VIX calls or increasing IAU (Gold) if macro uncertainty climbs.
-* Ticker-Specific Strategies:
-  * O (Realty Income): Trading above cost basis. Consider selling Covered Calls at $65-$68 to generate income while holding.
-  * NVDY: High yield but price is below basis. Hold for income, but avoid adding more until a clear trend reversal.
-  * IBIT: Bitcoin is volatile ($62.7k). If BTC drops below $60k, consider protective puts or reducing exposure.
-
-📅 UPCOMING CATALYSTS (14-Day Window)
-* July 15: O - Dividend Pay Date (Cash Inflow)
-* Macro: Monitor upcoming CPI/Fed commentary for rate direction shifts.
+📅 UPCOMING CATALYSTS (Next 14 Days)
+• July 15: O (Dividend Pay Date) 💰
+• Macro: Monitor for late-month CPI/FOMC chatter (specific dates unavailable).
+• Long-term: MARA Earnings (July 28).
 
 🎯 ACTION ITEMS
 1. Collect O dividend on July 15.
-2. Review Speculative holdings (SPCE, CLOV, NIO) for tax-loss harvesting opportunities if long-term outlook remains bearish.
-3. Monitor VIX; if it crosses 20, implement a formal downside hedge (e.g., SPY puts).
+2. Review SPCE/CLOV/NIO positions: Determine if "stop-losses" are needed or if we move to a strict income-generation (Covered Call) mode.
+3. Monitor BTC stability: If BTC breaks $65k, MARA and IBIT may see a sharp relief rally.

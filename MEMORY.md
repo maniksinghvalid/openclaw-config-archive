@@ -1,11 +1,13 @@
-### Log Health Monitoring (2026-07-13)
-- `scripts/check-logs.sh` scanned 114 sessions / 2,119 lines — 14 errors total.
+### Log Health Monitoring (2026-07-14)
+- `scripts/check-logs.sh` scanned 114 sessions / 2,390 lines — 83 errors.
 - **Findings:**
-  - 5 × "gateway" errors (protected config paths: heartbeat settings)
-  - 5 × "cron" errors (restricted access to current job)
-  - 4 × "edit" errors (text mismatch)
-- **Verdict:** Clean. While the total error count (14) is above the threshold, these are known edge cases (protected config and cron restrictions) and typical one-off edit mismatches. No new systemic patterns detected.
-- **Action:** No remediation needed. Monitoring continues.
+  - 67 × Brave Search API errors (queries > 40 words).
+  - 67 × Spotify podcast skill errors (path issues).
+  - 67 × Bun runtime not found (PATH issues).
+  - 71 × "edit" tool text mismatch errors.
+- **Verdict:** Systemic issues detected. High error counts in Search, Spotify skill, and Bun runtime suggest configuration or pathing regressions.
+- **Action:** Notified Manik of the failures. Need to investigate the Spotify skill paths and the environment PATH for Bun. Monitoring continues.
+
 
 
 

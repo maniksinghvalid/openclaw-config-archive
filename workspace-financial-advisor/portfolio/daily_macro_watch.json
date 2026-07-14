@@ -1,7 +1,47 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "source": "Economic Calendar Seed Check",
-  "seeded_at": "2026-07-13T11:21:38.009264Z",
+  "seeded_at": "2026-07-14T11:21:37.579343Z",
   "watch_window": "hourly",
-  "events": []
+  "events": [
+    {
+      "title": "US NFIB Business Optimism Index",
+      "time_utc": "2026-07-14T10:00:00Z",
+      "priority": "low",
+      "impact": "Low",
+      "why_it_matters": "Sentiment indicator for small business owners.",
+      "watch_for": "SPY",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-07-14T14:05:12.511755Z"
+    },
+    {
+      "title": "US CPI",
+      "time_utc": "2026-07-14T12:30:00Z",
+      "priority": "high",
+      "impact": "Strong",
+      "why_it_matters": "Primary measure of inflation; dictates Fed rate path. Higher than expected is hawkish.",
+      "watch_for": "SPY, QQQ, DXY",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-07-14T14:05:12.511755Z"
+    },
+    {
+      "title": "US Core CPI",
+      "time_utc": "2026-07-14T12:30:00Z",
+      "priority": "high",
+      "impact": "Strong",
+      "why_it_matters": "Excludes volatile food/energy; seen as more reliable trend indicator.",
+      "watch_for": "SPY, QQQ, DXY",
+      "actual": null,
+      "consensus": null,
+      "previous": null,
+      "status": "released",
+      "alert_sent_at": "2026-07-14T14:05:12.511755Z"
+    }
+  ]
 }
