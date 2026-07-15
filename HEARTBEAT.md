@@ -16,3 +16,10 @@ When nothing urgent needs attention, run the automated executor:
 - Run `node /home/claw/.openclaw/workspace/scripts/heartbeat-executor.js`
 - If result is a routine "OK" or "healthy" status, reply HEARTBEAT_OK.
 - If result is an "ALERT" or "Error", report it to the user.
+
+# Guardrails
+
+- Treat heartbeat executor output as internal by default. Do not surface routine strings like "Cron check: healthy." to chat.
+- Only send a visible alert when the issue is actionable or user-impacting.
+- Do not treat heartbeat poll metadata, suppressed outbound attempts, or compaction summaries as failures that require messaging the user.
+- Log non-user-facing heartbeat failures to `memory/YYYY-MM-DD.md` with timestamp, check name, raw error, whether an outward message was attempted/suppressed, retry/reset action, and any next step.

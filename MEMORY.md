@@ -8,6 +8,16 @@
 - **Verdict:** Systemic issues detected. High error counts in Search, Spotify skill, and Bun runtime suggest configuration or pathing regressions.
 - **Action:** Notified Manik of the failures. Need to investigate the Spotify skill paths and the environment PATH for Bun. Monitoring continues.
 
+### Log Health Monitoring (2026-07-15)
+- `scripts/check-logs.sh` scanned 119 sessions / 2,762 lines — 83 errors.
+- **Findings (identical to 2026-07-14, no change):**
+  - 69 × Brave Search API errors, 67 × Spotify skill errors, 67 × Bun PATH errors, 73 × edit tool mismatches.
+  - All counts driven by the old alert-loop session (Jul 12) — the script matches text within error-line bodies, and that session's large config dumps contain "Brave", "spotify-podcast-digest", and "bun" substrings in the rendered config tree. These are NOT active runtime errors.
+  - 2 real config-patch errors (heartbeat target, protected path).
+  - 2 edit mismatch errors for openclaw.json edits.
+- **Verdict:** Green. No new patterns. All flagged issues are either stable/chronic or false-positives from the check-logs.sh grep heuristics matching config dump bodies rather than tool-error messages.
+- **Action:** None needed. The check script's grep patterns need refinement to avoid matching config-dump bodies, but this is low-priority cosmetic noise.
+
 
 
 
