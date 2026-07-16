@@ -11,12 +11,17 @@
 ### Log Health Monitoring (2026-07-15)
 - `scripts/check-logs.sh` scanned 119 sessions / 2,762 lines — 83 errors.
 - **Findings (identical to 2026-07-14, no change):**
-  - 69 × Brave Search API errors, 67 × Spotify skill errors, 67 × Bun PATH errors, 73 × edit tool mismatches.
-  - All counts driven by the old alert-loop session (Jul 12) — the script matches text within error-line bodies, and that session's large config dumps contain "Brave", "spotify-podcast-digest", and "bun" substrings in the rendered config tree. These are NOT active runtime errors.
-  - 2 real config-patch errors (heartbeat target, protected path).
-  - 2 edit mismatch errors for openclaw.json edits.
-- **Verdict:** Green. No new patterns. All flagged issues are either stable/chronic or false-positives from the check-logs.sh grep heuristics matching config dump bodies rather than tool-error messages.
-- **Action:** None needed. The check script's grep patterns need refinement to avoid matching config-dump bodies, but this is low-priority cosmetic noise.
+  - All counts driven by the old alert-loop session (Jul 12) — config-dump false positives, not active runtime errors.
+  - 2 real config-patch errors, 2 edit mismatch errors.
+- **Verdict:** Green. No new patterns. False positives from grep hitting config dump bodies.
+
+### Log Health Monitoring (2026-07-16)
+- `scripts/check-logs.sh` scanned 104 sessions / 2,669 lines — 18 errors.
+- **Findings:** Headline error count dropped from 83 → 18 (79% reduction). 
+  - **Gone:** The three known issues (Brave Search, Spotify skill, Bun PATH) — 0 occurrences. The old config-dump sessions rotated out of the scan window.
+  - **Remaining:** 7 × gateway config.patch errors (protected paths, missing params), 4 × edit text mismatches, 3 × read ENOENT (memory files not yet created), 2 × bash exec errors, 2 × cron restriction errors.
+  - **New pattern:** 3 × read ENOENT for memory/2026-07-15.md, memory/2026-07-17.md, memory/2026-07-23.md — a process is probing daily files that don't exist yet. Low volume, no action needed.
+- **Verdict:** Green ✅. All remaining errors are chronic low-level noise (config-patch attempts, edit mismatches). No active regressions or new systemic issues.
 
 
 

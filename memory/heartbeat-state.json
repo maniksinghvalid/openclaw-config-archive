@@ -1,9 +1,9 @@
 {
   "lastChecks": {
-    "cron": 1784131592,
-    "sync": 1784133294,
-    "qmd": 1784127932,
-    "health": 1784129694
+    "cron": 1784210749,
+    "sync": 1784214368,
+    "qmd": 1784218048,
+    "health": 1784219694
   },
   "rotationOrder": [
     "cron",
@@ -11,5 +11,5 @@
     "qmd",
     "health"
   ],
-  "nextIndex": 2
+  "nextIndex": 0
 }
