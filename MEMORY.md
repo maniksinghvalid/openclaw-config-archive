@@ -15,6 +15,16 @@
   - 2 real config-patch errors, 2 edit mismatch errors.
 - **Verdict:** Green. No new patterns. False positives from grep hitting config dump bodies.
 
+### Log Health Monitoring (2026-07-17)
+- `scripts/check-logs.sh` scanned 154 sessions / 3,179 lines — 20 errors.
+- **Findings:** Flat vs yesterday (18 → 20). No new systemic patterns.
+  - 7× gateway (same config.patch protected-path errors + 2 new "path required" variants).
+  - 5× read ENOENT (memory files probed that don't yet exist — up from 3× yesterday).
+  - 4× edit text mismatches, 2× cron restrictions, 2× bash, 1× exec.
+  - **Still absent:** Brave Search, Spotify skill, Bun PATH errors — fully rotated out.
+  - "path required" (2×) is a new variant of the config.patch pattern where `path` param was omitted.
+- **Verdict:** Green ✅. Chronic low-level noise only. No remediation needed.
+
 ### Log Health Monitoring (2026-07-16)
 - `scripts/check-logs.sh` scanned 104 sessions / 2,669 lines — 18 errors.
 - **Findings:** Headline error count dropped from 83 → 18 (79% reduction). 
