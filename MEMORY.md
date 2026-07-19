@@ -13,6 +13,15 @@
 - **Findings:** 21 errors, same recurring low-severity patterns seen for days (ENOENT on occasional missing daily memory files, gateway config.patch on protected heartbeat paths, edit text mismatch on openclaw.json, cron permission isolation). No new patterns. No high-count categories.
 - **Verdict:** HEALTHY. The 67+ category errors from Jul 15 (Brave Search API, Spotify skill paths, Bun PATH) have fully resolved. Residual 21 errors are all low-frequency, known, and harmless — memory file access attempts that miss a daily file, config.patch on protected fields, and edit mismatches.
 
+### Log Health Monitoring (2026-07-19)
+- `scripts/check-logs.sh` scanned 254 sessions / 4,291 lines — 24 errors.
+- **Findings:** Error count stable at 24 (+1 from yesterday). Two categories:
+  - **10 × bash errors** (NEW spike): All were `rg: command not found` — the npm `ripgrep` package installed earlier was a JS wrapper shim, not the real binary. It failed in clean-shell / subagent contexts where the JS shim couldn't resolve.
+  - **4 × sessions_spawn** false positives: Marked `isError:true` but actually successful accepted spawns (`status: "accepted"`). OpenClaw platform artifact, not actionable.
+  - **10 remaining**: Chronic low-severity — ENOENT memory file reads, gateway config.patch on protected paths, cron permission isolation.
+- **Fix Applied:** Replaced the npm JS wrapper with the real ripgrep 15.1.0 native binary (musl, with PCRE2). Now at `/home/claw/.npm-global/bin/rg`. Will resolve future `rg: command not found` in subagent shells.
+- **Verdict:** GREEN ✅. One bash PATH fix applied. No further remediation needed.
+
 ### Log Health Monitoring (2026-07-15)
 - `scripts/check-logs.sh` scanned 119 sessions / 2,762 lines — 83 errors.
 - **Findings (identical to 2026-07-14, no change):**
