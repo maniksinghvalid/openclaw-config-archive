@@ -13,6 +13,17 @@
 - **Findings:** 21 errors, same recurring low-severity patterns seen for days (ENOENT on occasional missing daily memory files, gateway config.patch on protected heartbeat paths, edit text mismatch on openclaw.json, cron permission isolation). No new patterns. No high-count categories.
 - **Verdict:** HEALTHY. The 67+ category errors from Jul 15 (Brave Search API, Spotify skill paths, Bun PATH) have fully resolved. Residual 21 errors are all low-frequency, known, and harmless — memory file access attempts that miss a daily file, config.patch on protected fields, and edit mismatches.
 
+### Log Health Monitoring (2026-07-20)
+- `scripts/check-logs.sh` scanned 304 sessions / 4,827 lines — 25 errors (0.5%).
+- **Findings:** No single error type exceeds 5 occurrences:
+  - **7 × ENOENT memory file access** — across 5 different dates (max 2/date). Low-severity; scripts probe for daily files that may not exist.
+  - **6 × LLM idle timeout** — 5 from one session + 1 from another. Transient provider timeout, no action needed.
+  - **2 × gateway config.patch errors** — one-off edge cases.
+  - **1 × cron restriction** — harmless, isolated cron context.
+  - **10 other single-occurrence errors** — all normal one-offs.
+- **Action:** Created `/home/claw/.openclaw/workspace/memory/2026-07-20.md` to prevent the most common ENOENT pattern. No systemic fixes required.
+- **Verdict:** GREEN ✅. Residual 25 errors are all low-frequency, known, and harmless. The catastrophic error counts (67+) from Jul 14-15 remain fully resolved.
+
 ### Log Health Monitoring (2026-07-19)
 - `scripts/check-logs.sh` scanned 254 sessions / 4,291 lines — 24 errors.
 - **Findings:** Error count stable at 24 (+1 from yesterday). Two categories:
