@@ -1,12 +1,15 @@
-### Log Health Monitoring (2026-07-21)
-- `scripts/check-logs.sh` scanned 355 sessions / 5,360 lines — 26 errors (~0.5%).
-- **Findings:** No single error type exceeds 5 occurrences. Errors are:
-  - **10 × ENOENT memory file access** — across 6 different dates (max 2/date). Standard probe-for-nonexistent-file pattern.
-  - **4 × sessions_spawn false positives** — `status:"accepted"` marked as errors (known platform artifact).
-  - **3 × gateway config.patch** — edge cases on protected/format fields.
-  - **3 × cron restriction** — harmless isolated cron context.
-  - **6 × other one-off tool errors** — all normal single-occurrence events.
-- **Verdict:** GREEN ✅. No new patterns, no high-count categories. The catastrophic 67+ error counts from Jul 14-15 remain fully resolved.
+### Log Health Monitoring (2026-07-22)
+- `scripts/check-logs.sh` scanned 403 sessions / 5,822 lines — 27 errors (~0.5%).
+- **Findings:**
+  - **10 × bash** — All are legacy `rg: command not found` from Jul 16/19 sessions (pre-ripgrep-fix). Will fully rotate out of 7-day window by Jul 23.
+  - **9 × read** — 7 × ENOENT on daily memory files, 1 × edit text mismatch, 1 × probe to nonexistent future date.
+  - **4 × sessions_spawn** — Known false positives (accepted spawns mislabeled as errors).
+  - **3 × gateway config.patch** — Protected heartbeat paths (chronic, low-severity).
+  - **3 × cron restriction** — Harmless isolated cron context.
+  - **2 × memory_get ENOENT** — Same missing daily file pattern.
+  - **3 × misc one-offs** — Normal single-occurrence events.
+- **Action taken:** Created placeholder daily files for 2026-07-20 and 2026-07-21 to reduce ENOENT probes.
+- **Verdict:** GREEN ✅. All errors are known chronic patterns or legacy pre-fix artifacts. No new systemic issues.
 
 ### Log Health Monitoring (2026-07-14)
 - `scripts/check-logs.sh` scanned 114 sessions / 2,390 lines — 83 errors.
