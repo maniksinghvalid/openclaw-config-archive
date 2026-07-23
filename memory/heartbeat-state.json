@@ -1,15 +1,15 @@
 {
   "lastChecks": {
-    "cron": 1784738099,
-    "sync": 1784732747,
-    "qmd": 1784734497,
-    "health": 1784736397
+    "cron": 1784817299,
+    "sync": 1784820898,
+    "qmd": 1784822916,
+    "health": 1784824499
   },
   "lastAttempts": {
-    "cron": 1784738099,
-    "sync": 1784732747,
-    "qmd": 1784734497,
-    "health": 1784736397
+    "cron": 1784817299,
+    "sync": 1784820898,
+    "qmd": 1784822916,
+    "health": 1784824499
   },
   "lastResults": {
     "cron": "ok",
@@ -23,5 +23,5 @@
     "qmd",
     "health"
   ],
-  "nextIndex": 1
+  "nextIndex": 0
 }

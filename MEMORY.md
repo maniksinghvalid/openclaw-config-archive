@@ -177,3 +177,11 @@
 
 ### May 31, 2026
 - Daily log health remains green.
+
+### Log Health Monitoring (2026-07-23)
+- `scripts/check-logs.sh` scanned 423 sessions / 5,260 lines — 23 errors total.
+- **Findings:** All errors are benign/historical:
+  - 8 × ENOENT for missing daily memory files (normal — no activity on those days)
+  - 1 × cron tool restriction (expected for isolated cron runs)
+  - 1 × MEMORY.md edit mismatch (stale reference from prior run)
+- **Verdict:** Log health is green. No actionable issues.
