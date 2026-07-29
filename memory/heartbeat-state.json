@@ -1,13 +1,13 @@
 {
   "lastChecks": {
     "cron": 1785341374,
-    "sync": 1785335724,
+    "sync": 1785344755,
     "qmd": 1785337577,
     "health": 1785339358
   },
   "lastAttempts": {
     "cron": 1785341374,
-    "sync": 1785335724,
+    "sync": 1785344755,
     "qmd": 1785337577,
     "health": 1785339358
   },
@@ -23,5 +23,5 @@
     "qmd",
     "health"
   ],
-  "nextIndex": 1
+  "nextIndex": 2
 }
