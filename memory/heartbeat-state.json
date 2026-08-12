@@ -3,13 +3,13 @@
     "cron": 1786547187,
     "sync": 1786548921,
     "qmd": 1786552522,
-    "health": 1786545324
+    "health": 1786554414
   },
   "lastAttempts": {
     "cron": 1786547187,
     "sync": 1786548921,
     "qmd": 1786552522,
-    "health": 1786545324
+    "health": 1786554414
   },
   "lastResults": {
     "cron": "ok",
@@ -23,5 +23,5 @@
     "qmd",
     "health"
   ],
-  "nextIndex": 3
+  "nextIndex": 0
 }
