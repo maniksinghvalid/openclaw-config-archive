@@ -1,15 +1,5 @@
 [
   {
-    "runs": 16,
-    "finished": 12,
-    "failed": 4,
-    "totalIn": 35589,
-    "totalOut": 1031,
-    "totalCost": 0,
-    "totalDurationMs": 2112789,
-    "date": "2026-06-20"
-  },
-  {
     "runs": 15,
     "finished": 11,
     "failed": 4,
@@ -590,13 +580,23 @@
     "date": "2026-08-17"
   },
   {
-    "date": "2026-08-18",
-    "runs": 24,
-    "finished": 2,
+    "runs": 25,
+    "finished": 3,
     "failed": 22,
-    "totalIn": 75740,
-    "totalOut": 2972,
+    "totalIn": 111628,
+    "totalOut": 4535,
     "totalCost": 0.00453,
-    "totalDurationMs": 2160607
+    "totalDurationMs": 2380850,
+    "date": "2026-08-18"
+  },
+  {
+    "date": "2026-08-19",
+    "runs": 22,
+    "finished": 2,
+    "failed": 20,
+    "totalIn": 38648,
+    "totalOut": 1928,
+    "totalCost": 0.00046,
+    "totalDurationMs": 1512854
   }
 ]
