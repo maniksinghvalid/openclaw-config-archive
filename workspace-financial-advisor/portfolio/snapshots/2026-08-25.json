@@ -1,0 +1,201 @@
+{
+  "date": "2026-08-25",
+  "fetched_at_utc": "2026-08-25T12:31:08.052658+00:00",
+  "total_value_usd": 14236.45,
+  "total_cost_usd": 16127.4,
+  "pnl_usd": -1890.95,
+  "pnl_pct": -11.73,
+  "fx_cadusd": 0.7215,
+  "fx_estimated": false,
+  "missing_symbols": [],
+  "buckets": {
+    "bonds": {
+      "value_usd": 489.9,
+      "pct": 3.44,
+      "target_pct": 10,
+      "drift_pct": -6.56
+    },
+    "commodities": {
+      "value_usd": 1312.05,
+      "pct": 9.22,
+      "target_pct": 12,
+      "drift_pct": -2.78
+    },
+    "core_equity": {
+      "value_usd": 6534.92,
+      "pct": 45.9,
+      "target_pct": 35,
+      "drift_pct": 10.9
+    },
+    "crypto": {
+      "value_usd": 1696.32,
+      "pct": 11.92,
+      "target_pct": 8,
+      "drift_pct": 3.92
+    },
+    "dividend": {
+      "value_usd": 1895.1,
+      "pct": 13.31,
+      "target_pct": 30,
+      "drift_pct": -16.69
+    },
+    "speculative": {
+      "value_usd": 2308.16,
+      "pct": 16.21,
+      "target_pct": 5,
+      "drift_pct": 11.21
+    }
+  },
+  "holdings": [
+    {
+      "symbol": "DIVO",
+      "quantity": 51,
+      "currency": "USD",
+      "last": 48.68,
+      "value_usd": 2482.68,
+      "cost_usd": 2092.02,
+      "pnl_usd": 390.66,
+      "pnl_pct": 18.67
+    },
+    {
+      "symbol": "O",
+      "quantity": 30,
+      "currency": "USD",
+      "last": 63.17,
+      "value_usd": 1895.1,
+      "cost_usd": 1677.9,
+      "pnl_usd": 217.2,
+      "pnl_pct": 12.94
+    },
+    {
+      "symbol": "IBIT",
+      "quantity": 38,
+      "currency": "USD",
+      "last": 44.64,
+      "value_usd": 1696.32,
+      "cost_usd": 2156.12,
+      "pnl_usd": -459.8,
+      "pnl_pct": -21.33
+    },
+    {
+      "symbol": "XEQT.TO",
+      "quantity": 50,
+      "currency": "CAD",
+      "last": 45.67,
+      "value_usd": 1647.55,
+      "cost_usd": 1338.38,
+      "pnl_usd": 309.16,
+      "pnl_pct": 23.1
+    },
+    {
+      "symbol": "IAU",
+      "quantity": 15,
+      "currency": "USD",
+      "last": 87.47,
+      "value_usd": 1312.05,
+      "cost_usd": 1171.5,
+      "pnl_usd": 140.55,
+      "pnl_pct": 12.0
+    },
+    {
+      "symbol": "VDY.TO",
+      "quantity": 20,
+      "currency": "CAD",
+      "last": 76.15,
+      "value_usd": 1098.84,
+      "cost_usd": 840.4,
+      "pnl_usd": 258.44,
+      "pnl_pct": 30.75
+    },
+    {
+      "symbol": "NIO",
+      "quantity": 200,
+      "currency": "USD",
+      "last": 4.36,
+      "value_usd": 872.0,
+      "cost_usd": 2108.0,
+      "pnl_usd": -1236.0,
+      "pnl_pct": -58.63
+    },
+    {
+      "symbol": "SCHF",
+      "quantity": 30,
+      "currency": "USD",
+      "last": 28.32,
+      "value_usd": 849.6,
+      "cost_usd": 709.8,
+      "pnl_usd": 139.8,
+      "pnl_pct": 19.7
+    },
+    {
+      "symbol": "MARA",
+      "quantity": 50,
+      "currency": "USD",
+      "last": 11.18,
+      "value_usd": 559.0,
+      "cost_usd": 1072.5,
+      "pnl_usd": -513.5,
+      "pnl_pct": -47.88
+    },
+    {
+      "symbol": "ZAG.TO",
+      "quantity": 50,
+      "currency": "CAD",
+      "last": 13.58,
+      "value_usd": 489.9,
+      "cost_usd": 505.41,
+      "pnl_usd": -15.51,
+      "pnl_pct": -3.07
+    },
+    {
+      "symbol": "XIC.TO",
+      "quantity": 10,
+      "currency": "CAD",
+      "last": 58.67,
+      "value_usd": 423.3,
+      "cost_usd": 301.66,
+      "pnl_usd": 121.64,
+      "pnl_pct": 40.33
+    },
+    {
+      "symbol": "CLOV",
+      "quantity": 100,
+      "currency": "USD",
+      "last": 4.11,
+      "value_usd": 411.0,
+      "cost_usd": 1119.0,
+      "pnl_usd": -708.0,
+      "pnl_pct": -63.27
+    },
+    {
+      "symbol": "NVDY",
+      "quantity": 26,
+      "currency": "USD",
+      "last": 12.16,
+      "value_usd": 316.16,
+      "cost_usd": 413.92,
+      "pnl_usd": -97.76,
+      "pnl_pct": -23.62
+    },
+    {
+      "symbol": "SPCE",
+      "quantity": 50,
+      "currency": "USD",
+      "last": 3.0,
+      "value_usd": 150.0,
+      "cost_usd": 595.0,
+      "pnl_usd": -445.0,
+      "pnl_pct": -74.79
+    },
+    {
+      "symbol": "XEQT.TO",
+      "quantity": 1,
+      "currency": "CAD",
+      "last": 45.67,
+      "value_usd": 32.95,
+      "cost_usd": 25.79,
+      "pnl_usd": 7.16,
+      "pnl_pct": 27.78
+    }
+  ]
+}

@@ -32,8 +32,15 @@ USER_AGENTS = [
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
 ]
 RETRY_STATUSES = {403, 429, 500, 502, 503}
+# 404 = endpoint returned no content (old.reddit.com started 404ing all RSS in
+# late Aug 2026). When one base 404s we fall through to the next working host in
+# BASE_HOSTS, so reports don't come back empty.
+FAILOVER_STATUSES = RETRY_STATUSES | {404}
 BACKOFF_SECONDS = [2, 5, 10]  # len == number of retries after the first attempt
-BASE = "https://old.reddit.com"
+# old.reddit.com 404s anonymous RSS since ~2026-08-25; www.reddit.com serves the
+# same Atom feeds and currently returns 200. Try old first, then www as fallback.
+BASE_HOSTS = ["https://old.reddit.com", "https://www.reddit.com"]
+BASE = BASE_HOSTS[0]
 NS = {"a": "http://www.w3.org/2005/Atom"}
 
 
@@ -41,41 +48,73 @@ def fetch_feed(url, params=None):
     if params:
         url = f"{url}?{urllib.parse.urlencode(params)}"
 
+    # Crash-free host failover: if a host 404s (or 403/429/5xx) we rewrite the
+    # URL to the next base in BASE_HOSTS and retry, so a single dead host
+    # (e.g. old.reddit.com 404ing all RSS) doesn't produce an empty report.
     attempts = len(BACKOFF_SECONDS) + 1
     last_code = None
     body = None
-    for i in range(attempts):
-        ua = USER_AGENTS[i % len(USER_AGENTS)]
-        req = urllib.request.Request(
-            url,
-            headers={"User-Agent": ua, "Accept": "application/atom+xml,application/xml"},
-        )
-        try:
-            with urllib.request.urlopen(req, timeout=15) as resp:
-                body = resp.read()
-            break
-        except urllib.error.HTTPError as e:
-            last_code = e.code
-            if e.code in RETRY_STATUSES and i < attempts - 1:
-                time.sleep(BACKOFF_SECONDS[i])
-                continue
-            print(f"HTTP {e.code} fetching {url}", file=sys.stderr)
-            sys.exit(1)
-        except Exception as e:
-            if i < attempts - 1:
-                time.sleep(BACKOFF_SECONDS[i])
-                continue
-            print(f"Request failed: {e}", file=sys.stderr)
-            sys.exit(1)
+    last_url = url
+
+    for host_idx, base in enumerate(BASE_HOSTS):
+        # Rewrite host prefix for the current base being tried.
+        if host_idx == 0:
+            pass
+        else:
+            prev_base = BASE_HOSTS[host_idx - 1]
+            if url.startswith(prev_base) or last_url.startswith(prev_base):
+                url = base + url[len(prev_base):]
+            elif url.startswith(base):
+                pass  # already on this host
+
+        for i in range(attempts):
+            ua = USER_AGENTS[i % len(USER_AGENTS)]
+            req = urllib.request.Request(
+                url,
+                headers={"User-Agent": ua, "Accept": "application/atom+xml,application/xml"},
+            )
+            try:
+                with urllib.request.urlopen(req, timeout=15) as resp:
+                    body = resp.read()
+                # Got a body — parse and return on success.
+                try:
+                    return ET.fromstring(body)
+                except ET.ParseError:
+                    print(f"Invalid XML response from {url}", file=sys.stderr)
+                    print(body[:500].decode("utf-8", errors="replace"), file=sys.stderr)
+                    sys.exit(1)
+            except urllib.error.HTTPError as e:
+                last_code = e.code
+                last_url = url
+                if e.code in FAILOVER_STATUSES and host_idx < len(BASE_HOSTS) - 1:
+                    # Move to the next host entirely.
+                    time.sleep(1)
+                    break
+                if e.code in RETRY_STATUSES and i < attempts - 1:
+                    time.sleep(BACKOFF_SECONDS[i])
+                    continue
+                print(f"HTTP {e.code} fetching {url}", file=sys.stderr)
+                sys.exit(1)
+            except Exception as e:
+                last_url = url
+                if i < attempts - 1:
+                    time.sleep(BACKOFF_SECONDS[i])
+                    continue
+                if host_idx < len(BASE_HOSTS) - 1:
+                    # Non-HTTP error (timeout etc.) — try next host.
+                    time.sleep(1)
+                    break
+                print(f"Request failed: {e}", file=sys.stderr)
+                sys.exit(1)
 
     if body is None:
-        print(f"HTTP {last_code} fetching {url}", file=sys.stderr)
+        print(f"HTTP {last_code} fetching {last_url}", file=sys.stderr)
         sys.exit(1)
 
     try:
         return ET.fromstring(body)
     except ET.ParseError:
-        print(f"Invalid XML response from {url}", file=sys.stderr)
+        print(f"Invalid XML response from {last_url}", file=sys.stderr)
         print(body[:500].decode("utf-8", errors="replace"), file=sys.stderr)
         sys.exit(1)
 
