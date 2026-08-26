@@ -1,86 +1,163 @@
-📊 PRE-MARKET REPORT — Manik's Portfolio
-🗓️ Tuesday, August 25, 2026 | 12:30 UTC / 5:30 AM PT
+📊 MANIK'S DAILY PORTFOLIO REPORT
+🗓️ Wednesday, August 26, 2026 | Pre-Market
+======================================
 
-⚠️ HEAVY CATALYST WEEK — Hedge Before the Storm
+🏠 PORTFOLIO SNAPSHOT
+• Total Value: ~$14,324 USD
+• Overall P&L: -$1,802 (-11.18% vs cost basis)
+• FX: CADUSD = 0.7213
 
-━━━━━━━━━━━━━━━━━━━━
-🟢 MARKET REGIME: SIDEWAYS, RISK-CALMED, PRE-CATALYST
-━━━━━━━━━━━━━━━━━━━━
+⚠️ STRATEGIC NOTE: Portfolio is ~11% underwater. Three speculative holdings (SPCE, CLOV, MARA) are deeply red. Tactical hedging is a priority this week, not just income generation.
 
-• ^VIX 15.79 (▼0.3%) — subdued, no fear priced in
-• SPY $763.47 (flat, ▼0.02%), QQQ $706.32 (flat, +0.01%)
-• Bitcoin $78,803 (▼0.2%), CAD/USD 0.7215
-• Futures recovering after Monday's semiconductor-led selloff (S&P and Nasdaq closed lower Monday on AI-valuation concerns)
-• Vibe: Neutral-to-cautiously-greedy. Calm tape but a "waiting room" feel ahead of a compressed three-market-moving-signal day tomorrow.
+━━━━━━━━━━━━━━━━━━
+🌐 MARKET REGIME SCAN
 
-THE SINGLE BIGGEST RISK: Everything hits TOMORROW (Wed Aug 26):
-• 📌 July Core PCE inflation — 8:30 AM ET (Fed's preferred gauge; sets September rate-decision odds)
-• 📌 Q2 GDP revision — 8:30 AM ET
-• 📌 Nvidia (NVDA) earnings — after close (guides ~$91B revenue; the AI-trade linchpin)
-• 📌 Friday: New Fed Chair Kevin Warsh's Jackson Hole keynote + new Canada/Iran trade measures looming
+🟢 SENTIMENT: GREED (Bullish)
+• BofA Global Fund Manager Survey (Aug 18): third most bullish reading since 2022. Fund managers are heavily long equities.
+• This is a contrarian warning flag. Extreme bullishness at these levels historically precedes pullbacks.
 
-With the entire AI/tech complex riding on NVDA + a dual inflation/GDP print + a first Jackson Hole as Fed Chair, expect a REAL volatility regime shift within 48 hours. VIX at 15.8 is extremely cheap insurance right now — this is the setup to hedge into.
+📈 INDICES (last close)
+• SPY: $765.91 (+0.13%)
+• QQQ: $710.72 (+0.19%)
+• ^VIX: 15.64 (+1.23%) — still LOW and calm
 
-━━━━━━━━━━━━━━━━━━━━
-💼 PORTFOLIO SNAPSHOT
-━━━━━━━━━━━━━━━━━━━━
-Total value: ~$14,236 USD | P&L: ▼$1,891 (▼11.73%)
-No holdings moved >5% today — no alert triggers.
+🔍 READ: Market grinding higher with zero fear. VIX at 15.6 means protection is CHEAP right now. This is the window to buy hedges BEFORE a dip, not after.
 
-🔴 STRESS SPOTS (deep underwater — know your exits):
-• SPCE $3.00 vs cost $11.90 — ▼75% (50 sh). Broken story; earnings already passed (Aug 5).
-• CLOV $4.11 vs cost $11.19 — ▼63% (100 sh). Q2 earnings passed Aug 5, no rescue.
-• NIO $4.36 vs $10.54 — ▼59% (200 sh). Confirmed bearish below all MAs; still bleeding lower.
-• MARA $11.18 vs $21.45 — ▼48% (50 sh). Hold-rated, RSI 46, under 50-day.
+🎯 OPENING BIAS: Slightly positive, testing highs. We are at/near resistance. No major catalyst today to break out — likely a consolidation day.
 
-🟢 BRIGHT SPOTS (income & ballast doing their job):
-• IAU $87.47 (gold, +12% vs cost) — your best performer
-• O $63.17 (+13% vs cost, dividend payer)
-• XEQT.TO $45.67 (+23%), XIC.TO $58.67 (+40%), DIVO $48.68 — core/income solid
-• ZAG.TO $13.58 (+0.48% today, bonds firming)
+━━━━━━━━━━━━━━━━━━
+💰 PRICE ACTION BY HOLDING
 
-Takeaway: your defensive/core sleeve is carrying the book; the speculative sleeve (SPCE/CLOV/NIO/MARA) is the drag. Fundamentals unchanged for these — they need catalysts, not more capital.
+✅ No holding moved more than 5% intraday. No 5% alert triggered.
 
-━━━━━━━━━━━━━━━━━━━━
-🚨 DYNAMIC HEDGING & OPPORTUNITY SECTION
-━━━━━━━━━━━━━━━━━━━━
-Regime call: SIDEWAYS-TO-BEARISH SKEW for the next 48h. Today is a LOW-RISK day; the risk is TOMORROW. The play is to buy cheap downside / generate income into elevated IV, not to chase.
+📌 Individual movers of note:
+• IBIT +0.61% — BTC holding up, $78,286
+• VDY.TO +0.59% — Canadian dividend strength
+• XIC.TO +0.73% — TSX leading
+• XEQT.TO +0.48% — global equity firm
+• ZAG.TO +0.44% — bonds firm (yields easing)
+• MARA +0.25% — consolidating after big ripper
+• IAU +0.30% — gold steady at $87.76
+• SPCE flat at $2.97 — dead money, awaiting Oct flight test catalyst
+• CLOV -0.48%, NVDY -0.48% — mild weakness
+• NIO -0.22% — quiet pre-earnings drift
 
-🏠 PORTFOLIO-LEVEL HEDGES (medium risk appetite, defined risk):
-1. SPY PUT SPREAD (debit) — buy 15-Sep expiry put at ~$745, sell ~$750 put, for roughly $1.20–1.80/contract (est). Max loss defined (~$180), max gain if SPY gaps to 735 area. Cheap tail-risk premium ahead of PCE+NVDA+Jackson Hole.
-2. QQQ PROTECTIVE PUT (single leg) — 15-Sep $690 put on 1 contract. Hard floor if NVDA disappoints and tech gaps down. Cost ~$300–450 (est); caps worst-case tech drawdown.
-3. If you'd rather NOT spend premium: SHIFT 3–5% of book to IAU (gold) / ZAG.TO (bonds) as a free hedge — both are firmer names right now.
+━━━━━━━━━━━━━━━━━━
+🗞️ NEWS & SENTIMENT HIGHLIGHTS
 
-💡 TICKER-SPECIFIC STRATEGIES:
-• NIO (200 sh, deep red): SELL a covered call — 18-Sep $5 strike. Collect premium to reduce cost basis on a name still in a downtrend. If called away, converts a losing long into a small win. If not, you keep premium + shares.
-• MARA (50 sh): Bitcoin is stagnant near $78.8K. Sell a 18-Sep $12 covered call — with RSI 46 and no momentum, IV is your friend. Alternatively a cash-secured put at $10 (if you want to add, not advised now).
-• IBIT (38 sh, -21%): This is your crypto hedge sleeve. Hold as-is; consider converting to a covered call (18-Sep $50) to income-ize while BTC chops sideways.
-• SPCE (50 sh, -75%): No options income worth harvesting at $3. Best move is a defined-risk exit plan — sell into any >5% squeeze, or cut to a tiny "lottery" size of 10-15 shares. Do NOT average down.
-• NVDY (26 sh, -24%): Do nothing — this IS the income vehicle (option-income ETF); let it drip.
+🔹 NIO (NYSE): BULLISH FUNDAMENTALS
+• July deliveries: 35,934 (+71% YoY). YTD 227,057 (+68% YoY). Cumulative 1.22M.
+• Q1 2026: 83,465 deliveries (+98.3% YoY) across NIO/ONVO/FIREFLY brands. ES8 hit 100k deliveries in 215 days; ES9 launching.
+• Note: stock at $4.45 vs buy price $10.54. Fundamentals improving but stock still crushed. Watch for Q3 earnings date (portfolio flagged Q4 profit expected).
 
-❌ AVOID: adding to CLOV or SPCE for the "cheap" bounce. Neither has a catalyst between now and their next earnings cycles far out.
+🔹 MARA (NASDAQ): VOLATILE BUT RECOVERING
+• Ripped from $8.96 (Aug 18) to $11.83 (Aug 25) — up 32% in a week on BTC + HPC pivot.
+• Q2 report (Aug 6): 35,577 BTC held (~$2.1B). Net loss $611M, revenue down 27% YoY. Still struggling on fundamentals.
+• Cantor Fitzgerald: target trimmed $14 → $12, keeps Overweight.
+• Stock still 45% below your $21.45 cost basis.
 
-━━━━━━━━━━━━━━━━━━━━
+🔹 SPCE (NYSE): QUIET, WAITING ON CATALYSTS
+• Q2 results (Aug 12): $750k spaceflight expeditions oversubscribed and booked out ahead of schedule.
+• Next catalyst: Flight Test Phase with Spaceship Captive Carry Flight (October 2026).
+• Stock flat at $2.97 — 75% below your $11.90 basis. Long-shot recovery play.
+
+🔹 CLOV (NASDAQ): QUIET
+• No major news. Stock $4.13 vs $11.19 basis. Healthcare plans sector stable.
+
+━━━━━━━━━━━━━━━━━━
+🚀 TACTICAL HEDGING & OPPORTUNITY SECTION
+
+MARKET CALL: SIDEWAYS-TO-BULLISH with rising complacency risk.
+
+VIX AT 15.6 = CHEAP INSURANCE. With FOMC Sept 15-16 approaching (~3 weeks) and sentiment at extreme bullishness, this is a textbook window to add downside protection at a discount.
+
+📉 PORTFOLIO-LEVEL HEDGES (Priority)
+
+1️⃣ SPY PUT SPREAD (best value)
+• Buy SPY 745P / Sell SPY 735P, October 16 expiry
+• Cost ~$2.50-3.00 per share (~$250-300 per contract)
+• Protects against a 3% SPY pullback (−$765 → $745)
+• Rationale: VIX low, premium cheap, FOMC + Sept OPEX (9/18) create a real risk window
+
+2️⃣ QQQ PUT SPREAD (optional, if wanting tech-specific protection)
+• QQQ is at $710. Buy 685P / Sell 675P, October 16 expiry
+• ~2.5-3.5% protection from current levels
+
+3️⃣ BITCOIN DRAWDOWN HEDGE via IBIT
+• BTC at $78,286, holding 38 shares of IBIT ($44.72)
+• Consider IBIT 40P for Nov 2026 — costs ~$1.00-1.50/share
+• Rationale: BTC has been rangebound; a macro shock could take it to $70k fast
+
+📈 TICKER-SPECIFIC STRATEGIES
+
+🔸 NIO ($4.45) — INCOME + UPSIDE
+• Covered Call: Sell NIO $5.00 Call, Sept 18 expiry. Premium ~$0.05-0.08.
+• Cash-Secured Put: Sell NIO $4.00 Put, Oct 16 expiry. Adds income while waiting for deliveries momentum to lift the stock.
+• Rationale: Fundamentals improving (71% delivery growth) but stock lagging. Sell time premium while you wait.
+
+🔸 MARA ($11.83) — LOCK IN THE BOUNCE
+• Sell MARA $13.00 Covered Call, Sept 18 expiry. Premium ~$0.30-0.50.
+• Rationale: Stock ripped 32% off the low. If it runs to $13 you cap gains on 50 shares, but bank ~$20-25 premium per contract. If it stalls, premium adds income. You already hold at $21.45 basis — every bit of income helps.
+
+🔸 SPCE ($2.97) — HOLD, DON'T ADD
+• Do NOT average down. Do NOT sell calls below $3 (too close).
+• Rationale: No catalyst until October flight tests. Position is a write-off candidate (75% loss). Let it ride or tax-loss harvest later this year.
+
+🔸 IBIT ($44.72) — INCOME + POSITION MANAGEMENT
+• Sell IBIT $48 Call, Oct 16 expiry. Premium ~$0.40-0.60.
+• Rationale: BTC near resistance around $78-79k. Collect premium, give yourself room to $48 (7% above current) before assignment.
+
+━━━━━━━━━━━━━━━━━━
 📅 UPCOMING CATALYSTS (next 14 days)
-━━━━━━━━━━━━━━━━━━━━
-• 🔥 TOMORROW Wed Aug 26 (8:30 ET): July Core PCE + Q2 GDP — biggest macro of the week
-• 🔥 TOMORROW Wed Aug 26 (after close): NVDA earnings — AI-trade linchpin
-• Fri Aug 28: Jackson Hole — Fed Chair Warsh keynote (first as Chair)
-• Week ahead: new Canada/Iran trade measures (weighing on sentiment)
-• NIO: Q4 earnings expected later in 2026 (date TBA, per portfolio) — no near-term catalyst
-• MARA / CLOV / SPCE / O / Realty Income: prior earnings (Jul–Aug 5) already behind us
 
-NOTE: upcoming_events.json shows all dated events (O pay 7/15, MARA 7/28, CLOV 8/4, SPCE/O 8/5) have passed — the live "happening now" catalysts above are this week's macro stack, which dominates.
+From portfolio events + macro calendar:
 
-━━━━━━━━━━━━━━━━━━━━
-✅ ACTION ITEMS — TODAY (prioritized)
-━━━━━━━━━━━━━━━━━━━━
-1. 🛡️ BUY THE CHEAP HEDGE NOW (before IV spikes tomorrow): Put a SPY 15-Sep put spread (~$745/$750) or a QQQ 15-Sep $690 protective put on today. VIX 15.8 = cheapest insurance you'll get all week. Cost of admission is defined; the downside gap risk from PCE+NVDA tomorrow is not.
-2. 💰 INCOME-IZE THE DEAD-WEIGHT: Sell an 18-Sep $5 covered call on NIO and an 18-Sep $12 covered call on MARA. These reduce cost basis on your two worst speculative drags with defined risk.
-3. 📉 SET HARD EXITS (no emotion): Trim SPCE to lottery-size (10–15 sh) on any strength. Do NOT add to CLOV/SPCE. Keep IAU/ZAG.TO/XEQT as your ballast.
+🔹 MACRO
+• Fri Aug 28: Jackson Hole Economic Symposium continues (Fed Chair Warsh keynote Aug 28) — potential volatility
+• Mon Aug 31: End of month — possible positioning flows / rebalancing
+• Wed Sept 2: ISM Manufacturing PMI (monthly)
+• Fri Sept 4: Nonfarm Payrolls (monthly) — big one
+• Fri Sept 11: CPI inflation (monthly) — watch for confirmation of easing
 
-⚠️ RISK DISCLOSURE: All options ideas are defined-risk suggestions with estimates only — premium/IV quotes must be confirmed at order time. Position sizing per your medium risk profile. Nothing here is executed without your explicit confirmation. NVDA + PCE + Jackson Hole in 48h = elevated gap risk; the hedge above is your friend, not a bet.
+🔹 EARNINGS / EX-DIV / DIVIDEND (within 14 days)
+• None of your holdings report within the next 14 days per upcoming_events.json.
+• Next big single-name catalyst: MARA/C SPCE earnings passed; look for NIO Q2 2026 earnings (usually mid-September — likely within 3-4 weeks).
 
-Sources: fetch_quotes.py (live), snapshot_portfolio.py, thestreet.com, finance.yahoo.com, money.usnews.com, financecalendar.com, stocktitan.net, cryptonomist.ch.
+🔹 OPTIONS EXPIRY
+• Monthly OPEX: Friday Sept 18 (third Friday)
+• Weekly OPEX: Fridays 8/28, 9/4, 9/11
 
-— FinAdvisor 📊
+🔹 FED
+• Sept 15-16 FOMC Meeting (rate decision Sept 16 + dot plot). Fed Chair = Kevin Warsh (hawkish bias). This is THE defining macro event of the next month.
+
+━━━━━━━━━━━━━━━━━━
+✅ ACTION ITEMS — TODAY (Aug 26)
+
+1️⃣ BUY SPY PUT SPREAD (745/735, October 16)
+• Cost ~$250-300 per contract
+• Rationale: VIX at 15.6 = insurance is cheap. FOMC on Sept 16, record bullish sentiment, market at resistance. $250 now could save you $1,500+ if we get a 5% drawdown. This is the single highest-value hedge in the portfolio today.
+
+2️⃣ SELL NIO $5.00 COVERED CALL (Sept 18)
+• Collect ~$0.05-0.08/share = $10-16 income on 200 shares
+• Rationale: NIO flat, deliveries growing, low IV. Premium is modest but non-trivial. Keeps your $4.45 cost basis' upside to $5.00 open.
+• Alternative: sell NIO $4.00 cash-secured put (Oct 16) for income.
+
+3️⃣ SELL MARA $13.00 COVERED CALL (Sept 18)
+• Collect ~$0.30-0.50/share = $15-25 income on 50 shares
+• Rationale: Lock in a slice of the 32% bounce. If MARA reclaims $13 by Sept 18, you've capped $58 gains on 50 shares but banked the premium. If it fades, income.
+
+📌 HOLD UNCHANGED: SPCE, CLOV, O, DIVO, VDY.TO, XEQT.TO, ZAG.TO, XIC.TO, SCHF, IAU
+📌 DO NOT: Add to SPCE or CLOV (no catalyst, deep underwater, no income generation)
+
+━━━━━━━━━━━━━━━━━━
+⚠️ RISK WARNINGS
+
+• Portfolio is heavily tilted to speculative, high-beta holdings (SPCE, CLOV, MARA, NIO = 22% of value). A 5-10% broad market pullback hits these 2-3x harder than SPY.
+• Sentiment at extreme bullishness (BofA survey) + low VIX = rising crash-risk asymmetry. The market is pricing in zero downside.
+• FOMC Sept 16 with a hawkish Fed Chair = binary event risk in 3 weeks.
+• All options have defined risk. Never run naked short calls. Position sizing is per your medium risk profile.
+• Tax note: SPCE and CLOV losses could be harvested for tax purposes later in the year if needed. Keep records.
+
+📚 Sources: fetch_quotes.py (live), NIO IR (delivery data), stockstotrade.com (MARA), investors.virgingalactic.com (SPCE), federalreserve.gov (FOMC calendar), fedratecalc.com (economic calendar).
+
+Generated: Wed Aug 26, 2026 12:30 UTC | Pre-market report
